@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Puppeteer and Google Lighthouse/PageSpeed Score components",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jmg",
+  "repository": "https://github.com/JackGeraghty/Energy-Consumption-of-Websites.git",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^7.0.0",
+    "puppeteer-core": "^5.5.0"
+  }
+}
