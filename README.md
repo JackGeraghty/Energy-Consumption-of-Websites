@@ -1,0 +1,7 @@
+# Analysing the Energy Consumption of Websites for Carbon Footprint Reduction
+
+A project being completed as part of my undergraduate degree at University College Dublin, Ireland. The project aims to investigate how much energy is consumed when loading a web page from the clients perspective. The experiment is split into two main components, Papillon and Puppeteer/Lighthouse/PageSpeed. 
+
+Papillon(Profiling and Auditing of Power Information in Large and Local Organisational Networks) is a technology developed by Beeyon, a company which specializes in data centre energy management and performance technology. Papillon is a total software solution to data centre energy and productivity measurement and management. It replaces physical metering with a technique that uses very accurate, patented server mathematical power modelling. Each server type has its own unique model which has an accuracy of over 96%.
+
+Puppeteer is a Node Library which provides a high-level API to control Google Chrome or Chromium through the DevTools Protocol. Puppeteer enables programmatic access to the information available in the Developer Tools made available in Chromium based web browsers. Through Puppeteer information such as the number of HTTP Requests and the time to load the page can be retrieved. These metrics can then be used to compliment other metrics taken from Papillon.
