@@ -1,7 +1,10 @@
 import {loadFile, writeToFle} from "./util/fileUtils";
-import {PAGESPEED, URLS_PATH} from "./constants";
-import {PageSpeedStrategy, queryPageSpeed, runPageSpeed} from "./pagespeed";
-import {UrlData} from "./model/urlData";
+import {setBrowser, setURLsPath, URLS_PATH} from "./util/constants";
+import {Puppeteer, runPuppeteer} from "./puppeteer";
+import {postProcessPuppeteer} from "./processing/postProcessing";
+import {preprocessDesktopUrls} from "./processing/preProcessing";
+
+const yargs = require("yargs");
 
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
@@ -12,40 +15,37 @@ console.log("     __   ________________ _       __   __\n" +
 
 console.log("Initializing experiment environment");
 
+initialize();
+
 main();
 
-function main():void {
+async function main(): Promise<void>{
     // Load in webpage urls
     let urls = JSON.parse(loadFile(URLS_PATH));
     if (urls.length === 0) {
         console.error("No urls to perform experiment with, exiting");
+        process.exit(1);
     }
     console.log(urls);
-    let urlData = preprocessUrls(urls);
+    let urlData = preprocessDesktopUrls(urls);
 
-    runPageSpeed(urlData, PageSpeedStrategy.DESKTOP).then(() => console.log("Finished running pagespeed for DESKTOP"));
-    runPageSpeed(urlData, PageSpeedStrategy.MOBILE).then(() => console.log("Finished running pagespeed for MOBILE"));
+    // runPageSpeed(urlData, "DESKTOP").then(() => console.log("Finished running pagespeed for DESKTOP and MOBILE"));
 
-    runPuppeteer();
-}
-
-function preprocessUrls(urls: Array<string>): Array<UrlData> {
-    let urlData:Array<UrlData> = [];
-    for (let i = 0; i < urls.length; i++) {
-        let url:string = urls[i].replace("/\\r?\\n|\\r/g", "");
-        let name = url.substring("https://".length).split(".")[0];
-        urlData.push(new UrlData(url, name));
+    for (let url of urlData) {
+        console.log("Running puppeteer for " + url.webpageName);
+        let result = await runPuppeteer(url);
+        let postProcessResult = await postProcessPuppeteer(result);
+        writeToFle(Puppeteer.concat(url.filename).concat("/"), url.webpageName.concat("_raw.json"), result);
+        writeToFle(Puppeteer.concat(url.filename).concat("/"), url.webpageName.concat("_agg.json"), postProcessResult);
     }
-    return urlData;
 }
 
-async function runExperiment(function (urls,)) {
-
+function initialize() {
+    let args = yargs.argv;
+    if (!args.browserPath) {
+        console.warn("No browser path specified, quitting");
+        process.exit(1);
+    }
+    setBrowser(args.browserPath);
+    if (args.URLS) setURLsPath(args.URLS);
 }
-
-// pagespeed(urls).then((res) => {
-//     for (let i = 0; i < res.length; i++) {
-//         console.log(res[i]);
-//     }
-// });
-

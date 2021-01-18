@@ -1,5 +1,3 @@
-import {PAGESPEED, PUPPETEER} from "../constants";
-
 const fs = require('fs');
 
 export enum APIType {
@@ -31,9 +29,9 @@ export function loadFile(path: string): string {
     }).toString();
 }
 
-export async function writeToFle(path: string, fileName:string,  data:any) {
+export function writeToFle(path: string, fileName:string,  data:any): void {
     fs.mkdirSync(path,{recursive: true});
-    fs.writeFile(path.concat(fileName), JSON.stringify(data), {encoding: 'utf-8', flag: 'w'}, function (err: Error){
+    fs.writeFile(path.concat(fileName), JSON.stringify(data, null, 2), {encoding: 'utf-8', flag: 'w'}, function (err: Error){
         if (err) throw err;
         console.log("Finished writing data to " + path.concat(fileName));
     });

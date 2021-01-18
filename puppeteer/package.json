@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "lighthouse": "^7.0.0",
-    "puppeteer-core": "^5.5.0"
+    "puppeteer-core": "^5.5.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.2"
   }
 }
