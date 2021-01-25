@@ -1,1 +1,1 @@
-["https://ucdsu.ie", "https://github.com"]
+["https://www.ucd.ie/"]

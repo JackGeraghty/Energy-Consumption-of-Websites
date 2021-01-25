@@ -1,0 +1,3 @@
+interface AggregatedExperimentResult {
+    numSamples: number;
+}

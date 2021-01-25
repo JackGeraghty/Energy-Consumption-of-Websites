@@ -1,13 +1,13 @@
 import {UrlData} from "./urlData";
+import {ExperimentResult} from "./interfaces/experimentResult";
 
-export class PuppeteerResult {
+export class PuppeteerResult implements ExperimentResult {
     urlData: UrlData;
     numTransferred: number;
     encodedBodySize: number;
     decodedBodySize: number;
     transferSize: number;
     resourcesList: Array<string>;
-
 
     constructor(urlData: UrlData, numTransferred: number, encodedBodySize: number, decodedBodySize: number, transferSize: number, resourcesList: Array<string>) {
         this.urlData = urlData;

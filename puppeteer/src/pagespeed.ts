@@ -1,40 +1,52 @@
 import {UrlData} from "./model/urlData";
-import {writeToFle} from "./util/fileUtils";
+import {PageSpeedResult} from "./model/pageSpeedResult";
+import {ExperimentProcess} from "./model/interfaces/experimentProcess";
+import {NUM_PUPPETEER_ITERATIONS} from "./util/constants";
 
-let PAGESPEED = "results/pagespeed/";
+const request = require('request-promise-native');
 
-export async function runPageSpeed(urlData: Array<UrlData>, strategy: string) {
-    if (strategy !== "DESKTOP" && strategy !== "MOBILE") {
-        throw new Error("Invalid strategy passed");
+export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
+
+    async runExperiment(urlData: UrlData, params: any): Promise<Array<PageSpeedResult>> {
+        if (params.strategy !== "DESKTOP" && params.strategy !== "MOBILE") {
+            throw new Error("Invalid strategy passed");
+        }
+        let results: Array<PageSpeedResult> = [];
+
+        for (let i = 0; i < NUM_PUPPETEER_ITERATIONS; i++) {
+            console.log(`PageSpeed Iteration: ${i}`);
+            let result: PageSpeedResult = await this.queryPageSpeed(urlData, params.strategy, params.APIKey);
+            results.push(result);
+        }
+        console.log();
+        // console.log(JSON.stringify(pagespeedResult, null, 2));
+        return results;
     }
-    for (let i = 0; i < urlData.length; i++) {
-        let url = urlData[i];
-        queryPageSpeed(url.url, "DESKTOP").then((result) => {
-            writeToFle(PAGESPEED.concat(url.webpageName).concat("/"), url.filename, result)
-        });
+
+    async queryPageSpeed(inputURL: UrlData, strategy: string, APIKey: string): Promise<PageSpeedResult> {
+        const GET_TEMPLATE = `https://pagespeedonline.googleapis.com/pagespeedonline/v5/runPagespeed?url=${inputURL.url}%2F&category=ACCESSIBILITY&category=BEST_PRACTICES&category=PERFORMANCE&category=PWA&category=SEO&strategy=${strategy}&key=${APIKey}`;
+        let response = await request(GET_TEMPLATE, {json: true});
+        let fcp: number = response.lighthouseResult.audits['first-contentful-paint'].numericValue;
+        let speedIndex: number = response.lighthouseResult.audits['speed-index'].numericValue;
+        let lcp: number = response.lighthouseResult.audits['largest-contentful-paint'].numericValue;
+        let tti: number = response.lighthouseResult.audits['interactive'].numericValue;
+        let tbt: number = response.lighthouseResult.audits['total-blocking-time'].numericValue;
+        let cls: number = response.lighthouseResult.audits['cumulative-layout-shift'].numericValue;
+
+        const scoring = {
+            performance: response.lighthouseResult.categories.performance.score,
+            pwa: response.lighthouseResult.categories.pwa.score,
+            seo: response.lighthouseResult.categories.seo.score,
+            accessibility: response.lighthouseResult.categories.accessibility.score,
+            bestPractices: response.lighthouseResult.categories['best-practices'].score
+        }
+        return new PageSpeedResult(
+            inputURL, scoring.performance, scoring.pwa,
+            scoring.seo, scoring.accessibility, scoring.bestPractices,
+            fcp, speedIndex, lcp,
+            tti, tbt, cls);
     }
+
 }
 
-export async function queryPageSpeed(url: string, strategy: string) {
-    const query = getRequestFromTemplate(url, strategy.toString());
-    /**
-     * Do actual pagespeed stuff
-     */
-    return query;
-}
 
-export function getRequestFromTemplate(url: string, strategy: string): string {
-    const query: PageSpeedQuery = new PageSpeedQuery(url, strategy);
-    return JSON.stringify(query, null, 2);
-}
-
-class PageSpeedQuery {
-    url: string;
-    strategy: string;
-    categories: Array<string> = ["ACCESSIBILITY", "BEST_PRACTICES", "PERFORMANCE", "PWA", "SEO"];
-
-    constructor(url: string, strategy: string) {
-        this.url = url;
-        this.strategy = strategy;
-    }
-}

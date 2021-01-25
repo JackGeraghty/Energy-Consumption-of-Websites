@@ -1,8 +1,7 @@
 const fs = require('fs');
 
 export enum APIType {
-    PAGESPEED = "resources/pagespeed_api_key.txt",
-    LIGHTHOUSE = "resources/pagespeed_api_key.txt"
+    PAGESPEED = "resources/pagespeed_api_key_new.txt"
 }
 
 /**
@@ -29,10 +28,24 @@ export function loadFile(path: string): string {
     }).toString();
 }
 
-export function writeToFle(path: string, fileName:string,  data:any): void {
-    fs.mkdirSync(path,{recursive: true});
-    fs.writeFile(path.concat(fileName), JSON.stringify(data, null, 2), {encoding: 'utf-8', flag: 'w'}, function (err: Error){
+export async function writeToFle(path: string, fileName: string, data: any): Promise<void> {
+    fs.mkdirSync(path, {recursive: true});
+    fs.writeFile(path.concat(fileName), JSON.stringify(data, replacer, 2), {
+        encoding: 'utf-8',
+        flag: 'w'
+    }, function (err: Error) {
         if (err) throw err;
-        console.log("Finished writing data to " + path.concat(fileName));
     });
+}
+
+export function replacer(this: any, key: any, value: any) {
+    const originalObject = this[key];
+    if (originalObject instanceof Map) {
+        return {
+            dataType: 'Map',
+            value: Array.from(originalObject.entries()), // or with spread: value: [...originalObject]
+        };
+    } else {
+        return value;
+    }
 }
