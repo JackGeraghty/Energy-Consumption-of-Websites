@@ -1,7 +1,6 @@
 .idea/
-puppeteer/resources
 puppeteer/node_modules
-puppeteer/resources/pagespeed_api_key.txt
+puppeteer/resources/apis/
 scripts/
 puppeteer/results
 build/

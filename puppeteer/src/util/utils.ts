@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 export enum APIType {
-    PAGESPEED = "resources/pagespeed_api_key_new.txt"
+    PAGESPEED = "resources/apis/pagespeed_api_key.txt"
 }
 
 /**
@@ -48,4 +48,15 @@ export function replacer(this: any, key: any, value: any) {
     } else {
         return value;
     }
+}
+
+export function delay(ms: number) {
+    return new Promise( resolve => setTimeout(resolve, ms) );
+}
+
+export function millisToMinutesAndSeconds(milliseconds:number): string {
+    let seconds = (milliseconds / 1000) % 60 ;
+    let minutes = ((milliseconds / (1000*60)) % 60);
+    let hours   = ((milliseconds / (1000*60*60)) % 24);
+    return `${Math.round(hours)}:${Math.round(minutes)}:${seconds}`;
 }
