@@ -1,4 +1,4 @@
-export let URLS_PATH = "resources/urls.txt";
+export let URLS_PATH = "resources/urls_500.json";
 export const NUM_PUPPETEER_ITERATIONS = 5;
 export const RESULTS = "results/";
 export let pathToBrowserExecutable = "";

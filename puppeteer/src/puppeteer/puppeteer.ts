@@ -9,12 +9,11 @@ const phone = puppeteer.devices['iPhone X'];
 export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
 
     async runExperiment(urlData: UrlData, params: any): Promise<Array<PuppeteerResult>> {
-        let isMobile: boolean = params.isMobile ? params.isMobile : false;
-
+        let platform = params.isMobile ? "MOBILE" : "DESKTOP";
         let promisedValues: Array<PuppeteerResult> = [];
         for (let i = 0; i < NUM_PUPPETEER_ITERATIONS; i++) {
-            console.log(`Puppeteer Iteration: ${i}`);
-            let result: PuppeteerResult = await this.queryPuppeteerNoCache(urlData, isMobile);
+            console.log(`[${platform}] - Puppeteer Iteration: ${i}`);
+            let result: PuppeteerResult = await this.queryPuppeteerNoCache(urlData, params.isMobile);
             promisedValues.push(result);
         }
         console.log();
@@ -38,7 +37,12 @@ export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
             await page.setDefaultNavigationTimeout(0);
             await page.setCacheEnabled(false);
 
-            await page.goto(urlData.url);
+            try {
+                await page.goto(urlData.url);
+            } catch (ex) {
+                console.log(JSON.stringify(urlData, null, 2));
+                console.log(ex);
+            }
             const perfEntries = JSON.parse(
                 await page.evaluate(() => JSON.stringify(performance.getEntries()))
             );
@@ -50,7 +54,6 @@ export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
 
             for (let entry of perfEntries) {
                 if (entry.entryType === "resource" || entry.entryType === "navigation") {
-                    // console.log( entry.encodedBodySize);
                     totalEncodedBodySize += entry.encodedBodySize ? entry.encodedBodySize : 0;
                     totalDecodedBodySize += entry.decodedBodySize ? entry.decodedBodySize : 0;
                     totalTransferSize += entry.transferSize ? entry.transferSize : 0;

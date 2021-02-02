@@ -3,7 +3,7 @@ import {ExperimentResult} from "./interfaces/experimentResult";
 
 export class PageSpeedResult implements ExperimentResult {
     urlData: UrlData;
-
+    isComplete: boolean = true;
     performance: number;
     progressiveWebApp: number;
     seo: number;
