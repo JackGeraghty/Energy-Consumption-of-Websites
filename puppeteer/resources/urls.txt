@@ -1,1 +1,2 @@
-["https://www.ucd.ie/"]
+[ "su.nuigalway.ie"
+]

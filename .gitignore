@@ -4,3 +4,4 @@ puppeteer/resources/apis/
 scripts/
 puppeteer/results
 build/
+/puppeteer/logs/

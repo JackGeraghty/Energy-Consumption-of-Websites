@@ -1,7 +1,8 @@
-import {PuppeteerResult} from "../model/puppeteerResults";
-import {AggregatedPuppeteerResult} from "../model/aggregatedPuppeteerResult";
-import {AggregatedPagespeedResult} from "../model/aggregatedPagespeedResult";
-import {PageSpeedResult} from "../model/pageSpeedResult";
+import {PuppeteerResult} from "../../../common/model/puppeteer/puppeteerResults";
+import {AggregatedPuppeteerResult} from "../../../common/model/puppeteer/aggregatedPuppeteerResult";
+import {AggregatedPagespeedResult} from "../../../common/model/puppeteer/aggregatedPagespeedResult";
+import {PageSpeedResult} from "../../../common/model/puppeteer/pageSpeedResult";
+import {buildMapResult} from "../../../common/stats";
 
 export async function postprocessPuppeteer(results: Array<PuppeteerResult>): Promise<AggregatedPuppeteerResult> {
     let transferSizeStats = buildMapResult(results.map(res => res.transferSize));
@@ -31,30 +32,5 @@ export async function postprocessPageSpeed(results: Array<PageSpeedResult>): Pro
         ttiStats, tbtStats, clsStats);
 }
 
-function mean(data: Array<number>): number {
-    let mean = 0;
-    for (let item of data) {
-        mean += item;
-    }
-    return mean / data.length;
-}
 
-function variance(data: Array<number>, mean: number): number {
-    let sum = 0;
-    for (let item of data) {
-        sum += Math.pow(item - mean, 2);
-    }
-    return sum / data.length;
-}
-
-function buildMapResult(data: Array<number>): Map<string, number> {
-    let resultMap: Map<string, number> = new Map();
-    let avg = mean(data);
-    let v = variance(data, avg);
-    let stddev = Math.sqrt(v);
-    resultMap.set("mean", avg);
-    resultMap.set("variance", v);
-    resultMap.set("stddev", stddev);
-    return resultMap;
-}
 

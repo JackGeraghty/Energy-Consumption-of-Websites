@@ -1,16 +1,26 @@
-import {APIType, loadAPIKey, loadFile, millisToMinutesAndSeconds, writeToFle} from "./util/utils";
-import {PLATFORMS, RESULTS, setBrowser, setURLsPath, URLS_PATH} from "./util/constants";
+import {
+    APIType,
+    initializeDirs,
+    loadAPIKey,
+    loadFileAsJson,
+    millisToMinutesAndSeconds,
+    writeToFle
+} from "../../common/util/utils";
+
+import {pathToBrowserExecutable, PLATFORMS, RESULTS, URLS_PATH} from "../../common/util/constants";
 import {preprocessDesktopUrls} from "./processing/preprocessing";
 import {Puppeteer} from "./puppeteer/puppeteer";
 import {INCOMPLETE_PAGESPEED, PagesSpeed} from "./pagespeed";
-import {ExperimentProcess} from "./model/interfaces/experimentProcess";
-import {PuppeteerResult} from "./model/puppeteerResults";
-import {PageSpeedResult} from "./model/pageSpeedResult";
+import {ExperimentProcess} from "../../common/model/interfaces/experimentProcess";
+import {PuppeteerResult} from "../../common/model/puppeteer/puppeteerResults";
+import {PageSpeedResult} from "../../common/model/puppeteer/pageSpeedResult";
 import {postprocessPageSpeed, postprocessPuppeteer} from "./processing/postprocessing";
-import {UrlData} from "./model/urlData";
+import {UrlData} from "../../common/model/urlData";
 
 const yargs = require("yargs");
 
+const doPuppeteer = true;
+const doPageSpeed = false;
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
     "   / /  / __/ / /   / / / / | /| / /  / / \n" +
@@ -20,7 +30,8 @@ console.log("     __   ________________ _       __   __\n" +
 
 console.log("Initializing experiment environment");
 
-initialize();
+initializeDirs();
+
 let startTime: Date = new Date();
 console.log(`Start time: ${startTime.getHours()}:${startTime.getMinutes()}:${startTime.getSeconds()}`);
 process.on('exit', function () {
@@ -28,12 +39,13 @@ process.on('exit', function () {
     let endTime: Date = new Date();
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
+
 main();
 
 async function main(): Promise<void> {
     // Load in webpage urls
 
-    let urls = JSON.parse(loadFile(URLS_PATH));
+    let urls = loadFileAsJson(URLS_PATH);
     if (urls.length === 0) {
         console.error("No urls to perform experiment with, exiting");
         process.exit(1);
@@ -41,53 +53,58 @@ async function main(): Promise<void> {
     let urlData: Array<UrlData> = preprocessDesktopUrls(urls);
     let apiKey: string = loadAPIKey(APIType.PAGESPEED);
 
-    let puppeteer: ExperimentProcess<PuppeteerResult> = new Puppeteer();
+    let args = yargs.argv;
+    if (!args.browserPath) {
+        console.warn("No browser path specified, using default");
+    }
+
+    let puppeteer: ExperimentProcess<PuppeteerResult> = new Puppeteer(pathToBrowserExecutable);
     let pageSpeed: ExperimentProcess<PageSpeedResult> = new PagesSpeed();
-    for (const platform of PLATFORMS) {
-        for (const url of urlData) {
+    for (const url of urlData) {
+        for (const platform of PLATFORMS) {
             const rawFilename: string = url.webpageName.concat("_raw.json");
             const aggregatedFileName: string = url.webpageName.concat("_agg.json");
 
-            console.log(`Running Puppeteer experiment for [${platform}] - ${url.url}...`);
+            if (doPuppeteer) {
+                console.log(`Running Puppeteer experiment for [${platform}] - ${url.url}...`);
+                try {
+                    let results = await puppeteer.runExperiment(url, {isMobile: platform === "MOBILE"});
+                    if (results == null) {
+                        console.log(`Skipping current ${url} due to unexpected failure in Puppeteer`);
+                        continue;
+                    }
 
-            puppeteer.runExperiment(url, {isMobile: platform === "MOBILE"}).then(results => {
-                const puppeteerResultPath: string = RESULTS.concat(url.webpageName).concat(`_${platform}/`).concat("puppeteer/");
-                writeToFle(puppeteerResultPath, rawFilename, results)
-                    .then(() => console.log("Finished writing data to " + puppeteerResultPath.concat(rawFilename)));
-                postprocessPuppeteer(results)
-                    .then(aggregatedPuppeteerResult => writeToFle(puppeteerResultPath, aggregatedFileName, aggregatedPuppeteerResult))
-                    .then(() => console.log(`Finished running Puppeteer experiment for ${url.webpageName}`));
-            })
+                    const puppeteerResultPath: string = RESULTS.concat(url.webpageName).concat(`_${platform}/`).concat("puppeteer/");
+                    writeToFle(puppeteerResultPath, rawFilename, results)
+                        .then(() => console.log("Finished writing data to " + puppeteerResultPath.concat(rawFilename)));
+                    postprocessPuppeteer(results)
+                        .then(aggregatedPuppeteerResult => writeToFle(puppeteerResultPath, aggregatedFileName, aggregatedPuppeteerResult))
+                        .then(() => console.log(`Finished running Puppeteer experiment for ${url.webpageName}`));
+                } catch (ex) {
+                    console.log(ex);
+                }
 
-            console.log(`Running PageSpeed experiment for  [${platform}] - ${url.url}...`);
+            }
 
-            pageSpeed.runExperiment(url, {
-                strategy: platform,
-                APIKey: apiKey
-            }).then(pageSpeedResults => {
+            if (doPageSpeed) {
+                console.log(`Running PageSpeed experiment for  [${platform}] - ${url.url}...`);
+                let pageSpeedResults = await pageSpeed.runExperiment(url, {
+                    strategy: platform,
+                    APIKey: apiKey
+                });
+                if (pageSpeedResults == null) {
+                    console.log("Skipping current " + JSON.stringify(urlData, null, 2) + "due to unexpected failure in PageSpeed");
+                    continue;
+                }
                 const pageSpeedResultPath: string = RESULTS.concat(url.webpageName).concat(`_${platform}/`).concat("pagespeed/");
 
-                writeToFle(pageSpeedResultPath, rawFilename, pageSpeedResults)
+                writeToFle(pageSpeedResultPath, rawFilename, pageSpeedResults.filter(result => !!result))
                     .then(() => console.log("Finished writing data to " + pageSpeedResultPath.concat(url.webpageName)));
-                postprocessPageSpeed(pageSpeedResults)
+                postprocessPageSpeed(pageSpeedResults.filter(result => !!result))
                     .then(aggregatedPageSpeedResults => writeToFle(pageSpeedResultPath, aggregatedFileName, aggregatedPageSpeedResults))
                     .then(() => console.log(`Finished running PageSpeed experiment for ${url.webpageName}`));
-            });
-        }
-    }
-}
 
-function initialize() {
-    let args = yargs.argv;
-    if (!args.browserPath) {
-        console.warn("No browser path specified, quitting");
-        process.exit(1);
-    }
-    setBrowser(args.browserPath);
-    if (args.URLS) setURLsPath(args.URLS);
-    const fs = require('fs');
-    if (!fs.existsSync("results/")) {
-        fs.mkdirSync("results/");
-        console.log("Had to create results directory");
+            }
+        }
     }
 }

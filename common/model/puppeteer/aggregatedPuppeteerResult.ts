@@ -1,3 +1,5 @@
+import {AggregatedExperimentResult} from "../interfaces/aggregatedExperimentResult";
+
 export class AggregatedPuppeteerResult implements AggregatedExperimentResult {
     numSamples: number;
     transferSizeStats: Map<string, number>;

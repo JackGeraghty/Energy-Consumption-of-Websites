@@ -1,3 +1,5 @@
+import {AggregatedExperimentResult} from "../interfaces/aggregatedExperimentResult";
+
 export class AggregatedPagespeedResult implements AggregatedExperimentResult {
     numSamples: number;
     performance: Map<string, number>;

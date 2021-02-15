@@ -1,7 +1,24 @@
+import {LOG_PATH} from "./constants";
+
 const fs = require('fs');
 
 export enum APIType {
     PAGESPEED = "resources/apis/pagespeed_api_key.txt"
+}
+
+export function initializeDirs() {
+    const fs = require('fs');
+    if (!fs.existsSync("results/")) {
+        fs.mkdirSync("results/");
+        console.log("Had to create results directory");
+    } else {
+        console.log("Results directory found");
+    }
+    if (!fs.existsSync(LOG_PATH)) {
+        console.log("Creating log dir");
+        fs.mkdirSync(LOG_PATH.concat("\\puppeteer"), {recursive: true});
+        fs.mkdirSync(LOG_PATH.concat("\\pagespeed"), {recursive: true});
+    }
 }
 
 /**
@@ -16,6 +33,10 @@ export function loadAPIKey(api: APIType): string {
         }
         return data;
     });
+}
+
+export function loadFileAsJson(path: string): any {
+    return JSON.parse(loadFile(path));
 }
 
 export function loadFile(path: string): string {

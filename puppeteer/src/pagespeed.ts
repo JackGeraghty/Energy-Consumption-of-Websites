@@ -1,12 +1,20 @@
-import {UrlData} from "./model/urlData";
-import {PageSpeedResult} from "./model/pageSpeedResult";
-import {ExperimentProcess} from "./model/interfaces/experimentProcess";
-import {NUM_PUPPETEER_ITERATIONS} from "./util/constants";
+import {UrlData} from "../../common/model/urlData";
+import {PageSpeedResult} from "../../common/model/puppeteer/pageSpeedResult";
+import {ExperimentProcess} from "../../common/model/interfaces/experimentProcess";
+import {LOG_PATH, NUM_EXPERIMENT_ITERATIONS} from "../../common/util/constants";
+import {Logger} from "../../common/util/logger";
 
 const request = require('request-promise-native');
 export let INCOMPLETE_PAGESPEED = 0;
 
 export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
+    failureLogger: Logger;
+
+    constructor() {
+        const currentTime: Date = new Date();
+        const logPath = LOG_PATH.concat(`pagespeed\\failure_log_${currentTime.toISOString().substring(0, 10)}_${currentTime.getHours()}_${currentTime.getMinutes()}.txt`);
+        this.failureLogger = new Logger(logPath);
+    }
 
     async runExperiment(urlData: UrlData, params: any): Promise<Array<PageSpeedResult>> {
         if (params.strategy !== "DESKTOP" && params.strategy !== "MOBILE") {
@@ -14,19 +22,29 @@ export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
         }
         let results: Array<PageSpeedResult> = [];
 
-        for (let i = 0; i < NUM_PUPPETEER_ITERATIONS; i++) {
+        for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
             console.log(`[${params.strategy}] - PageSpeed Iteration: ${i}`);
-            let result: PageSpeedResult = await this.queryPageSpeed(urlData, params.strategy, params.APIKey);
+            let result: PageSpeedResult = await this.queryPageSpeed(urlData, params.strategy, params.APIKey, 0);
+            if (result == null) {
+                console.log("Failed iteration, abandoning current urlData");
+                return null;
+            }
             results.push(result);
         }
         return results;
     }
 
-    async queryPageSpeed(inputURL: UrlData, strategy: string, APIKey: string): Promise<PageSpeedResult> {
+    async queryPageSpeed(inputURL: UrlData, strategy: string, APIKey: string, attemptNum: number): Promise<PageSpeedResult> {
+        console.log("Attempt  = " + attemptNum);
         const GET_TEMPLATE = `https://pagespeedonline.googleapis.com/pagespeedonline/v5/runPagespeed?url=${inputURL.url}%2F&category=ACCESSIBILITY&category=BEST_PRACTICES&category=PERFORMANCE&category=PWA&category=SEO&strategy=${strategy}&key=${APIKey}`;
 
         try {
             let response = await request(GET_TEMPLATE, {json: true});
+
+            if (response.statusCode == 500) {
+                console.log(response.message);
+                return null;
+            }
             let fcp: number = response.lighthouseResult.audits['first-contentful-paint'].numericValue;
             let speedIndex: number = response.lighthouseResult.audits['speed-index'].numericValue;
             let lcp: number = response.lighthouseResult.audits['largest-contentful-paint'].numericValue;
@@ -48,12 +66,21 @@ export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
                 tti, tbt, cls);
         } catch (ex) {
             console.log("Failed to get proper response from " + JSON.stringify(inputURL, null, 2));
-            console.log(ex);
+
+            if (attemptNum == 0) {
+                console.log(ex);
+            }
+            if (attemptNum < 4) {
+                let n = attemptNum + 1;
+                console.log(n);
+                await this.queryPageSpeed(inputURL, strategy, APIKey, n);
+            }
+            // console.log("This site is weird! " + "platform = " + strategy + "   " + JSON.stringify(inputURL, null, 2));
+            this.failureLogger.log(`${strategy} -` + JSON.stringify(inputURL, null, 2));
+            ++INCOMPLETE_PAGESPEED;
+
+            return null;
         }
-        let result: PageSpeedResult = new PageSpeedResult(inputURL, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-        result.isComplete = false;
-        INCOMPLETE_PAGESPEED++;
-        return result;
     }
 
 }

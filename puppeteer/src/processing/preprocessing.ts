@@ -1,4 +1,4 @@
-import {UrlData} from "../model/urlData";
+import {UrlData} from "../../../common/model/urlData";
 
 export function preprocessDesktopUrls(urls: Array<string>): Array<UrlData> {
     let urlData: Array<UrlData> = [];

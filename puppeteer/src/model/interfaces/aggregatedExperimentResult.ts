@@ -1,3 +1,0 @@
-interface AggregatedExperimentResult {
-    numSamples: number;
-}
