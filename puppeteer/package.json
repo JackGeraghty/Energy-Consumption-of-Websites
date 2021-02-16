@@ -12,7 +12,8 @@
   "dependencies": {
     "lighthouse": "^7.0.0",
     "puppeteer-core": "^5.5.0",
-    "yargs": "^16.2.0"
+    "yargs": "^16.2.0",
+    "request-promise-native": "^1.0.9"
   },
   "devDependencies": {
     "@types/puppeteer": "^5.4.2"

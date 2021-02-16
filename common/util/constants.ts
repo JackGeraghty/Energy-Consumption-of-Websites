@@ -1,12 +1,11 @@
 //////////////////////////////////
 //      GENERAL CONSTANTS     //
 //////////////////////////////////
-const appRoot = require('app-root-path');
-export const URLS_PATH: string = "resources/urls.txt";
+export const URLS_PATH: string = "resources/urls_500.json";
 export const NUM_EXPERIMENT_ITERATIONS: number = 5;
 export const RESULTS: string = "results/";
 export const HOME_PAGE: string = "https://www.google.ie";
-export let pathToBrowserExecutable: string = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
+export let pathToBrowserExecutable: string = "~/../../usr/bin/google-chrome-stable";
 export const LOG_PATH = "logs\\";
 
 //////////////////////////////////
@@ -26,3 +25,5 @@ export const NUM_DATA_POINTS: number = 1000;
 export const PAPILLON_PORT_NUM: number = 8080;
 
 export const PAPILLON_HOST_NAME: string = "localhost"
+
+export const STABILIZATION_TIME_MS: number = 30000;

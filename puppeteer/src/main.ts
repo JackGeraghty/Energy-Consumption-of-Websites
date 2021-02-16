@@ -19,8 +19,8 @@ import {UrlData} from "../../common/model/urlData";
 
 const yargs = require("yargs");
 
-const doPuppeteer = true;
-const doPageSpeed = false;
+let doPuppeteer = false;
+let doPageSpeed = false;
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
     "   / /  / __/ / /   / / / / | /| / /  / / \n" +
@@ -29,7 +29,7 @@ console.log("     __   ________________ _       __   __\n" +
     "/_/                                /_/    \n");
 
 console.log("Initializing experiment environment");
-
+let args = yargs.argv;
 initializeDirs();
 
 let startTime: Date = new Date();
@@ -53,12 +53,23 @@ async function main(): Promise<void> {
     let urlData: Array<UrlData> = preprocessDesktopUrls(urls);
     let apiKey: string = loadAPIKey(APIType.PAGESPEED);
 
-    let args = yargs.argv;
+    let browserPath:string;
     if (!args.browserPath) {
         console.warn("No browser path specified, using default");
+        browserPath = pathToBrowserExecutable;
+    } else {
+        browserPath = args.browserPath;
     }
 
-    let puppeteer: ExperimentProcess<PuppeteerResult> = new Puppeteer(pathToBrowserExecutable);
+    if (args.puppeteer) doPuppeteer = true;
+    if (args.pagespeed) doPageSpeed = true;
+
+    if (!doPuppeteer && !doPageSpeed) {
+        console.error("Must perform either Puppeteer or PageSpeed");
+        process.exit(-1);
+    }
+
+    let puppeteer: ExperimentProcess<PuppeteerResult> = new Puppeteer(browserPath);
     let pageSpeed: ExperimentProcess<PageSpeedResult> = new PagesSpeed();
     for (const url of urlData) {
         for (const platform of PLATFORMS) {

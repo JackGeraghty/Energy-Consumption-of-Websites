@@ -1,2 +1,3 @@
-[ "su.nuigalway.ie"
+[
+"su.nuigalway.ie"
 ]

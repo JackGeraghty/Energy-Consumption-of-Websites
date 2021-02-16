@@ -38,8 +38,9 @@ export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
         const browser = await puppeteer.launch(
             {
                 executablePath: this.pathToBrowser,
-                headless: false,
-                defaultViewport: null
+                headless: true,
+                defaultViewport: null,
+                args: ['--no-sandbox']
             });
         const page = await browser.newPage();
 

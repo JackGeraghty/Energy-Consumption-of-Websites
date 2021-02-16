@@ -2,7 +2,7 @@
   "name": "papillon",
   "version": "1.0.0",
   "description": "Papillon component of the experiment",
-  "main": "main.ts",
+  "main": "src/main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
