@@ -23,7 +23,8 @@ export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
         let results: Array<PageSpeedResult> = [];
 
         for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
-            console.log(`[${params.strategy}] - PageSpeed Iteration: ${i}`);
+            let currentDate: Date = new Date();
+            console.log(`[${currentDate.getHours()} : ${currentDate.getMinutes()} : ${currentDate.getSeconds()}] - [${params.strategy}] - ${urlData.webpageName} - PageSpeed Iteration: ${i}`);
             let result: PageSpeedResult = await this.queryPageSpeed(urlData, params.strategy, params.APIKey, 0);
             if (result == null) {
                 console.log("Failed iteration, abandoning current urlData");
@@ -35,7 +36,6 @@ export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
     }
 
     async queryPageSpeed(inputURL: UrlData, strategy: string, APIKey: string, attemptNum: number): Promise<PageSpeedResult> {
-        console.log("Attempt  = " + attemptNum);
         const GET_TEMPLATE = `https://pagespeedonline.googleapis.com/pagespeedonline/v5/runPagespeed?url=${inputURL.url}%2F&category=ACCESSIBILITY&category=BEST_PRACTICES&category=PERFORMANCE&category=PWA&category=SEO&strategy=${strategy}&key=${APIKey}`;
 
         try {
@@ -72,7 +72,7 @@ export class PagesSpeed implements ExperimentProcess<PageSpeedResult> {
             }
             if (attemptNum < 4) {
                 let n = attemptNum + 1;
-                console.log(n);
+                console.log(`\tPageSpeed attempt ${n}`);
                 await this.queryPageSpeed(inputURL, strategy, APIKey, n);
             }
             // console.log("This site is weird! " + "platform = " + strategy + "   " + JSON.stringify(inputURL, null, 2));

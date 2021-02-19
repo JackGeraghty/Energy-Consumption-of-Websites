@@ -5,9 +5,9 @@ import {PageSpeedResult} from "../../../common/model/puppeteer/pageSpeedResult";
 import {buildMapResult} from "../../../common/stats";
 
 export async function postprocessPuppeteer(results: Array<PuppeteerResult>): Promise<AggregatedPuppeteerResult> {
-    let transferSizeStats = buildMapResult(results.map(res => res.transferSize));
-    let decodedSizeStats = buildMapResult(results.map(res => res.decodedBodySize));
-    let encodedSizeStats = buildMapResult(results.map(res => res.encodedBodySize));
+    let transferSizeStats = buildMapResult(results.map(res => res.transferSize).filter(r => r > 0.0));
+    let decodedSizeStats = buildMapResult(results.map(res => res.decodedBodySize).filter(r => r > 0.0));
+    let encodedSizeStats = buildMapResult(results.map(res => res.encodedBodySize).filter(r => r > 0.0));
     let resourcesTransferredStats = buildMapResult(results.map(res => res.numTransferred));
     return new AggregatedPuppeteerResult(results.length, transferSizeStats, decodedSizeStats, encodedSizeStats, resourcesTransferredStats);
 }

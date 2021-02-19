@@ -81,3 +81,4 @@ export function millisToMinutesAndSeconds(milliseconds:number): string {
     let hours   = ((milliseconds / (1000*60*60)) % 24);
     return `${Math.round(hours)}:${Math.round(minutes)}:${seconds}`;
 }
+

@@ -1,7 +1,14 @@
 .idea/
 puppeteer/node_modules
 puppeteer/resources/apis/
+pagespeed/resources/apis
 scripts/
 puppeteer/results
 build/
-/puppeteer/logs/
+puppeteer/logs/
+pagespeed/logs/
+pagespeed/results
+puppeteer/resources/complete.json
+puppeteer/resources/failed.json
+pagespeed/resources/complete.json
+pagespeed/resources/failed.json

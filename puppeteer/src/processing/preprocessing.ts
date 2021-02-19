@@ -5,7 +5,7 @@ export function preprocessDesktopUrls(urls: Array<string>): Array<UrlData> {
     urls.forEach(url => {
         let name = (url.replace(/.+\/\/|www.|\..+/g, ''));
         if (!name.includes("google")) {
-            urlData.push(new UrlData(name, "http://".concat(url)));
+            urlData.push(new UrlData(name, "http://".concat(url), url));
         } else {
             console.log("Skipped a google site");
         }
