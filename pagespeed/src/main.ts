@@ -7,11 +7,11 @@ import {
     replacer,
     writeToFle
 } from "../../common/util/utils";
-import {preprocessDesktopUrls} from "../../puppeteer/src/processing/preprocessing";
+import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
 import {UrlData} from "../../common/model/urlData";
 import {INCOMPLETE_PAGESPEED, PagesSpeed} from "./pagespeed";
-import {PageSpeedResult} from "../../common/model/puppeteer/pageSpeedResult";
-import {postprocessPageSpeed} from "../../puppeteer/src/processing/postprocessing";
+import {PageSpeedResult} from "../../common/model/pageSpeedResult";
+import {postprocessPageSpeed} from "../../common/processing/postprocessing";
 import {loadURLS, updateFile} from "../../common/util/toleranceUtils";
 
 const fs = require('fs');

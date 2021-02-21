@@ -1,5 +1,5 @@
 import {initializeDirs, millisToMinutesAndSeconds, replacer, writeToFle} from "../../common/util/utils";
-import {preprocessDesktopUrls} from "./processing/preprocessing";
+import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
 import {UrlData} from "../../common/model/urlData";
 import {loadURLS, updateFile} from "../../common/util/toleranceUtils";
 import {Puppeteer} from "./puppeteer";
@@ -10,10 +10,9 @@ import {
     PLATFORMS,
     RESULTS
 } from "../../common/util/constants";
-import {postprocessPuppeteer} from "./processing/postprocessing";
+import {postprocessPuppeteer} from "../../common/processing/postprocessing";
 
 const yargs = require("yargs");
-
 
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
@@ -28,7 +27,7 @@ initializeDirs();
 
 const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS();
 const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
-const complete: Array<string> = urlData[1];
+const completed: Array<string> = urlData[1];
 const failed: Array<string> = urlData[2];
 let currentURL:string;
 
@@ -38,10 +37,7 @@ process.on('exit', () => {
     let endTime: Date = new Date();
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
-process.on('uncaughtException', () => {
-    failed.push(currentURL);
-    updateFile(JSON.stringify(failed), FAILED_URLS_PATH);
-})
+
 main();
 
 async function main() {
@@ -84,9 +80,9 @@ async function main() {
             }
         }
         if (!failedUrl) {
-            console.log("Updating complete list");
-            complete.push(url.originalURL);
-            updateFile(JSON.stringify(complete, replacer, 2), COMPLETED_URLS_PATH);
+            console.log("Updating completed list");
+            completed.push(url.originalURL);
+            updateFile(JSON.stringify(completed, replacer, 2), COMPLETED_URLS_PATH);
         }
     }
 }

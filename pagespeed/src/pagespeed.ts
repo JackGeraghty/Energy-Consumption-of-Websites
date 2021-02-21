@@ -1,5 +1,5 @@
 import {UrlData} from "../../common/model/urlData";
-import {PageSpeedResult} from "../../common/model/puppeteer/pageSpeedResult";
+import {PageSpeedResult} from "../../common/model/pageSpeedResult";
 import {ExperimentProcess} from "../../common/model/interfaces/experimentProcess";
 import {LOG_PATH, NUM_EXPERIMENT_ITERATIONS} from "../../common/util/constants";
 import {Logger} from "../../common/util/logger";

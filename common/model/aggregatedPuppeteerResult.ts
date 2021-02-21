@@ -1,4 +1,4 @@
-import {AggregatedExperimentResult} from "../interfaces/aggregatedExperimentResult";
+import {AggregatedExperimentResult} from "./interfaces/aggregatedExperimentResult";
 
 export class AggregatedPuppeteerResult implements AggregatedExperimentResult {
     numSamples: number;

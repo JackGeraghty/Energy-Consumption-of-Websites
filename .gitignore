@@ -1,10 +1,14 @@
 .idea/
 puppeteer/node_modules
+papillon/node_modules
 puppeteer/resources/apis/
 pagespeed/resources/apis
-scripts/
+scripts/python
+scripts/other
 puppeteer/results
-build/
+puppeteer/build
+pagespeed/build
+papillon/build/
 puppeteer/logs/
 pagespeed/logs/
 pagespeed/results

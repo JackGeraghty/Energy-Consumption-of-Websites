@@ -2,10 +2,19 @@
   "name": "papillon",
   "version": "1.0.0",
   "description": "Papillon component of the experiment",
-  "main": "main.ts",
+  "main": "src/main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jmg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://csgitlab.ucd.ie/JackGeraghty/Energy-Consumption-of-Websites.git"
+  },
+  "devDependencies": {
+    "request-promise-native": "^1.0.9",
+    "app-root-path": "^3.0.0",
+    "yargs": "^16.2.0"
+  }
 }

@@ -1,6 +1,6 @@
 import {UrlData} from "../../common/model/urlData";
 import {LOG_PATH, NUM_EXPERIMENT_ITERATIONS} from "../../common/util/constants";
-import {PuppeteerResult} from "../../common/model/puppeteer/puppeteerResults";
+import {PuppeteerResult} from "../../common/model/puppeteerResults";
 import {ExperimentProcess} from "../../common/model/interfaces/experimentProcess";
 import {Logger} from "../../common/util/logger";
 

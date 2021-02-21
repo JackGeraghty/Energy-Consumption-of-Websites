@@ -1,8 +1,10 @@
-import {PuppeteerResult} from "../../../common/model/puppeteer/puppeteerResults";
-import {AggregatedPuppeteerResult} from "../../../common/model/puppeteer/aggregatedPuppeteerResult";
-import {AggregatedPagespeedResult} from "../../../common/model/puppeteer/aggregatedPagespeedResult";
-import {PageSpeedResult} from "../../../common/model/puppeteer/pageSpeedResult";
-import {buildMapResult} from "../../../common/stats";
+import {PuppeteerResult} from "../model/puppeteerResults";
+import {AggregatedPuppeteerResult} from "../model/aggregatedPuppeteerResult";
+import {AggregatedPagespeedResult} from "../model/aggregatedPagespeedResult";
+import {PageSpeedResult} from "../model/pageSpeedResult";
+import {buildMapResult} from "../stats";
+import {PapillonResult} from "../model/papillonResult";
+import {AggregatedPapillonResult} from "../model/aggregatedPapillonResult";
 
 export async function postprocessPuppeteer(results: Array<PuppeteerResult>): Promise<AggregatedPuppeteerResult> {
     let transferSizeStats = buildMapResult(results.map(res => res.transferSize).filter(r => r > 0.0));
@@ -32,5 +34,10 @@ export async function postprocessPageSpeed(results: Array<PageSpeedResult>): Pro
         ttiStats, tbtStats, clsStats);
 }
 
+export async function postprocessPapillon(results: Array<PapillonResult>): Promise<AggregatedPapillonResult> {
+    const power = buildMapResult(results.map(res => res.powerConsumption));
+    const network = buildMapResult(results.map(res => res.network));
+    const memory = buildMapResult(results.map(res => res.memory));
 
-
+    return new AggregatedPapillonResult(results.length, power, network, memory);
+}

@@ -1,5 +1,5 @@
-import {UrlData} from "../urlData";
-import {ExperimentResult} from "../interfaces/experimentResult";
+import {UrlData} from "./urlData";
+import {ExperimentResult} from "./interfaces/experimentResult";
 
 export class PuppeteerResult implements ExperimentResult {
     urlData: UrlData;

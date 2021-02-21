@@ -10,7 +10,8 @@ export const RESULTS: string = "results/";
 export const HOME_PAGE: string = "https://www.google.ie";
 export let pathToBrowserExecutable: string = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
 export const LOG_PATH = "logs\\";
-
+const ROOT = require("app-root-path").toString();
+export const SCRIPTS = ROOT + "\\scripts";
 //////////////////////////////////
 //      PUPPETEER CONSTANTS     //
 //////////////////////////////////
