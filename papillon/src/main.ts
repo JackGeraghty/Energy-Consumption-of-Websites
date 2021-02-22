@@ -49,7 +49,7 @@ async function main() {
         console.error("No browser path specified, exiting");
         process.exit(-1);
     }
-    const browserPath: string = pathToBrowserExecutable;
+    const browserPath: string = args.browserPath;
 
     if (!args.apache) {
         console.error("No path to apache startup script specified, exiting");
@@ -64,19 +64,19 @@ async function main() {
     console.log(SCRIPTS);
 
     // Start the apache server and the Papillon client
-    await exec(`sh ${SCRIPTS}\\startPapillon.sh ${SCRIPTS}\\${args.apache} ${args.papillon}`, (err: Error, stdout: any, stderr: any) => {
+    await exec(`sudo sh ${SCRIPTS}/startPapillon.sh ${args.apache} ${args.papillon}`, (err: Error, stdout: any, stderr: any) => {
         if (err) throw err;
         if (stderr) console.error(stderr);
         console.log(stdout);
     });
 
+/*
     // Tag chrome as a process and allow for stabilization
-    await exec(`PAPILLON_TAG=CHROME ${browserPath}`, (err: Error, stdout: any, stderr: any) => {
-        if (err) throw err;
+    await exec(`PAPILLON_TAG=CHROME ${browserPath} `, (err: Error, stdout: any, stderr: any) => {
         if (stderr) console.error(stderr);
         console.log(stdout);
     });
-
+*/
     console.log("Papillon server started, allowing for stabilization");
     await (delay(PAPILLON_WINDOW_TIME));
 
@@ -96,7 +96,7 @@ async function main() {
 
             //navigate to the page
             try {
-                await exec(`sh ${SCRIPTS}\\navigateTo.sh \"${browserPath}\" ${url.url}`, (err: Error, stdout: any, stderr: any) => {
+                await exec(`sh ${SCRIPTS}/navigateTo.sh ${browserPath} ${url.url}`, (err: Error, stdout: any, stderr: any) => {
                     if (err) throw err;
                     if (stderr) console.error(stderr);
                     console.log(stdout);
@@ -104,7 +104,7 @@ async function main() {
                 console.log("Allowing webpage to load...");
                 await delay(PAPILLON_WINDOW_TIME);
                 // navigate back to home and allow stabilization
-                await exec(`sh ${SCRIPTS}\\navigateTo.sh \"${browserPath}\" ${HOME_PAGE}`, (err: Error, stdout: any, stderr: any) => {
+                await exec(`sh ${SCRIPTS}/navigateTo.sh ${browserPath} ${HOME_PAGE}`, (err: Error, stdout: any, stderr: any) => {
                     if (err) throw err;
                     if (stderr) console.error(stderr);
                     console.log(stdout);

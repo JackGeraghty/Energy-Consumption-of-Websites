@@ -10,5 +10,6 @@ sh "$1"
 echo "allowing server to start..."
 sleep 5
 echo "starting papillon..."
-java -jar "$2"
+java -jar "$2" &
 sleep 5
+PAPILLON_TAG=CHROME ~/../../usr/bin/google-chrome-stable

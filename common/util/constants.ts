@@ -1,7 +1,7 @@
 //////////////////////////////////
 //      GENERAL CONSTANTS     //
 //////////////////////////////////
-export const URLS_PATH: string = "resources/urls_500.json";
+export const URLS_PATH: string = "resources/urls.txt";
 export const COMPLETED_URLS_PATH:string = "resources/complete.json";
 export const FAILED_URLS_PATH:string = "resources/failed.json";
 
@@ -11,7 +11,7 @@ export const HOME_PAGE: string = "https://www.google.ie";
 export let pathToBrowserExecutable: string = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
 export const LOG_PATH = "logs\\";
 const ROOT = require("app-root-path").toString();
-export const SCRIPTS = ROOT + "\\scripts";
+export const SCRIPTS = ROOT + "/scripts";
 //////////////////////////////////
 //      PUPPETEER CONSTANTS     //
 //////////////////////////////////
