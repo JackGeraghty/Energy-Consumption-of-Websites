@@ -19,6 +19,8 @@ export class Papillon {
     }
 
     async query(urlData: UrlData, startTime: number, endTime: number): Promise<PapillonResult> {
+        let sTime = Math.floor(startTime / 1000);
+        let eTime = Math.floor(endTime / 1000);
         const query = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${startTime}&endtime=${endTime}`;
         let options = {
             uri: "http://localhost:8080/PapillonServer/rest/".concat(query),

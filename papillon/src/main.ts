@@ -45,7 +45,7 @@ async function main() {
         process.exit(-1);
     }
 
-    const papillon: Papillon = new Papillon("dc1", "fl1", "rack1", "vm1(127.0.0.1)");
+    const papillon: Papillon = new Papillon("267", "291", "294", "284");
 
     for (const url of urls) {
         const rawFilename: string = url.webpageName.concat("_raw.json");
@@ -54,7 +54,7 @@ async function main() {
         console.log(`Gathering metrics for ${url.url}`);
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
 
-        const startTime:number = new Date().getTime();
+        const startTime:number = Date.now();
 
         const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${HOME_PAGE} ${url.url}`);
         ex.stdout.pipe(process.stdout);

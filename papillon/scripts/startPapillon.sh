@@ -19,7 +19,7 @@ java -jar "$1" &
 PID=$!
 echo "$PID"
 sleep 5
-PAPILLON_TAG="$2" "$3" &
+PAPILLON_TAG="$2" "$3 --remote-debugging-port=21222" &
 sleep 10
 "$3" "$5" &
 #
