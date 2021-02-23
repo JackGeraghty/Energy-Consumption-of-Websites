@@ -22,7 +22,7 @@ export const PLATFORMS: Array<string> = ["DESKTOP", "MOBILE"];
 //////////////////////////////////
 
 /** The length of the time window in which to gather metrics for a given url using Papillon */
-export const PAPILLON_WINDOW_TIME: number = 30000;
+export const PAPILLON_WINDOW_TIME: number = 60000;
 /** The desired number of data points to collect during the Papillon window time */
 export const NUM_DATA_POINTS: number = 1000;
 

@@ -1,15 +1,30 @@
 #!/bin/bash
 
-if [ $# -ne 2 ]; then
-    echo $0: usage: startPapillon pathToApacheScript pathToPapillonJar
+if [ $# -ne 4 ]; then
+    echo $0: usage: startPapillon pathToPapillonJar tag browserPath url
     exit 1
 fi
 
+echo "TAG = $2"
+echo "Browser = $3"
+echo "URL = $4"
+
 echo "starting apache server"
-sh "$1"
+sh ~/enterprise-papillon-v5.2/apache/bin/startup.sh &
 echo "allowing server to start..."
-sleep 5
+sleep 10
 echo "starting papillon..."
-java -jar "$2" &
+java -jar "$1" &
+PID=$!
+echo "$PID"
 sleep 5
-PAPILLON_TAG=CHROME ~/../../usr/bin/google-chrome-stable
+PAPILLON_TAG="$2" "$3"
+sleep 5
+echo "Navigating to $4"
+"$3" "$4"
+echo "sleeping for experiment duration"
+sleep 10
+sh ~/enterprise-papillon-v5.2/apache/bin/shutdown.sh
+kill $PID
+
+echo "Finished"

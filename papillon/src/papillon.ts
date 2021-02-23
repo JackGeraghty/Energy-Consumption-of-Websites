@@ -5,13 +5,13 @@ const request = require('request-promise-native');
 
 export class Papillon {
 
-    datacenterID: number;
-    floorID: number;
-    rackID: number;
-    hostID: number;
+    datacenterID: string;
+    floorID: string;
+    rackID: string;
+    hostID: string;
 
 
-    constructor(datacenterID: number, floorID: number, rackID: number, hostID: number) {
+    constructor(datacenterID: string, floorID: string, rackID: string, hostID: string) {
         this.datacenterID = datacenterID;
         this.floorID = floorID;
         this.rackID = rackID;
