@@ -2,7 +2,7 @@ import {delay, initializeDirs, millisToMinutesAndSeconds} from "../../common/uti
 import {loadURLS} from "../../common/util/toleranceUtils";
 import {UrlData} from "../../common/model/urlData";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
-import {RESULTS, SCRIPTS} from "../../common/util/constants";
+import {PAPILLON_WINDOW_TIME, RESULTS, SCRIPTS} from "../../common/util/constants";
 import {Papillon} from "./papillon";
 
 const yargs = require("yargs");
@@ -45,14 +45,6 @@ async function main() {
         process.exit(-1);
     }
 
-    /*
-        // Tag chrome as a process and allow for stabilization
-        await exec(`PAPILLON_TAG=CHROME ${browserPath} `, (err: Error, stdout: any, stderr: any) => {
-            if (stderr) console.error(stderr);
-            console.log(stdout);
-        });
-    */
-
     const papillon: Papillon = new Papillon("dc1", "fl1", "rack1", "vm1");
 
     for (const url of urls) {
@@ -61,8 +53,11 @@ async function main() {
 
         console.log(`Gathering metrics for ${url.url}`);
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
-        // Start the apache server and the Papillon client
-        const ex = spawn(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`, {stdio: 'inherit'});
+
+        const startTime:number = new Date().getTime();
+
+        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`);
+        ex.stdout.pipe(process.stdout);
 
         // exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`, (err: Error, stdout: any, stderr: any) => {
         //     if (err) throw err;
@@ -73,6 +68,8 @@ async function main() {
         await delay(30000);
 
         console.log("Querying ");
+        const result = await papillon.query(url, startTime + 25000, startTime + 25000 + PAPILLON_WINDOW_TIME);
+        console.log(JSON.stringify(result, null, 2));
         // const results: Array<PapillonResult> = [];
         // for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
         //     const startTime = new Date().getTime();
