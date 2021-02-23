@@ -18,12 +18,12 @@ export class Papillon {
         this.hostID = hostID;
     }
 
-    async query(urlData: UrlData, startTime: number, endTime: number): Promise<PapillonResult> {
+    async query(urlData: UrlData, startTime: number): Promise<PapillonResult> {
         let sTime = Math.floor(startTime / 1000);
-        let eTime = Math.floor(endTime / 1000);
-        const query = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${startTime}&endtime=${endTime}`;
+        let eTime = sTime + 61;
+        const query = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${sTime}&endtime=${eTime}`;
         let options = {
-            uri: "http://localhost:8080/PapillonServer/rest/".concat(query),
+            uri: "http://localhost:8080/papillonserver/rest/".concat(query),
             headers: {
                 "Content-Type": "application/json",
                 "Accept": "application/json"
@@ -32,11 +32,8 @@ export class Papillon {
         }
         try {
             let response = await request(options);
-            let power: number = response.activity.power;
-            let memory: number = response.activity.stat2;
-            let network: number = response.activity.stat3;
 
-            return new PapillonResult(urlData, power, memory, network);
+            return new PapillonResult(urlData, response);
         } catch (ex) {
             console.log(ex);
         }

@@ -1,4 +1,4 @@
-import {delay, initializeDirs, millisToMinutesAndSeconds} from "../../common/util/utils";
+import {delay, initializeDirs, millisToMinutesAndSeconds, replacer} from "../../common/util/utils";
 import {loadURLS} from "../../common/util/toleranceUtils";
 import {UrlData} from "../../common/model/urlData";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
@@ -59,11 +59,13 @@ async function main() {
         const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${HOME_PAGE} ${url.url}`);
         ex.stdout.pipe(process.stdout);
 
-        await delay(30000);
+        console.log("Waiting for experiment to run");
+        await delay(70000);
 
         console.log("Querying ");
-        const result = await papillon.query(url, startTime + 25000, startTime + 25000 + PAPILLON_WINDOW_TIME);
-        console.log(JSON.stringify(result, null, 2));
+        const result = await papillon.query(url, startTime + 25000);
+        console.log(JSON.stringify(result, replacer, 2));
+
         // const results: Array<PapillonResult> = [];
         // for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
         //     const startTime = new Date().getTime();
