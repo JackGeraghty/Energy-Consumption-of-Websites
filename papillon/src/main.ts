@@ -2,12 +2,12 @@ import {delay, initializeDirs, millisToMinutesAndSeconds} from "../../common/uti
 import {loadURLS} from "../../common/util/toleranceUtils";
 import {UrlData} from "../../common/model/urlData";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
-import {PAPILLON_WINDOW_TIME, RESULTS, SCRIPTS} from "../../common/util/constants";
+import {HOME_PAGE, PAPILLON_WINDOW_TIME, RESULTS, SCRIPTS} from "../../common/util/constants";
 import {Papillon} from "./papillon";
 
 const yargs = require("yargs");
 const {exec} = require("child_process");
-const spawn = require('child_process').spawn;
+
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
     "   / /  / __/ / /   / / / / | /| / /  / / \n" +
@@ -45,7 +45,7 @@ async function main() {
         process.exit(-1);
     }
 
-    const papillon: Papillon = new Papillon("dc1", "fl1", "rack1", "vm1");
+    const papillon: Papillon = new Papillon("dc1", "fl1", "rack1", "vm1(127.0.0.1)");
 
     for (const url of urls) {
         const rawFilename: string = url.webpageName.concat("_raw.json");
@@ -56,14 +56,8 @@ async function main() {
 
         const startTime:number = new Date().getTime();
 
-        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`);
+        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${HOME_PAGE} ${url.url}`);
         ex.stdout.pipe(process.stdout);
-
-        // exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`, (err: Error, stdout: any, stderr: any) => {
-        //     if (err) throw err;
-        //     if (stderr) console.error(stderr);
-        //     console.log(stdout);
-        // });
 
         await delay(30000);
 
