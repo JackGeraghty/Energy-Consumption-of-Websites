@@ -10,7 +10,7 @@ echo "Browser = $3"
 echo "URL = $4"
 
 echo "starting apache server"
-sh ~/enterprise-papillon-v5.2/apache/bin/startup.sh &
+sh ~/enterprise-papillon-v5.2/apache-tomcat-9.0.12/bin/startup.sh &
 echo "allowing server to start..."
 sleep 10
 echo "starting papillon..."
@@ -24,7 +24,7 @@ echo "Navigating to $4"
 "$3" "$4"
 echo "sleeping for experiment duration"
 sleep 10
-sh ~/enterprise-papillon-v5.2/apache/bin/shutdown.sh
+sh ~/enterprise-papillon-v5.2/apache-tomcat-9.0.12/bin/shutdown.sh
 kill $PID
 
 echo "Finished"

@@ -7,7 +7,7 @@ import {Papillon} from "./papillon";
 
 const yargs = require("yargs");
 const {exec} = require("child_process");
-
+const spawn = require('child_process').spawn;
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
     "   / /  / __/ / /   / / / / | /| / /  / / \n" +
@@ -40,27 +40,18 @@ async function main() {
     }
     const browserPath: string = args.browserPath;
 
-    if (!args.apache) {
-        console.error("No path to apache startup script specified, exiting");
-        process.exit(-1);
-    }
     if (!args.papillon) {
         console.error("No path to papillon jar specified, exiting");
         process.exit(-1);
     }
 
-    console.log("Starting Papillon server");
-    console.log(SCRIPTS);
-
-
-
-/*
-    // Tag chrome as a process and allow for stabilization
-    await exec(`PAPILLON_TAG=CHROME ${browserPath} `, (err: Error, stdout: any, stderr: any) => {
-        if (stderr) console.error(stderr);
-        console.log(stdout);
-    });
-*/
+    /*
+        // Tag chrome as a process and allow for stabilization
+        await exec(`PAPILLON_TAG=CHROME ${browserPath} `, (err: Error, stdout: any, stderr: any) => {
+            if (stderr) console.error(stderr);
+            console.log(stdout);
+        });
+    */
 
     const papillon: Papillon = new Papillon("dc1", "fl1", "rack1", "vm1");
 
@@ -71,11 +62,13 @@ async function main() {
         console.log(`Gathering metrics for ${url.url}`);
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
         // Start the apache server and the Papillon client
-        exec(`sh ${SCRIPTS}/startPapillon.sh ${args.apache} ${args.papillon}`, (err: Error, stdout: any, stderr: any) => {
-            if (err) throw err;
-            if (stderr) console.error(stderr);
-            console.log(stdout);
-        });
+        const ex = spawn(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`, {stdio: 'inherit'});
+
+        // exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${url.url}`, (err: Error, stdout: any, stderr: any) => {
+        //     if (err) throw err;
+        //     if (stderr) console.error(stderr);
+        //     console.log(stdout);
+        // });
 
         await delay(30000);
 
