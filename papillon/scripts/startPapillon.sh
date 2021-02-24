@@ -20,10 +20,10 @@ PID=$!
 echo "$PID"
 sleep 5
 PAPILLON_TAG="$2" "$3 --remote-debugging-port=21222" &
-sleep 10
-"$3" "$5" &
+sleep 30
+
 echo "sleeping for experiment duration"
-sleep 60
+sleep 80
 sh ~/enterprise-papillon-v5.2/apache-tomcat-9.0.12/bin/shutdown.sh &
 kill $PID
 pkill chrome

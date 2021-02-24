@@ -2,7 +2,7 @@ import {COMPLETED_URLS_PATH, FAILED_URLS_PATH, URLS_PATH} from "./constants";
 import {loadFileAsJson} from "./utils";
 const fs = require('fs');
 
-export function loadURLS(): [Array<string>, Array<string>, Array<string>] {
+export function loadURLS(urlPath: string = URLS_PATH): [Array<string>, Array<string>, Array<string>] {
     if (!fs.existsSync(COMPLETED_URLS_PATH)) {
         fs.writeFileSync(COMPLETED_URLS_PATH, "[]", (err: Error) => {
             if (err) console.error(err);
@@ -16,7 +16,7 @@ export function loadURLS(): [Array<string>, Array<string>, Array<string>] {
     }
     let failedURLs: Array<string> = loadFileAsJson(FAILED_URLS_PATH);
 
-    const fullUrls: Array<string> = loadFileAsJson(URLS_PATH);
+    const fullUrls: Array<string> = loadFileAsJson(urlPath);
 
     if (failedURLs.length == 0 && completeURLs.length == 0) {
         console.log("No failed or completed urls, returning full set of urls");

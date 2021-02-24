@@ -35,7 +35,7 @@ export async function postprocessPageSpeed(results: Array<PageSpeedResult>): Pro
 }
 
 export async function postprocessPapillon(results: Array<PapillonResult>): Promise<AggregatedPapillonResult> {
-    const power = buildMapResult(results.map(res => res.powerConsumption));
+    const power = buildMapResult(results.map(res => res.power));
     const network = buildMapResult(results.map(res => res.network));
     const memory = buildMapResult(results.map(res => res.memory));
 

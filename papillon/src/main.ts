@@ -1,8 +1,15 @@
-import {delay, initializeDirs, millisToMinutesAndSeconds, replacer} from "../../common/util/utils";
-import {loadURLS} from "../../common/util/toleranceUtils";
+import {delay, initializeDirs, millisToMinutesAndSeconds, replacer, writeToFle} from "../../common/util/utils";
+import {loadURLS, updateFile} from "../../common/util/toleranceUtils";
 import {UrlData} from "../../common/model/urlData";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
-import {HOME_PAGE, PAPILLON_WINDOW_TIME, RESULTS, SCRIPTS} from "../../common/util/constants";
+import {
+    COMPLETED_URLS_PATH, FAILED_URLS_PATH,
+    HOME_PAGE,
+    PAPILLON_WINDOW_TIME,
+    pathToBrowserExecutable,
+    RESULTS,
+    SCRIPTS
+} from "../../common/util/constants";
 import {Papillon} from "./papillon";
 
 const yargs = require("yargs");
@@ -22,6 +29,8 @@ const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS();
 const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
 const completed: Array<string> = urlData[1];
 const failed: Array<string> = urlData[2];
+const puppeteer = require('puppeteer-core');
+const phone = puppeteer.devices['iPhone X'];
 
 let startTime: Date = new Date();
 console.log(`Start time: ${startTime.getHours()}:${startTime.getMinutes()}:${startTime.getSeconds()}`);
@@ -29,86 +38,79 @@ process.on('exit', () => {
     let endTime: Date = new Date();
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
+const request = require('request-promise-native');
+
 main();
 
 async function main() {
+    let doMobile: boolean = false;
+
     let args = yargs.argv;
 
     if (!args.browserPath) {
         console.error("No browser path specified, exiting");
         process.exit(-1);
     }
-    const browserPath: string = args.browserPath;
+    const browserPath: string = pathToBrowserExecutable;
 
     if (!args.papillon) {
         console.error("No path to papillon jar specified, exiting");
         process.exit(-1);
     }
 
+    if (args.doMobile) {
+
+        doMobile = args.doMobile == 'true';
+    }
     const papillon: Papillon = new Papillon("267", "291", "294", "284");
 
     for (const url of urls) {
+
+        const startTime: number = Date.now();
+        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${HOME_PAGE} ${url.url}`);
+        ex.stdout.pipe(process.stdout);
+
+        // Allow browser to start
+        await delay(20000);
+
+        // To open up in the existing browser created by PAPILLON_TAG
+        const endpointData = await request("http://127.0.0.1:21222/json/version", {json: true});
+        const endpoint = endpointData.webSocketDebuggerUrl;
+        const browser = await puppeteer.connect({browserWSEndpoint: endpoint, defaultViewport: null});
+
         const rawFilename: string = url.webpageName.concat("_raw.json");
-        const aggregatedFileName: string = url.webpageName.concat("_agg.json");
+        // const aggregatedFileName: string = url.webpageName.concat("_agg.json");
 
         console.log(`Gathering metrics for ${url.url}`);
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
 
-        const startTime:number = Date.now();
+        // waiting to align with script
+        await delay(25000);
 
-        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${HOME_PAGE} ${url.url}`);
-        ex.stdout.pipe(process.stdout);
+        const page = await browser.newPage();
+        await page.setDefaultNavigationTimeout(0);
+        await page.setCacheEnabled(false);
+        if (doMobile) {
+            await page.emulate(phone);
+        }
+
+        page.goto(url.url);
 
         console.log("Waiting for experiment to run");
-        await delay(70000);
+        await delay(65000);
 
         console.log("Querying ");
-        const result = await papillon.query(url, startTime + 25000);
-        console.log(JSON.stringify(result, replacer, 2));
+        const result = await papillon.query(url, startTime + 45000);
+        if (result != null) {
+            writeToFle(resultsPath, rawFilename, result).then(() => console.log(`Finished writing results to file ${resultsPath}/${rawFilename}`));
+            completed.push(url.originalURL);
+            updateFile(JSON.stringify(completed, replacer, 2), COMPLETED_URLS_PATH);
+        } else {
+            failed.push(url.originalURL);
+            updateFile(JSON.stringify(failed, replacer, 2), FAILED_URLS_PATH);
+        }
 
-        // const results: Array<PapillonResult> = [];
-        // for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
-        //     const startTime = new Date().getTime();
-        //     console.log(`\tStart time for iteration ${i + 1} of ${url.originalURL} = ${startTime}`);
-        //
-        //     //navigate to the page
-        //     try {
-        //         await exec(`sh ${SCRIPTS}/navigateTo.sh ${browserPath} ${url.url}`, (err: Error, stdout: any, stderr: any) => {
-        //             if (err) throw err;
-        //             if (stderr) console.error(stderr);
-        //             console.log(stdout);
-        //         });
-        //         console.log("Allowing webpage to load...");
-        //         await delay(PAPILLON_WINDOW_TIME);
-        //         // navigate back to home and allow stabilization
-        //         await exec(`sh ${SCRIPTS}/navigateTo.sh ${browserPath} ${HOME_PAGE}`, (err: Error, stdout: any, stderr: any) => {
-        //             if (err) throw err;
-        //             if (stderr) console.error(stderr);
-        //             console.log(stdout);
-        //         });
-        //         // Start taking data since it can just run in the background while the following await delay occurs
-        //         papillon.query(url, startTime, startTime + PAPILLON_WINDOW_TIME).then(res => {
-        //             if (!!res) {
-        //                 results.push(res);
-        //             } else {
-        //                 throw "Null result returned from Query";
-        //             }
-        //         });
-        //         console.log("Waiting for browser stabilization...")
-        //         // Allow for the browser to stabilize again at the home page
-        //         await delay(PAPILLON_WINDOW_TIME);
-        //     } catch (ex) {
-        //         failed.push(url.originalURL);
-        //         updateFile(JSON.stringify(failed, replacer, 2), FAILED_URLS_PATH);
-        //         break;
-        //     }
-        // }
-        //
-        // writeToFle(resultsPath, rawFilename, results).then(() => console.log("Finished writing data to " + resultsPath.concat(rawFilename)));
-        // postprocessPapillon(results)
-        //     .then(res => writeToFle(resultsPath, aggregatedFileName, res)
-        //         .then(() => console.log("Finished writing data to " + resultsPath.concat(rawFilename))));
-        // completed.push(url.originalURL);
-        // updateFile(JSON.stringify(completed, replacer, 2), COMPLETED_URLS_PATH)
+        // Give time for the server to shutdown properly
+        await delay(10000);
     }
 }

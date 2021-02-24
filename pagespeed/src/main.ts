@@ -40,7 +40,7 @@ initializeDirs();
 main();
 
 async function main(): Promise<void> {
-    const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS();
+    const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS("resources/urls_retry.json");
     const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
     const complete: Array<string> = urlData[1];
     const failed: Array<string> = urlData[2];
