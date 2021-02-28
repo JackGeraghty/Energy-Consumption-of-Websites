@@ -59,12 +59,13 @@ async function main() {
     for (const url of urls) {
 
         const startTime: number = Date.now();
+        console.log("Starting Papillon Script")
         const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} Fire ${browserPath} ${HOME_PAGE} ${url.url}`);
         ex.stdout.pipe(process.stdout);
 
         // Allow browser to start
         await delay(25000);
-
+        console.log("Attempting to connect to browser");
         // To open up in the existing browser created by PAPILLON_TAG
         const endpointData = await request("http://127.0.0.1:21222/json/version", {json: true});
         const endpoint = endpointData.webSocketDebuggerUrl;
@@ -73,7 +74,6 @@ async function main() {
         const rawFilename: string = url.webpageName.concat("_raw.json");
         // const aggregatedFileName: string = url.webpageName.concat("_agg.json");
 
-        console.log(`Gathering metrics for ${url.url}`);
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
 
         // waiting to align with script
@@ -85,7 +85,7 @@ async function main() {
         if (doMobile) {
             await page.emulate(phone);
         }
-
+        console.log(`Launching ${url.url}`);
         page.goto(url.url);
 
         console.log("Waiting for experiment to run");
