@@ -33,7 +33,9 @@ export class Papillon {
         };
 
         try {
-            const activityResponse = await request(getOptions(activityQuery));
+            const activityResponse = await request(getOptions(activityQuery), (err: Error, req: any, body: any) => {
+                if (err) console.log(err);
+            });
             let result: PapillonResult;
             if (activityResponse != null) {
                 let power = 0.0;

@@ -53,13 +53,12 @@ async function main() {
 
     for (const url of urls) {
 
-        const startTime: number = Date.now();
         console.log("Starting Papillon Script")
         const ex = exec(`sh ${SCRIPTS}/startPapillon.sh Fire ${browserPath}`);
         ex.stdout.pipe(process.stdout);
 
         // Allow browser to start
-        await delay(25000);
+        await delay(30000);
         console.log("Attempting to connect to browser");
         // To open up in the existing browser created by PAPILLON_TAG
         const endpointData = await request("http://127.0.0.1:21222/json/version", {json: true});
@@ -72,7 +71,7 @@ async function main() {
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
         console.log("Waiting to align with script");
         // waiting to align with script
-        await delay(25000);
+        await delay(20000);
 
         const page = await browser.newPage();
         await page.setDefaultNavigationTimeout(0);
@@ -81,13 +80,14 @@ async function main() {
             await page.emulate(phone);
         }
         console.log(`Launching ${url.url}`);
+        const startTime: number = Date.now();
         page.goto(url.url);
 
         console.log("Waiting for experiment to run");
         await delay(65000);
 
         console.log("Querying ");
-        const result = await papillon.query(url, startTime + 50000);
+        const result = await papillon.query(url, startTime);
         if (result != null) {
             const postRequest = {
                 uri: ec2Instance,
