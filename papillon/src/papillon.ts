@@ -33,11 +33,14 @@ export class Papillon {
         };
 
         try {
-            const activityResponse = await request(getOptions(activityQuery), (err: Error, req: any, body: any) => {
+            const activityResponse = await request(getOptions(activityQuery), (err: any, req: any, body: any) => {
                 if (err) console.log(err);
+                console.log(body);
             });
             let result: PapillonResult;
+            console.log("Activity Response: " + activityResponse != null);
             if (activityResponse != null) {
+                console.log("Received response");
                 let power = 0.0;
                 let network = 0.0;
                 let memory = 0.0;
@@ -48,16 +51,7 @@ export class Papillon {
                 }
                 result = new PapillonResult(urlData, power, network, memory);
                 console.log(JSON.stringify(result, null, 2));
-            }
-
-
-            if (result) {
-                console.log("--ACTIVITY--");
-                console.log(JSON.stringify(result, null, 2));
                 return result;
-            } else {
-                console.log("Missing a query response");
-                console.log(`Activity: ${result != null}`);
             }
 
         } catch (ex) {

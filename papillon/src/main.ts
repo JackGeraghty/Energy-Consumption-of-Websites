@@ -64,7 +64,7 @@ async function main() {
         const endpointData = await request("http://127.0.0.1:21222/json/version", {json: true});
         const endpoint = endpointData.webSocketDebuggerUrl;
         const browser = await puppeteer.connect({browserWSEndpoint: endpoint, defaultViewport: null});
-
+        console.log("Connected to browser");
         const rawFilename: string = url.webpageName.concat("_raw.json");
         // const aggregatedFileName: string = url.webpageName.concat("_agg.json");
 
@@ -79,15 +79,16 @@ async function main() {
         if (doMobile) {
             await page.emulate(phone);
         }
-        console.log(`Launching ${url.url}`);
-        const startTime: number = Date.now();
+        const sTime: number = Date.now();
+
+        console.log(`Launching ${url.url}, timestamp=${sTime}`);
         page.goto(url.url);
 
         console.log("Waiting for experiment to run");
         await delay(65000);
 
         console.log("Querying ");
-        const result = await papillon.query(url, startTime);
+        const result = await papillon.query(url, sTime);
         if (result != null) {
             const postRequest = {
                 uri: ec2Instance,
