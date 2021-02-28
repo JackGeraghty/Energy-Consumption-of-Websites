@@ -2,14 +2,7 @@ import {delay, initializeDirs, millisToMinutesAndSeconds, replacer, writeToFle} 
 import {loadURLS, updateFile} from "../../common/util/toleranceUtils";
 import {UrlData} from "../../common/model/urlData";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
-import {
-    COMPLETED_URLS_PATH, FAILED_URLS_PATH,
-    HOME_PAGE,
-    PAPILLON_WINDOW_TIME,
-    pathToBrowserExecutable,
-    RESULTS,
-    SCRIPTS
-} from "../../common/util/constants";
+import {COMPLETED_URLS_PATH, FAILED_URLS_PATH, HOME_PAGE, RESULTS, SCRIPTS} from "../../common/util/constants";
 import {Papillon} from "./papillon";
 
 const yargs = require("yargs");
@@ -25,7 +18,7 @@ console.log("     __   ________________ _       __   __\n" +
 console.log("Initializing experiment environment");
 initializeDirs();
 
-const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS();
+const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS("resources/urls.txt");
 const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
 const completed: Array<string> = urlData[1];
 const failed: Array<string> = urlData[2];
@@ -51,7 +44,7 @@ async function main() {
         console.error("No browser path specified, exiting");
         process.exit(-1);
     }
-    const browserPath: string = pathToBrowserExecutable;
+    const browserPath: string = args.browserPath;
 
     if (!args.papillon) {
         console.error("No path to papillon jar specified, exiting");
@@ -59,7 +52,6 @@ async function main() {
     }
 
     if (args.doMobile) {
-
         doMobile = args.doMobile == 'true';
     }
     const papillon: Papillon = new Papillon("267", "291", "294", "284");
@@ -67,11 +59,11 @@ async function main() {
     for (const url of urls) {
 
         const startTime: number = Date.now();
-        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} chrome-test ${browserPath} ${HOME_PAGE} ${url.url}`);
+        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} Fire ${browserPath} ${HOME_PAGE} ${url.url}`);
         ex.stdout.pipe(process.stdout);
 
         // Allow browser to start
-        await delay(20000);
+        await delay(25000);
 
         // To open up in the existing browser created by PAPILLON_TAG
         const endpointData = await request("http://127.0.0.1:21222/json/version", {json: true});
@@ -111,6 +103,6 @@ async function main() {
         }
 
         // Give time for the server to shutdown properly
-        await delay(10000);
+        await delay(45000);
     }
 }

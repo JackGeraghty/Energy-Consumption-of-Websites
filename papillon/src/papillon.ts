@@ -20,7 +20,6 @@ export class Papillon {
         const sTime = Math.floor(startTime / 1000);
         const eTime = sTime + 61;
         const activityQuery = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${sTime}&endtime=${eTime}`;
-        const powerQuery = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/power/taggedapp?starttime=${sTime}&endtime=${eTime}`;
 
         const getOptions = (query: string) => {
             return {
@@ -35,9 +34,7 @@ export class Papillon {
 
         try {
             const activityResponse = await request(getOptions(activityQuery));
-            const powerResponse = await request(getOptions(powerQuery));
             let result: PapillonResult;
-            let powerResult: PapillonResult;
             if (activityResponse != null) {
                 let power = 0.0;
                 let network = 0.0;
@@ -51,20 +48,14 @@ export class Papillon {
                 console.log(JSON.stringify(result, null, 2));
             }
 
-            if (powerResponse != null) {
-                let power: number = 0;
-                powerResult = new PapillonResult(urlData, power, 0,0)
-            }
 
-            if (result && powerResult) {
+            if (result) {
                 console.log("--ACTIVITY--");
                 console.log(JSON.stringify(result, null, 2));
-                console.log("\n--APP--");
-                console.log(JSON.stringify(powerResult, null, 2));
                 return result;
             } else {
                 console.log("Missing a query response");
-                console.log(`Activity: ${result != null}\nPower: ${powerResult != null}`);
+                console.log(`Activity: ${result != null}`);
             }
 
         } catch (ex) {

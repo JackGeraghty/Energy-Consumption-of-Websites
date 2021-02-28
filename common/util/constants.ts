@@ -1,7 +1,7 @@
 //////////////////////////////////
 //      GENERAL CONSTANTS     //
 //////////////////////////////////
-export const URLS_PATH: string = "resources/urls.txt";
+export const URLS_PATH: string = "resources/urls_500.json";
 export const COMPLETED_URLS_PATH:string = "resources/complete.json";
 export const FAILED_URLS_PATH:string = "resources/failed.json";
 
