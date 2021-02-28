@@ -40,9 +40,9 @@ export class Papillon {
                 let network = 0.0;
                 let memory = 0.0;
                 for (const response of activityResponse.activity) {
-                    power += response.power;
-                    network += response.stat2;
-                    memory += response.stat3;
+                    power += +response.power;
+                    network += +response.stat2;
+                    memory += +response.stat3;
                 }
                 result = new PapillonResult(urlData, power, network, memory);
                 console.log(JSON.stringify(result, null, 2));

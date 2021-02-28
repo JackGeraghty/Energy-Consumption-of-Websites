@@ -32,7 +32,7 @@ process.on('exit', () => {
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
 const request = require('request-promise-native');
-
+const ec2Instance = "http://ec2-52-49-205-141.eu-west-1.compute.amazonaws.com:3000";
 main();
 
 async function main() {
@@ -70,7 +70,7 @@ async function main() {
         // const aggregatedFileName: string = url.webpageName.concat("_agg.json");
 
         const resultsPath: string = RESULTS.concat(`${url.webpageName}/`);
-
+        console.log("Waiting to align with script");
         // waiting to align with script
         await delay(25000);
 
@@ -87,14 +87,29 @@ async function main() {
         await delay(65000);
 
         console.log("Querying ");
-        const result = await papillon.query(url, startTime + 45000);
+        const result = await papillon.query(url, startTime + 50000);
         if (result != null) {
-            writeToFle(resultsPath, rawFilename, result).then(() => console.log(`Finished writing results to file ${resultsPath}/${rawFilename}`));
-            completed.push(url.originalURL);
-            updateFile(JSON.stringify(completed, replacer, 2), COMPLETED_URLS_PATH);
+            const postRequest = {
+                uri: ec2Instance,
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Accept": "application/json"
+                },
+                json: result,
+            }
+            request.post(postRequest,function (error:any, response:any, body:any) {
+                if (!error && response.statusCode == 200) {
+                    console.log(body);
+                } else {
+                    console.log(error);
+                }
+            });
+            // writeToFle(resultsPath, rawFilename, result).then(() => console.log(`Finished writing results to file ${resultsPath}/${rawFilename}`));
+            // completed.push(url.originalURL);
+            // updateFile(JSON.stringify(completed, replacer, 2), COMPLETED_URLS_PATH);
         } else {
-            failed.push(url.originalURL);
-            updateFile(JSON.stringify(failed, replacer, 2), FAILED_URLS_PATH);
+            console.log(`Failed current url ${url.url}`);
         }
 
         // Give time for the server to shutdown properly

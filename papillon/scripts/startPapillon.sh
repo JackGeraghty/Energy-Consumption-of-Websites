@@ -16,8 +16,8 @@ java -jar ~/enterprise-papillon-v5.2/papillon_client/client.jar &
 PID=$!
 echo "$PID"
 sleep 10
-echo "Tagging $3"
-PAPILLON_TAG="$2" "$3" --remote-debugging-port=21222 &
+echo Tagging "$2"
+PAPILLON_TAG="$1" "$2" --remote-debugging-port=21222 -private &
 sleep 30
 echo "sleeping for experiment duration"
 sleep 80
