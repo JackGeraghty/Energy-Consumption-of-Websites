@@ -46,11 +46,6 @@ async function main() {
     }
     const browserPath: string = args.browserPath;
 
-    if (!args.papillon) {
-        console.error("No path to papillon jar specified, exiting");
-        process.exit(-1);
-    }
-
     if (args.doMobile) {
         doMobile = args.doMobile == 'true';
     }
@@ -60,7 +55,7 @@ async function main() {
 
         const startTime: number = Date.now();
         console.log("Starting Papillon Script")
-        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh ${args.papillon} Fire ${browserPath} ${HOME_PAGE} ${url.url}`);
+        const ex = exec(`sh ${SCRIPTS}/startPapillon.sh Fire ${browserPath}`);
         ex.stdout.pipe(process.stdout);
 
         // Allow browser to start

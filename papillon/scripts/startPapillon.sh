@@ -7,7 +7,6 @@ fi
 
 echo "TAG = $1"
 echo "Browser = $2"
-
 echo "starting apache server"
 sh ~/enterprise-papillon-v5.2/apache-tomcat-9.0.12/bin/startup.sh &
 echo "allowing server to start..."
@@ -20,7 +19,6 @@ sleep 10
 echo "Tagging $3"
 PAPILLON_TAG="$2" "$3" --remote-debugging-port=21222 &
 sleep 30
-
 echo "sleeping for experiment duration"
 sleep 80
 sh ~/enterprise-papillon-v5.2/apache-tomcat-9.0.12/bin/shutdown.sh &
