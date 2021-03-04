@@ -32,8 +32,10 @@ process.on('exit', () => {
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
 
-main().then(()=> console.log("Finished running experiment"));
-process.exit(0);
+main().then(()=> {
+    console.log("Finished running experiment");
+    process.exit(0);
+});
 async function main() {
     let doMobile: boolean = false;
 
