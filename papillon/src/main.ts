@@ -74,7 +74,7 @@ async function main() {
     await delay(10000);
 
     console.log(`Tagging ${browser}`);
-    const tagProcess = exec(`PAPILLON_TAG=${tag} ${browser}`);
+    const tagProcess = exec(`PAPILLON_TAG=${tag} ${browser} --remote-debugging-port=21222 --private`);
     tagProcess.stdout.pipe(process.stdout);
     console.log("Allowing browser to start");
 
@@ -96,6 +96,8 @@ async function main() {
     // Close any other tab that isn't the home page
     await (await controlledBrowser.pages())[0].close();
 
+    console.log("Waiting for a decent amount of time to let things start properly");
+    await delay(120000);
     for (const url of urls) {
         // delay to allow browser stabilization at the homepage
         await delay(30000);
@@ -140,10 +142,11 @@ async function main() {
 
     console.log("Finished taking data, shutting down");
 
-    await exec(`sh ${APACHE_SHUTDOWN}`);
+    const shutdownProcess = exec(`sh ${APACHE_SHUTDOWN}`);
+    shutdownProcess.stdout.pipe(process.stdout);
     await delay(2000);
     console.log("Killing Tag process");
-    tagProcess.kill('SIGINT');
+    tagProcess.kill();
     console.log("Killing Papillon client");
-    papillonProcess.kill('SIGINT');
+    papillonProcess.kill();
 }
