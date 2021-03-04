@@ -36,61 +36,60 @@ export class Papillon {
         };
 
         try {
-            const activityResponse = await request(getOptions(activityQuery), (err: any, req: any, body: any) => {
+            await request(getOptions(activityQuery), (err: any, req: any, body: any) => {
                 if (err) {
-                    console.log(err);
+                    console.log(`Error: ${err}`);
                     return null;
                 }
                 // console.log(body);
                 let result: PapillonResult;
-                console.log("Activity Response: " + activityResponse != null);
-                if (activityResponse != null) {
-                    console.log("Received response");
-                    let power: number = 0.0;
-                    let network: number = 0.0;
-                    let memory: number = 0.0;
 
-                    let powerSeries: Array<[number, number]> = [];
-                    let networkSeries: Array<[number, number]> = [];
-                    let memorySeries: Array<[number, number]> = [];
-                    console.log("------------------------------------");
-                    for (const response of body) {
-                        console.log(response)
-                        power += +response.power;
-                        network += +response.stat2;
-                        memory += +response.stat3;
-                        powerSeries.push([+response.power, +response.timestamp]);
-                        networkSeries.push([+response.stat2, +response.timestamp]);
-                        memorySeries.push([+response.stat3, +response.timestamp]);
-                    }
-                    console.log("------------------------------------");
-                    result = new PapillonResult(urlData, power, network, memory, powerSeries, networkSeries, memorySeries, this.isMobile);
-                    if (result) {
-                        console.log("Result received");
-                        console.log(JSON.stringify(result, replacer, 2));
-                        const postRequest = {
-                            uri: RESULTS_SERVER,
-                            method: "POST",
-                            headers: {
-                                "Content-Type": "application/json",
-                                "Accept": "application/json"
-                            },
-                            json: result,
-                        }
-                        console.log("Sending result to results server");
-                        request.post(postRequest, function (error: any, response: any, body: any) {
-                            if (!error && response.statusCode == 200) {
-                                console.log(body);
-                            } else {
-                                console.log(error);
-                            }
-                        });
-                    } else {
-                        console.log("No result, something went wrong :(");
-                    }
-                    console.log(JSON.stringify(result, null, 2));
-                    return result;
+                console.log("Received response");
+                let power: number = 0.0;
+                let network: number = 0.0;
+                let memory: number = 0.0;
+
+                let powerSeries: Array<[number, number]> = [];
+                let networkSeries: Array<[number, number]> = [];
+                let memorySeries: Array<[number, number]> = [];
+                console.log("------------------------------------");
+                for (const response of body) {
+                    console.log(response)
+                    power += +response.power;
+                    network += +response.stat2;
+                    memory += +response.stat3;
+                    powerSeries.push([+response.power, +response.timestamp]);
+                    networkSeries.push([+response.stat2, +response.timestamp]);
+                    memorySeries.push([+response.stat3, +response.timestamp]);
                 }
+                console.log("------------------------------------");
+                result = new PapillonResult(urlData, power, network, memory, powerSeries, networkSeries, memorySeries, this.isMobile);
+                if (result) {
+                    console.log("Result received");
+                    console.log(JSON.stringify(result, replacer, 2));
+                    const postRequest = {
+                        uri: RESULTS_SERVER,
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "Accept": "application/json"
+                        },
+                        json: result,
+                    }
+                    console.log("Sending result to results server");
+                    request.post(postRequest, function (error: any, response: any, body: any) {
+                        if (!error && response.statusCode == 200) {
+                            console.log(body);
+                        } else {
+                            console.log(error);
+                        }
+                    });
+                } else {
+                    console.log("No result, something went wrong :(");
+                }
+                console.log(JSON.stringify(result, null, 2));
+                return result;
+
             });
 
 

@@ -33,7 +33,7 @@ process.on('exit', () => {
 });
 
 main().then(()=> console.log("Finished running experiment"));
-
+process.exit(0);
 async function main() {
     let doMobile: boolean = false;
 
@@ -85,7 +85,6 @@ async function main() {
 
         console.log("Querying Papillon Master Node");
         await papillon.query(url, sTime);
-
     }
 
     console.log("Finished taking data, shutting down");
