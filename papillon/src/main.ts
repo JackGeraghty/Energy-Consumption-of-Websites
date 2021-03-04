@@ -7,16 +7,8 @@ import {Papillon} from "./papillon";
 import {PapillonResult} from "../../common/model/papillonResult";
 
 const yargs = require("yargs");
-const {exec} = require("child_process");
 const request = require('request-promise-native');
 const puppeteer = require('puppeteer-core');
-
-const PAPILLON_DIR = "~/enterprise-papillon-v5.2/"
-
-const APACHE_STARTUP: string = PAPILLON_DIR + "apache-tomcat-9.0.12/bin/startup.sh";
-const APACHE_SHUTDOWN: string = PAPILLON_DIR + "\"apache-tomcat-9.0.12/bin/shutdown.sh";
-
-const PAPILLON_CLIENT: string = PAPILLON_DIR + "papillon_client/client.jar";
 
 const RESULTS_SERVER: string = "http://ec2-52-49-205-141.eu-west-1.compute.amazonaws.com:3000";
 
@@ -48,42 +40,23 @@ async function main() {
 
     let args = yargs.argv;
 
-    if (!args.browser) {
-        console.error("No browser path specified, exiting");
-        process.exit(-1);
-    }
-    const browser: string = args.browser;
-
-    const tag: string = args.tag ? args.tag : "T1";
-
     if (args.doMobile) {
         doMobile = args.doMobile == 'true';
     }
     const papillon: Papillon = new Papillon("267", "291", "294", "284", doMobile);
 
-    // Start master node and give time for startup
-    const apacheProcess = await exec(`sh ${APACHE_STARTUP}`);
-    apacheProcess.stdout.pipe(process.stdout);
-    console.log("Allowing server to start")
-    await delay(10000);
-
-    console.log("Starting Papillon Client Node");
-    const papillonProcess = exec(`java -jar ${PAPILLON_CLIENT}`);
-    papillonProcess.stdout.pipe(process.stdout);
-    console.log("Allow Papillon Client to start");
-    await delay(10000);
-
-    console.log(`Tagging ${browser}`);
-    const tagProcess = exec(`PAPILLON_TAG=${tag} ${browser} --remote-debugging-port=21222 --private`);
-    tagProcess.stdout.pipe(process.stdout);
-    console.log("Allowing browser to start");
-
-    await delay(10000);
     console.log("Attempting to connect to browser");
     // To open up in the existing browser created by PAPILLON_TAG
     const endpointData = await request("http://127.0.0.1:21222/json/version", {json: true});
     const endpoint = endpointData.webSocketDebuggerUrl;
-    const controlledBrowser = await puppeteer.connect({browserWSEndpoint: endpoint, defaultViewport: null});
+    let controlledBrowser;
+    try {
+        controlledBrowser = await puppeteer.connect({browserWSEndpoint: endpoint, defaultViewport: null});
+    } catch (ex) {
+        console.log(ex);
+        console.log("Failed to connect to browser exiting");
+        process.exit(1);
+    }
     console.log("Connected to browser");
 
     // Create a page to work with and remove the landing page
@@ -141,12 +114,4 @@ async function main() {
     }
 
     console.log("Finished taking data, shutting down");
-
-    const shutdownProcess = exec(`sh ${APACHE_SHUTDOWN}`);
-    shutdownProcess.stdout.pipe(process.stdout);
-    await delay(2000);
-    console.log("Killing Tag process");
-    tagProcess.kill();
-    console.log("Killing Papillon client");
-    papillonProcess.kill();
 }
