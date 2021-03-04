@@ -10,7 +10,6 @@ const yargs = require("yargs");
 const request = require('request-promise-native');
 const puppeteer = require('puppeteer-core');
 
-const RESULTS_SERVER: string = "http://ec2-52-49-205-141.eu-west-1.compute.amazonaws.com:3000";
 
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
@@ -69,8 +68,6 @@ async function main() {
     // Close any other tab that isn't the home page
     await (await controlledBrowser.pages())[0].close();
 
-    console.log("Waiting for a decent amount of time to let things start properly");
-    await delay(120000);
     for (const url of urls) {
         // delay to allow browser stabilization at the homepage
         await delay(30000);
@@ -87,30 +84,8 @@ async function main() {
         await delay(5000);
 
         console.log("Querying Papillon Master Node");
-        const result: PapillonResult = await papillon.query(url, sTime);
-        if (result) {
-            console.log("Result received");
-            console.log(JSON.stringify(result, replacer, 2));
-            const postRequest = {
-                uri: RESULTS_SERVER,
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json",
-                    "Accept": "application/json"
-                },
-                json: result,
-            }
-            console.log("Sending result to results server");
-            request.post(postRequest, function (error: any, response: any, body: any) {
-                if (!error && response.statusCode == 200) {
-                    console.log(body);
-                } else {
-                    console.log(error);
-                }
-            });
-        } else {
-            console.log("No result, something went wrong :(");
-        }
+        await papillon.query(url, sTime);
+
     }
 
     console.log("Finished taking data, shutting down");

@@ -1,7 +1,9 @@
 import {PapillonResult} from "../../common/model/papillonResult";
 import {UrlData} from "../../common/model/urlData";
+import {replacer} from "../../common/util/utils";
 
 const request = require('request-promise-native');
+const RESULTS_SERVER: string = "http://34.242.194.30:3000";
 
 export class Papillon {
     datacenterID: string;
@@ -49,8 +51,9 @@ export class Papillon {
                 let powerSeries: Array<[number, number]> = [];
                 let networkSeries: Array<[number, number]> = [];
                 let memorySeries: Array<[number, number]> = [];
-
+                console.log("------------------------------------");
                 for (const response of activityResponse.activity) {
+                    console.log(response)
                     power += +response.power;
                     network += +response.stat2;
                     memory += +response.stat3;
@@ -58,7 +61,31 @@ export class Papillon {
                     networkSeries.push([+response.stat2, +response.timestamp]);
                     memorySeries.push([+response.stat3, +response.timestamp]);
                 }
+                console.log("------------------------------------");
                 result = new PapillonResult(urlData, power, network, memory, powerSeries, networkSeries, memorySeries, this.isMobile);
+                if (result) {
+                    console.log("Result received");
+                    console.log(JSON.stringify(result, replacer, 2));
+                    const postRequest = {
+                        uri: RESULTS_SERVER,
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "Accept": "application/json"
+                        },
+                        json: result,
+                    }
+                    console.log("Sending result to results server");
+                    request.post(postRequest, function (error: any, response: any, body: any) {
+                        if (!error && response.statusCode == 200) {
+                            console.log(body);
+                        } else {
+                            console.log(error);
+                        }
+                    });
+                } else {
+                    console.log("No result, something went wrong :(");
+                }
                 console.log(JSON.stringify(result, null, 2));
                 return result;
             }
