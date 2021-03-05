@@ -1,6 +1,4 @@
-import {PapillonResult} from "../../common/model/papillonResult";
 import {UrlData} from "../../common/model/urlData";
-import {replacer} from "../../common/util/utils";
 
 const request = require('request-promise-native');
 
@@ -35,15 +33,13 @@ export class Papillon {
         };
 
         try {
-            await request(getOptions(activityQuery), (err: any, req: any, body: any) => {
+            return await request(getOptions(activityQuery), (err: any, req: any, body: any) => {
                 if (err) {
                     console.log(`Error: ${err}`);
                     return null;
                 }
-                let result: PapillonResult;
                 console.log(body);
                 console.log("Received response");
-                return body;
             });
         } catch (ex) {
             console.log(ex);
