@@ -3,7 +3,6 @@ import {UrlData} from "../../common/model/urlData";
 import {replacer} from "../../common/util/utils";
 
 const request = require('request-promise-native');
-const RESULTS_SERVER: string = "http://54.171.228.49:3000";
 
 export class Papillon {
     datacenterID: string;
@@ -20,7 +19,7 @@ export class Papillon {
         this.isMobile = isMobile;
     }
 
-    async query(urlData: UrlData, startTime: number): Promise<PapillonResult> {
+    async query(urlData: UrlData, startTime: number): Promise<string> {
         const endTime = startTime + 65;
         const activityQuery = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${startTime}&endtime=${endTime}`;
 
@@ -41,61 +40,15 @@ export class Papillon {
                     console.log(`Error: ${err}`);
                     return null;
                 }
-                // console.log(body);
                 let result: PapillonResult;
                 console.log(body);
                 console.log("Received response");
-                let power: number = 0.0;
-                let network: number = 0.0;
-                let memory: number = 0.0;
-
-                let powerSeries: Array<[number, number]> = [];
-                let networkSeries: Array<[number, number]> = [];
-                let memorySeries: Array<[number, number]> = [];
-                console.log("------------------------------------");
-                // for (const response of body) {
-                //     console.log(response)
-                //     power += +response.power;
-                //     network += +response.stat2;
-                //     memory += +response.stat3;
-                //     powerSeries.push([+response.power, +response.timestamp]);
-                //     networkSeries.push([+response.stat2, +response.timestamp]);
-                //     memorySeries.push([+response.stat3, +response.timestamp]);
-                // }
-                console.log("------------------------------------");
-                result = new PapillonResult(urlData, body, this.isMobile);
-                if (result) {
-                    console.log("Result received");
-                    console.log(JSON.stringify(result, replacer, 2));
-                    const postRequest = {
-                        uri: RESULTS_SERVER,
-                        method: "POST",
-                        headers: {
-                            "Content-Type": "application/json",
-                            "Accept": "application/json"
-                        },
-                        json: result,
-                    }
-                    console.log("Sending result to results server");
-                    request.post(postRequest, function (error: any, response: any, body: any) {
-                        if (!error && response.statusCode == 200) {
-                            console.log(body);
-                        } else {
-                            console.log(error);
-                        }
-                    });
-                } else {
-                    console.log("No result, something went wrong :(");
-                }
-                console.log(JSON.stringify(result, null, 2));
-                return result;
-
+                return body;
             });
-
-
         } catch (ex) {
             console.log(ex);
         }
+        console.log("Returning null");
         return null;
     }
 }

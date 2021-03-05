@@ -2,13 +2,14 @@ import {delay, initializeDirs, millisToMinutesAndSeconds, replacer} from "../../
 import {loadURLS} from "../../common/util/toleranceUtils";
 import {UrlData} from "../../common/model/urlData";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
-import {HOME_PAGE} from "../../common/util/constants";
+import {HOME_PAGE, NUM_EXPERIMENT_ITERATIONS} from "../../common/util/constants";
 import {Papillon} from "./papillon";
 import {PapillonResult} from "../../common/model/papillonResult";
 
 const yargs = require("yargs");
 const request = require('request-promise-native');
 const puppeteer = require('puppeteer-core');
+const RESULTS_SERVER: string = "http://54.171.228.49:3000";
 
 
 console.log("     __   ________________ _       __   __\n" +
@@ -80,27 +81,49 @@ async function main() {
     await (await controlledBrowser.pages())[0].close();
 
     for (const url of urls) {
-        console.log("Delaying to allow sync with Papillon measurement time");
-        await delay((calculateTimeToSync(targetDate, new Date()) - 2) * 1000);
-        console.log(Date.now());
-        const sTime = Math.floor(Date.now() / 1000);
-        console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
-        await workingPage.goto(url.url);
-        console.log("Completed navigation, sleeping for experiment duration");
-        await delay(60000);
+        const results:Array<string> = [];
+        for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
+            console.log("Delaying to allow sync with Papillon measurement time");
+            await delay((calculateTimeToSync(targetDate, new Date()) - 2) * 1000);
+            console.log(Date.now());
+            const sTime = Math.floor(Date.now() / 1000);
+            console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
+            await workingPage.goto(url.url);
+            console.log("Completed navigation, sleeping for experiment duration");
+            await delay(60000);
 
-        console.log("Navigating to home page");
-        await workingPage.goto(HOME_PAGE);
-        // allow an extra few seconds for data to be sent
-        await delay(5000);
+            console.log("Navigating to home page");
+            await workingPage.goto(HOME_PAGE);
+            // allow an extra few seconds for data to be sent
+            await delay(5000);
 
-        console.log("Querying Papillon Master Node");
-        await papillon.query(url, sTime);
-        console.log("Allow stabilization");
-        await delay(30000);
-
+            console.log("Querying Papillon Master Node");
+            let result: string = await papillon.query(url, sTime);
+            if (result) {
+                results.push(result);
+            }
+            console.log("Allow stabilization");
+            await delay(30000);
+        }
+        console.log("Sending results");
+        const postRequest = {
+            uri: RESULTS_SERVER,
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Accept": "application/json"
+            },
+            json: new PapillonResult(url, results, doMobile),
+        }
+        console.log("Sending result to results server");
+        request.post(postRequest, function (error: any, response: any, body: any) {
+            if (!error && response.statusCode == 200) {
+                console.log(body);
+            } else {
+                console.log(error);
+            }
+        });
     }
-
     console.log("Finished taking data, shutting down");
 }
 
