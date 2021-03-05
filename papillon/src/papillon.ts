@@ -43,7 +43,13 @@ export class Papillon {
                 let result: PapillonResult;
                 console.log(body);
                 console.log("Received response");
+<<<<<<< HEAD
                 return body;
+=======
+
+                result = new PapillonResult(urlData, body, this.isMobile);
+                return result;
+>>>>>>> b9bc03ffc8d03d2ee9e793dbf703a07d94374a9f
             });
         } catch (ex) {
             console.log(ex);

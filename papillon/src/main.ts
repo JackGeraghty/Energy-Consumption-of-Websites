@@ -11,7 +11,6 @@ const request = require('request-promise-native');
 const puppeteer = require('puppeteer-core');
 const RESULTS_SERVER: string = "http://54.171.228.49:3000";
 
-
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
     "   / /  / __/ / /   / / / / | /| / /  / / \n" +
@@ -33,7 +32,7 @@ process.on('exit', () => {
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
 
-main().then(()=> {
+main().then(() => {
     console.log("Finished running experiment");
     process.exit(0);
 });
@@ -98,6 +97,7 @@ async function main() {
             await delay(5000);
 
             console.log("Querying Papillon Master Node");
+
             let result: string = await papillon.query(url, sTime);
             if (result) {
                 results.push(result);
@@ -105,7 +105,7 @@ async function main() {
             console.log("Allow stabilization");
             await delay(30000);
         }
-        console.log("Sending results");
+
         const postRequest = {
             uri: RESULTS_SERVER,
             method: "POST",
@@ -127,10 +127,11 @@ async function main() {
     console.log("Finished taking data, shutting down");
 }
 
-function calculateTimeToSync(target: Date, current:Date) {
+function calculateTimeToSync(target: Date, current: Date) {
     console.log(target);
     console.log(current);
-    const timeToSync = (60 - current.getSeconds()) + target.getSeconds();
+
+    const timeToSync = ((60 - current.getSeconds()) + target.getSeconds()) % 60;
     console.log(`Time to sync = ${timeToSync}`);
     return timeToSync;
 }
