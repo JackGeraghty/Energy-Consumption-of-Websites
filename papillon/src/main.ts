@@ -21,8 +21,9 @@ console.log("     __   ________________ _       __   __\n" +
 console.log("Initializing experiment environment");
 initializeDirs();
 
-const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS("resources/urls.json");
+const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS();
 const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
+const failed: Array<string> = [];
 const phone = puppeteer.devices['iPhone X'];
 
 let startTime: Date = new Date();
@@ -33,8 +34,7 @@ process.on('exit', () => {
 });
 
 main().then(() => {
-    console.log("Finished running experiment");
-    process.exit(0);
+    console.log("Finished running experiment, ready to be terminated");
 });
 
 async function main() {
@@ -81,48 +81,74 @@ async function main() {
 
     for (const url of urls) {
         const results:Array<string> = [];
+        let success: boolean = true;
         for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
-            console.log("Delaying to allow sync with Papillon measurement time");
-            await delay((calculateTimeToSync(targetDate, new Date()) - 2) * 1000);
-            console.log(Date.now());
-            const sTime = Math.floor(Date.now() / 1000);
-            console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
-            await workingPage.goto(url.url);
-            console.log("Completed navigation, sleeping for experiment duration");
-            await delay(60000);
+            console.log(`Iteration ${i+1}`);
+            try {
+                console.log("Delaying to allow sync with Papillon measurement time");
+                await delay((calculateTimeToSync(targetDate, new Date()) - 2) * 1000);
+                console.log(Date.now());
+                const sTime = Math.floor(Date.now() / 1000);
+                console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
+                await workingPage.goto(url.url);
+                console.log("Completed navigation, sleeping for experiment duration");
+                await delay(60000);
 
-            console.log("Navigating to home page");
-            await workingPage.goto(HOME_PAGE);
-            // allow an extra few seconds for data to be sent
-            await delay(5000);
+                console.log("Navigating to home page");
+                await workingPage.goto(HOME_PAGE);
+                // allow an extra few seconds for data to be sent
+                await delay(5000);
 
-            console.log("Querying Papillon Master Node");
+                console.log("Querying Papillon Master Node");
 
-            let result: string = await papillon.query(url, sTime);
-            if (result) {
-                results.push(result);
+                let result: string = await papillon.query(url, sTime);
+                if (result) {
+                    results.push(result);
+                }
+                console.log("Allow stabilization");
+                await delay(30000);
+            } catch (ex) {
+                success = false;
+                failed.push(url.originalURL);
+                const postRequest = {
+                    uri: RESULTS_SERVER,
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Accept": "application/json"
+                    },
+                    json: {type: "failure", urls: JSON.stringify(failed)},
+                }
+                await request.post(postRequest, function (error: any, response: any, body: any) {
+                    if (!error && response.statusCode == 200) {
+                        console.log(body);
+                    } else {
+                        console.log(error);
+                    }
+                });
+                console.log(`Something went wrong, skipping ${url}`);
+                break;
             }
-            console.log("Allow stabilization");
-            await delay(30000);
         }
-
-        const postRequest = {
-            uri: RESULTS_SERVER,
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json",
-                "Accept": "application/json"
-            },
-            json: new PapillonResult(url, results, doMobile),
-        }
-        console.log("Sending result to results server");
-        request.post(postRequest, function (error: any, response: any, body: any) {
-            if (!error && response.statusCode == 200) {
-                console.log(body);
-            } else {
-                console.log(error);
+        if (success) {
+            const postRequest = {
+                uri: RESULTS_SERVER,
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Accept": "application/json"
+                },
+                json: new PapillonResult(url, results, doMobile),
             }
-        });
+            console.log("Sending result to results server");
+            await request.post(postRequest, function (error: any, response: any, body: any) {
+                if (!error && response.statusCode == 200) {
+                    console.log(body);
+                } else {
+                    console.log(error);
+                }
+            });
+        }
     }
     console.log("Finished taking data, shutting down");
 }
