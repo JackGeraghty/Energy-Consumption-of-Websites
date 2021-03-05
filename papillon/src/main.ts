@@ -71,6 +71,7 @@ async function main() {
 
     // Create a page to work with and remove the landing page
     const workingPage = await controlledBrowser.newPage();
+    workingPage.setCacheEnabled(false);
     if (doMobile) {
         await workingPage.emulate(phone);
         console.log("EMULATING MOBILE PAGES");
@@ -78,15 +79,18 @@ async function main() {
     await workingPage.goto(HOME_PAGE);
     // Close any other tab that isn't the home page
     await (await controlledBrowser.pages())[0].close();
-
+    let counter: number = 0;
     for (const url of urls) {
         const results:Array<string> = [];
         let success: boolean = true;
+        if (counter % 5 == 0) {
+            targetDate.setSeconds(targetDate.getSeconds() + 1);
+        }
         for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
             console.log(`Iteration ${i+1}`);
             try {
                 console.log("Delaying to allow sync with Papillon measurement time");
-                await delay((calculateTimeToSync(targetDate, new Date()) - 2) * 1000);
+                await delay((calculateTimeToSync(targetDate, new Date()) + 5) * 1000);
                 console.log(Date.now());
                 const sTime = Math.floor(Date.now() / 1000);
                 console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
@@ -104,6 +108,7 @@ async function main() {
                 let result: string = await papillon.query(url, sTime);
                 if (result) {
                     results.push(result);
+                    console.log(result);
                 }
                 console.log("Allow stabilization");
                 await delay(30000);
