@@ -36,10 +36,19 @@ main().then(()=> {
     console.log("Finished running experiment");
     process.exit(0);
 });
+
 async function main() {
     let doMobile: boolean = false;
 
     let args = yargs.argv;
+
+    if (!args.timestamp) {
+        console.log("No timestamp given, exiting");
+        process.exit(1);
+    }
+    const currentDate: Date = new Date();
+    const papillonTime: Array<string> = args.timestamp.split(":");
+    const targetDate = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDay(), +(papillonTime[0]), +(papillonTime[1]), +(papillonTime[2]));
 
     if (args.doMobile) {
         doMobile = args.doMobile == 'true';
@@ -71,9 +80,9 @@ async function main() {
     await (await controlledBrowser.pages())[0].close();
 
     for (const url of urls) {
-        // delay to allow browser stabilization at the homepage
-        await delay(30000);
-
+        console.log("Delaying to allow sync with Papillon measurement time");
+        await delay((calculateTimeToSync(targetDate, new Date()) - 2) * 1000);
+        console.log(Date.now());
         const sTime = Math.floor(Date.now() / 1000);
         console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
         await workingPage.goto(url.url);
@@ -87,7 +96,18 @@ async function main() {
 
         console.log("Querying Papillon Master Node");
         await papillon.query(url, sTime);
+        console.log("Allow stabilization");
+        await delay(30000);
+
     }
 
     console.log("Finished taking data, shutting down");
+}
+
+function calculateTimeToSync(target: Date, current:Date) {
+    console.log(target);
+    console.log(current);
+    const timeToSync = (60 - current.getSeconds()) + target.getSeconds();
+    console.log(`Time to sync = ${timeToSync}`);
+    return timeToSync;
 }

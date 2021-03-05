@@ -43,7 +43,7 @@ export class Papillon {
                 }
                 // console.log(body);
                 let result: PapillonResult;
-
+                console.log(body);
                 console.log("Received response");
                 let power: number = 0.0;
                 let network: number = 0.0;
