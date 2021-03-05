@@ -33,14 +33,7 @@ export class Papillon {
         };
 
         try {
-            return await request(getOptions(activityQuery), (err: any, req: any, body: any) => {
-                if (err) {
-                    console.log(`Error: ${err}`);
-                    return null;
-                }
-                console.log(body);
-                console.log("Received response");
-            });
+            return await request(getOptions(activityQuery));
         } catch (ex) {
             console.log(ex);
         }
