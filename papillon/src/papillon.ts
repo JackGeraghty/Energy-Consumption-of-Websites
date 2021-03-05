@@ -3,7 +3,7 @@ import {UrlData} from "../../common/model/urlData";
 import {replacer} from "../../common/util/utils";
 
 const request = require('request-promise-native');
-const RESULTS_SERVER: string = "http://34.242.194.30:3000";
+const RESULTS_SERVER: string = "http://54.171.228.49:3000";
 
 export class Papillon {
     datacenterID: string;
@@ -21,7 +21,7 @@ export class Papillon {
     }
 
     async query(urlData: UrlData, startTime: number): Promise<PapillonResult> {
-        const endTime = startTime + 61;
+        const endTime = startTime + 65;
         const activityQuery = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${startTime}&endtime=${endTime}`;
 
         const getOptions = (query: string) => {
@@ -53,17 +53,17 @@ export class Papillon {
                 let networkSeries: Array<[number, number]> = [];
                 let memorySeries: Array<[number, number]> = [];
                 console.log("------------------------------------");
-                for (const response of body) {
-                    console.log(response)
-                    power += +response.power;
-                    network += +response.stat2;
-                    memory += +response.stat3;
-                    powerSeries.push([+response.power, +response.timestamp]);
-                    networkSeries.push([+response.stat2, +response.timestamp]);
-                    memorySeries.push([+response.stat3, +response.timestamp]);
-                }
+                // for (const response of body) {
+                //     console.log(response)
+                //     power += +response.power;
+                //     network += +response.stat2;
+                //     memory += +response.stat3;
+                //     powerSeries.push([+response.power, +response.timestamp]);
+                //     networkSeries.push([+response.stat2, +response.timestamp]);
+                //     memorySeries.push([+response.stat3, +response.timestamp]);
+                // }
                 console.log("------------------------------------");
-                result = new PapillonResult(urlData, power, network, memory, powerSeries, networkSeries, memorySeries, this.isMobile);
+                result = new PapillonResult(urlData, body, this.isMobile);
                 if (result) {
                     console.log("Result received");
                     console.log(JSON.stringify(result, replacer, 2));
