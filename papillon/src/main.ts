@@ -21,7 +21,7 @@ console.log("     __   ________________ _       __   __\n" +
 console.log("Initializing experiment environment");
 initializeDirs();
 
-const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS();
+const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS('resources/urls_100.json');
 const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
 const failed: Array<string> = [];
 const phone = puppeteer.devices['iPhone X'];
