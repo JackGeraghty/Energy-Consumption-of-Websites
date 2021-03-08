@@ -83,8 +83,9 @@ async function main() {
     for (const url of urls) {
         const results:Array<string> = [];
         let success: boolean = true;
-        if (counter % 5 == 0) {
+        if (counter % 3 == 0 && counter != 0) {
             targetDate.setSeconds(targetDate.getSeconds() + 1);
+            counter++;
         }
         for (let i = 0; i < NUM_EXPERIMENT_ITERATIONS; i++) {
             console.log(`Iteration ${i+1}`);
