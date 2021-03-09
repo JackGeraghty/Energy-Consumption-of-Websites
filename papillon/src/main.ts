@@ -21,7 +21,7 @@ console.log("     __   ________________ _       __   __\n" +
 console.log("Initializing experiment environment");
 initializeDirs();
 
-const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS('resources/urls_100.json');
+const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS('resources/urls.json');
 const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
 const failed: Array<string> = [];
 const phone = puppeteer.devices['iPhone X'];
@@ -97,7 +97,7 @@ async function main() {
                 console.log(`Starting navigation to ${url.webpageName} at ${sTime}`);
                 await workingPage.goto(url.url);
                 console.log("Completed navigation, sleeping for experiment duration");
-                await delay(60000);
+                await delay(60000*10);
 
                 console.log("Navigating to home page");
                 await workingPage.goto(HOME_PAGE);

@@ -18,7 +18,7 @@ export class Papillon {
     }
 
     async query(urlData: UrlData, startTime: number): Promise<string> {
-        const endTime = startTime + 65;
+        const endTime = startTime + 61 * 10;
         const activityQuery = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${startTime}&endtime=${endTime}`;
 
         const getOptions = (query: string) => {
