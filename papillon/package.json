@@ -2,7 +2,7 @@
   "name": "papillon",
   "version": "1.0.0",
   "description": "Papillon component of the experiment",
-  "main": "src/main.ts",
+  "main": "src/baseline.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
     "url": "https://csgitlab.ucd.ie/JackGeraghty/Energy-Consumption-of-Websites.git"
   },
   "devDependencies": {
+    "request": "^2.88.2",
     "puppeteer-core": "^7.1.0",
     "request-promise-native": "^1.0.9",
     "app-root-path": "^3.0.0",
