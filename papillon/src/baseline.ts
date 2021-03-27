@@ -34,6 +34,6 @@ async function main() {
     console.log("Querying Papillon");
 
     let result: string = await papillon.query(new UrlData(browserName, browserName, browserName), sTime);
-    await writeToFle("results/papillon/baselines/", `${browserName}.json`, result);
+    await writeToFle("results/baselines/", `${browserName}.json`, result);
     console.log("Finished writing to file");
 }
