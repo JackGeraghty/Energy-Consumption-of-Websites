@@ -1,5 +1,3 @@
-import {UrlData} from "../../common/model/urlData";
-
 const request = require('request-promise-native');
 
 export class Papillon {
@@ -17,7 +15,7 @@ export class Papillon {
         this.isMobile = isMobile;
     }
 
-    async query(urlData: UrlData, startTime: number): Promise<string> {
+    async query(startTime: number): Promise<string> {
         const endTime = startTime + 61 * 10;
         const activityQuery = `datacenters/${this.datacenterID}/floors/${(this.floorID)}/racks/${(this.rackID)}/hosts/${(this.hostID)}/activity?starttime=${startTime}&endtime=${endTime}`;
 

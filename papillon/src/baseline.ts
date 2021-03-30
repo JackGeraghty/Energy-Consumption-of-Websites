@@ -1,6 +1,5 @@
 import {delay, writeToFle} from "../../common/util/utils";
 import {Papillon} from "./papillon";
-import {UrlData} from "../../common/model/urlData";
 
 const yargs = require('yargs');
 const fs = require('fs');
@@ -29,11 +28,15 @@ async function main() {
     const papillon: Papillon = new Papillon("267", "291", "294", "284", false);
     for (let i = 0; i < 10; i++) {
         await delay(60000);
-        console.log(`Time Passed: ${(i+1) * 60000} - Time Remaining: ${10 * 60000 - (i+1) * 60000}`);
+        console.log(`Time Passed: ${(i + 1) * 60000} - Time Remaining: ${10 * 60000 - (i + 1) * 60000}`);
     }
     console.log("Querying Papillon");
 
-    let result: string = await papillon.query(new UrlData(browserName, browserName, browserName), sTime);
-    await writeToFle("results/baselines/", `${browserName}.json`, result);
-    console.log("Finished writing to file");
+    let result: string = await papillon.query(sTime);
+    if (!result) {
+        console.error(`Failed to get result from Papillon query for ${browserName}.`);
+        process.exit(-1);
+    }
+    writeToFle("results/baselines/", `${browserName}.json`, result)
+        .then(() => console.log(`Finished writing data for ${browserName} to results/baselines/`));
 }
