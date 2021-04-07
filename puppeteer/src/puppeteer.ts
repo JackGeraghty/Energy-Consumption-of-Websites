@@ -18,6 +18,11 @@ export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
         this.failureLogger = new Logger(logPath);
     }
 
+    /**
+     * Method responsible for running multiple iterations of core experiment.
+     * @param urlData The data of the URL being tested.
+     * @param params Contains additional information such as performing the experiment on mobile
+     */
     async runExperiment(urlData: UrlData, params: any): Promise<Array<PuppeteerResult>> {
         let platform = params.isMobile ? "MOBILE" : "DESKTOP";
         let promisedValues: Array<PuppeteerResult> = [];
@@ -34,6 +39,19 @@ export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
         return promisedValues;
     }
 
+    /**
+     * Core logic for the Puppeteer component. The methodology is as follows:
+     * 1) Launch the browser being used for testing, in headless mode. Don't care about
+     * any visual elements in this experiment so for speed, it is ran in headless.
+     *
+     * 2) Disable timeout and caching.
+     * 3) Go to the URL being tested.
+     * 4) Once navigation is complete get the performance entries and calculate the resources transferred etc.
+     * 5) Close the pages and finally the browser.
+     *
+     * @param urlData URL being test
+     * @param isMobile Whether or not to emulate mobile browsing.
+     */
     async queryPuppeteerNoCache(urlData: UrlData, isMobile: boolean): Promise<PuppeteerResult> {
 
         const browser = await puppeteer.launch(
@@ -69,7 +87,6 @@ export class Puppeteer implements ExperimentProcess<PuppeteerResult> {
         console.log(`\tTaken performance entries for ${urlData.webpageName}`);
 
         let metrics = await page.metrics();
-        // console.log("Time Taken: " + metrics.TaskDuration);
         let totalEncodedBodySize: number = 0;
         let totalDecodedBodySize: number = 0;
         let totalTransferSize: number = 0;

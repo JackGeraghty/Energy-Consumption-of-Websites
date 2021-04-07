@@ -6,7 +6,7 @@ export enum APIType {
     PAGESPEED = "resources/apis/pagespeed_api_key.txt"
 }
 
-export function initializeDirs() {
+export function initializeDirs(... dirs: string[]) {
     const fs = require('fs');
     if (!fs.existsSync("results/")) {
         fs.mkdirSync("results/");
@@ -14,10 +14,12 @@ export function initializeDirs() {
     } else {
         console.log("Results directory found");
     }
-    if (!fs.existsSync(LOG_PATH)) {
-        console.log("Creating log dir");
-        fs.mkdirSync(LOG_PATH.concat("\\puppeteer"), {recursive: true});
-        fs.mkdirSync(LOG_PATH.concat("\\pagespeed"), {recursive: true});
+
+    for (const dir in dirs) {
+        if (!fs.existsSync(dir)) {
+            console.log(`Creating directory ${dir}`);
+            fs.mkdirSync(dir ,{recursive: true});
+        }
     }
 }
 
