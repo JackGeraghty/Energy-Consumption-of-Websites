@@ -1,9 +1,16 @@
-import {initializeDirs, millisToMinutesAndSeconds, replacer, writeToFle} from "../../common/util/utils";
+import {initializeDirs, millisToMinutesAndSeconds, replacer, writeToFile} from "../../common/util/utils";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
 import {UrlData} from "../../common/model/urlData";
 import {loadURLS, updateFile} from "../../common/util/toleranceUtils";
 import {Puppeteer} from "./puppeteer";
-import {COMPLETED_URLS_PATH, FAILED_URLS_PATH, LOG_PATH, PLATFORMS, RESULTS} from "../../common/util/constants";
+import {
+    COMPLETED_URLS_PATH,
+    FAILED_URLS_PATH,
+    LOG_PATH,
+    NUM_EXPERIMENT_ITERATIONS,
+    PLATFORMS,
+    RESULTS, setExperimentIterations
+} from "../../common/util/constants";
 import {postprocessPuppeteer} from "../../common/processing/postprocessing";
 
 const yargs = require("yargs");
@@ -55,13 +62,17 @@ async function main() {
         process.exit(-1);
     }
 
+    if (args.num_iterations) {
+        setExperimentIterations(args.num_iterations);
+        console.log(`Set the number of Puppeteer iterations/url to ${args.num_iterations}`);
+    }
+
     const browserPath: string = args.browserPath;
     const puppeteer: Puppeteer = new Puppeteer(browserPath);
     const completed: Array<string> = [];
     const failed: Array<string> = [];
 
     if (multipleUrls == 1) {
-
         const multipleUrls: Array<string> = args.urls.split(',');
         preprocessDesktopUrls(multipleUrls).forEach(u => urls.push(u));
     } else {
@@ -98,10 +109,10 @@ async function main() {
                 }
 
                 const puppeteerResultPath: string = RESULTS.concat(url.webpageName).concat(`_${platform}/`);
-                writeToFle(puppeteerResultPath, rawFilename, results)
+                writeToFile(puppeteerResultPath, rawFilename, results)
                     .then(() => console.log("Finished writing data to " + puppeteerResultPath.concat(rawFilename)));
                 postprocessPuppeteer(results)
-                    .then(aggregatedPuppeteerResult => writeToFle(puppeteerResultPath, aggregatedFileName, aggregatedPuppeteerResult))
+                    .then(aggregatedPuppeteerResult => writeToFile(puppeteerResultPath, aggregatedFileName, aggregatedPuppeteerResult))
                     .then(() => console.log(`Finished running Puppeteer experiment for ${url.webpageName}`));
             } catch (ex) {
                 console.log(ex);

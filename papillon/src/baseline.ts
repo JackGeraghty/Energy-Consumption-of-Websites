@@ -1,4 +1,4 @@
-import {delay, writeToFle} from "../../common/util/utils";
+import {delay, writeToFile} from "../../common/util/utils";
 import {Papillon} from "./papillon";
 
 const yargs = require('yargs');
@@ -37,6 +37,6 @@ async function main() {
         console.error(`Failed to get result from Papillon query for ${browserName}.`);
         process.exit(-1);
     }
-    writeToFle("results/baselines/", `${browserName}.json`, result)
+    writeToFile("results/baselines/", `${browserName}.json`, result)
         .then(() => console.log(`Finished writing data for ${browserName} to results/baselines/`));
 }

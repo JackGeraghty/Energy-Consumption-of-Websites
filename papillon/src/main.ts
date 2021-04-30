@@ -1,4 +1,4 @@
-import {delay, writeToFle} from "../../common/util/utils";
+import {delay, writeToFile} from "../../common/util/utils";
 import {Papillon} from "./papillon";
 import * as fs from "fs";
 
@@ -53,7 +53,7 @@ async function main() {
         process.exit(-1);
     }
 
-    writeToFle(`results/${args.category}/`, `${args.webpageName}.json`, result)
+    writeToFile(`results/${args.category}/`, `${args.webpageName}.json`, result)
         .then(() => console.log(`Finished writing data for ${args.webpageName}`));
     console.log("Finished taking data, shutting down");
 }

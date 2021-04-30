@@ -1,11 +1,18 @@
-import {COMPLETED_URLS_PATH, FAILED_URLS_PATH, PLATFORMS, RESULTS} from "../../common/util/constants";
+import {
+    COMPLETED_URLS_PATH,
+    FAILED_URLS_PATH,
+    LOG_PATH,
+    PLATFORMS,
+    RESULTS,
+    setExperimentIterations
+} from "../../common/util/constants";
 import {
     APIType,
     initializeDirs,
     loadAPIKey,
     millisToMinutesAndSeconds,
     replacer,
-    writeToFle
+    writeToFile
 } from "../../common/util/utils";
 import {preprocessDesktopUrls} from "../../common/processing/preprocessing";
 import {UrlData} from "../../common/model/urlData";
@@ -14,7 +21,8 @@ import {PageSpeedResult} from "../../common/model/pageSpeedResult";
 import {postprocessPageSpeed} from "../../common/processing/postprocessing";
 import {loadURLS, updateFile} from "../../common/util/toleranceUtils";
 
-const fs = require('fs');
+const yargs = require('yargs');
+const args = yargs.argv;
 
 console.log("     __   ________________ _       __   __\n" +
     "    / /  / ____/ ____/ __ \\ |     / /  / /\n" +
@@ -26,7 +34,7 @@ console.log("     __   ________________ _       __   __\n" +
 console.log("Initializing experiment environment");
 
 
-initializeDirs();
+initializeDirs(LOG_PATH.concat("/pagespeed"));
 
 let startTime: Date = new Date();
 console.log(`Start time: ${startTime.getHours()}:${startTime.getMinutes()}:${startTime.getSeconds()}`);
@@ -36,19 +44,51 @@ process.on('exit', function () {
     console.log(`Time taken : ${millisToMinutesAndSeconds(endTime.valueOf() - startTime.valueOf())}`);
 });
 
-initializeDirs();
-main();
+main().then(() => process.exit(0));
 
 async function main(): Promise<void> {
-    const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS("resources/urls_retry.json");
-    const urls: Array<UrlData> = preprocessDesktopUrls(urlData[0]);
-    const complete: Array<string> = urlData[1];
-    const failed: Array<string> = urlData[2];
+    const urls: Array<UrlData> = [];
+    const multipleUrls: number = args.urls != null ? 1 : 0;
+    console.log(`Multiple URLs : ${multipleUrls != 0}`);
+
+    const pathToUrls: number = args.pathToUrlsFile != null ? 1 : 0;
+    console.log(`Path to URLs : ${(pathToUrls != 0)}`);
+
+    if (!(multipleUrls ^ pathToUrls)) {
+        console.log(`Command lines arguments, --urls and --pathToUrlsFile, are mutually exclusive, only one can be used.`);
+        process.exit(-1);
+    }
+
+    if (args.num_iterations) {
+        setExperimentIterations(args.num_iterations);
+        console.log(`Set the number of PageSpeed iterations/url to ${args.num_iterations}`);
+    }
+
+    const completed: Array<string> = [];
+    const failed: Array<string> = [];
+
+    if (multipleUrls == 1) {
+
+        const multipleUrls: Array<string> = args.urls.split(',');
+        preprocessDesktopUrls(multipleUrls).forEach(u => urls.push(u));
+    } else {
+        const urlData: [Array<string>, Array<string>, Array<string>] = loadURLS(args.pathToUrlsFile);
+        if (args.wipeData) {
+            console.log("Wiping completed and failed lists");
+            urlData[1] = [];
+            urlData[2] = [];
+            updateFile(JSON.stringify(urlData[1]), COMPLETED_URLS_PATH);
+            updateFile(JSON.stringify(urlData[2]), FAILED_URLS_PATH);
+        }
+        const updatedUrlData: [Array<string>, Array<string>, Array<string>] = loadURLS(args.pathToUrlsFile);
+        preprocessDesktopUrls(updatedUrlData[0]).forEach(u => urls.push(u));
+    }
+
 
     const apiKey: string = loadAPIKey(APIType.PAGESPEED);
     const pageSpeed: PagesSpeed = new PagesSpeed();
     for (const url of urls) {
-        let failedUrl:boolean = false;
+        let failedUrl: boolean = false;
         for (const platform of PLATFORMS) {
             const rawFilename: string = url.webpageName.concat("_raw.json");
             const aggregatedFileName: string = url.webpageName.concat("_agg.json");
@@ -64,18 +104,18 @@ async function main(): Promise<void> {
                 failedUrl = true;
                 break;
             }
-            const pageSpeedResultPath: string = RESULTS.concat(url.webpageName).concat(`_${platform}/`).concat("pagespeed/");
+            const pageSpeedResultPath: string = RESULTS.concat(url.webpageName).concat(`_${platform}/`);
 
-            writeToFle(pageSpeedResultPath, rawFilename, result.filter(result => !!result))
+            writeToFile(pageSpeedResultPath, rawFilename, result.filter(result => !!result))
                 .then(() => console.log("Finished writing data to " + pageSpeedResultPath.concat(url.webpageName)));
             postprocessPageSpeed(result.filter(result => !!result))
-                .then(aggregatedPageSpeedResults => writeToFle(pageSpeedResultPath, aggregatedFileName, aggregatedPageSpeedResults))
+                .then(aggregatedPageSpeedResults => writeToFile(pageSpeedResultPath, aggregatedFileName, aggregatedPageSpeedResults))
                 .then(() => console.log(`Finished running PageSpeed experiment for ${url.webpageName}`));
         }
 
         if (!failedUrl) {
-            complete.push(url.originalURL);
-            updateFile(JSON.stringify(complete, replacer, 2), COMPLETED_URLS_PATH);
+            completed.push(url.originalURL);
+            updateFile(JSON.stringify(completed, replacer, 2), COMPLETED_URLS_PATH);
         }
     }
 }

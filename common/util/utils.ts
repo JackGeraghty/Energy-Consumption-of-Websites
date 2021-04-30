@@ -51,7 +51,7 @@ export function loadFile(path: string): string {
     }).toString();
 }
 
-export async function writeToFle(path: string, fileName: string, data: any): Promise<void> {
+export async function writeToFile(path: string, fileName: string, data: any): Promise<void> {
     fs.mkdirSync(path, {recursive: true});
     fs.writeFileSync(path.concat(fileName), JSON.stringify(data, replacer, 2));
 }

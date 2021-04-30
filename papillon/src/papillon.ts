@@ -30,6 +30,7 @@ export class Papillon {
             }
         };
 
+        // Make the request to Papillon
         try {
             return await request(getOptions(activityQuery));
         } catch (ex) {
