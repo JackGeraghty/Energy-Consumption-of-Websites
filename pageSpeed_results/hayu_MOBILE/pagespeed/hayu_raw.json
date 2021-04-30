@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hayu",
+      "url": "http://hayu.com",
+      "originalURL": "hayu.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.42,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5580,
+    "speedIndex": 11117.717453630346,
+    "largestContentfulPaint": 25275,
+    "timeToInteractive": 27081,
+    "totalBlockingTime": 603,
+    "cumulativeLayoutShift": 0.4238387044270833
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hayu",
+      "url": "http://hayu.com",
+      "originalURL": "hayu.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.83,
+    "seo": 1,
+    "accessibility": 0.75,
+    "bestPractices": null,
+    "firstContentfulPaint": 3621.5,
+    "speedIndex": 7773.927063616147,
+    "largestContentfulPaint": 9487,
+    "timeToInteractive": 24011,
+    "totalBlockingTime": 7283.5,
+    "cumulativeLayoutShift": 0.05365673828124999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hayu",
+      "url": "http://hayu.com",
+      "originalURL": "hayu.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.42,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5580,
+    "speedIndex": 13598.037733402132,
+    "largestContentfulPaint": 21375,
+    "timeToInteractive": 27350.5,
+    "totalBlockingTime": 749.5,
+    "cumulativeLayoutShift": 0.44060119628906247
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hayu",
+      "url": "http://hayu.com",
+      "originalURL": "hayu.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.42,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5580,
+    "speedIndex": 10962.13650860077,
+    "largestContentfulPaint": 21525,
+    "timeToInteractive": 27544.5,
+    "totalBlockingTime": 639.5,
+    "cumulativeLayoutShift": 0.4273263888888889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hayu",
+      "url": "http://hayu.com",
+      "originalURL": "hayu.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.42,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5730,
+    "speedIndex": 10511.138884403195,
+    "largestContentfulPaint": 21225,
+    "timeToInteractive": 27607.5,
+    "totalBlockingTime": 768,
+    "cumulativeLayoutShift": 0.2776346435546875
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamespot",
+      "url": "http://gamespot.com",
+      "originalURL": "gamespot.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 16168.651201702309,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 29494.5,
+    "totalBlockingTime": 3734.5,
+    "cumulativeLayoutShift": 0.13890625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamespot",
+      "url": "http://gamespot.com",
+      "originalURL": "gamespot.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 16401.780004338107,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 32100.5,
+    "totalBlockingTime": 3882.5,
+    "cumulativeLayoutShift": 0.13890625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamespot",
+      "url": "http://gamespot.com",
+      "originalURL": "gamespot.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 14933.051746943991,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 32341.5,
+    "totalBlockingTime": 4694,
+    "cumulativeLayoutShift": 0.13890625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamespot",
+      "url": "http://gamespot.com",
+      "originalURL": "gamespot.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2795,
+    "speedIndex": 21629.853233413756,
+    "largestContentfulPaint": 6675,
+    "timeToInteractive": 42760,
+    "totalBlockingTime": 24941,
+    "cumulativeLayoutShift": 0.13890625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamespot",
+      "url": "http://gamespot.com",
+      "originalURL": "gamespot.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 14701.454927818942,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 30626,
+    "totalBlockingTime": 5226,
+    "cumulativeLayoutShift": 0.13890625
+  }
+]

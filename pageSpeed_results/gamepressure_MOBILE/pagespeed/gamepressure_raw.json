@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepressure",
+      "url": "http://gamepressure.com",
+      "originalURL": "gamepressure.com"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.76,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2717,
+    "speedIndex": 2717,
+    "largestContentfulPaint": 5503,
+    "timeToInteractive": 11563,
+    "totalBlockingTime": 197.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepressure",
+      "url": "http://gamepressure.com",
+      "originalURL": "gamepressure.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.76,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3804.5,
+    "speedIndex": 3804.5,
+    "largestContentfulPaint": 6345,
+    "timeToInteractive": 11412,
+    "totalBlockingTime": 163.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepressure",
+      "url": "http://gamepressure.com",
+      "originalURL": "gamepressure.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.76,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2581,
+    "speedIndex": 2614.222306288265,
+    "largestContentfulPaint": 4565,
+    "timeToInteractive": 13161,
+    "totalBlockingTime": 413,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepressure",
+      "url": "http://gamepressure.com",
+      "originalURL": "gamepressure.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.76,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2740,
+    "speedIndex": 3332.8826485405493,
+    "largestContentfulPaint": 5959.5,
+    "timeToInteractive": 11202.5,
+    "totalBlockingTime": 277.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepressure",
+      "url": "http://gamepressure.com",
+      "originalURL": "gamepressure.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.76,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2731,
+    "speedIndex": 2970.9944568643036,
+    "largestContentfulPaint": 5924,
+    "timeToInteractive": 11299.5,
+    "totalBlockingTime": 203.5,
+    "cumulativeLayoutShift": 0
+  }
+]

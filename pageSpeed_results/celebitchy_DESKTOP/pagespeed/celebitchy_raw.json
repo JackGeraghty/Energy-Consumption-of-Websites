@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "celebitchy",
+      "url": "http://celebitchy.com",
+      "originalURL": "celebitchy.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.45,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1480,
+    "speedIndex": 4573.428556546163,
+    "largestContentfulPaint": 4089.5,
+    "timeToInteractive": 6365,
+    "totalBlockingTime": 137,
+    "cumulativeLayoutShift": 0.5983638357703646
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "celebitchy",
+      "url": "http://celebitchy.com",
+      "originalURL": "celebitchy.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.45,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1481,
+    "speedIndex": 4969.473600326333,
+    "largestContentfulPaint": 4166,
+    "timeToInteractive": 6965.5,
+    "totalBlockingTime": 127.5,
+    "cumulativeLayoutShift": 0.5759081173569157
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "celebitchy",
+      "url": "http://celebitchy.com",
+      "originalURL": "celebitchy.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.45,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1480,
+    "speedIndex": 4241.410434930135,
+    "largestContentfulPaint": 4395.5,
+    "timeToInteractive": 8676.5,
+    "totalBlockingTime": 127.5,
+    "cumulativeLayoutShift": 0.6835055376791291
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "celebitchy",
+      "url": "http://celebitchy.com",
+      "originalURL": "celebitchy.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.45,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1482,
+    "speedIndex": 4693.185884699774,
+    "largestContentfulPaint": 4183.5,
+    "timeToInteractive": 7762.5,
+    "totalBlockingTime": 142,
+    "cumulativeLayoutShift": 0.5910981007208944
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "celebitchy",
+      "url": "http://celebitchy.com",
+      "originalURL": "celebitchy.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.45,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1479,
+    "speedIndex": 4608.54450378989,
+    "largestContentfulPaint": 4393.5,
+    "timeToInteractive": 6387.5,
+    "totalBlockingTime": 186,
+    "cumulativeLayoutShift": 0.576783987683507
+  }
+]

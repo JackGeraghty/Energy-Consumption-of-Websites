@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23596,
+    "decodedBodySize": 51245,
+    "transferSize": 24808,
+    "resourcesList": [
+      [
+        "https://soap2day.to/",
+        10021,
+        9315,
+        9315,
+        0.057867
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14483,
+        14197,
+        41846,
+        0.057867
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230277dde981eeb",
+        212,
+        42,
+        42,
+        0.057867
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6230277dde981eeb",
+        92,
+        42,
+        42,
+        0.057867
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23594,
+    "decodedBodySize": 51245,
+    "transferSize": 24796,
+    "resourcesList": [
+      [
+        "https://soap2day.to/",
+        10012,
+        9315,
+        9315,
+        0.056658
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14480,
+        14195,
+        41846,
+        0.056658
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=623027813b761eda",
+        212,
+        42,
+        42,
+        0.056658
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=623027813b761eda",
+        92,
+        42,
+        42,
+        0.056658
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23593,
+    "decodedBodySize": 51244,
+    "transferSize": 24789,
+    "resourcesList": [
+      [
+        "https://soap2day.to/",
+        10011,
+        9314,
+        9314,
+        0.054915
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14473,
+        14195,
+        41846,
+        0.054915
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62302784c9c3bdd7",
+        212,
+        42,
+        42,
+        0.054915
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=62302784c9c3bdd7",
+        93,
+        42,
+        42,
+        0.054915
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23596,
+    "decodedBodySize": 51245,
+    "transferSize": 24779,
+    "resourcesList": [
+      [
+        "https://soap2day.to/",
+        10008,
+        9315,
+        9315,
+        0.056359
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14466,
+        14197,
+        41846,
+        0.056359
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=623027885fc71ea9",
+        212,
+        42,
+        42,
+        0.056359
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=623027885fc71ea9",
+        93,
+        42,
+        42,
+        0.056359
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23593,
+    "decodedBodySize": 51244,
+    "transferSize": 24799,
+    "resourcesList": [
+      [
+        "https://soap2day.to/",
+        10009,
+        9314,
+        9314,
+        0.054788
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14476,
+        14195,
+        41846,
+        0.054788
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230278c29e44c50",
+        212,
+        42,
+        42,
+        0.054788
+      ],
+      [
+        "https://soap2day.to/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6230278c29e44c50",
+        102,
+        42,
+        42,
+        0.054788
+      ]
+    ]
+  }
+]

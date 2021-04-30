@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.5,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2854,
+    "speedIndex": 2854,
+    "largestContentfulPaint": 3420,
+    "timeToInteractive": 4095,
+    "totalBlockingTime": 110,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.5,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2430,
+    "speedIndex": 2430,
+    "largestContentfulPaint": 2940,
+    "timeToInteractive": 4547,
+    "totalBlockingTime": 134.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.5,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2430,
+    "speedIndex": 2430,
+    "largestContentfulPaint": 2940,
+    "timeToInteractive": 4537,
+    "totalBlockingTime": 132.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.5,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2430,
+    "speedIndex": 2430,
+    "largestContentfulPaint": 2940,
+    "timeToInteractive": 4107.5,
+    "totalBlockingTime": 121,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.5,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2430,
+    "speedIndex": 2430,
+    "largestContentfulPaint": 2940,
+    "timeToInteractive": 4055,
+    "totalBlockingTime": 121.5,
+    "cumulativeLayoutShift": 0
+  }
+]

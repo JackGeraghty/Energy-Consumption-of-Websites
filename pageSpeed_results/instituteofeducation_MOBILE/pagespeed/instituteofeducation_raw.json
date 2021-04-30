@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instituteofeducation",
+      "url": "http://instituteofeducation.ie",
+      "originalURL": "instituteofeducation.ie"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8468,
+    "speedIndex": 19020.273091948024,
+    "largestContentfulPaint": 14145,
+    "timeToInteractive": 19436.5,
+    "totalBlockingTime": 1646,
+    "cumulativeLayoutShift": 0.4094410875108507
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instituteofeducation",
+      "url": "http://instituteofeducation.ie",
+      "originalURL": "instituteofeducation.ie"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8355,
+    "speedIndex": 19098.584967976865,
+    "largestContentfulPaint": 12435,
+    "timeToInteractive": 19704.5,
+    "totalBlockingTime": 1723,
+    "cumulativeLayoutShift": 0.40930409749348956
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instituteofeducation",
+      "url": "http://instituteofeducation.ie",
+      "originalURL": "instituteofeducation.ie"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7993.5,
+    "speedIndex": 18404.16038539196,
+    "largestContentfulPaint": 12195,
+    "timeToInteractive": 19345,
+    "totalBlockingTime": 1612,
+    "cumulativeLayoutShift": 0.4137962849934896
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instituteofeducation",
+      "url": "http://instituteofeducation.ie",
+      "originalURL": "instituteofeducation.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8025,
+    "speedIndex": 18916.297778885404,
+    "largestContentfulPaint": 13532,
+    "timeToInteractive": 19020.5,
+    "totalBlockingTime": 1005,
+    "cumulativeLayoutShift": 0.4094410875108507
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instituteofeducation",
+      "url": "http://instituteofeducation.ie",
+      "originalURL": "instituteofeducation.ie"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8215,
+    "speedIndex": 17065.91631330862,
+    "largestContentfulPaint": 12615,
+    "timeToInteractive": 19652,
+    "totalBlockingTime": 2375.5,
+    "cumulativeLayoutShift": 0.4094410875108507
+  }
+]

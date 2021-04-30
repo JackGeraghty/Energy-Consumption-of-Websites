@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "savefrom",
+      "url": "http://savefrom.net",
+      "originalURL": "savefrom.net"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.52,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1530,
+    "speedIndex": 1530,
+    "largestContentfulPaint": 1775,
+    "timeToInteractive": 1890.5,
+    "totalBlockingTime": 67,
+    "cumulativeLayoutShift": 0.1402290412398214
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "savefrom",
+      "url": "http://savefrom.net",
+      "originalURL": "savefrom.net"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.52,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1530,
+    "speedIndex": 1530,
+    "largestContentfulPaint": 1775,
+    "timeToInteractive": 1864.5,
+    "totalBlockingTime": 49.5,
+    "cumulativeLayoutShift": 0.14012864139158862
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "savefrom",
+      "url": "http://savefrom.net",
+      "originalURL": "savefrom.net"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.52,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1530,
+    "speedIndex": 1530,
+    "largestContentfulPaint": 1755,
+    "timeToInteractive": 1784,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.1482308507719698
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "savefrom",
+      "url": "http://savefrom.net",
+      "originalURL": "savefrom.net"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.52,
+    "seo": 0.83,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1530,
+    "speedIndex": 1530,
+    "largestContentfulPaint": 1755,
+    "timeToInteractive": 1840,
+    "totalBlockingTime": 34,
+    "cumulativeLayoutShift": 0.17455073169308002
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "savefrom",
+      "url": "http://savefrom.net",
+      "originalURL": "savefrom.net"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.52,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1530,
+    "speedIndex": 1530,
+    "largestContentfulPaint": 1755,
+    "timeToInteractive": 1841.5,
+    "totalBlockingTime": 50,
+    "cumulativeLayoutShift": 0.14008848145229552
+  }
+]

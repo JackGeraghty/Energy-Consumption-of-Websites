@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boots",
+      "url": "http://boots.ie",
+      "originalURL": "boots.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.78,
+    "accessibility": 0.65,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 3821,
+    "speedIndex": 11342.20150147874,
+    "largestContentfulPaint": 17254.5,
+    "timeToInteractive": 20484.5,
+    "totalBlockingTime": 3267.5,
+    "cumulativeLayoutShift": 0.5940401746961806
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boots",
+      "url": "http://boots.ie",
+      "originalURL": "boots.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.78,
+    "accessibility": 0.65,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 3820,
+    "speedIndex": 8825.301960751029,
+    "largestContentfulPaint": 16738.5,
+    "timeToInteractive": 19913,
+    "totalBlockingTime": 4151,
+    "cumulativeLayoutShift": 0.5973094550238716
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boots",
+      "url": "http://boots.ie",
+      "originalURL": "boots.ie"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.78,
+    "accessibility": 0.65,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 3816,
+    "speedIndex": 9299.21831806598,
+    "largestContentfulPaint": 16799,
+    "timeToInteractive": 20104.5,
+    "totalBlockingTime": 3985,
+    "cumulativeLayoutShift": 0.5940401746961806
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boots",
+      "url": "http://boots.ie",
+      "originalURL": "boots.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.78,
+    "accessibility": 0.65,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 3838.5,
+    "speedIndex": 10344.573833396142,
+    "largestContentfulPaint": 17868,
+    "timeToInteractive": 20757,
+    "totalBlockingTime": 5078,
+    "cumulativeLayoutShift": 0.6252901746961806
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boots",
+      "url": "http://boots.ie",
+      "originalURL": "boots.ie"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.78,
+    "accessibility": 0.65,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 3816.5,
+    "speedIndex": 10073.877274210412,
+    "largestContentfulPaint": 14058,
+    "timeToInteractive": 16068,
+    "totalBlockingTime": 2465,
+    "cumulativeLayoutShift": 0.5974877794053819
+  }
+]

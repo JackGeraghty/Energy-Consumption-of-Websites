@@ -1,0 +1,137 @@
+[
+  {
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 8137,
+    "decodedBodySize": 12912,
+    "transferSize": 8721,
+    "resourcesList": [
+      [
+        "https://www.pof.com/",
+        6564,
+        6292,
+        6292,
+        0.067177
+      ],
+      [
+        "https://www.pof.com/cdn-cgi/styles/main.css",
+        2157,
+        1845,
+        6620,
+        0.067177
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 8137,
+    "decodedBodySize": 12912,
+    "transferSize": 8697,
+    "resourcesList": [
+      [
+        "https://www.pof.com/",
+        6564,
+        6292,
+        6292,
+        0.064113
+      ],
+      [
+        "https://www.pof.com/cdn-cgi/styles/main.css",
+        2133,
+        1845,
+        6620,
+        0.064113
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 8137,
+    "decodedBodySize": 12912,
+    "transferSize": 8697,
+    "resourcesList": [
+      [
+        "https://www.pof.com/",
+        6564,
+        6292,
+        6292,
+        0.065334
+      ],
+      [
+        "https://www.pof.com/cdn-cgi/styles/main.css",
+        2133,
+        1845,
+        6620,
+        0.065334
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 8137,
+    "decodedBodySize": 12912,
+    "transferSize": 8698,
+    "resourcesList": [
+      [
+        "https://www.pof.com/",
+        6564,
+        6292,
+        6292,
+        0.067653
+      ],
+      [
+        "https://www.pof.com/cdn-cgi/styles/main.css",
+        2134,
+        1845,
+        6620,
+        0.067653
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 8137,
+    "decodedBodySize": 12912,
+    "transferSize": 8698,
+    "resourcesList": [
+      [
+        "https://www.pof.com/",
+        6564,
+        6292,
+        6292,
+        0.068049
+      ],
+      [
+        "https://www.pof.com/cdn-cgi/styles/main.css",
+        2134,
+        1845,
+        6620,
+        0.068049
+      ]
+    ]
+  }
+]

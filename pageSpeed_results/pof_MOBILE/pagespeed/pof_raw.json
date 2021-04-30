@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.39,
+    "seo": 0.94,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 5400.261897808396,
+    "largestContentfulPaint": 12287,
+    "timeToInteractive": 12446,
+    "totalBlockingTime": 2567.5,
+    "cumulativeLayoutShift": 0.7924307861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.39,
+    "seo": 0.94,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 5302.291169234581,
+    "largestContentfulPaint": 12034,
+    "timeToInteractive": 12426,
+    "totalBlockingTime": 1045,
+    "cumulativeLayoutShift": 0.7924307861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.39,
+    "seo": 0.94,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 5645.708012478482,
+    "largestContentfulPaint": 12185.5,
+    "timeToInteractive": 12320,
+    "totalBlockingTime": 1103,
+    "cumulativeLayoutShift": 0.7924307861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.39,
+    "seo": 0.94,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 5456.950704577723,
+    "largestContentfulPaint": 12023.5,
+    "timeToInteractive": 12116,
+    "totalBlockingTime": 894,
+    "cumulativeLayoutShift": 0.7924307861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pof",
+      "url": "http://pof.com",
+      "originalURL": "pof.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.39,
+    "seo": 0.94,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 4770.049335673695,
+    "largestContentfulPaint": 12173.5,
+    "timeToInteractive": 12252,
+    "totalBlockingTime": 992.5,
+    "cumulativeLayoutShift": 0.7924307861328125
+  }
+]

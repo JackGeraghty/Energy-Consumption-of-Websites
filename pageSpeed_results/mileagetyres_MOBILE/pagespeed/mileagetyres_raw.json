@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mileagetyres",
+      "url": "http://mileagetyres.ie",
+      "originalURL": "mileagetyres.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.29,
+    "seo": 0.42,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3793,
+    "speedIndex": 3793,
+    "largestContentfulPaint": 6090,
+    "timeToInteractive": 3879,
+    "totalBlockingTime": 80,
+    "cumulativeLayoutShift": 0.007771693515899749
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mileagetyres",
+      "url": "http://mileagetyres.ie",
+      "originalURL": "mileagetyres.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.29,
+    "seo": 0.42,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3869,
+    "speedIndex": 3869,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 3958.5,
+    "totalBlockingTime": 84,
+    "cumulativeLayoutShift": 0.007771693515899749
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mileagetyres",
+      "url": "http://mileagetyres.ie",
+      "originalURL": "mileagetyres.ie"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.29,
+    "seo": 0.42,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3878,
+    "speedIndex": 3878,
+    "largestContentfulPaint": 5235,
+    "timeToInteractive": 3955,
+    "totalBlockingTime": 76,
+    "cumulativeLayoutShift": 0.0007859501614492777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mileagetyres",
+      "url": "http://mileagetyres.ie",
+      "originalURL": "mileagetyres.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.29,
+    "seo": 0.42,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3851,
+    "speedIndex": 3851,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 3907.5,
+    "totalBlockingTime": 77.5,
+    "cumulativeLayoutShift": 0.0007859501614492777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mileagetyres",
+      "url": "http://mileagetyres.ie",
+      "originalURL": "mileagetyres.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.29,
+    "seo": 0.42,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3867,
+    "speedIndex": 3867,
+    "largestContentfulPaint": 4738.5,
+    "timeToInteractive": 3960.5,
+    "totalBlockingTime": 88.5,
+    "cumulativeLayoutShift": 0.0007859501614492777
+  }
+]

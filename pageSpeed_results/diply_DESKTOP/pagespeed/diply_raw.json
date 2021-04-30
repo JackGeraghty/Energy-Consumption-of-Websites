@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diply",
+      "url": "http://diply.com",
+      "originalURL": "diply.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1165,
+    "speedIndex": 1165,
+    "largestContentfulPaint": 2280,
+    "timeToInteractive": 1910.5,
+    "totalBlockingTime": 47.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diply",
+      "url": "http://diply.com",
+      "originalURL": "diply.com"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1090,
+    "speedIndex": 1090,
+    "largestContentfulPaint": 2265,
+    "timeToInteractive": 2010,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diply",
+      "url": "http://diply.com",
+      "originalURL": "diply.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1180,
+    "largestContentfulPaint": 2185,
+    "timeToInteractive": 2013.5,
+    "totalBlockingTime": 41,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diply",
+      "url": "http://diply.com",
+      "originalURL": "diply.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1165,
+    "speedIndex": 1165,
+    "largestContentfulPaint": 2185,
+    "timeToInteractive": 1893,
+    "totalBlockingTime": 32.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diply",
+      "url": "http://diply.com",
+      "originalURL": "diply.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1085,
+    "speedIndex": 1085,
+    "largestContentfulPaint": 2120,
+    "timeToInteractive": 1849,
+    "totalBlockingTime": 45.5,
+    "cumulativeLayoutShift": 0
+  }
+]

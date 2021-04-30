@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "entertainment",
+      "url": "http://entertainment.ie",
+      "originalURL": "entertainment.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2910,
+    "speedIndex": 10738.98992217349,
+    "largestContentfulPaint": 15260.5,
+    "timeToInteractive": 17949.5,
+    "totalBlockingTime": 1028.5,
+    "cumulativeLayoutShift": 0.49872635904947926
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "entertainment",
+      "url": "http://entertainment.ie",
+      "originalURL": "entertainment.ie"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2730,
+    "speedIndex": 10281.472478149446,
+    "largestContentfulPaint": 13349.5,
+    "timeToInteractive": 16774.5,
+    "totalBlockingTime": 763,
+    "cumulativeLayoutShift": 0.5410419921875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "entertainment",
+      "url": "http://entertainment.ie",
+      "originalURL": "entertainment.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.73,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4410,
+    "speedIndex": 9575.042062314586,
+    "largestContentfulPaint": 14911.5,
+    "timeToInteractive": 16713,
+    "totalBlockingTime": 726,
+    "cumulativeLayoutShift": 0.48720654296875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "entertainment",
+      "url": "http://entertainment.ie",
+      "originalURL": "entertainment.ie"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.73,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3240,
+    "speedIndex": 18649.45312335978,
+    "largestContentfulPaint": 10179.5,
+    "timeToInteractive": 30200.5,
+    "totalBlockingTime": 3334.5,
+    "cumulativeLayoutShift": 0.529588134765625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "entertainment",
+      "url": "http://entertainment.ie",
+      "originalURL": "entertainment.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.73,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 22255.524535975514,
+    "largestContentfulPaint": 14979,
+    "timeToInteractive": 32241,
+    "totalBlockingTime": 3044,
+    "cumulativeLayoutShift": 0.4921801350911459
+  }
+]

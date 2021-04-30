@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mypanda",
+      "url": "http://mypanda.ie",
+      "originalURL": "mypanda.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.46,
+    "seo": 0.82,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 3265.037674067639,
+    "largestContentfulPaint": 4584.5,
+    "timeToInteractive": 5299,
+    "totalBlockingTime": 113.5,
+    "cumulativeLayoutShift": 0.1788275146484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mypanda",
+      "url": "http://mypanda.ie",
+      "originalURL": "mypanda.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.46,
+    "seo": 0.82,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 3324.201908174239,
+    "largestContentfulPaint": 4604.5,
+    "timeToInteractive": 5333,
+    "totalBlockingTime": 168.5,
+    "cumulativeLayoutShift": 0.1322082790798611
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mypanda",
+      "url": "http://mypanda.ie",
+      "originalURL": "mypanda.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.46,
+    "seo": 0.82,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 3312.8379989063533,
+    "largestContentfulPaint": 4594.5,
+    "timeToInteractive": 5366,
+    "totalBlockingTime": 114,
+    "cumulativeLayoutShift": 0.18122266303168402
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mypanda",
+      "url": "http://mypanda.ie",
+      "originalURL": "mypanda.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.46,
+    "seo": 0.82,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 3323.151793452654,
+    "largestContentfulPaint": 4674,
+    "timeToInteractive": 5364,
+    "totalBlockingTime": 113,
+    "cumulativeLayoutShift": 0.1322082790798611
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mypanda",
+      "url": "http://mypanda.ie",
+      "originalURL": "mypanda.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.46,
+    "seo": 0.82,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 3380.9021352297873,
+    "largestContentfulPaint": 4689,
+    "timeToInteractive": 5379,
+    "totalBlockingTime": 174.5,
+    "cumulativeLayoutShift": 0.1322082790798611
+  }
+]

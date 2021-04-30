@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jobs",
+      "url": "http://jobs.ie",
+      "originalURL": "jobs.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1178,
+    "speedIndex": 1715.444403764273,
+    "largestContentfulPaint": 2568.5,
+    "timeToInteractive": 2085,
+    "totalBlockingTime": 54,
+    "cumulativeLayoutShift": 0.000196327817178881
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jobs",
+      "url": "http://jobs.ie",
+      "originalURL": "jobs.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1730.4421249146887,
+    "largestContentfulPaint": 2527.5,
+    "timeToInteractive": 1945,
+    "totalBlockingTime": 57.5,
+    "cumulativeLayoutShift": 0.00019964801681113739
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jobs",
+      "url": "http://jobs.ie",
+      "originalURL": "jobs.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1266,
+    "speedIndex": 1645.6450784895037,
+    "largestContentfulPaint": 2483.5,
+    "timeToInteractive": 2066,
+    "totalBlockingTime": 42.5,
+    "cumulativeLayoutShift": 0.00019964801681113739
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jobs",
+      "url": "http://jobs.ie",
+      "originalURL": "jobs.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1267,
+    "speedIndex": 1650.4682619214846,
+    "largestContentfulPaint": 2510,
+    "timeToInteractive": 2078,
+    "totalBlockingTime": 40,
+    "cumulativeLayoutShift": 0.00019964801681113739
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jobs",
+      "url": "http://jobs.ie",
+      "originalURL": "jobs.ie"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1423.5,
+    "speedIndex": 2478.9506231071573,
+    "largestContentfulPaint": 2989.5,
+    "timeToInteractive": 2947.5,
+    "totalBlockingTime": 823.5,
+    "cumulativeLayoutShift": 0.0001941318623588127
+  }
+]

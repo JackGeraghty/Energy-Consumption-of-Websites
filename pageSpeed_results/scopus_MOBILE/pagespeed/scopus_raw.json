@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.17,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 6793,
+    "speedIndex": 8255.894229207457,
+    "largestContentfulPaint": 7425,
+    "timeToInteractive": 12972,
+    "totalBlockingTime": 697.5,
+    "cumulativeLayoutShift": 0.00038230942683836544
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.17,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 6839,
+    "speedIndex": 9320.124668582677,
+    "largestContentfulPaint": 8732.5,
+    "timeToInteractive": 12645,
+    "totalBlockingTime": 777.5,
+    "cumulativeLayoutShift": 0.06314133807385704
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.17,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 6863,
+    "speedIndex": 8799.851731479474,
+    "largestContentfulPaint": 6938,
+    "timeToInteractive": 12762,
+    "totalBlockingTime": 941.5,
+    "cumulativeLayoutShift": 0.06337866731988144
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.17,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 6802.5,
+    "speedIndex": 9600.713594593068,
+    "largestContentfulPaint": 9172.5,
+    "timeToInteractive": 13480,
+    "totalBlockingTime": 853.5,
+    "cumulativeLayoutShift": 0.06314133807385704
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.17,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 6751,
+    "speedIndex": 8865.411447677136,
+    "largestContentfulPaint": 7698,
+    "timeToInteractive": 13397,
+    "totalBlockingTime": 1149.5,
+    "cumulativeLayoutShift": 0.06314133807385704
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106436,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35199,
+        35108,
+        117434,
+        0.072638
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.072638
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.072638
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106436,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.072516
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69219,
+        69020,
+        69020,
+        0.072516
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.072516
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106413,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.074283
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.074283
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.074283
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106413,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.070046
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.070046
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.070046
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106413,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.07005
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.07005
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.07005
+      ]
+    ]
+  }
+]

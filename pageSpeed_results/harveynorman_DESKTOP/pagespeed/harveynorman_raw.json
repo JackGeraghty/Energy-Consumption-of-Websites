@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "harveynorman",
+      "url": "http://harveynorman.ie",
+      "originalURL": "harveynorman.ie"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1000,
+    "speedIndex": 3354.805188868105,
+    "largestContentfulPaint": 3617,
+    "timeToInteractive": 5004.5,
+    "totalBlockingTime": 436.5,
+    "cumulativeLayoutShift": 0.6333262552534803
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "harveynorman",
+      "url": "http://harveynorman.ie",
+      "originalURL": "harveynorman.ie"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1200,
+    "speedIndex": 3047.0321879473736,
+    "largestContentfulPaint": 2929,
+    "timeToInteractive": 4927.5,
+    "totalBlockingTime": 423,
+    "cumulativeLayoutShift": 0.53593005917462
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "harveynorman",
+      "url": "http://harveynorman.ie",
+      "originalURL": "harveynorman.ie"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1200,
+    "speedIndex": 3238.2655767794413,
+    "largestContentfulPaint": 3001,
+    "timeToInteractive": 4851.5,
+    "totalBlockingTime": 542.5,
+    "cumulativeLayoutShift": 0.5358216326467325
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "harveynorman",
+      "url": "http://harveynorman.ie",
+      "originalURL": "harveynorman.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1200,
+    "speedIndex": 3324.3860260433444,
+    "largestContentfulPaint": 3597,
+    "timeToInteractive": 4998,
+    "totalBlockingTime": 472.5,
+    "cumulativeLayoutShift": 0.5697010366138401
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "harveynorman",
+      "url": "http://harveynorman.ie",
+      "originalURL": "harveynorman.ie"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1002,
+    "speedIndex": 3454.4564055024616,
+    "largestContentfulPaint": 2975,
+    "timeToInteractive": 4891.5,
+    "totalBlockingTime": 465,
+    "cumulativeLayoutShift": 0.5273925681857982
+  }
+]

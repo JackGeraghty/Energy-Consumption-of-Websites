@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pixabay",
+      "url": "http://pixabay.com",
+      "originalURL": "pixabay.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.63,
+    "seo": 0.83,
+    "accessibility": 0.64,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 835,
+    "speedIndex": 969.5703458934886,
+    "largestContentfulPaint": 1095.5,
+    "timeToInteractive": 835,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.40839216414207746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pixabay",
+      "url": "http://pixabay.com",
+      "originalURL": "pixabay.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.63,
+    "seo": 0.83,
+    "accessibility": 0.64,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 950.4861334234472,
+    "largestContentfulPaint": 1083.5,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.40839216414207746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pixabay",
+      "url": "http://pixabay.com",
+      "originalURL": "pixabay.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.63,
+    "seo": 0.83,
+    "accessibility": 0.64,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 1073,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.40839216414207746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pixabay",
+      "url": "http://pixabay.com",
+      "originalURL": "pixabay.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.63,
+    "seo": 0.83,
+    "accessibility": 0.64,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 1092.5,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.40839216414207746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pixabay",
+      "url": "http://pixabay.com",
+      "originalURL": "pixabay.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.63,
+    "seo": 0.83,
+    "accessibility": 0.64,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 921.6661539076534,
+    "largestContentfulPaint": 1085.5,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.40839216414207746
+  }
+]

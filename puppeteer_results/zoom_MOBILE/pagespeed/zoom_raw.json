@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 12118.321722694394,
+    "largestContentfulPaint": 13900.5,
+    "timeToInteractive": 21167.5,
+    "totalBlockingTime": 2578.5,
+    "cumulativeLayoutShift": 0.12689992268880207
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 13355.91920362192,
+    "largestContentfulPaint": 13712,
+    "timeToInteractive": 21384,
+    "totalBlockingTime": 2617,
+    "cumulativeLayoutShift": 0.12689992268880207
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 4920,
+    "speedIndex": 11075.330505200425,
+    "largestContentfulPaint": 13637.5,
+    "timeToInteractive": 20992,
+    "totalBlockingTime": 2666.5,
+    "cumulativeLayoutShift": 0.13794057210286456
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 12278.088702459743,
+    "largestContentfulPaint": 13923,
+    "timeToInteractive": 21428.5,
+    "totalBlockingTime": 2748.5,
+    "cumulativeLayoutShift": 0.13989939371744792
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 4920,
+    "speedIndex": 11552.940255644922,
+    "largestContentfulPaint": 13916,
+    "timeToInteractive": 21316,
+    "totalBlockingTime": 2871,
+    "cumulativeLayoutShift": 0.1379405721028646
+  }
+]

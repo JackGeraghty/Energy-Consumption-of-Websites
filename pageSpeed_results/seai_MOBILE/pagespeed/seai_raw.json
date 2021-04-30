@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seai",
+      "url": "http://seai.ie",
+      "originalURL": "seai.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3589,
+    "speedIndex": 4710.862880796193,
+    "largestContentfulPaint": 7731.5,
+    "timeToInteractive": 7489,
+    "totalBlockingTime": 276.5,
+    "cumulativeLayoutShift": 0.11522757159504626
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seai",
+      "url": "http://seai.ie",
+      "originalURL": "seai.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3751,
+    "speedIndex": 4531.0166263186375,
+    "largestContentfulPaint": 7751,
+    "timeToInteractive": 7589,
+    "totalBlockingTime": 308,
+    "cumulativeLayoutShift": 0.11522757159504626
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seai",
+      "url": "http://seai.ie",
+      "originalURL": "seai.ie"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3763,
+    "speedIndex": 5451.759921733977,
+    "largestContentfulPaint": 7387,
+    "timeToInteractive": 7499,
+    "totalBlockingTime": 309,
+    "cumulativeLayoutShift": 0.11522757159504626
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seai",
+      "url": "http://seai.ie",
+      "originalURL": "seai.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3742,
+    "speedIndex": 4309.767549460922,
+    "largestContentfulPaint": 7741.5,
+    "timeToInteractive": 7499,
+    "totalBlockingTime": 287.5,
+    "cumulativeLayoutShift": 0.11522757159504626
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seai",
+      "url": "http://seai.ie",
+      "originalURL": "seai.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3728,
+    "speedIndex": 4531.31763806842,
+    "largestContentfulPaint": 7730.5,
+    "timeToInteractive": 7486,
+    "totalBlockingTime": 265,
+    "cumulativeLayoutShift": 0.11522757159504626
+  }
+]

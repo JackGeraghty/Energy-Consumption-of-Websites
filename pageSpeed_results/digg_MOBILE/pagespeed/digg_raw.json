@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digg",
+      "url": "http://digg.com",
+      "originalURL": "digg.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.39,
+    "seo": 0.96,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1590,
+    "speedIndex": 4992.283588954773,
+    "largestContentfulPaint": 6267.5,
+    "timeToInteractive": 15889,
+    "totalBlockingTime": 1427,
+    "cumulativeLayoutShift": 0.562915771484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digg",
+      "url": "http://digg.com",
+      "originalURL": "digg.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.39,
+    "seo": 0.96,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4590,
+    "speedIndex": 6646.632442924282,
+    "largestContentfulPaint": 8580,
+    "timeToInteractive": 17481,
+    "totalBlockingTime": 914.5,
+    "cumulativeLayoutShift": 0.5554658067491319
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digg",
+      "url": "http://digg.com",
+      "originalURL": "digg.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.39,
+    "seo": 0.96,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4590,
+    "speedIndex": 6832.075313107116,
+    "largestContentfulPaint": 8085,
+    "timeToInteractive": 17277.5,
+    "totalBlockingTime": 839,
+    "cumulativeLayoutShift": 0.5506244574652778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digg",
+      "url": "http://digg.com",
+      "originalURL": "digg.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.39,
+    "seo": 0.96,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6240,
+    "speedIndex": 7086.437802855822,
+    "largestContentfulPaint": 8820,
+    "timeToInteractive": 18343,
+    "totalBlockingTime": 743,
+    "cumulativeLayoutShift": 0.5505316569010417
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digg",
+      "url": "http://digg.com",
+      "originalURL": "digg.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.39,
+    "seo": 0.96,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6240,
+    "speedIndex": 6778.864459683552,
+    "largestContentfulPaint": 8760,
+    "timeToInteractive": 18488.5,
+    "totalBlockingTime": 690,
+    "cumulativeLayoutShift": 0.545480699327257
+  }
+]

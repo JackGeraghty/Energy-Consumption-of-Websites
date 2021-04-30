@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nookplaza",
+      "url": "http://nookplaza.net",
+      "originalURL": "nookplaza.net"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.72,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3589,
+    "speedIndex": 9572.255935664536,
+    "largestContentfulPaint": 17190,
+    "timeToInteractive": 15250,
+    "totalBlockingTime": 1698.5,
+    "cumulativeLayoutShift": 0.494947624206543
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nookplaza",
+      "url": "http://nookplaza.net",
+      "originalURL": "nookplaza.net"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.72,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3562,
+    "speedIndex": 10426.048543180637,
+    "largestContentfulPaint": 13380,
+    "timeToInteractive": 14785,
+    "totalBlockingTime": 1479.5,
+    "cumulativeLayoutShift": 0.26505700450473363
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nookplaza",
+      "url": "http://nookplaza.net",
+      "originalURL": "nookplaza.net"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.72,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 11087.656019557622,
+    "largestContentfulPaint": 13455,
+    "timeToInteractive": 14576,
+    "totalBlockingTime": 1330,
+    "cumulativeLayoutShift": 0.26505700450473363
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nookplaza",
+      "url": "http://nookplaza.net",
+      "originalURL": "nookplaza.net"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.72,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3548,
+    "speedIndex": 10289.29956058658,
+    "largestContentfulPaint": 13560,
+    "timeToInteractive": 14733,
+    "totalBlockingTime": 1383.5,
+    "cumulativeLayoutShift": 0.2650395168728299
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nookplaza",
+      "url": "http://nookplaza.net",
+      "originalURL": "nookplaza.net"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.72,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3584,
+    "speedIndex": 10143.028770725014,
+    "largestContentfulPaint": 13560,
+    "timeToInteractive": 14411,
+    "totalBlockingTime": 1260.5,
+    "cumulativeLayoutShift": 0.26505700450473363
+  }
+]

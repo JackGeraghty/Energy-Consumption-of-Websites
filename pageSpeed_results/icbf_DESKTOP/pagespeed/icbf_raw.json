@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icbf",
+      "url": "http://icbf.com",
+      "originalURL": "icbf.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2683,
+    "speedIndex": 3011.742767216272,
+    "largestContentfulPaint": 3995,
+    "timeToInteractive": 5141,
+    "totalBlockingTime": 70,
+    "cumulativeLayoutShift": 0.003885945772407553
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icbf",
+      "url": "http://icbf.com",
+      "originalURL": "icbf.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3260,
+    "speedIndex": 3285.622483759231,
+    "largestContentfulPaint": 3880,
+    "timeToInteractive": 4927,
+    "totalBlockingTime": 118,
+    "cumulativeLayoutShift": 0.0038667904153168145
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icbf",
+      "url": "http://icbf.com",
+      "originalURL": "icbf.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2430,
+    "speedIndex": 2974.135065791785,
+    "largestContentfulPaint": 4015,
+    "timeToInteractive": 5233,
+    "totalBlockingTime": 67,
+    "cumulativeLayoutShift": 0.0032388944342293434
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icbf",
+      "url": "http://icbf.com",
+      "originalURL": "icbf.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2505,
+    "speedIndex": 2875.919304109332,
+    "largestContentfulPaint": 4015,
+    "timeToInteractive": 5315.5,
+    "totalBlockingTime": 114,
+    "cumulativeLayoutShift": 0.0038844170096021943
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icbf",
+      "url": "http://icbf.com",
+      "originalURL": "icbf.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2485.5,
+    "speedIndex": 2964.352227770695,
+    "largestContentfulPaint": 3980.5,
+    "timeToInteractive": 5258.5,
+    "totalBlockingTime": 106.5,
+    "cumulativeLayoutShift": 0.0038852663222718378
+  }
+]

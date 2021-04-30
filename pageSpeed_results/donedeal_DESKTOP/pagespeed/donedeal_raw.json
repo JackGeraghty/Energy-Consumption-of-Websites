@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie",
+      "originalURL": "donedeal.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1680,
+    "speedIndex": 1680,
+    "largestContentfulPaint": 2692,
+    "timeToInteractive": 2958.5,
+    "totalBlockingTime": 175.5,
+    "cumulativeLayoutShift": 0.0030737749175495433
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie",
+      "originalURL": "donedeal.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1720,
+    "speedIndex": 1720,
+    "largestContentfulPaint": 2465,
+    "timeToInteractive": 3060,
+    "totalBlockingTime": 188,
+    "cumulativeLayoutShift": 0.0030737749175495433
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie",
+      "originalURL": "donedeal.ie"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1640,
+    "speedIndex": 1640,
+    "largestContentfulPaint": 2407.5,
+    "timeToInteractive": 2915,
+    "totalBlockingTime": 189.5,
+    "cumulativeLayoutShift": 0.0030737749175495433
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie",
+      "originalURL": "donedeal.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1600,
+    "speedIndex": 1600,
+    "largestContentfulPaint": 2617,
+    "timeToInteractive": 2942,
+    "totalBlockingTime": 135,
+    "cumulativeLayoutShift": 0.0030737749175495433
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie",
+      "originalURL": "donedeal.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1680,
+    "speedIndex": 1680,
+    "largestContentfulPaint": 2718,
+    "timeToInteractive": 2952.5,
+    "totalBlockingTime": 172,
+    "cumulativeLayoutShift": 0.0030737749175495433
+  }
+]

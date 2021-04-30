@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "op",
+      "url": "http://op.gg",
+      "originalURL": "op.gg"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.58,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1970,
+    "speedIndex": 2420.541815632604,
+    "largestContentfulPaint": 2848,
+    "timeToInteractive": 4836,
+    "totalBlockingTime": 324,
+    "cumulativeLayoutShift": 0.0926558561713802
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "op",
+      "url": "http://op.gg",
+      "originalURL": "op.gg"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.58,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1941,
+    "speedIndex": 2574.321838516712,
+    "largestContentfulPaint": 2816,
+    "timeToInteractive": 4829,
+    "totalBlockingTime": 243.5,
+    "cumulativeLayoutShift": 0.0926558561713802
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "op",
+      "url": "http://op.gg",
+      "originalURL": "op.gg"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.58,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1930,
+    "speedIndex": 2360.2357401910094,
+    "largestContentfulPaint": 2677,
+    "timeToInteractive": 4798,
+    "totalBlockingTime": 304.5,
+    "cumulativeLayoutShift": 0.0926558561713802
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "op",
+      "url": "http://op.gg",
+      "originalURL": "op.gg"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.58,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1980,
+    "speedIndex": 2436.850208322454,
+    "largestContentfulPaint": 2678,
+    "timeToInteractive": 4778,
+    "totalBlockingTime": 354,
+    "cumulativeLayoutShift": 0.09194474506026909
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "op",
+      "url": "http://op.gg",
+      "originalURL": "op.gg"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.58,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1950,
+    "speedIndex": 2795.1504794451193,
+    "largestContentfulPaint": 2992,
+    "timeToInteractive": 4807,
+    "totalBlockingTime": 270,
+    "cumulativeLayoutShift": 0.09194474506026909
+  }
+]

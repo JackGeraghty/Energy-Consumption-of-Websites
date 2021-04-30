@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f4wonline",
+      "url": "http://f4wonline.com",
+      "originalURL": "f4wonline.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5071.5,
+    "speedIndex": 11014.140992780134,
+    "largestContentfulPaint": 6243,
+    "timeToInteractive": 23076.5,
+    "totalBlockingTime": 3705,
+    "cumulativeLayoutShift": 0.05188460286458333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f4wonline",
+      "url": "http://f4wonline.com",
+      "originalURL": "f4wonline.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5052.5,
+    "speedIndex": 10079.92064588644,
+    "largestContentfulPaint": 6205,
+    "timeToInteractive": 22592,
+    "totalBlockingTime": 3035,
+    "cumulativeLayoutShift": 0.05166487630208333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f4wonline",
+      "url": "http://f4wonline.com",
+      "originalURL": "f4wonline.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5234,
+    "speedIndex": 12435.427159891999,
+    "largestContentfulPaint": 6389,
+    "timeToInteractive": 24950,
+    "totalBlockingTime": 3377,
+    "cumulativeLayoutShift": 0.05027327473958333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f4wonline",
+      "url": "http://f4wonline.com",
+      "originalURL": "f4wonline.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5306,
+    "speedIndex": 12687.113658874425,
+    "largestContentfulPaint": 8953,
+    "timeToInteractive": 30008.5,
+    "totalBlockingTime": 11735,
+    "cumulativeLayoutShift": 0.054741048177083335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f4wonline",
+      "url": "http://f4wonline.com",
+      "originalURL": "f4wonline.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5124,
+    "speedIndex": 10513.092063702486,
+    "largestContentfulPaint": 6354,
+    "timeToInteractive": 26245.5,
+    "totalBlockingTime": 3317,
+    "cumulativeLayoutShift": 0.05188460286458333
+  }
+]

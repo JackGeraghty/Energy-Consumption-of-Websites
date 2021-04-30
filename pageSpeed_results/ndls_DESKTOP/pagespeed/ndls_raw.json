@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ndls",
+      "url": "http://ndls.ie",
+      "originalURL": "ndls.ie"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1957.5,
+    "speedIndex": 2514.731800931627,
+    "largestContentfulPaint": 3706.5,
+    "timeToInteractive": 3403.5,
+    "totalBlockingTime": 70.5,
+    "cumulativeLayoutShift": 0.04626216326649739
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ndls",
+      "url": "http://ndls.ie",
+      "originalURL": "ndls.ie"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2057.5,
+    "speedIndex": 2494.4827413238127,
+    "largestContentfulPaint": 3719,
+    "timeToInteractive": 3409,
+    "totalBlockingTime": 55,
+    "cumulativeLayoutShift": 0.04028902898170038
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ndls",
+      "url": "http://ndls.ie",
+      "originalURL": "ndls.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2063.5,
+    "speedIndex": 2457.817420173629,
+    "largestContentfulPaint": 3713,
+    "timeToInteractive": 3389.5,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0.16713472375448735
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ndls",
+      "url": "http://ndls.ie",
+      "originalURL": "ndls.ie"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2190,
+    "speedIndex": 3257.367400329314,
+    "largestContentfulPaint": 4345,
+    "timeToInteractive": 4249.5,
+    "totalBlockingTime": 419,
+    "cumulativeLayoutShift": 0.1669952415141698
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ndls",
+      "url": "http://ndls.ie",
+      "originalURL": "ndls.ie"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1971.5,
+    "speedIndex": 2777.8837435807336,
+    "largestContentfulPaint": 3645.5,
+    "timeToInteractive": 3336.5,
+    "totalBlockingTime": 64,
+    "cumulativeLayoutShift": 0.041099013513119106
+  }
+]

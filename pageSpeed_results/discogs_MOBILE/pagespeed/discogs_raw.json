@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discogs",
+      "url": "http://discogs.com",
+      "originalURL": "discogs.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 8680.130522219295,
+    "largestContentfulPaint": 29190,
+    "timeToInteractive": 20440.5,
+    "totalBlockingTime": 2796.5,
+    "cumulativeLayoutShift": 0.09215593126085068
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discogs",
+      "url": "http://discogs.com",
+      "originalURL": "discogs.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 8965.17983648936,
+    "largestContentfulPaint": 29040,
+    "timeToInteractive": 20404.5,
+    "totalBlockingTime": 2381,
+    "cumulativeLayoutShift": 0.09215593126085068
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discogs",
+      "url": "http://discogs.com",
+      "originalURL": "discogs.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.25,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 10480.399770696447,
+    "largestContentfulPaint": 28215,
+    "timeToInteractive": 20528,
+    "totalBlockingTime": 2497.5,
+    "cumulativeLayoutShift": 0.09215593126085068
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discogs",
+      "url": "http://discogs.com",
+      "originalURL": "discogs.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 9428.464274500366,
+    "largestContentfulPaint": 28815,
+    "timeToInteractive": 20261.5,
+    "totalBlockingTime": 2494,
+    "cumulativeLayoutShift": 0.09215593126085068
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discogs",
+      "url": "http://discogs.com",
+      "originalURL": "discogs.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 10127.870846162505,
+    "largestContentfulPaint": 28515,
+    "timeToInteractive": 20560,
+    "totalBlockingTime": 2252,
+    "cumulativeLayoutShift": 0.09215593126085068
+  }
+]

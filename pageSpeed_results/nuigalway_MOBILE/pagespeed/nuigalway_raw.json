@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nuigalway",
+      "url": "http://nuigalway.ie",
+      "originalURL": "nuigalway.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 8370,
+    "speedIndex": 8370,
+    "largestContentfulPaint": 10935,
+    "timeToInteractive": 8795,
+    "totalBlockingTime": 210,
+    "cumulativeLayoutShift": 0.08919633653428818
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nuigalway",
+      "url": "http://nuigalway.ie",
+      "originalURL": "nuigalway.ie"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 8366.5,
+    "speedIndex": 8366.5,
+    "largestContentfulPaint": 11235,
+    "timeToInteractive": 8820,
+    "totalBlockingTime": 220,
+    "cumulativeLayoutShift": 0.0899876980251736
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nuigalway",
+      "url": "http://nuigalway.ie",
+      "originalURL": "nuigalway.ie"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 8370.5,
+    "speedIndex": 8370.5,
+    "largestContentfulPaint": 11145,
+    "timeToInteractive": 8820.5,
+    "totalBlockingTime": 220.5,
+    "cumulativeLayoutShift": 0.09100010850694444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nuigalway",
+      "url": "http://nuigalway.ie",
+      "originalURL": "nuigalway.ie"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 8402,
+    "speedIndex": 8402,
+    "largestContentfulPaint": 11310,
+    "timeToInteractive": 8892.5,
+    "totalBlockingTime": 292.5,
+    "cumulativeLayoutShift": 0.0909459228515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nuigalway",
+      "url": "http://nuigalway.ie",
+      "originalURL": "nuigalway.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 8300.5,
+    "speedIndex": 8300.5,
+    "largestContentfulPaint": 11145,
+    "timeToInteractive": 8752.5,
+    "totalBlockingTime": 167.5,
+    "cumulativeLayoutShift": 0.09089085557725693
+  }
+]

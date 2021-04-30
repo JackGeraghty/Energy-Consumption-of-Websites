@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nhs",
+      "url": "http://www.nhs.uk",
+      "originalURL": "www.nhs.uk"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 450,
+    "speedIndex": 450,
+    "largestContentfulPaint": 925,
+    "timeToInteractive": 780,
+    "totalBlockingTime": 12.5,
+    "cumulativeLayoutShift": 0.3143262411347517
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nhs",
+      "url": "http://www.nhs.uk",
+      "originalURL": "www.nhs.uk"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 450,
+    "speedIndex": 462.34254566680045,
+    "largestContentfulPaint": 930,
+    "timeToInteractive": 785,
+    "totalBlockingTime": 15,
+    "cumulativeLayoutShift": 0.31531736859002424
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nhs",
+      "url": "http://www.nhs.uk",
+      "originalURL": "www.nhs.uk"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 450,
+    "speedIndex": 450,
+    "largestContentfulPaint": 924,
+    "timeToInteractive": 779,
+    "totalBlockingTime": 12,
+    "cumulativeLayoutShift": 0.3143262411347517
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nhs",
+      "url": "http://www.nhs.uk",
+      "originalURL": "www.nhs.uk"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 450,
+    "speedIndex": 450,
+    "largestContentfulPaint": 937,
+    "timeToInteractive": 792,
+    "totalBlockingTime": 18.5,
+    "cumulativeLayoutShift": 0.3143262411347517
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nhs",
+      "url": "http://www.nhs.uk",
+      "originalURL": "www.nhs.uk"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 450,
+    "speedIndex": 476.22730069665107,
+    "largestContentfulPaint": 872,
+    "timeToInteractive": 787,
+    "totalBlockingTime": 16,
+    "cumulativeLayoutShift": 0.3143262411347517
+  }
+]

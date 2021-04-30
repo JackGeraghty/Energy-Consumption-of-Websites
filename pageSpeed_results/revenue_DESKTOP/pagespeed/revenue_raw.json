@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie",
+      "originalURL": "revenue.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1745,
+    "speedIndex": 1966.1395901835867,
+    "largestContentfulPaint": 2522,
+    "timeToInteractive": 2432,
+    "totalBlockingTime": 57,
+    "cumulativeLayoutShift": 0.060892648045997144
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie",
+      "originalURL": "revenue.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1572,
+    "speedIndex": 1572,
+    "largestContentfulPaint": 2402,
+    "timeToInteractive": 2045,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie",
+      "originalURL": "revenue.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1916,
+    "speedIndex": 1916,
+    "largestContentfulPaint": 2405,
+    "timeToInteractive": 2130,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie",
+      "originalURL": "revenue.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1573.5,
+    "speedIndex": 1573.5,
+    "largestContentfulPaint": 2405.5,
+    "timeToInteractive": 2095.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.060964235472667314
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie",
+      "originalURL": "revenue.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1720,
+    "speedIndex": 1720,
+    "largestContentfulPaint": 2388.5,
+    "timeToInteractive": 2098.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  }
+]

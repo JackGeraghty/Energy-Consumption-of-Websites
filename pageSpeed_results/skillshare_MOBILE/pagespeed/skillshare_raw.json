@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skillshare",
+      "url": "http://skillshare.com",
+      "originalURL": "skillshare.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 9177.321950970178,
+    "largestContentfulPaint": 4845,
+    "timeToInteractive": 18708.5,
+    "totalBlockingTime": 1892.5,
+    "cumulativeLayoutShift": 0.21210161675347222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skillshare",
+      "url": "http://skillshare.com",
+      "originalURL": "skillshare.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 8713.128840508112,
+    "largestContentfulPaint": 4800,
+    "timeToInteractive": 18544,
+    "totalBlockingTime": 1945.5,
+    "cumulativeLayoutShift": 0.19106701660156253
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skillshare",
+      "url": "http://skillshare.com",
+      "originalURL": "skillshare.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 9526.656116280694,
+    "largestContentfulPaint": 4845,
+    "timeToInteractive": 18617,
+    "totalBlockingTime": 1954.5,
+    "cumulativeLayoutShift": 0.21830257161458333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skillshare",
+      "url": "http://skillshare.com",
+      "originalURL": "skillshare.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 9879.313990725357,
+    "largestContentfulPaint": 4275,
+    "timeToInteractive": 20179.5,
+    "totalBlockingTime": 4586,
+    "cumulativeLayoutShift": 0.21210161675347222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skillshare",
+      "url": "http://skillshare.com",
+      "originalURL": "skillshare.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 8800.990440908234,
+    "largestContentfulPaint": 4275,
+    "timeToInteractive": 18409,
+    "totalBlockingTime": 1463.5,
+    "cumulativeLayoutShift": 0.21748339843749998
+  }
+]

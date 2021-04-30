@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bridgestone",
+      "url": "http://bridgestone.eu",
+      "originalURL": "bridgestone.eu"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.77,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1170,
+    "speedIndex": 2004.7823670871558,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 3801,
+    "totalBlockingTime": 1657,
+    "cumulativeLayoutShift": 0.01066939964393077
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bridgestone",
+      "url": "http://bridgestone.eu",
+      "originalURL": "bridgestone.eu"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.77,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 1070,
+    "largestContentfulPaint": 1380,
+    "timeToInteractive": 2318,
+    "totalBlockingTime": 72.5,
+    "cumulativeLayoutShift": 0.010674446487464611
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bridgestone",
+      "url": "http://bridgestone.eu",
+      "originalURL": "bridgestone.eu"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.77,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 990,
+    "speedIndex": 990,
+    "largestContentfulPaint": 1566,
+    "timeToInteractive": 2358,
+    "totalBlockingTime": 99.5,
+    "cumulativeLayoutShift": 0.011183869480197296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bridgestone",
+      "url": "http://bridgestone.eu",
+      "originalURL": "bridgestone.eu"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.77,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 990,
+    "speedIndex": 990,
+    "largestContentfulPaint": 1500,
+    "timeToInteractive": 2346,
+    "totalBlockingTime": 100.5,
+    "cumulativeLayoutShift": 0.011183869480197296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bridgestone",
+      "url": "http://bridgestone.eu",
+      "originalURL": "bridgestone.eu"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.77,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1110,
+    "speedIndex": 1110,
+    "largestContentfulPaint": 1460,
+    "timeToInteractive": 2418,
+    "totalBlockingTime": 188.5,
+    "cumulativeLayoutShift": 0.010674446487464611
+  }
+]

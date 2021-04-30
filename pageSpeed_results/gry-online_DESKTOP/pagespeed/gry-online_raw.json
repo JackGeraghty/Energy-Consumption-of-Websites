@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gry-online",
+      "url": "http://gry-online.pl",
+      "originalURL": "gry-online.pl"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.26,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 496,
+    "speedIndex": 806.614252521778,
+    "largestContentfulPaint": 2110.5,
+    "timeToInteractive": 2308.5,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0.016404265826109796
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gry-online",
+      "url": "http://gry-online.pl",
+      "originalURL": "gry-online.pl"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.26,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 564,
+    "speedIndex": 1257.4261128248559,
+    "largestContentfulPaint": 1710,
+    "timeToInteractive": 3467.5,
+    "totalBlockingTime": 1013.5,
+    "cumulativeLayoutShift": 0.0010785908998044538
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gry-online",
+      "url": "http://gry-online.pl",
+      "originalURL": "gry-online.pl"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.26,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 498,
+    "speedIndex": 759.1479538963033,
+    "largestContentfulPaint": 1606,
+    "timeToInteractive": 2306,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.00033901759915944314
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gry-online",
+      "url": "http://gry-online.pl",
+      "originalURL": "gry-online.pl"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.26,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 504,
+    "speedIndex": 746.9933506794727,
+    "largestContentfulPaint": 1629,
+    "timeToInteractive": 2145,
+    "totalBlockingTime": 33,
+    "cumulativeLayoutShift": 0.0010785908998044538
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gry-online",
+      "url": "http://gry-online.pl",
+      "originalURL": "gry-online.pl"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.26,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 526,
+    "speedIndex": 909.1171973155358,
+    "largestContentfulPaint": 1722,
+    "timeToInteractive": 2124,
+    "totalBlockingTime": 15.5,
+    "cumulativeLayoutShift": 0.0010785908998044538
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trusttoken",
+      "url": "http://trusttoken.com",
+      "originalURL": "trusttoken.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5250,
+    "speedIndex": 8724.42951829178,
+    "largestContentfulPaint": 6405,
+    "timeToInteractive": 16452.5,
+    "totalBlockingTime": 2600,
+    "cumulativeLayoutShift": 0.09369132486979168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trusttoken",
+      "url": "http://trusttoken.com",
+      "originalURL": "trusttoken.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4950,
+    "speedIndex": 8573.080086164973,
+    "largestContentfulPaint": 8385,
+    "timeToInteractive": 16333,
+    "totalBlockingTime": 2289,
+    "cumulativeLayoutShift": 0.09369132486979168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trusttoken",
+      "url": "http://trusttoken.com",
+      "originalURL": "trusttoken.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.71,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5250,
+    "speedIndex": 8715.757744265406,
+    "largestContentfulPaint": 6705,
+    "timeToInteractive": 16418.5,
+    "totalBlockingTime": 2676,
+    "cumulativeLayoutShift": 0.09369132486979168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trusttoken",
+      "url": "http://trusttoken.com",
+      "originalURL": "trusttoken.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5250,
+    "speedIndex": 8674.599249998697,
+    "largestContentfulPaint": 6405,
+    "timeToInteractive": 16468.5,
+    "totalBlockingTime": 2872,
+    "cumulativeLayoutShift": 0.09369132486979168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trusttoken",
+      "url": "http://trusttoken.com",
+      "originalURL": "trusttoken.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.71,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5250,
+    "speedIndex": 7850.313953922143,
+    "largestContentfulPaint": 6630,
+    "timeToInteractive": 16076,
+    "totalBlockingTime": 3539.5,
+    "cumulativeLayoutShift": 0.09369132486979168
+  }
+]

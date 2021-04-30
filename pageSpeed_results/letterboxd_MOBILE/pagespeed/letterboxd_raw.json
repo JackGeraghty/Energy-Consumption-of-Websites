@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "letterboxd",
+      "url": "http://letterboxd.com",
+      "originalURL": "letterboxd.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.32,
+    "seo": 0.9,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 8820,
+    "speedIndex": 12543.816819011077,
+    "largestContentfulPaint": 29910,
+    "timeToInteractive": 35496,
+    "totalBlockingTime": 1514.5,
+    "cumulativeLayoutShift": 0.05829557291666666
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "letterboxd",
+      "url": "http://letterboxd.com",
+      "originalURL": "letterboxd.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.32,
+    "seo": 0.9,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 6613,
+    "speedIndex": 12541.826503175456,
+    "largestContentfulPaint": 30862.5,
+    "timeToInteractive": 37071,
+    "totalBlockingTime": 1629,
+    "cumulativeLayoutShift": 0.055181308322482636
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "letterboxd",
+      "url": "http://letterboxd.com",
+      "originalURL": "letterboxd.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.32,
+    "seo": 0.9,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 6630.5,
+    "speedIndex": 18270.632745342315,
+    "largestContentfulPaint": 30278.500715255737,
+    "timeToInteractive": 39080.5,
+    "totalBlockingTime": 2439,
+    "cumulativeLayoutShift": 0.05913932291666666
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "letterboxd",
+      "url": "http://letterboxd.com",
+      "originalURL": "letterboxd.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.32,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 6613,
+    "speedIndex": 8614.120459812364,
+    "largestContentfulPaint": 19449.5,
+    "timeToInteractive": 18187,
+    "totalBlockingTime": 432,
+    "cumulativeLayoutShift": 0.003114264594184028
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "letterboxd",
+      "url": "http://letterboxd.com",
+      "originalURL": "letterboxd.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.32,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 6609.5,
+    "speedIndex": 9694.269037606893,
+    "largestContentfulPaint": 19097.5,
+    "timeToInteractive": 17991.5,
+    "totalBlockingTime": 467.5,
+    "cumulativeLayoutShift": 0
+  }
+]

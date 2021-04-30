@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accaglobal",
+      "url": "http://accaglobal.com",
+      "originalURL": "accaglobal.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 4959.939800267977,
+    "largestContentfulPaint": 6904,
+    "timeToInteractive": 13139,
+    "totalBlockingTime": 1232.5,
+    "cumulativeLayoutShift": 0.2821820407443577
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accaglobal",
+      "url": "http://accaglobal.com",
+      "originalURL": "accaglobal.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 5694.184028611676,
+    "largestContentfulPaint": 6694.5,
+    "timeToInteractive": 12977,
+    "totalBlockingTime": 1268,
+    "cumulativeLayoutShift": 0.2821820407443577
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accaglobal",
+      "url": "http://accaglobal.com",
+      "originalURL": "accaglobal.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 5838.594880064097,
+    "largestContentfulPaint": 6699,
+    "timeToInteractive": 12866.5,
+    "totalBlockingTime": 875,
+    "cumulativeLayoutShift": 0.2821136813693577
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accaglobal",
+      "url": "http://accaglobal.com",
+      "originalURL": "accaglobal.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 5824.246340033686,
+    "largestContentfulPaint": 6582.5,
+    "timeToInteractive": 12795,
+    "totalBlockingTime": 1063,
+    "cumulativeLayoutShift": 0.2821820407443577
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accaglobal",
+      "url": "http://accaglobal.com",
+      "originalURL": "accaglobal.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 5202.303531748332,
+    "largestContentfulPaint": 7051,
+    "timeToInteractive": 13003,
+    "totalBlockingTime": 1183.5,
+    "cumulativeLayoutShift": 0.2821820407443577
+  }
+]

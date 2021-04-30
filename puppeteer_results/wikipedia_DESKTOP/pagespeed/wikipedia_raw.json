@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 914,
+    "speedIndex": 914,
+    "largestContentfulPaint": 962,
+    "timeToInteractive": 919.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 785,
+    "speedIndex": 785,
+    "largestContentfulPaint": 908,
+    "timeToInteractive": 785,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 783,
+    "speedIndex": 783,
+    "largestContentfulPaint": 909.5,
+    "timeToInteractive": 783,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 770,
+    "speedIndex": 770,
+    "largestContentfulPaint": 907,
+    "timeToInteractive": 770,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 784,
+    "speedIndex": 784,
+    "largestContentfulPaint": 907.5,
+    "timeToInteractive": 784,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

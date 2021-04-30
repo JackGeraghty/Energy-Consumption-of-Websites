@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topmarks",
+      "url": "http://topmarks.co.uk",
+      "originalURL": "topmarks.co.uk"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.43,
+    "seo": 0.93,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2295,
+    "speedIndex": 2337.908792078602,
+    "largestContentfulPaint": 4136.5,
+    "timeToInteractive": 3699,
+    "totalBlockingTime": 89,
+    "cumulativeLayoutShift": 0.00018031850349414986
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topmarks",
+      "url": "http://topmarks.co.uk",
+      "originalURL": "topmarks.co.uk"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.43,
+    "seo": 0.93,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1970,
+    "speedIndex": 2589.147877759474,
+    "largestContentfulPaint": 4418,
+    "timeToInteractive": 4474,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.02637780851071906
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topmarks",
+      "url": "http://topmarks.co.uk",
+      "originalURL": "topmarks.co.uk"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.43,
+    "seo": 0.93,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2126,
+    "speedIndex": 2446.909413984068,
+    "largestContentfulPaint": 5280,
+    "timeToInteractive": 4466,
+    "totalBlockingTime": 79.5,
+    "cumulativeLayoutShift": 0.00018725555818458573
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topmarks",
+      "url": "http://topmarks.co.uk",
+      "originalURL": "topmarks.co.uk"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.43,
+    "seo": 0.93,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1963,
+    "speedIndex": 2694.571062003206,
+    "largestContentfulPaint": 5445,
+    "timeToInteractive": 4530,
+    "totalBlockingTime": 67.5,
+    "cumulativeLayoutShift": 0.027004933438438305
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topmarks",
+      "url": "http://topmarks.co.uk",
+      "originalURL": "topmarks.co.uk"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.43,
+    "seo": 0.93,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2130.5,
+    "speedIndex": 2630.2121949960065,
+    "largestContentfulPaint": 5445,
+    "timeToInteractive": 4389,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.0004850117863501033
+  }
+]

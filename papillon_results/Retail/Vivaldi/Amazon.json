@@ -1,0 +1,367 @@
+{
+  "activity": [
+    {
+      "id": "1982",
+      "hostId": "284",
+      "power": "2.1759330000000006",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "1.8281818872357798",
+      "stat2": "23546.0",
+      "stat3": "1040384.0",
+      "timeStamp": "1617633519",
+      "allApps": "1030.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8102",
+            "activityId": "1982",
+            "name": "vivaldi-bin#474780180",
+            "cpu": "450.0"
+          },
+          {
+            "appId": "8103",
+            "activityId": "1982",
+            "name": "java#1988125398",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "8104",
+            "activityId": "1982",
+            "name": "xfce4-terminal#144876485",
+            "cpu": "100.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1983",
+      "hostId": "284",
+      "power": "6.824083000000003",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "35.236561338141705",
+      "stat2": "6856567.0",
+      "stat3": "1.441792E7",
+      "timeStamp": "1617633579",
+      "allApps": "29860.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8105",
+            "activityId": "1983",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "15450.0"
+          },
+          {
+            "appId": "8106",
+            "activityId": "1983",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "10430.0"
+          },
+          {
+            "appId": "8107",
+            "activityId": "1983",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1790.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1984",
+      "hostId": "284",
+      "power": "3.907401000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "31.599645473995622",
+      "stat2": "3850832.0",
+      "stat3": "3203072.0",
+      "timeStamp": "1617633639",
+      "allApps": "29360.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8108",
+            "activityId": "1984",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "15850.0"
+          },
+          {
+            "appId": "8109",
+            "activityId": "1984",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "9250.0"
+          },
+          {
+            "appId": "8110",
+            "activityId": "1984",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1740.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1985",
+      "hostId": "284",
+      "power": "8.492047142857142",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "37.28358758168144",
+      "stat2": "2.1022974E7",
+      "stat3": "1.4045184E7",
+      "timeStamp": "1617633699",
+      "allApps": "27140.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8111",
+            "activityId": "1985",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "12830.0"
+          },
+          {
+            "appId": "8112",
+            "activityId": "1985",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "7940.0"
+          },
+          {
+            "appId": "8113",
+            "activityId": "1985",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "2910.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1986",
+      "hostId": "284",
+      "power": "8.870365999999999",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "42.145390255933",
+      "stat2": "1.0559676E7",
+      "stat3": "3.0466048E7",
+      "timeStamp": "1617633759",
+      "allApps": "31590.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8114",
+            "activityId": "1986",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "15360.0"
+          },
+          {
+            "appId": "8115",
+            "activityId": "1986",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "12440.0"
+          },
+          {
+            "appId": "8116",
+            "activityId": "1986",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1620.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1987",
+      "hostId": "284",
+      "power": "9.351833333333332",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "24.289483532119707",
+      "stat2": "2.422297E7",
+      "stat3": "2.5350144E7",
+      "timeStamp": "1617633819",
+      "allApps": "19320.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8117",
+            "activityId": "1987",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "7920.0"
+          },
+          {
+            "appId": "8118",
+            "activityId": "1987",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "7800.0"
+          },
+          {
+            "appId": "8119",
+            "activityId": "1987",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1630.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1988",
+      "hostId": "284",
+      "power": "3.0092489999999996",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "23.620998812552436",
+      "stat2": "641841.0",
+      "stat3": "3092480.0",
+      "timeStamp": "1617633879",
+      "allApps": "19190.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8120",
+            "activityId": "1988",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "8940.0"
+          },
+          {
+            "appId": "8121",
+            "activityId": "1988",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "8020.0"
+          },
+          {
+            "appId": "8122",
+            "activityId": "1988",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1460.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1989",
+      "hostId": "284",
+      "power": "8.672860000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "50.21490076651758",
+      "stat2": "2.0525737E7",
+      "stat3": "6201344.0",
+      "timeStamp": "1617633939",
+      "allApps": "34900.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8123",
+            "activityId": "1989",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "17260.0"
+          },
+          {
+            "appId": "8124",
+            "activityId": "1989",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "12250.0"
+          },
+          {
+            "appId": "8125",
+            "activityId": "1989",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "2220.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1990",
+      "hostId": "284",
+      "power": "8.777766000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "47.915930886029095",
+      "stat2": "1.3200224E7",
+      "stat3": "2.461696E7",
+      "timeStamp": "1617633999",
+      "allApps": "33050.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8126",
+            "activityId": "1990",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "13450.0"
+          },
+          {
+            "appId": "8127",
+            "activityId": "1990",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "13270.0"
+          },
+          {
+            "appId": "8128",
+            "activityId": "1990",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "2720.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1991",
+      "hostId": "284",
+      "power": "8.935165000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "22.469299207209346",
+      "stat2": "2.6029227E7",
+      "stat3": "2.816E7",
+      "timeStamp": "1617634059",
+      "allApps": "16230.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8129",
+            "activityId": "1991",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "8150.0"
+          },
+          {
+            "appId": "8130",
+            "activityId": "1991",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "4520.0"
+          },
+          {
+            "appId": "8131",
+            "activityId": "1991",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1430.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1992",
+      "hostId": "284",
+      "power": "2.9537170000000006",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "22.30259750576415",
+      "stat2": "1181445.0",
+      "stat3": "3436544.0",
+      "timeStamp": "1617634119",
+      "allApps": "18460.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8132",
+            "activityId": "1992",
+            "name": "vivaldi-bin#01229366061",
+            "cpu": "8250.0"
+          },
+          {
+            "appId": "8133",
+            "activityId": "1992",
+            "name": "vivaldi-bin#783339129",
+            "cpu": "6930.0"
+          },
+          {
+            "appId": "8134",
+            "activityId": "1992",
+            "name": "vivaldi-bin#02099583258",
+            "cpu": "1770.0"
+          }
+        ]
+      }
+    }
+  ]
+}

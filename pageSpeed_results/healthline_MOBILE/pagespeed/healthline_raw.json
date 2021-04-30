@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "healthline",
+      "url": "http://healthline.com",
+      "originalURL": "healthline.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 3679.7792777436234,
+    "largestContentfulPaint": 6734,
+    "timeToInteractive": 6898.5,
+    "totalBlockingTime": 1047.5,
+    "cumulativeLayoutShift": 0.5385500352647569
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "healthline",
+      "url": "http://healthline.com",
+      "originalURL": "healthline.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 3685.606182576137,
+    "largestContentfulPaint": 6627,
+    "timeToInteractive": 7303,
+    "totalBlockingTime": 1678,
+    "cumulativeLayoutShift": 0.5385500352647569
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "healthline",
+      "url": "http://healthline.com",
+      "originalURL": "healthline.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 4780.390787346238,
+    "largestContentfulPaint": 7353,
+    "timeToInteractive": 8216,
+    "totalBlockingTime": 2691.5,
+    "cumulativeLayoutShift": 0.5385500352647569
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "healthline",
+      "url": "http://healthline.com",
+      "originalURL": "healthline.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 4078.204785347909,
+    "largestContentfulPaint": 6737,
+    "timeToInteractive": 7404.5,
+    "totalBlockingTime": 1785.5,
+    "cumulativeLayoutShift": 0.5385500352647569
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "healthline",
+      "url": "http://healthline.com",
+      "originalURL": "healthline.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 3656.4190633379335,
+    "largestContentfulPaint": 6629,
+    "timeToInteractive": 6907,
+    "totalBlockingTime": 2036.5,
+    "cumulativeLayoutShift": 0.5385500352647569
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "probuilds",
+      "url": "http://probuilds.net",
+      "originalURL": "probuilds.net"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.17,
+    "seo": 0.64,
+    "accessibility": 0.58,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 3449,
+    "speedIndex": 14913.755238686244,
+    "largestContentfulPaint": 5277,
+    "timeToInteractive": 38792.5,
+    "totalBlockingTime": 3686.5,
+    "cumulativeLayoutShift": 1.2026105100910627
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "probuilds",
+      "url": "http://probuilds.net",
+      "originalURL": "probuilds.net"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.17,
+    "seo": 0.64,
+    "accessibility": 0.58,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 6000,
+    "speedIndex": 15571.313139628803,
+    "largestContentfulPaint": 14527.5,
+    "timeToInteractive": 34870,
+    "totalBlockingTime": 2510,
+    "cumulativeLayoutShift": 0.9425440162921142
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "probuilds",
+      "url": "http://probuilds.net",
+      "originalURL": "probuilds.net"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.17,
+    "seo": 0.64,
+    "accessibility": 0.58,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5815.5,
+    "speedIndex": 15866.82874301653,
+    "largestContentfulPaint": 14026,
+    "timeToInteractive": 35902,
+    "totalBlockingTime": 2228.5,
+    "cumulativeLayoutShift": 1.5827672901225172
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "probuilds",
+      "url": "http://probuilds.net",
+      "originalURL": "probuilds.net"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.17,
+    "seo": 0.64,
+    "accessibility": 0.58,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 3945,
+    "speedIndex": 14724.401057950758,
+    "largestContentfulPaint": 12124.5,
+    "timeToInteractive": 37297.5,
+    "totalBlockingTime": 3225,
+    "cumulativeLayoutShift": 0.7354094648687941
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "probuilds",
+      "url": "http://probuilds.net",
+      "originalURL": "probuilds.net"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.17,
+    "seo": 0.64,
+    "accessibility": 0.58,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5605,
+    "speedIndex": 15594.093199853227,
+    "largestContentfulPaint": 8502.5,
+    "timeToInteractive": 40581,
+    "totalBlockingTime": 4391,
+    "cumulativeLayoutShift": 1.4424707093567457
+  }
+]

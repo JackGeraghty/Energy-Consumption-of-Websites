@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "progress",
+      "url": "http://progress.ie",
+      "originalURL": "progress.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7916,
+    "speedIndex": 7916,
+    "largestContentfulPaint": 9362.5,
+    "timeToInteractive": 9478.5,
+    "totalBlockingTime": 249.5,
+    "cumulativeLayoutShift": 0.00811767578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "progress",
+      "url": "http://progress.ie",
+      "originalURL": "progress.ie"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7898,
+    "speedIndex": 7898,
+    "largestContentfulPaint": 8648.5,
+    "timeToInteractive": 8784,
+    "totalBlockingTime": 161,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "progress",
+      "url": "http://progress.ie",
+      "originalURL": "progress.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7924,
+    "speedIndex": 7924,
+    "largestContentfulPaint": 9203.5,
+    "timeToInteractive": 9315.5,
+    "totalBlockingTime": 225.5,
+    "cumulativeLayoutShift": 0.00811767578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "progress",
+      "url": "http://progress.ie",
+      "originalURL": "progress.ie"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7963,
+    "speedIndex": 7963,
+    "largestContentfulPaint": 8790.5,
+    "timeToInteractive": 9054.5,
+    "totalBlockingTime": 313,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "progress",
+      "url": "http://progress.ie",
+      "originalURL": "progress.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7911,
+    "speedIndex": 7911,
+    "largestContentfulPaint": 8589.5,
+    "timeToInteractive": 8847,
+    "totalBlockingTime": 246,
+    "cumulativeLayoutShift": 0
+  }
+]

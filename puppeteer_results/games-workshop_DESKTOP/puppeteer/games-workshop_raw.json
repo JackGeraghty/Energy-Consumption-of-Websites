@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 26126,
+    "decodedBodySize": 83603,
+    "transferSize": 27139,
+    "resourcesList": [
+      [
+        "https://www.games-workshop.com/",
+        14558,
+        13856,
+        50222,
+        0.041019
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        12267,
+        12186,
+        33297,
+        0.041019
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62312ba7c8e334f6",
+        221,
+        42,
+        42,
+        0.041019
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=62312ba7c8e334f6",
+        93,
+        42,
+        42,
+        0.041019
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 26157,
+    "decodedBodySize": 83643,
+    "transferSize": 27179,
+    "resourcesList": [
+      [
+        "https://www.games-workshop.com/",
+        14589,
+        13887,
+        50262,
+        0.038396
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        12285,
+        12186,
+        33297,
+        0.038396
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62312bab080934d1",
+        93,
+        42,
+        42,
+        0.038396
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=62312bab080934d1",
+        212,
+        42,
+        42,
+        0.038396
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 26161,
+    "decodedBodySize": 83643,
+    "transferSize": 27185,
+    "resourcesList": [
+      [
+        "https://www.games-workshop.com/",
+        14604,
+        13891,
+        50262,
+        0.038901
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        12276,
+        12186,
+        33297,
+        0.038901
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62312bae2bec34d1",
+        212,
+        42,
+        42,
+        0.038901
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=62312bae2bec34d1",
+        93,
+        42,
+        42,
+        0.038901
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 26156,
+    "decodedBodySize": 83643,
+    "transferSize": 27178,
+    "resourcesList": [
+      [
+        "https://www.games-workshop.com/",
+        14597,
+        13886,
+        50262,
+        0.037536
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        12276,
+        12186,
+        33297,
+        0.037536
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62312bb2097834f5",
+        212,
+        42,
+        42,
+        0.037536
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=62312bb2097834f5",
+        93,
+        42,
+        42,
+        0.037536
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 26142,
+    "decodedBodySize": 83623,
+    "transferSize": 27145,
+    "resourcesList": [
+      [
+        "https://www.games-workshop.com/",
+        14574,
+        13872,
+        50242,
+        0.03918
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        12267,
+        12186,
+        33297,
+        0.03918
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62312bb5eca134ef",
+        212,
+        42,
+        42,
+        0.03918
+      ],
+      [
+        "https://www.games-workshop.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=62312bb5eca134ef",
+        92,
+        42,
+        42,
+        0.03918
+      ]
+    ]
+  }
+]

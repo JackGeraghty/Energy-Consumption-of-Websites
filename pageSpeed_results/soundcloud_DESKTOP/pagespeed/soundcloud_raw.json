@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soundcloud",
+      "url": "http://soundcloud.com",
+      "originalURL": "soundcloud.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.41,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1410,
+    "speedIndex": 1410,
+    "largestContentfulPaint": 2382.5,
+    "timeToInteractive": 2522.5,
+    "totalBlockingTime": 122.5,
+    "cumulativeLayoutShift": 0.019969408983451536
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soundcloud",
+      "url": "http://soundcloud.com",
+      "originalURL": "soundcloud.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.41,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1743,
+    "speedIndex": 1743,
+    "largestContentfulPaint": 2490,
+    "timeToInteractive": 2696.5,
+    "totalBlockingTime": 203,
+    "cumulativeLayoutShift": 0.04935925925925926
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soundcloud",
+      "url": "http://soundcloud.com",
+      "originalURL": "soundcloud.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.41,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1762,
+    "speedIndex": 1762,
+    "largestContentfulPaint": 2503,
+    "timeToInteractive": 2680,
+    "totalBlockingTime": 165,
+    "cumulativeLayoutShift": 0.019969408983451536
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soundcloud",
+      "url": "http://soundcloud.com",
+      "originalURL": "soundcloud.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.41,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1747,
+    "speedIndex": 1747,
+    "largestContentfulPaint": 2484,
+    "timeToInteractive": 2688.5,
+    "totalBlockingTime": 131,
+    "cumulativeLayoutShift": 0.019969408983451536
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soundcloud",
+      "url": "http://soundcloud.com",
+      "originalURL": "soundcloud.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.41,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1350,
+    "speedIndex": 1362.7241246370127,
+    "largestContentfulPaint": 2436,
+    "timeToInteractive": 2611,
+    "totalBlockingTime": 140,
+    "cumulativeLayoutShift": 0.011122716049382718
+  }
+]

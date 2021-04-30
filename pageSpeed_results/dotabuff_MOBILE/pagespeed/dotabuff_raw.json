@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dotabuff",
+      "url": "http://dotabuff.com",
+      "originalURL": "dotabuff.com"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7950,
+    "speedIndex": 10731.649395855145,
+    "largestContentfulPaint": 15900,
+    "timeToInteractive": 24358,
+    "totalBlockingTime": 1729.5,
+    "cumulativeLayoutShift": 0.40806073676215276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dotabuff",
+      "url": "http://dotabuff.com",
+      "originalURL": "dotabuff.com"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7664,
+    "speedIndex": 11205.361049713425,
+    "largestContentfulPaint": 15682,
+    "timeToInteractive": 24389,
+    "totalBlockingTime": 1679,
+    "cumulativeLayoutShift": 0.40806073676215276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dotabuff",
+      "url": "http://dotabuff.com",
+      "originalURL": "dotabuff.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7650,
+    "speedIndex": 10639.371109911142,
+    "largestContentfulPaint": 13800,
+    "timeToInteractive": 24200,
+    "totalBlockingTime": 1503,
+    "cumulativeLayoutShift": 0.40806073676215276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dotabuff",
+      "url": "http://dotabuff.com",
+      "originalURL": "dotabuff.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7650,
+    "speedIndex": 11223.868366879124,
+    "largestContentfulPaint": 15600,
+    "timeToInteractive": 24166,
+    "totalBlockingTime": 1347.5,
+    "cumulativeLayoutShift": 0.40806073676215276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dotabuff",
+      "url": "http://dotabuff.com",
+      "originalURL": "dotabuff.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7650,
+    "speedIndex": 9866.093143358368,
+    "largestContentfulPaint": 14925,
+    "timeToInteractive": 23960,
+    "totalBlockingTime": 1275.5,
+    "cumulativeLayoutShift": 0.40806073676215276
+  }
+]

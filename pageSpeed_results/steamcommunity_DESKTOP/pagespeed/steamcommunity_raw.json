@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steamcommunity",
+      "url": "http://steamcommunity.com",
+      "originalURL": "steamcommunity.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1696,
+    "speedIndex": 1696,
+    "largestContentfulPaint": 3502,
+    "timeToInteractive": 3256,
+    "totalBlockingTime": 53,
+    "cumulativeLayoutShift": 0.3363421801943788
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steamcommunity",
+      "url": "http://steamcommunity.com",
+      "originalURL": "steamcommunity.com"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1642,
+    "speedIndex": 1642,
+    "largestContentfulPaint": 3457,
+    "timeToInteractive": 3202,
+    "totalBlockingTime": 26,
+    "cumulativeLayoutShift": 0.3363421801943788
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steamcommunity",
+      "url": "http://steamcommunity.com",
+      "originalURL": "steamcommunity.com"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1667,
+    "speedIndex": 1667,
+    "largestContentfulPaint": 3492,
+    "timeToInteractive": 3227,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.3363421801943788
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steamcommunity",
+      "url": "http://steamcommunity.com",
+      "originalURL": "steamcommunity.com"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1635,
+    "speedIndex": 1635,
+    "largestContentfulPaint": 3491,
+    "timeToInteractive": 3195,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 0.3363421801943788
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steamcommunity",
+      "url": "http://steamcommunity.com",
+      "originalURL": "steamcommunity.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1776,
+    "speedIndex": 1776,
+    "largestContentfulPaint": 4340,
+    "timeToInteractive": 3216,
+    "totalBlockingTime": 33,
+    "cumulativeLayoutShift": 0.3363602615065815
+  }
+]

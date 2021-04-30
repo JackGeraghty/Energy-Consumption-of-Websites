@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "mywelfare",
+      "url": "http://mywelfare.ie",
+      "originalURL": "mywelfare.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 771,
+    "decodedBodySize": 771,
+    "transferSize": 950,
+    "resourcesList": [
+      [
+        "http://mywelfare.ie/",
+        950,
+        771,
+        771,
+        0.040652
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "mywelfare",
+      "url": "http://mywelfare.ie",
+      "originalURL": "mywelfare.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://mywelfare.ie/",
+        926,
+        747,
+        747,
+        0.040579
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "mywelfare",
+      "url": "http://mywelfare.ie",
+      "originalURL": "mywelfare.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://mywelfare.ie/",
+        926,
+        747,
+        747,
+        0.039758
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "mywelfare",
+      "url": "http://mywelfare.ie",
+      "originalURL": "mywelfare.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://mywelfare.ie/",
+        926,
+        747,
+        747,
+        0.03953
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "mywelfare",
+      "url": "http://mywelfare.ie",
+      "originalURL": "mywelfare.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://mywelfare.ie/",
+        926,
+        747,
+        747,
+        0.040028
+      ]
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "poki",
+      "url": "http://poki.com",
+      "originalURL": "poki.com"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.82,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 610,
+    "speedIndex": 979.3170762001888,
+    "largestContentfulPaint": 2381,
+    "timeToInteractive": 1337,
+    "totalBlockingTime": 244,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "poki",
+      "url": "http://poki.com",
+      "originalURL": "poki.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.82,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 690,
+    "speedIndex": 810.2849251087921,
+    "largestContentfulPaint": 2351,
+    "timeToInteractive": 1267,
+    "totalBlockingTime": 224,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "poki",
+      "url": "http://poki.com",
+      "originalURL": "poki.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.82,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 690,
+    "speedIndex": 1629.2296586033772,
+    "largestContentfulPaint": 2310,
+    "timeToInteractive": 2221.5,
+    "totalBlockingTime": 832.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "poki",
+      "url": "http://poki.com",
+      "originalURL": "poki.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.82,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 690,
+    "speedIndex": 809.3588877950865,
+    "largestContentfulPaint": 2345,
+    "timeToInteractive": 1112.5,
+    "totalBlockingTime": 105.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "poki",
+      "url": "http://poki.com",
+      "originalURL": "poki.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.82,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 690,
+    "speedIndex": 824.1769729328394,
+    "largestContentfulPaint": 2381.5,
+    "timeToInteractive": 1314,
+    "totalBlockingTime": 267,
+    "cumulativeLayoutShift": 0
+  }
+]

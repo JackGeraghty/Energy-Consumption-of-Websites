@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "caseking",
+      "url": "http://caseking.de",
+      "originalURL": "caseking.de"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4014,
+    "speedIndex": 6841.808959410494,
+    "largestContentfulPaint": 10155,
+    "timeToInteractive": 17316,
+    "totalBlockingTime": 1117,
+    "cumulativeLayoutShift": 0.41321997070312505
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "caseking",
+      "url": "http://caseking.de",
+      "originalURL": "caseking.de"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4059,
+    "speedIndex": 9261.05556893649,
+    "largestContentfulPaint": 9660,
+    "timeToInteractive": 17295,
+    "totalBlockingTime": 1678.5,
+    "cumulativeLayoutShift": 0.4040110066731771
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "caseking",
+      "url": "http://caseking.de",
+      "originalURL": "caseking.de"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3984,
+    "speedIndex": 6279.720931255024,
+    "largestContentfulPaint": 10215,
+    "timeToInteractive": 16098,
+    "totalBlockingTime": 738.5,
+    "cumulativeLayoutShift": 0.1135546875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "caseking",
+      "url": "http://caseking.de",
+      "originalURL": "caseking.de"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3956,
+    "speedIndex": 5771.456190802508,
+    "largestContentfulPaint": 14340,
+    "timeToInteractive": 16472,
+    "totalBlockingTime": 595.5,
+    "cumulativeLayoutShift": 0.43083984375000006
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "caseking",
+      "url": "http://caseking.de",
+      "originalURL": "caseking.de"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3978,
+    "speedIndex": 11300.706404471235,
+    "largestContentfulPaint": 12240,
+    "timeToInteractive": 17041,
+    "totalBlockingTime": 849.5,
+    "cumulativeLayoutShift": 0.4386832682291667
+  }
+]

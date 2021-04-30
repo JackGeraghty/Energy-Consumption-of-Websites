@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "springer",
+      "url": "http://springer.com",
+      "originalURL": "springer.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.21,
+    "seo": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4719,
+    "speedIndex": 4719,
+    "largestContentfulPaint": 6165,
+    "timeToInteractive": 11116.5,
+    "totalBlockingTime": 832,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "springer",
+      "url": "http://springer.com",
+      "originalURL": "springer.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.21,
+    "seo": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4730,
+    "speedIndex": 4730,
+    "largestContentfulPaint": 5255,
+    "timeToInteractive": 11186,
+    "totalBlockingTime": 900.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "springer",
+      "url": "http://springer.com",
+      "originalURL": "springer.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.21,
+    "seo": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4542,
+    "speedIndex": 4542,
+    "largestContentfulPaint": 6105,
+    "timeToInteractive": 10958,
+    "totalBlockingTime": 742.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "springer",
+      "url": "http://springer.com",
+      "originalURL": "springer.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4679,
+    "speedIndex": 4679,
+    "largestContentfulPaint": 6105,
+    "timeToInteractive": 11142,
+    "totalBlockingTime": 1143.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "springer",
+      "url": "http://springer.com",
+      "originalURL": "springer.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4664,
+    "speedIndex": 4664,
+    "largestContentfulPaint": 6030,
+    "timeToInteractive": 11111,
+    "totalBlockingTime": 961.5,
+    "cumulativeLayoutShift": 0
+  }
+]

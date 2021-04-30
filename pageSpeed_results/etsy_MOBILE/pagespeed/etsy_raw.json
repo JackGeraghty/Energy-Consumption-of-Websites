@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "etsy",
+      "url": "http://etsy.com",
+      "originalURL": "etsy.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2520,
+    "speedIndex": 5498.2908448711105,
+    "largestContentfulPaint": 5685,
+    "timeToInteractive": 14065.5,
+    "totalBlockingTime": 565,
+    "cumulativeLayoutShift": 0.0001025390625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "etsy",
+      "url": "http://etsy.com",
+      "originalURL": "etsy.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2520,
+    "speedIndex": 4337.927545674945,
+    "largestContentfulPaint": 5460,
+    "timeToInteractive": 14030,
+    "totalBlockingTime": 586.5,
+    "cumulativeLayoutShift": 0.00043536376953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "etsy",
+      "url": "http://etsy.com",
+      "originalURL": "etsy.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2520,
+    "speedIndex": 4480.072184848938,
+    "largestContentfulPaint": 11111,
+    "timeToInteractive": 14066,
+    "totalBlockingTime": 681,
+    "cumulativeLayoutShift": 0.00043536376953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "etsy",
+      "url": "http://etsy.com",
+      "originalURL": "etsy.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.42,
+    "seo": 0.99,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2520,
+    "speedIndex": 5346.45104693,
+    "largestContentfulPaint": 5250,
+    "timeToInteractive": 14278.5,
+    "totalBlockingTime": 442.5,
+    "cumulativeLayoutShift": 0.07739420572916667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "etsy",
+      "url": "http://etsy.com",
+      "originalURL": "etsy.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2520,
+    "speedIndex": 4322.447334712493,
+    "largestContentfulPaint": 10703,
+    "timeToInteractive": 11154,
+    "totalBlockingTime": 432,
+    "cumulativeLayoutShift": 0.0001025390625
+  }
+]

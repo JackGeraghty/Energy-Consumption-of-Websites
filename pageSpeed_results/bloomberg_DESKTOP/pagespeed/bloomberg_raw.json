@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1175,
+    "speedIndex": 2811.7074154049815,
+    "largestContentfulPaint": 3625,
+    "timeToInteractive": 5665,
+    "totalBlockingTime": 636,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1115,
+    "speedIndex": 3033.0099103802777,
+    "largestContentfulPaint": 3591,
+    "timeToInteractive": 5672.5,
+    "totalBlockingTime": 873.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1171,
+    "speedIndex": 2513.5615363227944,
+    "largestContentfulPaint": 3757,
+    "timeToInteractive": 5682.5,
+    "totalBlockingTime": 342.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1207,
+    "speedIndex": 2458.6320722559926,
+    "largestContentfulPaint": 3718,
+    "timeToInteractive": 5596,
+    "totalBlockingTime": 413,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 3328.117555603505,
+    "largestContentfulPaint": 3576.5,
+    "timeToInteractive": 5815,
+    "totalBlockingTime": 1024,
+    "cumulativeLayoutShift": 0
+  }
+]

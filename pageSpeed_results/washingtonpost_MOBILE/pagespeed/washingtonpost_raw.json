@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "washingtonpost",
+      "url": "http://washingtonpost.com",
+      "originalURL": "washingtonpost.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2580,
+    "speedIndex": 2580,
+    "largestContentfulPaint": 9006,
+    "timeToInteractive": 8758.5,
+    "totalBlockingTime": 491.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "washingtonpost",
+      "url": "http://washingtonpost.com",
+      "originalURL": "washingtonpost.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2580,
+    "speedIndex": 2580,
+    "largestContentfulPaint": 8448,
+    "timeToInteractive": 7922.5,
+    "totalBlockingTime": 385.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "washingtonpost",
+      "url": "http://washingtonpost.com",
+      "originalURL": "washingtonpost.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2580,
+    "speedIndex": 2580,
+    "largestContentfulPaint": 8841.5,
+    "timeToInteractive": 9039.5,
+    "totalBlockingTime": 536.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "washingtonpost",
+      "url": "http://washingtonpost.com",
+      "originalURL": "washingtonpost.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2430,
+    "speedIndex": 4386.9985349704475,
+    "largestContentfulPaint": 8334.5,
+    "timeToInteractive": 8349.5,
+    "totalBlockingTime": 512.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "washingtonpost",
+      "url": "http://washingtonpost.com",
+      "originalURL": "washingtonpost.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2100,
+    "speedIndex": 3163.5257743100447,
+    "largestContentfulPaint": 7970,
+    "timeToInteractive": 8456,
+    "totalBlockingTime": 620,
+    "cumulativeLayoutShift": 0
+  }
+]

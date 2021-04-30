@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 131634,
+    "decodedBodySize": 662218,
+    "transferSize": 138125,
+    "resourcesList": [
+      [
+        "https://www.linkedin.com/",
+        14844,
+        11066,
+        89102,
+        0.141239
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/1h92agmtws9crwgtjzj8gkha6",
+        28686,
+        27906,
+        267074,
+        0.141239
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh",
+        57951,
+        56935,
+        191302,
+        0.141239
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/5lkrrgsv2zn16wepegs72ihm2",
+        36644,
+        35727,
+        114740,
+        0.141239
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 131636,
+    "decodedBodySize": 662218,
+    "transferSize": 138351,
+    "resourcesList": [
+      [
+        "https://www.linkedin.com/",
+        15070,
+        11068,
+        89102,
+        0.138817
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/1h92agmtws9crwgtjzj8gkha6",
+        28686,
+        27906,
+        267074,
+        0.138817
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh",
+        57981,
+        56935,
+        191302,
+        0.138817
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/5lkrrgsv2zn16wepegs72ihm2",
+        36614,
+        35727,
+        114740,
+        0.138817
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 131640,
+    "decodedBodySize": 662218,
+    "transferSize": 138353,
+    "resourcesList": [
+      [
+        "https://www.linkedin.com/",
+        15072,
+        11072,
+        89102,
+        0.206835
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/1h92agmtws9crwgtjzj8gkha6",
+        28686,
+        27906,
+        267074,
+        0.206835
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh",
+        57981,
+        56935,
+        191302,
+        0.206835
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/5lkrrgsv2zn16wepegs72ihm2",
+        36614,
+        35727,
+        114740,
+        0.206835
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 131750,
+    "decodedBodySize": 662794,
+    "transferSize": 138259,
+    "resourcesList": [
+      [
+        "https://www.linkedin.com/",
+        14978,
+        11182,
+        89678,
+        0.141556
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/1h92agmtws9crwgtjzj8gkha6",
+        28686,
+        27906,
+        267074,
+        0.141556
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh",
+        57981,
+        56935,
+        191302,
+        0.141556
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/5lkrrgsv2zn16wepegs72ihm2",
+        36614,
+        35727,
+        114740,
+        0.141556
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 131635,
+    "decodedBodySize": 662218,
+    "transferSize": 138124,
+    "resourcesList": [
+      [
+        "https://www.linkedin.com/",
+        14843,
+        11067,
+        89102,
+        0.174669
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/1h92agmtws9crwgtjzj8gkha6",
+        28686,
+        27906,
+        267074,
+        0.174669
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/46hpi8uezjjez4p0intrn0rlh",
+        57981,
+        56935,
+        191302,
+        0.174669
+      ],
+      [
+        "https://static-exp1.licdn.com/sc/h/5lkrrgsv2zn16wepegs72ihm2",
+        36614,
+        35727,
+        114740,
+        0.174669
+      ]
+    ]
+  }
+]

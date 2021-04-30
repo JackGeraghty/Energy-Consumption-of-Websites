@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tiktok",
+      "url": "http://tiktok.com",
+      "originalURL": "tiktok.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.43,
+    "seo": 0.86,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6270,
+    "speedIndex": 9118.584798704307,
+    "largestContentfulPaint": 10515,
+    "timeToInteractive": 17795.5,
+    "totalBlockingTime": 8128.5,
+    "cumulativeLayoutShift": 0.0004985894097222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tiktok",
+      "url": "http://tiktok.com",
+      "originalURL": "tiktok.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.43,
+    "seo": 0.86,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6420,
+    "speedIndex": 7785.371577618241,
+    "largestContentfulPaint": 9990,
+    "timeToInteractive": 16325,
+    "totalBlockingTime": 5594,
+    "cumulativeLayoutShift": 0.0004985894097222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tiktok",
+      "url": "http://tiktok.com",
+      "originalURL": "tiktok.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.43,
+    "seo": 0.86,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6000,
+    "speedIndex": 9160.049405665583,
+    "largestContentfulPaint": 11115,
+    "timeToInteractive": 16193,
+    "totalBlockingTime": 5203,
+    "cumulativeLayoutShift": 0.0004985894097222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tiktok",
+      "url": "http://tiktok.com",
+      "originalURL": "tiktok.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.43,
+    "seo": 0.86,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6180,
+    "speedIndex": 9444.008059033025,
+    "largestContentfulPaint": 11565,
+    "timeToInteractive": 16241.5,
+    "totalBlockingTime": 6341,
+    "cumulativeLayoutShift": 0.0004985894097222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tiktok",
+      "url": "http://tiktok.com",
+      "originalURL": "tiktok.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.43,
+    "seo": 0.86,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6780,
+    "speedIndex": 9970.733648415757,
+    "largestContentfulPaint": 11115,
+    "timeToInteractive": 17831,
+    "totalBlockingTime": 8016,
+    "cumulativeLayoutShift": 0.0004985894097222222
+  }
+]

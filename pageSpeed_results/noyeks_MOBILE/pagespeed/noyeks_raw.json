@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noyeks",
+      "url": "http://noyeks.ie",
+      "originalURL": "noyeks.ie"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.5,
+    "seo": 0.76,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 5921.88199409031,
+    "largestContentfulPaint": 12075.5,
+    "timeToInteractive": 8521,
+    "totalBlockingTime": 564,
+    "cumulativeLayoutShift": 0.030425652398003475
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noyeks",
+      "url": "http://noyeks.ie",
+      "originalURL": "noyeks.ie"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.5,
+    "seo": 0.76,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 6288.391847003934,
+    "largestContentfulPaint": 12138.5,
+    "timeToInteractive": 8647,
+    "totalBlockingTime": 601.5,
+    "cumulativeLayoutShift": 0.02171832275390625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noyeks",
+      "url": "http://noyeks.ie",
+      "originalURL": "noyeks.ie"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.5,
+    "seo": 0.76,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 6123.37537829674,
+    "largestContentfulPaint": 12098,
+    "timeToInteractive": 8491,
+    "totalBlockingTime": 555,
+    "cumulativeLayoutShift": 0.029218743218315975
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noyeks",
+      "url": "http://noyeks.ie",
+      "originalURL": "noyeks.ie"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.5,
+    "seo": 0.76,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3091,
+    "speedIndex": 5888.106199850814,
+    "largestContentfulPaint": 11907,
+    "timeToInteractive": 8409,
+    "totalBlockingTime": 518.5,
+    "cumulativeLayoutShift": 0.02723686387803819
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noyeks",
+      "url": "http://noyeks.ie",
+      "originalURL": "noyeks.ie"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.5,
+    "seo": 0.76,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3060,
+    "speedIndex": 5493.938937506359,
+    "largestContentfulPaint": 12031.5,
+    "timeToInteractive": 8508,
+    "totalBlockingTime": 562,
+    "cumulativeLayoutShift": 0.03155846489800347
+  }
+]

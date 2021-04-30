@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mit",
+      "url": "http://mit.edu",
+      "originalURL": "mit.edu"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2610,
+    "speedIndex": 2610,
+    "largestContentfulPaint": 7590,
+    "timeToInteractive": 7845,
+    "totalBlockingTime": 350.5,
+    "cumulativeLayoutShift": 0.08308223470052084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mit",
+      "url": "http://mit.edu",
+      "originalURL": "mit.edu"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2610,
+    "speedIndex": 2610,
+    "largestContentfulPaint": 5370,
+    "timeToInteractive": 7995,
+    "totalBlockingTime": 338.5,
+    "cumulativeLayoutShift": 0.08308223470052084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mit",
+      "url": "http://mit.edu",
+      "originalURL": "mit.edu"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2610,
+    "speedIndex": 2610,
+    "largestContentfulPaint": 7999,
+    "timeToInteractive": 8157,
+    "totalBlockingTime": 382.5,
+    "cumulativeLayoutShift": 0.08308223470052084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mit",
+      "url": "http://mit.edu",
+      "originalURL": "mit.edu"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2250,
+    "speedIndex": 2250,
+    "largestContentfulPaint": 7283,
+    "timeToInteractive": 7793,
+    "totalBlockingTime": 301.5,
+    "cumulativeLayoutShift": 0.08308223470052084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mit",
+      "url": "http://mit.edu",
+      "originalURL": "mit.edu"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2610,
+    "speedIndex": 2610,
+    "largestContentfulPaint": 5370,
+    "timeToInteractive": 7964,
+    "totalBlockingTime": 414.5,
+    "cumulativeLayoutShift": 0.08308223470052084
+  }
+]

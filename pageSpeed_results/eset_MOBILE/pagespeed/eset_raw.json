@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eset",
+      "url": "http://eset.com",
+      "originalURL": "eset.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.56,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2838,
+    "speedIndex": 3624.271664781277,
+    "largestContentfulPaint": 5055,
+    "timeToInteractive": 7600.5,
+    "totalBlockingTime": 590.5,
+    "cumulativeLayoutShift": 0.14666570366753473
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eset",
+      "url": "http://eset.com",
+      "originalURL": "eset.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.56,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2800,
+    "speedIndex": 4039.268871147965,
+    "largestContentfulPaint": 6195,
+    "timeToInteractive": 7676.5,
+    "totalBlockingTime": 769,
+    "cumulativeLayoutShift": 0.16588385687934026
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eset",
+      "url": "http://eset.com",
+      "originalURL": "eset.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.56,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2765,
+    "speedIndex": 4120.49554205068,
+    "largestContentfulPaint": 6195,
+    "timeToInteractive": 7763.5,
+    "totalBlockingTime": 552,
+    "cumulativeLayoutShift": 0.17678899468315973
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eset",
+      "url": "http://eset.com",
+      "originalURL": "eset.com"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.56,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2562,
+    "speedIndex": 4110.371548542276,
+    "largestContentfulPaint": 5805,
+    "timeToInteractive": 7840,
+    "totalBlockingTime": 776,
+    "cumulativeLayoutShift": 0.16394719780815972
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eset",
+      "url": "http://eset.com",
+      "originalURL": "eset.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.56,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2569,
+    "speedIndex": 3867.432585255537,
+    "largestContentfulPaint": 5310,
+    "timeToInteractive": 7949,
+    "totalBlockingTime": 1049,
+    "cumulativeLayoutShift": 0.738652601453993
+  }
+]

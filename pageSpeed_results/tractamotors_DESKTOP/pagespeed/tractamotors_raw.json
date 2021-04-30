@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tractamotors",
+      "url": "http://tractamotors.ie",
+      "originalURL": "tractamotors.ie"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1474,
+    "speedIndex": 1920.2906431958477,
+    "largestContentfulPaint": 1755,
+    "timeToInteractive": 1532,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0001117794705659166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tractamotors",
+      "url": "http://tractamotors.ie",
+      "originalURL": "tractamotors.ie"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1464,
+    "speedIndex": 1795.6512003887874,
+    "largestContentfulPaint": 1755,
+    "timeToInteractive": 1527,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0001117794705659166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tractamotors",
+      "url": "http://tractamotors.ie",
+      "originalURL": "tractamotors.ie"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1476,
+    "speedIndex": 1615.0128480998274,
+    "largestContentfulPaint": 1805,
+    "timeToInteractive": 1575.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0001117794705659166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tractamotors",
+      "url": "http://tractamotors.ie",
+      "originalURL": "tractamotors.ie"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1569,
+    "speedIndex": 1638.2494091370336,
+    "largestContentfulPaint": 1785,
+    "timeToInteractive": 1578,
+    "totalBlockingTime": 3.5,
+    "cumulativeLayoutShift": 0.0001117794705659166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tractamotors",
+      "url": "http://tractamotors.ie",
+      "originalURL": "tractamotors.ie"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1602.5,
+    "speedIndex": 1984.479858537171,
+    "largestContentfulPaint": 1775,
+    "timeToInteractive": 1635,
+    "totalBlockingTime": 60,
+    "cumulativeLayoutShift": 0.00009977234918133264
+  }
+]

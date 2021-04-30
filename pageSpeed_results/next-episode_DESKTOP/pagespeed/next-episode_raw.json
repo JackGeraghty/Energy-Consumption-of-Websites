@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next-episode",
+      "url": "http://next-episode.net",
+      "originalURL": "next-episode.net"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1542.370483623161,
+    "largestContentfulPaint": 660,
+    "timeToInteractive": 2376.5,
+    "totalBlockingTime": 24.5,
+    "cumulativeLayoutShift": 0.03200284563523334
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next-episode",
+      "url": "http://next-episode.net",
+      "originalURL": "next-episode.net"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1532.0198264310534,
+    "largestContentfulPaint": 1223,
+    "timeToInteractive": 2638,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.024974625689519307
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next-episode",
+      "url": "http://next-episode.net",
+      "originalURL": "next-episode.net"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1399.4556428971873,
+    "largestContentfulPaint": 660,
+    "timeToInteractive": 1965.5,
+    "totalBlockingTime": 19,
+    "cumulativeLayoutShift": 0.09994230511046902
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next-episode",
+      "url": "http://next-episode.net",
+      "originalURL": "next-episode.net"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1400.3241336403898,
+    "largestContentfulPaint": 660,
+    "timeToInteractive": 1902.5,
+    "totalBlockingTime": 4.5,
+    "cumulativeLayoutShift": 0.09994230511046902
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next-episode",
+      "url": "http://next-episode.net",
+      "originalURL": "next-episode.net"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1514.6701911775344,
+    "largestContentfulPaint": 940,
+    "timeToInteractive": 2644,
+    "totalBlockingTime": 110.5,
+    "cumulativeLayoutShift": 0.09994230511046902
+  }
+]

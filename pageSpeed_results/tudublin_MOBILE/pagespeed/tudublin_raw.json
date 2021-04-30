@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tudublin",
+      "url": "http://tudublin.ie",
+      "originalURL": "tudublin.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.54,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 3919.859354114001,
+    "largestContentfulPaint": 10785,
+    "timeToInteractive": 8128,
+    "totalBlockingTime": 286,
+    "cumulativeLayoutShift": 1.003184312608507
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tudublin",
+      "url": "http://tudublin.ie",
+      "originalURL": "tudublin.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.54,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 3954.352653060331,
+    "largestContentfulPaint": 10575,
+    "timeToInteractive": 8074,
+    "totalBlockingTime": 323,
+    "cumulativeLayoutShift": 1.0026596950954862
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tudublin",
+      "url": "http://tudublin.ie",
+      "originalURL": "tudublin.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.54,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2880,
+    "speedIndex": 4772.6353235399,
+    "largestContentfulPaint": 7500,
+    "timeToInteractive": 6743,
+    "totalBlockingTime": 325.5,
+    "cumulativeLayoutShift": 1.002576144748264
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tudublin",
+      "url": "http://tudublin.ie",
+      "originalURL": "tudublin.ie"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.54,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3480,
+    "speedIndex": 4569.649256491264,
+    "largestContentfulPaint": 11415,
+    "timeToInteractive": 8736,
+    "totalBlockingTime": 501.5,
+    "cumulativeLayoutShift": 0.14749842664930557
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tudublin",
+      "url": "http://tudublin.ie",
+      "originalURL": "tudublin.ie"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.54,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 3873.8750650176216,
+    "largestContentfulPaint": 11235,
+    "timeToInteractive": 8397.5,
+    "totalBlockingTime": 242.5,
+    "cumulativeLayoutShift": 0.04517157660590278
+  }
+]

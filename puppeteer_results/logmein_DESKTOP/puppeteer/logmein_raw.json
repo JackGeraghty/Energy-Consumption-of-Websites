@@ -1,0 +1,403 @@
+[
+  {
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 132353,
+    "decodedBodySize": 347883,
+    "transferSize": 140056,
+    "resourcesList": [
+      [
+        "https://www.logmein.com/home2",
+        4924,
+        3879,
+        7991,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/css/main.69eda509.chunk.css",
+        1216,
+        396,
+        362,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/js/6.400b0455.chunk.js",
+        88710,
+        87872,
+        221660,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/js/main.2bad6971.chunk.js",
+        4889,
+        4052,
+        9564,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/js/1.64f022ec.chunk.js",
+        12521,
+        11681,
+        27750,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/css/0.dfdba9c2.chunk.css",
+        7851,
+        7029,
+        26176,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/js/0.242ad830.chunk.js",
+        13344,
+        12504,
+        39263,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/css/11.acf81845.chunk.css",
+        1564,
+        742,
+        1910,
+        0.168048
+      ],
+      [
+        "https://www.logmein.com/static/js/11.ae5908b0.chunk.js",
+        5037,
+        4198,
+        13207,
+        0.168048
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "numTransferred": 11,
+    "encodedBodySize": 164402,
+    "decodedBodySize": 445657,
+    "transferSize": 173782,
+    "resourcesList": [
+      [
+        "https://www.logmein.com/home2/v3",
+        4928,
+        3882,
+        7995,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/css/main.69eda509.chunk.css",
+        1216,
+        396,
+        362,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/6.400b0455.chunk.js",
+        88710,
+        87872,
+        221660,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/main.2bad6971.chunk.js",
+        4889,
+        4052,
+        9564,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/1.64f022ec.chunk.js",
+        12520,
+        11681,
+        27750,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/3.409fdc09.chunk.js",
+        16958,
+        16118,
+        35296,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/css/0.dfdba9c2.chunk.css",
+        7851,
+        7029,
+        26176,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/0.242ad830.chunk.js",
+        13343,
+        12504,
+        39263,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/2.34e29ffb.chunk.js",
+        9411,
+        8572,
+        27277,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/css/8.31786070.chunk.css",
+        1150,
+        329,
+        511,
+        0.230291
+      ],
+      [
+        "https://www.logmein.com/static/js/8.c0a802c2.chunk.js",
+        12806,
+        11967,
+        49803,
+        0.230291
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 132347,
+    "decodedBodySize": 347883,
+    "transferSize": 140046,
+    "resourcesList": [
+      [
+        "https://www.logmein.com/home2",
+        4918,
+        3873,
+        7991,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/css/main.69eda509.chunk.css",
+        1216,
+        396,
+        362,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/js/6.400b0455.chunk.js",
+        88710,
+        87872,
+        221660,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/js/main.2bad6971.chunk.js",
+        4889,
+        4052,
+        9564,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/js/1.64f022ec.chunk.js",
+        12520,
+        11681,
+        27750,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/css/0.dfdba9c2.chunk.css",
+        7851,
+        7029,
+        26176,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/js/0.242ad830.chunk.js",
+        13343,
+        12504,
+        39263,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/css/11.acf81845.chunk.css",
+        1563,
+        742,
+        1910,
+        0.160009
+      ],
+      [
+        "https://www.logmein.com/static/js/11.ae5908b0.chunk.js",
+        5036,
+        4198,
+        13207,
+        0.160009
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 132346,
+    "decodedBodySize": 347883,
+    "transferSize": 140045,
+    "resourcesList": [
+      [
+        "https://www.logmein.com/home2",
+        4917,
+        3872,
+        7991,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/css/main.69eda509.chunk.css",
+        1216,
+        396,
+        362,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/js/6.400b0455.chunk.js",
+        88710,
+        87872,
+        221660,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/js/main.2bad6971.chunk.js",
+        4889,
+        4052,
+        9564,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/js/1.64f022ec.chunk.js",
+        12520,
+        11681,
+        27750,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/css/0.dfdba9c2.chunk.css",
+        7851,
+        7029,
+        26176,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/js/0.242ad830.chunk.js",
+        13343,
+        12504,
+        39263,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/css/11.acf81845.chunk.css",
+        1563,
+        742,
+        1910,
+        0.183101
+      ],
+      [
+        "https://www.logmein.com/static/js/11.ae5908b0.chunk.js",
+        5036,
+        4198,
+        13207,
+        0.183101
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "numTransferred": 10,
+    "encodedBodySize": 165099,
+    "decodedBodySize": 434387,
+    "transferSize": 173655,
+    "resourcesList": [
+      [
+        "https://www.logmein.com/home2/v4",
+        4928,
+        3883,
+        7995,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/css/main.69eda509.chunk.css",
+        1216,
+        396,
+        362,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/6.400b0455.chunk.js",
+        88710,
+        87872,
+        221660,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/main.2bad6971.chunk.js",
+        4889,
+        4052,
+        9564,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/1.64f022ec.chunk.js",
+        12520,
+        11681,
+        27750,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/3.409fdc09.chunk.js",
+        16957,
+        16118,
+        35296,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/css/0.dfdba9c2.chunk.css",
+        7851,
+        7029,
+        26176,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/0.242ad830.chunk.js",
+        13343,
+        12504,
+        39263,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/2.34e29ffb.chunk.js",
+        9410,
+        8572,
+        27277,
+        0.211836
+      ],
+      [
+        "https://www.logmein.com/static/js/10.1d35ba13.chunk.js",
+        13831,
+        12992,
+        39044,
+        0.211836
+      ]
+    ]
+  }
+]

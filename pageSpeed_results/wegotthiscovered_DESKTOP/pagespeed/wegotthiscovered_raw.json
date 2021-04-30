@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wegotthiscovered",
+      "url": "http://wegotthiscovered.com",
+      "originalURL": "wegotthiscovered.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1042,
+    "speedIndex": 1789.817210630334,
+    "largestContentfulPaint": 2272.5,
+    "timeToInteractive": 3637,
+    "totalBlockingTime": 64.5,
+    "cumulativeLayoutShift": 0.07783831188162157
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wegotthiscovered",
+      "url": "http://wegotthiscovered.com",
+      "originalURL": "wegotthiscovered.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1043.5,
+    "speedIndex": 1969.6403624057548,
+    "largestContentfulPaint": 2315,
+    "timeToInteractive": 3427,
+    "totalBlockingTime": 35.5,
+    "cumulativeLayoutShift": 0.05075784957534367
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wegotthiscovered",
+      "url": "http://wegotthiscovered.com",
+      "originalURL": "wegotthiscovered.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1043.5,
+    "speedIndex": 1685.6453375324395,
+    "largestContentfulPaint": 2192,
+    "timeToInteractive": 3598.5,
+    "totalBlockingTime": 62.5,
+    "cumulativeLayoutShift": 0.05075784957534367
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wegotthiscovered",
+      "url": "http://wegotthiscovered.com",
+      "originalURL": "wegotthiscovered.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1046,
+    "speedIndex": 1635.5500185918313,
+    "largestContentfulPaint": 2234.5,
+    "timeToInteractive": 3621.5,
+    "totalBlockingTime": 76.5,
+    "cumulativeLayoutShift": 0.05075784957534367
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wegotthiscovered",
+      "url": "http://wegotthiscovered.com",
+      "originalURL": "wegotthiscovered.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1044.5,
+    "speedIndex": 1641.802308755196,
+    "largestContentfulPaint": 2295,
+    "timeToInteractive": 3600.5,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.06822703674517702
+  }
+]

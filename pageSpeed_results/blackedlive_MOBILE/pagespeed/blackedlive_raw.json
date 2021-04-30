@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackedlive",
+      "url": "http://blackedlive.com",
+      "originalURL": "blackedlive.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.49,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 10439.58708170625,
+    "largestContentfulPaint": 13066.5,
+    "timeToInteractive": 17802,
+    "totalBlockingTime": 5478,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackedlive",
+      "url": "http://blackedlive.com",
+      "originalURL": "blackedlive.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.49,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1131,
+    "speedIndex": 9365.78177473795,
+    "largestContentfulPaint": 12908,
+    "timeToInteractive": 16537,
+    "totalBlockingTime": 4797,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackedlive",
+      "url": "http://blackedlive.com",
+      "originalURL": "blackedlive.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.49,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1127,
+    "speedIndex": 8702.074182296308,
+    "largestContentfulPaint": 11751,
+    "timeToInteractive": 15863,
+    "totalBlockingTime": 3518,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackedlive",
+      "url": "http://blackedlive.com",
+      "originalURL": "blackedlive.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.49,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1129,
+    "speedIndex": 9524.217172300341,
+    "largestContentfulPaint": 12436.5,
+    "timeToInteractive": 16630.5,
+    "totalBlockingTime": 3994.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackedlive",
+      "url": "http://blackedlive.com",
+      "originalURL": "blackedlive.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.49,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1125,
+    "speedIndex": 9109.917377994156,
+    "largestContentfulPaint": 12085.5,
+    "timeToInteractive": 16655.5,
+    "totalBlockingTime": 3997,
+    "cumulativeLayoutShift": 0
+  }
+]

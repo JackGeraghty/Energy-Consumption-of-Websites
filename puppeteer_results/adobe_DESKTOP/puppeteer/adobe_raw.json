@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 262,
+    "decodedBodySize": 262,
+    "transferSize": 1524,
+    "resourcesList": [
+      [
+        "https://www.adobe.com/",
+        1524,
+        262,
+        262,
+        0.025287
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 262,
+    "decodedBodySize": 262,
+    "transferSize": 1524,
+    "resourcesList": [
+      [
+        "https://www.adobe.com/",
+        1524,
+        262,
+        262,
+        0.025099
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 262,
+    "decodedBodySize": 262,
+    "transferSize": 1524,
+    "resourcesList": [
+      [
+        "https://www.adobe.com/",
+        1524,
+        262,
+        262,
+        0.0254
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 262,
+    "decodedBodySize": 262,
+    "transferSize": 384,
+    "resourcesList": [
+      [
+        "https://www.adobe.com/",
+        384,
+        262,
+        262,
+        0.025593
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 262,
+    "decodedBodySize": 262,
+    "transferSize": 1524,
+    "resourcesList": [
+      [
+        "https://www.adobe.com/",
+        1524,
+        262,
+        262,
+        0.025136
+      ]
+    ]
+  }
+]

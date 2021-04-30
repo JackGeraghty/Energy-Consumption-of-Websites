@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lenta",
+      "url": "http://lenta.ru",
+      "originalURL": "lenta.ru"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 890,
+    "speedIndex": 2201.6470389195947,
+    "largestContentfulPaint": 2260,
+    "timeToInteractive": 5323,
+    "totalBlockingTime": 436.5,
+    "cumulativeLayoutShift": 0.14371110177159035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lenta",
+      "url": "http://lenta.ru",
+      "originalURL": "lenta.ru"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 930,
+    "speedIndex": 2342.2285801725975,
+    "largestContentfulPaint": 2055,
+    "timeToInteractive": 5299,
+    "totalBlockingTime": 568,
+    "cumulativeLayoutShift": 0.14371110177159035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lenta",
+      "url": "http://lenta.ru",
+      "originalURL": "lenta.ru"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1170,
+    "speedIndex": 2395.927458704844,
+    "largestContentfulPaint": 2090,
+    "timeToInteractive": 5512.5,
+    "totalBlockingTime": 607,
+    "cumulativeLayoutShift": 0.1437049692087675
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lenta",
+      "url": "http://lenta.ru",
+      "originalURL": "lenta.ru"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1340,
+    "speedIndex": 2454.3142527092664,
+    "largestContentfulPaint": 2180,
+    "timeToInteractive": 5323,
+    "totalBlockingTime": 371.5,
+    "cumulativeLayoutShift": 0.1437049692087675
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lenta",
+      "url": "http://lenta.ru",
+      "originalURL": "lenta.ru"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 910,
+    "speedIndex": 2436.598741989184,
+    "largestContentfulPaint": 1585,
+    "timeToInteractive": 5741,
+    "totalBlockingTime": 488.5,
+    "cumulativeLayoutShift": 0.1437049692087675
+  }
+]

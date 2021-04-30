@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "elverys",
+      "url": "http://elverys.ie",
+      "originalURL": "elverys.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1100.5,
+    "speedIndex": 5229.646056625106,
+    "largestContentfulPaint": 4197,
+    "timeToInteractive": 4135.5,
+    "totalBlockingTime": 97,
+    "cumulativeLayoutShift": 0.6360306488048332
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "elverys",
+      "url": "http://elverys.ie",
+      "originalURL": "elverys.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 2620.6618136315383,
+    "largestContentfulPaint": 4550.5,
+    "timeToInteractive": 4358,
+    "totalBlockingTime": 77.5,
+    "cumulativeLayoutShift": 1.8450033890785977
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "elverys",
+      "url": "http://elverys.ie",
+      "originalURL": "elverys.ie"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1104,
+    "speedIndex": 2366.5756034021906,
+    "largestContentfulPaint": 3890,
+    "timeToInteractive": 4161.5,
+    "totalBlockingTime": 89,
+    "cumulativeLayoutShift": 1.0844966908910485
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "elverys",
+      "url": "http://elverys.ie",
+      "originalURL": "elverys.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 3168.2612615659013,
+    "largestContentfulPaint": 4709.5,
+    "timeToInteractive": 4514.5,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.8568552409304497
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "elverys",
+      "url": "http://elverys.ie",
+      "originalURL": "elverys.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 2536.6221788891626,
+    "largestContentfulPaint": 3948.5,
+    "timeToInteractive": 4243.5,
+    "totalBlockingTime": 139,
+    "cumulativeLayoutShift": 1.0743919680121414
+  }
+]

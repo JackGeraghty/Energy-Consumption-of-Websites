@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ocs",
+      "url": "http://ocs.co.uk",
+      "originalURL": "ocs.co.uk"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3241,
+    "speedIndex": 4032.6351020238208,
+    "largestContentfulPaint": 3466,
+    "timeToInteractive": 5076,
+    "totalBlockingTime": 168,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ocs",
+      "url": "http://ocs.co.uk",
+      "originalURL": "ocs.co.uk"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2920,
+    "speedIndex": 3989.7187527698875,
+    "largestContentfulPaint": 4305,
+    "timeToInteractive": 5864,
+    "totalBlockingTime": 236.5,
+    "cumulativeLayoutShift": 0.31775177001953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ocs",
+      "url": "http://ocs.co.uk",
+      "originalURL": "ocs.co.uk"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2884,
+    "speedIndex": 3649.8252531713324,
+    "largestContentfulPaint": 6442,
+    "timeToInteractive": 5909,
+    "totalBlockingTime": 261,
+    "cumulativeLayoutShift": 0.31775177001953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ocs",
+      "url": "http://ocs.co.uk",
+      "originalURL": "ocs.co.uk"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3787,
+    "speedIndex": 5111.306917889184,
+    "largestContentfulPaint": 7133.5,
+    "timeToInteractive": 7070,
+    "totalBlockingTime": 1113,
+    "cumulativeLayoutShift": 0.31775177001953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ocs",
+      "url": "http://ocs.co.uk",
+      "originalURL": "ocs.co.uk"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.46,
+    "seo": 0.88,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3255.5,
+    "speedIndex": 5226.821043618864,
+    "largestContentfulPaint": 6555,
+    "timeToInteractive": 5910,
+    "totalBlockingTime": 298.5,
+    "cumulativeLayoutShift": 0.31775177001953125
+  }
+]

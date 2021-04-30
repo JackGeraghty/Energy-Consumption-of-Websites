@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "brewdog",
+      "url": "http://brewdog.com",
+      "originalURL": "brewdog.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1504.5,
+    "speedIndex": 5586.375527110366,
+    "largestContentfulPaint": 6245,
+    "timeToInteractive": 3259,
+    "totalBlockingTime": 27,
+    "cumulativeLayoutShift": 0.08582900577882846
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "brewdog",
+      "url": "http://brewdog.com",
+      "originalURL": "brewdog.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1485,
+    "speedIndex": 5486.903345070226,
+    "largestContentfulPaint": 6150,
+    "timeToInteractive": 3232.5,
+    "totalBlockingTime": 16.5,
+    "cumulativeLayoutShift": 0.07702696160034148
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "brewdog",
+      "url": "http://brewdog.com",
+      "originalURL": "brewdog.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1527.5,
+    "speedIndex": 5160.576784756045,
+    "largestContentfulPaint": 6265,
+    "timeToInteractive": 11014,
+    "totalBlockingTime": 70.5,
+    "cumulativeLayoutShift": 0.0753010760058226
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "brewdog",
+      "url": "http://brewdog.com",
+      "originalURL": "brewdog.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1531,
+    "speedIndex": 5510.953240161562,
+    "largestContentfulPaint": 6205,
+    "timeToInteractive": 12048.5,
+    "totalBlockingTime": 59,
+    "cumulativeLayoutShift": 0.07702696160034148
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "brewdog",
+      "url": "http://brewdog.com",
+      "originalURL": "brewdog.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.36,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1525.5,
+    "speedIndex": 5457.963179102812,
+    "largestContentfulPaint": 6230,
+    "timeToInteractive": 3242.5,
+    "totalBlockingTime": 26.5,
+    "cumulativeLayoutShift": 0.0753010760058226
+  }
+]

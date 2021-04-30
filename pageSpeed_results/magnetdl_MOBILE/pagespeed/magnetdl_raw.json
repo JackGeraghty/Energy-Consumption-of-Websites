@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "magnetdl",
+      "url": "http://magnetdl.com",
+      "originalURL": "magnetdl.com"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.43,
+    "seo": 0.92,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2559,
+    "speedIndex": 2559,
+    "largestContentfulPaint": 3588,
+    "timeToInteractive": 4107,
+    "totalBlockingTime": 1019,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "magnetdl",
+      "url": "http://magnetdl.com",
+      "originalURL": "magnetdl.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.43,
+    "seo": 0.92,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 2400,
+    "largestContentfulPaint": 3434,
+    "timeToInteractive": 3488.5,
+    "totalBlockingTime": 355.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "magnetdl",
+      "url": "http://magnetdl.com",
+      "originalURL": "magnetdl.com"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.43,
+    "seo": 0.92,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 2400,
+    "largestContentfulPaint": 3431,
+    "timeToInteractive": 3527,
+    "totalBlockingTime": 392.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "magnetdl",
+      "url": "http://magnetdl.com",
+      "originalURL": "magnetdl.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.43,
+    "seo": 0.92,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 2817.8336000714303,
+    "largestContentfulPaint": 3825,
+    "timeToInteractive": 3487,
+    "totalBlockingTime": 361.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "magnetdl",
+      "url": "http://magnetdl.com",
+      "originalURL": "magnetdl.com"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.43,
+    "seo": 0.92,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 2400,
+    "largestContentfulPaint": 3439,
+    "timeToInteractive": 3505.5,
+    "totalBlockingTime": 375,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nytimes",
+      "url": "http://nytimes.com",
+      "originalURL": "nytimes.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1415,
+    "speedIndex": 4280.923567374111,
+    "largestContentfulPaint": 4860,
+    "timeToInteractive": 6094,
+    "totalBlockingTime": 1414.5,
+    "cumulativeLayoutShift": 0.11010100049616205
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nytimes",
+      "url": "http://nytimes.com",
+      "originalURL": "nytimes.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1415,
+    "speedIndex": 3393.996508899092,
+    "largestContentfulPaint": 4780,
+    "timeToInteractive": 5420.5,
+    "totalBlockingTime": 681,
+    "cumulativeLayoutShift": 0.15153818930041152
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nytimes",
+      "url": "http://nytimes.com",
+      "originalURL": "nytimes.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1415,
+    "speedIndex": 4581.631477145227,
+    "largestContentfulPaint": 5200,
+    "timeToInteractive": 6436.5,
+    "totalBlockingTime": 1623,
+    "cumulativeLayoutShift": 0.15131964451449084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nytimes",
+      "url": "http://nytimes.com",
+      "originalURL": "nytimes.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1415,
+    "speedIndex": 4714.2069317112155,
+    "largestContentfulPaint": 3843.5,
+    "timeToInteractive": 6645,
+    "totalBlockingTime": 1341,
+    "cumulativeLayoutShift": 0.15138097247759977
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nytimes",
+      "url": "http://nytimes.com",
+      "originalURL": "nytimes.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1690,
+    "speedIndex": 4079.3607513221623,
+    "largestContentfulPaint": 4980,
+    "timeToInteractive": 5806,
+    "totalBlockingTime": 1233.5,
+    "cumulativeLayoutShift": 0.15140652073665473
+  }
+]

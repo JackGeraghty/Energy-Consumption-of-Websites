@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1187,
+    "resourcesList": [
+      [
+        "https://vision-net.ie/",
+        1187,
+        623,
+        623,
+        0.017509
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1188,
+    "resourcesList": [
+      [
+        "https://vision-net.ie/",
+        1188,
+        623,
+        623,
+        0.016973
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1188,
+    "resourcesList": [
+      [
+        "https://vision-net.ie/",
+        1188,
+        623,
+        623,
+        0.01662
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1186,
+    "resourcesList": [
+      [
+        "https://vision-net.ie/",
+        1186,
+        623,
+        623,
+        0.016839
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1190,
+    "resourcesList": [
+      [
+        "https://vision-net.ie/",
+        1190,
+        623,
+        623,
+        0.017109
+      ]
+    ]
+  }
+]

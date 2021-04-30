@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "channel4",
+      "url": "http://channel4.com",
+      "originalURL": "channel4.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4906,
+    "speedIndex": 9974.171038745397,
+    "largestContentfulPaint": 12285,
+    "timeToInteractive": 14582.5,
+    "totalBlockingTime": 4103.5,
+    "cumulativeLayoutShift": 0.00006749131944444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "channel4",
+      "url": "http://channel4.com",
+      "originalURL": "channel4.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4771,
+    "speedIndex": 9745.036659649892,
+    "largestContentfulPaint": 12005.5,
+    "timeToInteractive": 14668.5,
+    "totalBlockingTime": 3745,
+    "cumulativeLayoutShift": 0.00006749131944444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "channel4",
+      "url": "http://channel4.com",
+      "originalURL": "channel4.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5634,
+    "speedIndex": 9970.120790185858,
+    "largestContentfulPaint": 11005,
+    "timeToInteractive": 14572,
+    "totalBlockingTime": 2836,
+    "cumulativeLayoutShift": 0.00006749131944444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "channel4",
+      "url": "http://channel4.com",
+      "originalURL": "channel4.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.21,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4711,
+    "speedIndex": 9086.166229784287,
+    "largestContentfulPaint": 12063,
+    "timeToInteractive": 13817,
+    "totalBlockingTime": 3196,
+    "cumulativeLayoutShift": 0.00006749131944444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "channel4",
+      "url": "http://channel4.com",
+      "originalURL": "channel4.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4756,
+    "speedIndex": 9531.415806995316,
+    "largestContentfulPaint": 11453,
+    "timeToInteractive": 14024.5,
+    "totalBlockingTime": 3683,
+    "cumulativeLayoutShift": 0.00006749131944444444
+  }
+]

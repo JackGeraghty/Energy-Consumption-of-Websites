@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "amazon",
+      "url": "http://amazon.com"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.11,
+    "seo": 0.67,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1000,
+    "speedIndex": 2194.9954857165935,
+    "largestContentfulPaint": 1921.5,
+    "timeToInteractive": 1213,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.019655871348101452
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "amazon",
+      "url": "http://amazon.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.11,
+    "seo": 0.67,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1000,
+    "speedIndex": 2400.6494872497806,
+    "largestContentfulPaint": 1908.5,
+    "timeToInteractive": 1154.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0021490062166185098
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "amazon",
+      "url": "http://amazon.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.11,
+    "seo": 0.75,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1000,
+    "speedIndex": 2224.261240708067,
+    "largestContentfulPaint": 1951,
+    "timeToInteractive": 1206,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.010456107171000787
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "amazon",
+      "url": "http://amazon.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.11,
+    "seo": 0.67,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1000,
+    "speedIndex": 2074.298981869833,
+    "largestContentfulPaint": 1941.5,
+    "timeToInteractive": 2402.5,
+    "totalBlockingTime": 2.5,
+    "cumulativeLayoutShift": 0.044150417651694245
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "amazon",
+      "url": "http://amazon.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.11,
+    "seo": 0.67,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1000,
+    "speedIndex": 1950.2750024366433,
+    "largestContentfulPaint": 1930,
+    "timeToInteractive": 1179,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.010856725914251525
+  }
+]

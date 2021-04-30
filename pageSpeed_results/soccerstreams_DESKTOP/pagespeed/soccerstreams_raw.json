@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerstreams",
+      "url": "http://soccerstreams.net",
+      "originalURL": "soccerstreams.net"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.64,
+    "seo": 0.91,
+    "accessibility": 0.78,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1056.5,
+    "speedIndex": 1056.5,
+    "largestContentfulPaint": 1291,
+    "timeToInteractive": 1384.5,
+    "totalBlockingTime": 60.5,
+    "cumulativeLayoutShift": 0.12478052892332837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerstreams",
+      "url": "http://soccerstreams.net",
+      "originalURL": "soccerstreams.net"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.64,
+    "seo": 0.91,
+    "accessibility": 0.78,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1016.5,
+    "speedIndex": 1016.5,
+    "largestContentfulPaint": 1296.5,
+    "timeToInteractive": 1352.5,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.12478052892332837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerstreams",
+      "url": "http://soccerstreams.net",
+      "originalURL": "soccerstreams.net"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.64,
+    "seo": 0.91,
+    "accessibility": 0.78,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1023,
+    "speedIndex": 1023,
+    "largestContentfulPaint": 1295,
+    "timeToInteractive": 1128,
+    "totalBlockingTime": 36,
+    "cumulativeLayoutShift": 0.12478052892332837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerstreams",
+      "url": "http://soccerstreams.net",
+      "originalURL": "soccerstreams.net"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.64,
+    "seo": 0.91,
+    "accessibility": 0.78,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1029,
+    "speedIndex": 1029,
+    "largestContentfulPaint": 1302,
+    "timeToInteractive": 1359,
+    "totalBlockingTime": 48,
+    "cumulativeLayoutShift": 0.12478052892332837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerstreams",
+      "url": "http://soccerstreams.net",
+      "originalURL": "soccerstreams.net"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.64,
+    "seo": 0.91,
+    "accessibility": 0.78,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1017.5,
+    "speedIndex": 1017.5,
+    "largestContentfulPaint": 1295,
+    "timeToInteractive": 1346.5,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.12478052892332837
+  }
+]

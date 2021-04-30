@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "open24",
+      "url": "http://open24.ie",
+      "originalURL": "open24.ie"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.27,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 667,
+    "speedIndex": 1464.9469202409048,
+    "largestContentfulPaint": 1018,
+    "timeToInteractive": 667,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.20483140167600625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "open24",
+      "url": "http://open24.ie",
+      "originalURL": "open24.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.27,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 665.5,
+    "speedIndex": 1302.3151471533852,
+    "largestContentfulPaint": 1072.5,
+    "timeToInteractive": 665.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.4835749289503254
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "open24",
+      "url": "http://open24.ie",
+      "originalURL": "open24.ie"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.27,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 665.5,
+    "speedIndex": 1219.5292172383351,
+    "largestContentfulPaint": 1108,
+    "timeToInteractive": 665.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.4835749289503254
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "open24",
+      "url": "http://open24.ie",
+      "originalURL": "open24.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.27,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 665.5,
+    "speedIndex": 1242.9563948673892,
+    "largestContentfulPaint": 1108,
+    "timeToInteractive": 665.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.4835749289503254
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "open24",
+      "url": "http://open24.ie",
+      "originalURL": "open24.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.27,
+    "seo": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 666.5,
+    "speedIndex": 1328.1034296866046,
+    "largestContentfulPaint": 1108,
+    "timeToInteractive": 666.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.483952899355719
+  }
+]

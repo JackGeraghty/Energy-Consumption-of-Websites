@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bordgaisenergy",
+      "url": "http://bordgaisenergy.ie",
+      "originalURL": "bordgaisenergy.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 5625,
+    "speedIndex": 7252.684096954572,
+    "largestContentfulPaint": 9841.5,
+    "timeToInteractive": 11039,
+    "totalBlockingTime": 1504.5,
+    "cumulativeLayoutShift": 0.043986816406250004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bordgaisenergy",
+      "url": "http://bordgaisenergy.ie",
+      "originalURL": "bordgaisenergy.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 6180,
+    "speedIndex": 6810.985512112463,
+    "largestContentfulPaint": 9114.5,
+    "timeToInteractive": 10287,
+    "totalBlockingTime": 1036,
+    "cumulativeLayoutShift": 0.04868473307291667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bordgaisenergy",
+      "url": "http://bordgaisenergy.ie",
+      "originalURL": "bordgaisenergy.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 6180,
+    "speedIndex": 6180,
+    "largestContentfulPaint": 10009,
+    "timeToInteractive": 11454,
+    "totalBlockingTime": 2208.5,
+    "cumulativeLayoutShift": 0.02695556640625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bordgaisenergy",
+      "url": "http://bordgaisenergy.ie",
+      "originalURL": "bordgaisenergy.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 6255,
+    "speedIndex": 6500.111139959816,
+    "largestContentfulPaint": 10611,
+    "timeToInteractive": 12219,
+    "totalBlockingTime": 2679.5,
+    "cumulativeLayoutShift": 0.043986816406250004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bordgaisenergy",
+      "url": "http://bordgaisenergy.ie",
+      "originalURL": "bordgaisenergy.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 6180,
+    "speedIndex": 6299.024383939509,
+    "largestContentfulPaint": 9693,
+    "timeToInteractive": 11865,
+    "totalBlockingTime": 2352,
+    "cumulativeLayoutShift": 0.043986816406250004
+  }
+]

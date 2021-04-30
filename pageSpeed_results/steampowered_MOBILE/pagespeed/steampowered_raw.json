@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steampowered",
+      "url": "http://steampowered.com",
+      "originalURL": "steampowered.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.46,
+    "seo": 0.84,
+    "accessibility": 0.69,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4460,
+    "speedIndex": 5445.365976884414,
+    "largestContentfulPaint": 15885,
+    "timeToInteractive": 9935.5,
+    "totalBlockingTime": 1194.5,
+    "cumulativeLayoutShift": 0.5277004394531251
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steampowered",
+      "url": "http://steampowered.com",
+      "originalURL": "steampowered.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.46,
+    "seo": 0.84,
+    "accessibility": 0.69,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4451,
+    "speedIndex": 5310.08535369928,
+    "largestContentfulPaint": 14940,
+    "timeToInteractive": 9929.5,
+    "totalBlockingTime": 1143.5,
+    "cumulativeLayoutShift": 0.5277004394531251
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steampowered",
+      "url": "http://steampowered.com",
+      "originalURL": "steampowered.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.69,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5070,
+    "speedIndex": 6396.821781141999,
+    "largestContentfulPaint": 15525,
+    "timeToInteractive": 10561.5,
+    "totalBlockingTime": 2047.5,
+    "cumulativeLayoutShift": 0.5330369466145833
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steampowered",
+      "url": "http://steampowered.com",
+      "originalURL": "steampowered.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.69,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5070,
+    "speedIndex": 5805.894223520994,
+    "largestContentfulPaint": 15165,
+    "timeToInteractive": 10941,
+    "totalBlockingTime": 1311,
+    "cumulativeLayoutShift": 0.5330369466145833
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "steampowered",
+      "url": "http://steampowered.com",
+      "originalURL": "steampowered.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.69,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4423,
+    "speedIndex": 5230.058111641694,
+    "largestContentfulPaint": 15735,
+    "timeToInteractive": 10034.5,
+    "totalBlockingTime": 947.5,
+    "cumulativeLayoutShift": 0.5330369466145833
+  }
+]

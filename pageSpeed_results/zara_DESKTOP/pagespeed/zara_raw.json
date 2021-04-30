@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zara",
+      "url": "http://zara.com",
+      "originalURL": "zara.com"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1657,
+    "speedIndex": 1854.0702699140809,
+    "largestContentfulPaint": 2547,
+    "timeToInteractive": 2583,
+    "totalBlockingTime": 108.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zara",
+      "url": "http://zara.com",
+      "originalURL": "zara.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1615.5,
+    "speedIndex": 1616.515637896768,
+    "largestContentfulPaint": 2320,
+    "timeToInteractive": 2462,
+    "totalBlockingTime": 54,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zara",
+      "url": "http://zara.com",
+      "originalURL": "zara.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1618,
+    "speedIndex": 1618,
+    "largestContentfulPaint": 2320,
+    "timeToInteractive": 2339,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zara",
+      "url": "http://zara.com",
+      "originalURL": "zara.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1620,
+    "speedIndex": 1842.8279979157578,
+    "largestContentfulPaint": 2452,
+    "timeToInteractive": 2369,
+    "totalBlockingTime": 103.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zara",
+      "url": "http://zara.com",
+      "originalURL": "zara.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1649,
+    "speedIndex": 1649,
+    "largestContentfulPaint": 2347,
+    "timeToInteractive": 2378,
+    "totalBlockingTime": 41,
+    "cumulativeLayoutShift": 0
+  }
+]

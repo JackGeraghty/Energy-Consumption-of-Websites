@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pochta",
+      "url": "http://pochta.ru",
+      "originalURL": "pochta.ru"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1531,
+    "speedIndex": 2160.318230683015,
+    "largestContentfulPaint": 3225,
+    "timeToInteractive": 2925,
+    "totalBlockingTime": 105.5,
+    "cumulativeLayoutShift": 0.37945236902781426
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pochta",
+      "url": "http://pochta.ru",
+      "originalURL": "pochta.ru"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1472,
+    "speedIndex": 1918.6380369034705,
+    "largestContentfulPaint": 3358.5,
+    "timeToInteractive": 2905.5,
+    "totalBlockingTime": 112.5,
+    "cumulativeLayoutShift": 0.37945236902781426
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pochta",
+      "url": "http://pochta.ru",
+      "originalURL": "pochta.ru"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1528,
+    "speedIndex": 1870.3709830610762,
+    "largestContentfulPaint": 3379.5,
+    "timeToInteractive": 2920,
+    "totalBlockingTime": 100,
+    "cumulativeLayoutShift": 0.3793410069170826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pochta",
+      "url": "http://pochta.ru",
+      "originalURL": "pochta.ru"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1484,
+    "speedIndex": 1787.2902816342173,
+    "largestContentfulPaint": 3358.5,
+    "timeToInteractive": 2930.5,
+    "totalBlockingTime": 121.5,
+    "cumulativeLayoutShift": 0.37945236902781426
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pochta",
+      "url": "http://pochta.ru",
+      "originalURL": "pochta.ru"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1529,
+    "speedIndex": 1867.1689908076596,
+    "largestContentfulPaint": 3396.5,
+    "timeToInteractive": 2999,
+    "totalBlockingTime": 135.5,
+    "cumulativeLayoutShift": 0.37945236902781426
+  }
+]

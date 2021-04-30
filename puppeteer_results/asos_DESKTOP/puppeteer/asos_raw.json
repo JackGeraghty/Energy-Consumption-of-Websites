@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 261,
+    "decodedBodySize": 261,
+    "transferSize": 1185,
+    "resourcesList": [
+      [
+        "https://www.asos.com/",
+        1185,
+        261,
+        261,
+        0.025498
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 261,
+    "decodedBodySize": 261,
+    "transferSize": 1179,
+    "resourcesList": [
+      [
+        "https://www.asos.com/",
+        1179,
+        261,
+        261,
+        0.025389
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 261,
+    "decodedBodySize": 261,
+    "transferSize": 1175,
+    "resourcesList": [
+      [
+        "https://www.asos.com/",
+        1175,
+        261,
+        261,
+        0.026193
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 261,
+    "decodedBodySize": 261,
+    "transferSize": 1183,
+    "resourcesList": [
+      [
+        "https://www.asos.com/",
+        1183,
+        261,
+        261,
+        0.02525
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 261,
+    "decodedBodySize": 261,
+    "transferSize": 1182,
+    "resourcesList": [
+      [
+        "https://www.asos.com/",
+        1182,
+        261,
+        261,
+        0.025232
+      ]
+    ]
+  }
+]

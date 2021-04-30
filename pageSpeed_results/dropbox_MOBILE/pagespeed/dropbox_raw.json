@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dropbox",
+      "url": "http://dropbox.com",
+      "originalURL": "dropbox.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.5,
+    "seo": 0.95,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 8422.460992337252,
+    "largestContentfulPaint": 11152,
+    "timeToInteractive": 33610.5,
+    "totalBlockingTime": 3319,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dropbox",
+      "url": "http://dropbox.com",
+      "originalURL": "dropbox.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.5,
+    "seo": 0.95,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2754.5,
+    "speedIndex": 7109.0082258468865,
+    "largestContentfulPaint": 10035,
+    "timeToInteractive": 33132.5,
+    "totalBlockingTime": 3082.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dropbox",
+      "url": "http://dropbox.com",
+      "originalURL": "dropbox.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.5,
+    "seo": 0.95,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2759.5,
+    "speedIndex": 6496.927376401676,
+    "largestContentfulPaint": 9465,
+    "timeToInteractive": 35456,
+    "totalBlockingTime": 8494.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dropbox",
+      "url": "http://dropbox.com",
+      "originalURL": "dropbox.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.5,
+    "seo": 0.95,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2754,
+    "speedIndex": 8019.532254557338,
+    "largestContentfulPaint": 10320,
+    "timeToInteractive": 33417.5,
+    "totalBlockingTime": 3196.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dropbox",
+      "url": "http://dropbox.com",
+      "originalURL": "dropbox.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.5,
+    "seo": 0.95,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2770,
+    "speedIndex": 8732.582469511713,
+    "largestContentfulPaint": 13620,
+    "timeToInteractive": 33431,
+    "totalBlockingTime": 3941,
+    "cumulativeLayoutShift": 0
+  }
+]

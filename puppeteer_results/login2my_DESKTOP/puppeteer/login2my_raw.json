@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "login2my",
+      "url": "http://login2my.info",
+      "originalURL": "login2my.info"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 772,
+    "decodedBodySize": 772,
+    "transferSize": 951,
+    "resourcesList": [
+      [
+        "http://login2my.info/",
+        951,
+        772,
+        772,
+        0.041239
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "login2my",
+      "url": "http://login2my.info",
+      "originalURL": "login2my.info"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://login2my.info/",
+        927,
+        748,
+        748,
+        0.040611
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "login2my",
+      "url": "http://login2my.info",
+      "originalURL": "login2my.info"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://login2my.info/",
+        927,
+        748,
+        748,
+        0.041132
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "login2my",
+      "url": "http://login2my.info",
+      "originalURL": "login2my.info"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://login2my.info/",
+        927,
+        748,
+        748,
+        0.040256
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "login2my",
+      "url": "http://login2my.info",
+      "originalURL": "login2my.info"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://login2my.info/",
+        927,
+        748,
+        748,
+        0.040581
+      ]
+    ]
+  }
+]

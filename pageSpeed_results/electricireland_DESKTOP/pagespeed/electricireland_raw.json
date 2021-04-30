@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "electricireland",
+      "url": "http://electricireland.ie",
+      "originalURL": "electricireland.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1522,
+    "speedIndex": 1757.8918406628168,
+    "largestContentfulPaint": 3070,
+    "timeToInteractive": 1919.5,
+    "totalBlockingTime": 25,
+    "cumulativeLayoutShift": 0.0018621901176195897
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "electricireland",
+      "url": "http://electricireland.ie",
+      "originalURL": "electricireland.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1528.5,
+    "speedIndex": 1528.5,
+    "largestContentfulPaint": 3080,
+    "timeToInteractive": 1931,
+    "totalBlockingTime": 35.5,
+    "cumulativeLayoutShift": 0.001305548842775005
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "electricireland",
+      "url": "http://electricireland.ie",
+      "originalURL": "electricireland.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1531,
+    "speedIndex": 1531,
+    "largestContentfulPaint": 3095,
+    "timeToInteractive": 1975,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.0011687657239587894
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "electricireland",
+      "url": "http://electricireland.ie",
+      "originalURL": "electricireland.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1525,
+    "speedIndex": 1525,
+    "largestContentfulPaint": 3115,
+    "timeToInteractive": 1922,
+    "totalBlockingTime": 27,
+    "cumulativeLayoutShift": 0.0016641251495782623
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "electricireland",
+      "url": "http://electricireland.ie",
+      "originalURL": "electricireland.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1526.5,
+    "speedIndex": 1526.5,
+    "largestContentfulPaint": 3084,
+    "timeToInteractive": 1935.5,
+    "totalBlockingTime": 36.5,
+    "cumulativeLayoutShift": 0.0011687657239587894
+  }
+]

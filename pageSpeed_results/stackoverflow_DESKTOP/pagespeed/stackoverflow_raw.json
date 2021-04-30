@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "stackoverflow",
+      "url": "http://stackoverflow.com",
+      "originalURL": "stackoverflow.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.87,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 810,
+    "speedIndex": 810,
+    "largestContentfulPaint": 960,
+    "timeToInteractive": 890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.009449246125558182
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "stackoverflow",
+      "url": "http://stackoverflow.com",
+      "originalURL": "stackoverflow.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.87,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 810,
+    "speedIndex": 810,
+    "largestContentfulPaint": 960,
+    "timeToInteractive": 890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.009449246125558182
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "stackoverflow",
+      "url": "http://stackoverflow.com",
+      "originalURL": "stackoverflow.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.87,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 810,
+    "speedIndex": 2507.3099103456134,
+    "largestContentfulPaint": 960,
+    "timeToInteractive": 890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.009449246125558182
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "stackoverflow",
+      "url": "http://stackoverflow.com",
+      "originalURL": "stackoverflow.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.87,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 810,
+    "speedIndex": 810,
+    "largestContentfulPaint": 960,
+    "timeToInteractive": 890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.009449246125558182
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "stackoverflow",
+      "url": "http://stackoverflow.com",
+      "originalURL": "stackoverflow.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.87,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 810,
+    "speedIndex": 810,
+    "largestContentfulPaint": 960,
+    "timeToInteractive": 890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.009449246125558182
+  }
+]

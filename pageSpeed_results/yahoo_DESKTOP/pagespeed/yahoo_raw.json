@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 910,
+    "speedIndex": 3298.0071115326896,
+    "largestContentfulPaint": 1361.5,
+    "timeToInteractive": 6441,
+    "totalBlockingTime": 125.5,
+    "cumulativeLayoutShift": 0.0004026057262936695
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 734,
+    "speedIndex": 2516.5261783374863,
+    "largestContentfulPaint": 2110,
+    "timeToInteractive": 5003,
+    "totalBlockingTime": 94,
+    "cumulativeLayoutShift": 0.0005867810757960482
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 736,
+    "speedIndex": 2500.907778157177,
+    "largestContentfulPaint": 1443.5,
+    "timeToInteractive": 5181,
+    "totalBlockingTime": 109,
+    "cumulativeLayoutShift": 0.0004026057262936695
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 735,
+    "speedIndex": 2306.5853634571968,
+    "largestContentfulPaint": 2610.5,
+    "timeToInteractive": 4698,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 735,
+    "speedIndex": 2493.6995555416433,
+    "largestContentfulPaint": 1370,
+    "timeToInteractive": 5175,
+    "totalBlockingTime": 112.5,
+    "cumulativeLayoutShift": 0.001976153868604617
+  }
+]

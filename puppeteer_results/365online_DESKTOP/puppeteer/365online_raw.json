@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "365online",
+      "url": "http://365online.com",
+      "originalURL": "365online.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 772,
+    "decodedBodySize": 772,
+    "transferSize": 951,
+    "resourcesList": [
+      [
+        "http://365online.com/",
+        951,
+        772,
+        772,
+        0.040995
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "365online",
+      "url": "http://365online.com",
+      "originalURL": "365online.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://365online.com/",
+        927,
+        748,
+        748,
+        0.04139
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "365online",
+      "url": "http://365online.com",
+      "originalURL": "365online.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://365online.com/",
+        927,
+        748,
+        748,
+        0.0409
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "365online",
+      "url": "http://365online.com",
+      "originalURL": "365online.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://365online.com/",
+        927,
+        748,
+        748,
+        0.038155
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "365online",
+      "url": "http://365online.com",
+      "originalURL": "365online.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://365online.com/",
+        927,
+        748,
+        748,
+        0.03864
+      ]
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blizzard",
+      "url": "http://blizzard.com",
+      "originalURL": "blizzard.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4560,
+    "speedIndex": 6677.080693801547,
+    "largestContentfulPaint": 27960,
+    "timeToInteractive": 10751,
+    "totalBlockingTime": 667.5,
+    "cumulativeLayoutShift": 0.22732408311631946
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blizzard",
+      "url": "http://blizzard.com",
+      "originalURL": "blizzard.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4260,
+    "speedIndex": 8221.565758710862,
+    "largestContentfulPaint": 29295,
+    "timeToInteractive": 14403,
+    "totalBlockingTime": 394.5,
+    "cumulativeLayoutShift": 0.14495298936631945
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blizzard",
+      "url": "http://blizzard.com",
+      "originalURL": "blizzard.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5010,
+    "speedIndex": 6979.735463792006,
+    "largestContentfulPaint": 27435,
+    "timeToInteractive": 10854,
+    "totalBlockingTime": 621.5,
+    "cumulativeLayoutShift": 0.22802395968967015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blizzard",
+      "url": "http://blizzard.com",
+      "originalURL": "blizzard.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4560,
+    "speedIndex": 9098.674008463706,
+    "largestContentfulPaint": 29625,
+    "timeToInteractive": 14354,
+    "totalBlockingTime": 468,
+    "cumulativeLayoutShift": 0.14785472276475697
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blizzard",
+      "url": "http://blizzard.com",
+      "originalURL": "blizzard.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4860,
+    "speedIndex": 6858.573024469879,
+    "largestContentfulPaint": 28410,
+    "timeToInteractive": 10909,
+    "totalBlockingTime": 637.5,
+    "cumulativeLayoutShift": 0.28729234483506944
+  }
+]

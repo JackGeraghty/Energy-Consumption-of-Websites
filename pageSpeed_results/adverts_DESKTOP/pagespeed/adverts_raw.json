@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adverts",
+      "url": "http://adverts.ie",
+      "originalURL": "adverts.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1110,
+    "speedIndex": 1183.7555486823571,
+    "largestContentfulPaint": 1470,
+    "timeToInteractive": 1180,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.003302538014768118
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adverts",
+      "url": "http://adverts.ie",
+      "originalURL": "adverts.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1220.2525230398498,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 1180,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0031703370983276425
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adverts",
+      "url": "http://adverts.ie",
+      "originalURL": "adverts.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1110,
+    "speedIndex": 1130.2368998237719,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 1180,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.003302538014768118
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adverts",
+      "url": "http://adverts.ie",
+      "originalURL": "adverts.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1110,
+    "speedIndex": 1110,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 1180,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00007253305314771036
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adverts",
+      "url": "http://adverts.ie",
+      "originalURL": "adverts.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1180,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 1180,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.003302538014768118
+  }
+]

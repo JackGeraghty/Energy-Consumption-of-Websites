@@ -1,0 +1,305 @@
+[
+  {
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 197393,
+    "decodedBodySize": 702705,
+    "transferSize": 200689,
+    "resourcesList": [
+      [
+        "https://123moviesfree.net/",
+        116399,
+        115653,
+        491914,
+        0.145853
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=G-5S3LMN7G9R",
+        53761,
+        53280,
+        138956,
+        0.145853
+      ],
+      [
+        "https://123moviesfree.net/static/logo-light.png",
+        5384,
+        5049,
+        5049,
+        0.145853
+      ],
+      [
+        "https://123moviesfree.net/static/logo-footer.png",
+        10867,
+        10571,
+        10571,
+        0.145853
+      ],
+      [
+        "https://123moviesfree.net/static/decrypted_player-v1.js",
+        1078,
+        776,
+        3755,
+        0.145853
+      ],
+      [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.6/js/swiper.jquery.min.js",
+        12839,
+        12064,
+        52460,
+        0.145853
+      ],
+      [
+        "https://www.google-analytics.com/g/collect?v=2&tid=G-5S3LMN7G9R&gtm=2oe230&_p=960499064&sr=800x600&ul=en-gb&cid=722685962.1613572708&_s=1&dl=https%3A%2F%2F123moviesfree.net%2F&dr=&dt=123Movies%20-%20Watch%20HD%20Movies%20Online%20Free%20%7C123movie%20%7C123%20movies&sid=1613572707&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1",
+        361,
+        0,
+        0,
+        0.145853
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 197393,
+    "decodedBodySize": 702705,
+    "transferSize": 200716,
+    "resourcesList": [
+      [
+        "https://123moviesfree.net/",
+        116415,
+        115653,
+        491914,
+        0.149143
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=G-5S3LMN7G9R",
+        53761,
+        53280,
+        138956,
+        0.149143
+      ],
+      [
+        "https://123moviesfree.net/static/logo-light.png",
+        5390,
+        5049,
+        5049,
+        0.149143
+      ],
+      [
+        "https://123moviesfree.net/static/logo-footer.png",
+        10869,
+        10571,
+        10571,
+        0.149143
+      ],
+      [
+        "https://123moviesfree.net/static/decrypted_player-v1.js",
+        1077,
+        776,
+        3755,
+        0.149143
+      ],
+      [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.6/js/swiper.jquery.min.js",
+        12843,
+        12064,
+        52460,
+        0.149143
+      ],
+      [
+        "https://www.google-analytics.com/g/collect?v=2&tid=G-5S3LMN7G9R&gtm=2oe230&_p=530395824&sr=800x600&ul=en-gb&cid=90945769.1613572709&_s=1&dl=https%3A%2F%2F123moviesfree.net%2F&dr=&dt=123Movies%20-%20Watch%20HD%20Movies%20Online%20Free%20%7C123movie%20%7C123%20movies&sid=1613572708&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1",
+        361,
+        0,
+        0,
+        0.149143
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 197487,
+    "decodedBodySize": 702705,
+    "transferSize": 200427,
+    "resourcesList": [
+      [
+        "https://123moviesfree.net/",
+        116525,
+        115759,
+        491914,
+        0.143886
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=G-5S3LMN7G9R",
+        53749,
+        53268,
+        138956,
+        0.143886
+      ],
+      [
+        "https://123moviesfree.net/static/logo-footer.png",
+        10909,
+        10571,
+        10571,
+        0.143886
+      ],
+      [
+        "https://123moviesfree.net/static/decrypted_player-v1.js",
+        1070,
+        776,
+        3755,
+        0.143886
+      ],
+      [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.6/js/swiper.jquery.min.js",
+        12833,
+        12064,
+        52460,
+        0.143886
+      ],
+      [
+        "https://123moviesfree.net/static/logo-light.png",
+        5341,
+        5049,
+        5049,
+        0.143886
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 197509,
+    "decodedBodySize": 702705,
+    "transferSize": 200819,
+    "resourcesList": [
+      [
+        "https://123moviesfree.net/",
+        116547,
+        115769,
+        491914,
+        0.141972
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=G-5S3LMN7G9R",
+        53761,
+        53280,
+        138956,
+        0.141972
+      ],
+      [
+        "https://123moviesfree.net/static/logo-footer.png",
+        10908,
+        10571,
+        10571,
+        0.141972
+      ],
+      [
+        "https://123moviesfree.net/static/logo-light.png",
+        5330,
+        5049,
+        5049,
+        0.141972
+      ],
+      [
+        "https://123moviesfree.net/static/decrypted_player-v1.js",
+        1069,
+        776,
+        3755,
+        0.141972
+      ],
+      [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.6/js/swiper.jquery.min.js",
+        12843,
+        12064,
+        52460,
+        0.141972
+      ],
+      [
+        "https://www.google-analytics.com/g/collect?v=2&tid=G-5S3LMN7G9R&gtm=2oe230&_p=1703307455&sr=800x600&ul=en-gb&cid=103328489.1613572710&_s=1&dl=https%3A%2F%2F123moviesfree.net%2F&dr=&dt=123Movies%20-%20Watch%20HD%20Movies%20Online%20Free%20%7C123movie%20%7C123%20movies&sid=1613572710&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1",
+        361,
+        0,
+        0,
+        0.141972
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 197437,
+    "decodedBodySize": 702705,
+    "transferSize": 200760,
+    "resourcesList": [
+      [
+        "https://123moviesfree.net/",
+        116479,
+        115697,
+        491914,
+        0.15075
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=G-5S3LMN7G9R",
+        53761,
+        53280,
+        138956,
+        0.15075
+      ],
+      [
+        "https://123moviesfree.net/static/logo-light.png",
+        5386,
+        5049,
+        5049,
+        0.15075
+      ],
+      [
+        "https://123moviesfree.net/static/logo-footer.png",
+        10858,
+        10571,
+        10571,
+        0.15075
+      ],
+      [
+        "https://123moviesfree.net/static/decrypted_player-v1.js",
+        1077,
+        776,
+        3755,
+        0.15075
+      ],
+      [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.6/js/swiper.jquery.min.js",
+        12838,
+        12064,
+        52460,
+        0.15075
+      ],
+      [
+        "https://www.google-analytics.com/g/collect?v=2&tid=G-5S3LMN7G9R&gtm=2oe230&_p=443570224&sr=800x600&ul=en-gb&cid=823261895.1613572711&_s=1&dl=https%3A%2F%2F123moviesfree.net%2F&dr=&dt=123Movies%20-%20Watch%20HD%20Movies%20Online%20Free%20%7C123movie%20%7C123%20movies&sid=1613572711&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1",
+        361,
+        0,
+        0,
+        0.15075
+      ]
+    ]
+  }
+]

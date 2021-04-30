@@ -1,0 +1,91 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.75,
+    "seo": 0.58,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3450,
+    "timeToInteractive": 8920.5,
+    "totalBlockingTime": 1000.5,
+    "cumulativeLayoutShift": 0.0005499945746527778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.75,
+    "seo": 0.58,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3450,
+    "timeToInteractive": 8778,
+    "totalBlockingTime": 858,
+    "cumulativeLayoutShift": 0.0005499945746527778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.75,
+    "seo": 0.58,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3450,
+    "timeToInteractive": 8907,
+    "totalBlockingTime": 987,
+    "cumulativeLayoutShift": 0.0005499945746527778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.61,
+    "seo": 1,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 7201,
+    "speedIndex": 7201,
+    "largestContentfulPaint": 7651,
+    "timeToInteractive": 7651,
+    "totalBlockingTime": 400,
+    "cumulativeLayoutShift": 0.055849609375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.61,
+    "seo": 1,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 7438,
+    "speedIndex": 7438,
+    "largestContentfulPaint": 7663,
+    "timeToInteractive": 7738,
+    "totalBlockingTime": 250,
+    "cumulativeLayoutShift": 0.055849609375
+  }
+]

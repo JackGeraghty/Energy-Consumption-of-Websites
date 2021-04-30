@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uopeople",
+      "url": "http://uopeople.edu",
+      "originalURL": "uopeople.edu"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1163.5,
+    "speedIndex": 2232.403019513751,
+    "largestContentfulPaint": 1979,
+    "timeToInteractive": 2264.5,
+    "totalBlockingTime": 207,
+    "cumulativeLayoutShift": 0.11914893617021276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uopeople",
+      "url": "http://uopeople.edu",
+      "originalURL": "uopeople.edu"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1160,
+    "speedIndex": 2120.419420952955,
+    "largestContentfulPaint": 1983,
+    "timeToInteractive": 2188,
+    "totalBlockingTime": 144.5,
+    "cumulativeLayoutShift": 0.11914893617021276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uopeople",
+      "url": "http://uopeople.edu",
+      "originalURL": "uopeople.edu"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1199,
+    "speedIndex": 2287.2437940596146,
+    "largestContentfulPaint": 2103,
+    "timeToInteractive": 2353.5,
+    "totalBlockingTime": 306.5,
+    "cumulativeLayoutShift": 0.11914893617021276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uopeople",
+      "url": "http://uopeople.edu",
+      "originalURL": "uopeople.edu"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1160,
+    "speedIndex": 1989.4355145706977,
+    "largestContentfulPaint": 1989,
+    "timeToInteractive": 2220,
+    "totalBlockingTime": 148,
+    "cumulativeLayoutShift": 0.11914893617021276
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uopeople",
+      "url": "http://uopeople.edu",
+      "originalURL": "uopeople.edu"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1185.5,
+    "speedIndex": 2204.975850054773,
+    "largestContentfulPaint": 2049,
+    "timeToInteractive": 2286.5,
+    "totalBlockingTime": 231.5,
+    "cumulativeLayoutShift": 0.11914893617021276
+  }
+]

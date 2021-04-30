@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2418,
+    "speedIndex": 5335.545919235942,
+    "largestContentfulPaint": 12975,
+    "timeToInteractive": 9178.5,
+    "totalBlockingTime": 700,
+    "cumulativeLayoutShift": 0.9924602728949652
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2449,
+    "speedIndex": 5409.402028286559,
+    "largestContentfulPaint": 13050,
+    "timeToInteractive": 9082.5,
+    "totalBlockingTime": 714,
+    "cumulativeLayoutShift": 1.235646484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2344,
+    "speedIndex": 4874.585591509943,
+    "largestContentfulPaint": 12825,
+    "timeToInteractive": 9077,
+    "totalBlockingTime": 646,
+    "cumulativeLayoutShift": 1.0886532592773437
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2358,
+    "speedIndex": 4678.571384113449,
+    "largestContentfulPaint": 12525,
+    "timeToInteractive": 9037,
+    "totalBlockingTime": 513.5,
+    "cumulativeLayoutShift": 0.8659910413953993
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "games-workshop",
+      "url": "http://games-workshop.com",
+      "originalURL": "games-workshop.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2362,
+    "speedIndex": 5283.132299253172,
+    "largestContentfulPaint": 12750,
+    "timeToInteractive": 9092,
+    "totalBlockingTime": 556,
+    "cumulativeLayoutShift": 0.9271818033854168
+  }
+]

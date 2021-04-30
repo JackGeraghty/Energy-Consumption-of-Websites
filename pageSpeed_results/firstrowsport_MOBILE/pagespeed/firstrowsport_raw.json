@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "firstrowsport",
+      "url": "http://firstrowsport.org",
+      "originalURL": "firstrowsport.org"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0,
+    "seo": 0.62,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2393,
+    "speedIndex": 3031.2320248221017,
+    "largestContentfulPaint": 2679,
+    "timeToInteractive": 4782,
+    "totalBlockingTime": 184,
+    "cumulativeLayoutShift": 0.26950394512259856
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "firstrowsport",
+      "url": "http://firstrowsport.org",
+      "originalURL": "firstrowsport.org"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0,
+    "seo": 0.62,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2287,
+    "speedIndex": 3136.8777248530614,
+    "largestContentfulPaint": 3312,
+    "timeToInteractive": 4759,
+    "totalBlockingTime": 207.5,
+    "cumulativeLayoutShift": 0.26950394512259856
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "firstrowsport",
+      "url": "http://firstrowsport.org",
+      "originalURL": "firstrowsport.org"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0,
+    "seo": 0.62,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2337.5,
+    "speedIndex": 2928.2340537935715,
+    "largestContentfulPaint": 3194.5,
+    "timeToInteractive": 4737.5,
+    "totalBlockingTime": 123.5,
+    "cumulativeLayoutShift": 0.26950394512259856
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "firstrowsport",
+      "url": "http://firstrowsport.org",
+      "originalURL": "firstrowsport.org"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0,
+    "seo": 0.62,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2324,
+    "speedIndex": 2992.3580473374004,
+    "largestContentfulPaint": 2611,
+    "timeToInteractive": 4872,
+    "totalBlockingTime": 317.5,
+    "cumulativeLayoutShift": 0.26950394512259856
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "firstrowsport",
+      "url": "http://firstrowsport.org",
+      "originalURL": "firstrowsport.org"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0,
+    "seo": 0.62,
+    "accessibility": 0.72,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2277.5,
+    "speedIndex": 2913.4276892756284,
+    "largestContentfulPaint": 2562,
+    "timeToInteractive": 4747,
+    "totalBlockingTime": 174.5,
+    "cumulativeLayoutShift": 0.26950394512259856
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cjfallon",
+      "url": "http://cjfallon.ie",
+      "originalURL": "cjfallon.ie"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.36,
+    "seo": 0.57,
+    "accessibility": 0.48,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3980,
+    "speedIndex": 5564.347785954478,
+    "largestContentfulPaint": 8280,
+    "timeToInteractive": 7175.5,
+    "totalBlockingTime": 251.5,
+    "cumulativeLayoutShift": 0.06193909247651492
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cjfallon",
+      "url": "http://cjfallon.ie",
+      "originalURL": "cjfallon.ie"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.36,
+    "seo": 0.57,
+    "accessibility": 0.48,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3851,
+    "speedIndex": 4915.965339850133,
+    "largestContentfulPaint": 8280,
+    "timeToInteractive": 7039.5,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.08825000478119681
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cjfallon",
+      "url": "http://cjfallon.ie",
+      "originalURL": "cjfallon.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.36,
+    "seo": 0.57,
+    "accessibility": 0.48,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3846,
+    "speedIndex": 5487.91063060422,
+    "largestContentfulPaint": 8280,
+    "timeToInteractive": 7041,
+    "totalBlockingTime": 119.5,
+    "cumulativeLayoutShift": 0.08825557192817374
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cjfallon",
+      "url": "http://cjfallon.ie",
+      "originalURL": "cjfallon.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.36,
+    "seo": 0.57,
+    "accessibility": 0.48,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3838,
+    "speedIndex": 5451.160981427238,
+    "largestContentfulPaint": 8205,
+    "timeToInteractive": 6946,
+    "totalBlockingTime": 107.5,
+    "cumulativeLayoutShift": 0.08825557192817374
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cjfallon",
+      "url": "http://cjfallon.ie",
+      "originalURL": "cjfallon.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.36,
+    "seo": 0.57,
+    "accessibility": 0.48,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3865,
+    "speedIndex": 5698.985234366179,
+    "largestContentfulPaint": 8301,
+    "timeToInteractive": 7194.5,
+    "totalBlockingTime": 163.5,
+    "cumulativeLayoutShift": 0.08902023963405463
+  }
+]

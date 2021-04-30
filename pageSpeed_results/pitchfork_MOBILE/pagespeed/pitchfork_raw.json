@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pitchfork",
+      "url": "http://pitchfork.com",
+      "originalURL": "pitchfork.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3240,
+    "speedIndex": 11056.311901685698,
+    "largestContentfulPaint": 6957,
+    "timeToInteractive": 28548.23293018341,
+    "totalBlockingTime": 5778.232930183411,
+    "cumulativeLayoutShift": 0.669395751953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pitchfork",
+      "url": "http://pitchfork.com",
+      "originalURL": "pitchfork.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3240,
+    "speedIndex": 10644.883633648906,
+    "largestContentfulPaint": 7422,
+    "timeToInteractive": 29488,
+    "totalBlockingTime": 5767.5,
+    "cumulativeLayoutShift": 0.6689278157552083
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pitchfork",
+      "url": "http://pitchfork.com",
+      "originalURL": "pitchfork.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3390,
+    "speedIndex": 12618.885752426606,
+    "largestContentfulPaint": 7722,
+    "timeToInteractive": 35458,
+    "totalBlockingTime": 16914.5,
+    "cumulativeLayoutShift": 0.671590576171875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pitchfork",
+      "url": "http://pitchfork.com",
+      "originalURL": "pitchfork.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3240,
+    "speedIndex": 10599.199061409146,
+    "largestContentfulPaint": 5186,
+    "timeToInteractive": 29104.5,
+    "totalBlockingTime": 5190.5,
+    "cumulativeLayoutShift": 0.6688920084635417
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pitchfork",
+      "url": "http://pitchfork.com",
+      "originalURL": "pitchfork.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3240,
+    "speedIndex": 10207.16306781929,
+    "largestContentfulPaint": 6623,
+    "timeToInteractive": 26622.5,
+    "totalBlockingTime": 5212.5,
+    "cumulativeLayoutShift": 0.6652518717447916
+  }
+]

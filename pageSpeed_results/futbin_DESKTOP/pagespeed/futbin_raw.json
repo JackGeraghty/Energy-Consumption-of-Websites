@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futbin",
+      "url": "http://futbin.com",
+      "originalURL": "futbin.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.64,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1380,
+    "speedIndex": 2964.992917164152,
+    "largestContentfulPaint": 5050,
+    "timeToInteractive": 7084.5,
+    "totalBlockingTime": 231.5,
+    "cumulativeLayoutShift": 0.15660264113256284
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futbin",
+      "url": "http://futbin.com",
+      "originalURL": "futbin.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.64,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1380,
+    "speedIndex": 2876.979753112477,
+    "largestContentfulPaint": 4910,
+    "timeToInteractive": 7089,
+    "totalBlockingTime": 220,
+    "cumulativeLayoutShift": 0.1566032737391647
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futbin",
+      "url": "http://futbin.com",
+      "originalURL": "futbin.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.64,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1380,
+    "speedIndex": 3876.519822835256,
+    "largestContentfulPaint": 4910,
+    "timeToInteractive": 8333,
+    "totalBlockingTime": 422.5,
+    "cumulativeLayoutShift": 0.15660264113256284
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futbin",
+      "url": "http://futbin.com",
+      "originalURL": "futbin.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.64,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1380,
+    "speedIndex": 3029.3055165667847,
+    "largestContentfulPaint": 5090,
+    "timeToInteractive": 7404,
+    "totalBlockingTime": 204.5,
+    "cumulativeLayoutShift": 0.15660264113256284
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futbin",
+      "url": "http://futbin.com",
+      "originalURL": "futbin.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.64,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1380,
+    "speedIndex": 2983.1592797937874,
+    "largestContentfulPaint": 5030,
+    "timeToInteractive": 7460.5,
+    "totalBlockingTime": 206.5,
+    "cumulativeLayoutShift": 0.1573418457775151
+  }
+]

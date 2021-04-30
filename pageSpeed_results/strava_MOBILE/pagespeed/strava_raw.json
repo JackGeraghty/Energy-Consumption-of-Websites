@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "strava",
+      "url": "http://strava.com",
+      "originalURL": "strava.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.64,
+    "seo": 0.85,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6369,
+    "speedIndex": 8543.88568204191,
+    "largestContentfulPaint": 13155,
+    "timeToInteractive": 9042,
+    "totalBlockingTime": 2127,
+    "cumulativeLayoutShift": 0.015028198242187499
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "strava",
+      "url": "http://strava.com",
+      "originalURL": "strava.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.64,
+    "seo": 0.85,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5436,
+    "speedIndex": 5638.890961084107,
+    "largestContentfulPaint": 12930,
+    "timeToInteractive": 7161,
+    "totalBlockingTime": 647.5,
+    "cumulativeLayoutShift": 0.014882934570312497
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "strava",
+      "url": "http://strava.com",
+      "originalURL": "strava.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.64,
+    "seo": 0.85,
+    "accessibility": 0.61,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5860,
+    "speedIndex": 7176.123493397402,
+    "largestContentfulPaint": 12795,
+    "timeToInteractive": 7285,
+    "totalBlockingTime": 537,
+    "cumulativeLayoutShift": 0.014414469401041664
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "strava",
+      "url": "http://strava.com",
+      "originalURL": "strava.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.64,
+    "seo": 0.85,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5553,
+    "speedIndex": 6219.351442617194,
+    "largestContentfulPaint": 12330,
+    "timeToInteractive": 7135,
+    "totalBlockingTime": 527,
+    "cumulativeLayoutShift": 0.014879679361979165
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "strava",
+      "url": "http://strava.com",
+      "originalURL": "strava.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.64,
+    "seo": 0.85,
+    "accessibility": 0.61,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5571,
+    "speedIndex": 6437.919056066925,
+    "largestContentfulPaint": 12630,
+    "timeToInteractive": 7339,
+    "totalBlockingTime": 630,
+    "cumulativeLayoutShift": 0.014864013671874997
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dndbeyond",
+      "url": "http://dndbeyond.com",
+      "originalURL": "dndbeyond.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.42,
+    "seo": 0.89,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 8286.5,
+    "speedIndex": 20566.352463451512,
+    "largestContentfulPaint": 18600,
+    "timeToInteractive": 51176,
+    "totalBlockingTime": 6866.5,
+    "cumulativeLayoutShift": 0.012669643190171984
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dndbeyond",
+      "url": "http://dndbeyond.com",
+      "originalURL": "dndbeyond.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.42,
+    "seo": 0.89,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 8550.5,
+    "speedIndex": 21234.470910753465,
+    "largestContentfulPaint": 17925,
+    "timeToInteractive": 63583.5,
+    "totalBlockingTime": 19605.5,
+    "cumulativeLayoutShift": 0.02795720524258084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dndbeyond",
+      "url": "http://dndbeyond.com",
+      "originalURL": "dndbeyond.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.42,
+    "seo": 0.89,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 8332.5,
+    "speedIndex": 20284.42347511445,
+    "largestContentfulPaint": 18600,
+    "timeToInteractive": 53616.5,
+    "totalBlockingTime": 8945.5,
+    "cumulativeLayoutShift": 0.012669643190171984
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dndbeyond",
+      "url": "http://dndbeyond.com",
+      "originalURL": "dndbeyond.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.42,
+    "seo": 0.89,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 8302.5,
+    "speedIndex": 18005.19039728886,
+    "largestContentfulPaint": 16950,
+    "timeToInteractive": 52455.5,
+    "totalBlockingTime": 7897.5,
+    "cumulativeLayoutShift": 0.012669643190171984
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dndbeyond",
+      "url": "http://dndbeyond.com",
+      "originalURL": "dndbeyond.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.42,
+    "seo": 0.89,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 8296,
+    "speedIndex": 19751.725790372897,
+    "largestContentfulPaint": 17700,
+    "timeToInteractive": 52193,
+    "totalBlockingTime": 10236,
+    "cumulativeLayoutShift": 0.012669643190171984
+  }
+]

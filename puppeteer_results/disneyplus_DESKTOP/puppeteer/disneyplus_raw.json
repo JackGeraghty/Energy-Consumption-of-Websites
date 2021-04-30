@@ -1,0 +1,452 @@
+[
+  {
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 1583996,
+    "decodedBodySize": 3068220,
+    "transferSize": 1588509,
+    "resourcesList": [
+      [
+        "https://www.disneyplus.com/en-ie",
+        30325,
+        29720,
+        122082,
+        0.282511
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/logo-nopad.svg",
+        5531,
+        5222,
+        5222,
+        0.282511
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/fonts/Avenir-Roman.woff2",
+        30898,
+        30388,
+        30388,
+        0.282511
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/6Brand-1.png",
+        34138,
+        33942,
+        33942,
+        0.282511
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/analytics_script_bundle.js",
+        83269,
+        82835,
+        82835,
+        0.282511
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_vendor_bundle.js",
+        381954,
+        381512,
+        1751866,
+        0.282511
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_script_bundle.js",
+        9892,
+        9709,
+        31217,
+        0.282511
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/DSNY_STAR_LOGO_LIGHT_RGB.png",
+        241010,
+        240660,
+        240660,
+        0.282511
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/MLP-Hero_Desktop_With_Greys-Scandal_2160x1350-1.jpg",
+        770598,
+        769823,
+        769823,
+        0.282511
+      ],
+      [
+        "https://disney.demdex.net/id?d_visid_ver=3.1.2&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=25823F955A99D5040A495C1D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1613570360934",
+        894,
+        185,
+        185,
+        0.282511
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "numTransferred": 14,
+    "encodedBodySize": 2315288,
+    "decodedBodySize": 3778004,
+    "transferSize": 2320804,
+    "resourcesList": [
+      [
+        "https://www.disneyplus.com/en-ie",
+        30325,
+        29720,
+        122082,
+        0.288153
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/logo-nopad.svg",
+        5534,
+        5222,
+        5222,
+        0.288153
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/6Brand-1.png",
+        34130,
+        33942,
+        33942,
+        0.288153
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/analytics_script_bundle.js",
+        83279,
+        82835,
+        82835,
+        0.288153
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_vendor_bundle.js",
+        381952,
+        381512,
+        1751866,
+        0.288153
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_script_bundle.js",
+        31407,
+        31217,
+        31217,
+        0.288153
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/DSNY_STAR_LOGO_LIGHT_RGB.png",
+        240985,
+        240660,
+        240660,
+        0.288153
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/MLP-Hero_Desktop_With_Greys-Scandal_2160x1350-1.jpg",
+        770534,
+        769823,
+        769823,
+        0.288153
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/fonts/Avenir-Roman.woff2",
+        30896,
+        30388,
+        30388,
+        0.288153
+      ],
+      [
+        "https://disney.demdex.net/id?d_visid_ver=3.1.2&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=25823F955A99D5040A495C1D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1613570362030",
+        894,
+        185,
+        185,
+        0.288153
+      ],
+      [
+        "https://sanalytics.disneyplus.com/id?d_visid_ver=3.1.2&d_fieldgroup=A&mcorgid=25823F955A99D5040A495C1D%40AdobeOrg&mid=12851586367011521071657238777206112434&d_coppa=true&ts=1613570362159",
+        520,
+        48,
+        48,
+        0.288153
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/Star_Family-TV_Desktop_1072x1019-1.jpg",
+        710348,
+        709736,
+        709736,
+        0.288153
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 1583764,
+    "decodedBodySize": 3068268,
+    "transferSize": 1588572,
+    "resourcesList": [
+      [
+        "https://www.disneyplus.com/en-ie",
+        30325,
+        29720,
+        122082,
+        0.286067
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/logo-nopad.svg",
+        5395,
+        5222,
+        5222,
+        0.286067
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/6Brand-1.png",
+        34266,
+        33942,
+        33942,
+        0.286067
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/analytics_script_bundle.js",
+        83279,
+        82835,
+        82835,
+        0.286067
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_vendor_bundle.js",
+        381652,
+        381232,
+        1751866,
+        0.286067
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_script_bundle.js",
+        9877,
+        9709,
+        31217,
+        0.286067
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/DSNY_STAR_LOGO_LIGHT_RGB.png",
+        240976,
+        240660,
+        240660,
+        0.286067
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/MLP-Hero_Desktop_With_Greys-Scandal_2160x1350-1.jpg",
+        770489,
+        769823,
+        769823,
+        0.286067
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/fonts/Avenir-Roman.woff2",
+        30898,
+        30388,
+        30388,
+        0.286067
+      ],
+      [
+        "https://disney.demdex.net/id?d_visid_ver=3.1.2&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=25823F955A99D5040A495C1D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1613570363417",
+        894,
+        185,
+        185,
+        0.286067
+      ],
+      [
+        "https://sanalytics.disneyplus.com/id?d_visid_ver=3.1.2&d_fieldgroup=A&mcorgid=25823F955A99D5040A495C1D%40AdobeOrg&mid=37745767283822392890909808637634242934&d_coppa=true&ts=1613570363526",
+        521,
+        48,
+        48,
+        0.286067
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 1605341,
+    "decodedBodySize": 3068268,
+    "transferSize": 1610190,
+    "resourcesList": [
+      [
+        "https://www.disneyplus.com/en-ie",
+        30325,
+        29720,
+        122082,
+        0.283293
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/logo-nopad.svg",
+        5535,
+        5222,
+        5222,
+        0.283293
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/6Brand-1.png",
+        34130,
+        33942,
+        33942,
+        0.283293
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/analytics_script_bundle.js",
+        83269,
+        82835,
+        82835,
+        0.283293
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_vendor_bundle.js",
+        381767,
+        381301,
+        1751866,
+        0.283293
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_script_bundle.js",
+        31406,
+        31217,
+        31217,
+        0.283293
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/DSNY_STAR_LOGO_LIGHT_RGB.png",
+        240993,
+        240660,
+        240660,
+        0.283293
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/MLP-Hero_Desktop_With_Greys-Scandal_2160x1350-1.jpg",
+        770453,
+        769823,
+        769823,
+        0.283293
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/fonts/Avenir-Roman.woff2",
+        30897,
+        30388,
+        30388,
+        0.283293
+      ],
+      [
+        "https://disney.demdex.net/id?d_visid_ver=3.1.2&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=25823F955A99D5040A495C1D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1613570364761",
+        894,
+        185,
+        185,
+        0.283293
+      ],
+      [
+        "https://sanalytics.disneyplus.com/id?d_visid_ver=3.1.2&d_fieldgroup=A&mcorgid=25823F955A99D5040A495C1D%40AdobeOrg&mid=58885773977630144711040916585583228537&d_coppa=true&ts=1613570364835",
+        521,
+        48,
+        48,
+        0.283293
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 1583900,
+    "decodedBodySize": 3068268,
+    "transferSize": 1588783,
+    "resourcesList": [
+      [
+        "https://www.disneyplus.com/en-ie",
+        30325,
+        29720,
+        122082,
+        0.28434
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/logo-nopad.svg",
+        5535,
+        5222,
+        5222,
+        0.28434
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/6Brand-1.png",
+        34138,
+        33942,
+        33942,
+        0.28434
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/analytics_script_bundle.js",
+        83268,
+        82835,
+        82835,
+        0.28434
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_vendor_bundle.js",
+        381838,
+        381387,
+        1751866,
+        0.28434
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/scripts/marketing_script_bundle.js",
+        9874,
+        9690,
+        31217,
+        0.28434
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/DSNY_STAR_LOGO_LIGHT_RGB.png",
+        241003,
+        240660,
+        240660,
+        0.28434
+      ],
+      [
+        "https://cannonball-cdn.bamgrid.com/assets/originals/MLP-Hero_Desktop_With_Greys-Scandal_2160x1350-1.jpg",
+        770490,
+        769823,
+        769823,
+        0.28434
+      ],
+      [
+        "https://prod-static.disney-plus.net/eu-west-1/builds/b94043f38256a0d2971bd9c661680edeed1a4008_1612393411930/fonts/Avenir-Roman.woff2",
+        30897,
+        30388,
+        30388,
+        0.28434
+      ],
+      [
+        "https://disney.demdex.net/id?d_visid_ver=3.1.2&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=25823F955A99D5040A495C1D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1613570365952",
+        894,
+        185,
+        185,
+        0.28434
+      ],
+      [
+        "https://sanalytics.disneyplus.com/id?d_visid_ver=3.1.2&d_fieldgroup=A&mcorgid=25823F955A99D5040A495C1D%40AdobeOrg&mid=19402090827194691502659719848165201495&d_coppa=true&ts=1613570366075",
+        521,
+        48,
+        48,
+        0.28434
+      ]
+    ]
+  }
+]

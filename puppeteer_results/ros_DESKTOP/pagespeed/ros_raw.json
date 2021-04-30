@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.44,
+    "seo": 0.89,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3106,
+    "speedIndex": 3106,
+    "largestContentfulPaint": 3363,
+    "timeToInteractive": 3161,
+    "totalBlockingTime": 75.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.44,
+    "seo": 0.89,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3016,
+    "speedIndex": 3016,
+    "largestContentfulPaint": 3303,
+    "timeToInteractive": 3071,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.44,
+    "seo": 0.89,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3051,
+    "speedIndex": 3051,
+    "largestContentfulPaint": 3335.5,
+    "timeToInteractive": 3106,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.44,
+    "seo": 0.89,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2985,
+    "speedIndex": 2985,
+    "largestContentfulPaint": 3257.5,
+    "timeToInteractive": 3040,
+    "totalBlockingTime": 24.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.44,
+    "seo": 0.89,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2995,
+    "speedIndex": 2995,
+    "largestContentfulPaint": 3262.5,
+    "timeToInteractive": 3050,
+    "totalBlockingTime": 31.5,
+    "cumulativeLayoutShift": 0
+  }
+]

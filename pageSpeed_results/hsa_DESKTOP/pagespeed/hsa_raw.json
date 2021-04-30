@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hsa",
+      "url": "http://hsa.ie",
+      "originalURL": "hsa.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1174,
+    "speedIndex": 1345.1524557910993,
+    "largestContentfulPaint": 3325,
+    "timeToInteractive": 1255,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.3595930700755917
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hsa",
+      "url": "http://hsa.ie",
+      "originalURL": "hsa.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1198,
+    "speedIndex": 1381.7969799111227,
+    "largestContentfulPaint": 3608.5,
+    "timeToInteractive": 1254.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.64699475702653
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hsa",
+      "url": "http://hsa.ie",
+      "originalURL": "hsa.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1198,
+    "speedIndex": 1198,
+    "largestContentfulPaint": 3255.5,
+    "timeToInteractive": 1223,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.06991424685520825
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hsa",
+      "url": "http://hsa.ie",
+      "originalURL": "hsa.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1198.5,
+    "speedIndex": 1361.1004989654953,
+    "largestContentfulPaint": 3606,
+    "timeToInteractive": 1376,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.29035828152817905
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hsa",
+      "url": "http://hsa.ie",
+      "originalURL": "hsa.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1176,
+    "speedIndex": 1176,
+    "largestContentfulPaint": 3382.5,
+    "timeToInteractive": 2625,
+    "totalBlockingTime": 2.5,
+    "cumulativeLayoutShift": 0.35958734961912264
+  }
+]

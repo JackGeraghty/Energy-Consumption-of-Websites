@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wish",
+      "url": "http://wish.com",
+      "originalURL": "wish.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2490,
+    "speedIndex": 3377.838743965506,
+    "largestContentfulPaint": 3090,
+    "timeToInteractive": 2490,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0037746757931179475
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wish",
+      "url": "http://wish.com",
+      "originalURL": "wish.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2490,
+    "speedIndex": 2916.6453399991988,
+    "largestContentfulPaint": 3090,
+    "timeToInteractive": 2490,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.003693622907002767
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wish",
+      "url": "http://wish.com",
+      "originalURL": "wish.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1633,
+    "speedIndex": 2207.669964262685,
+    "largestContentfulPaint": 2640,
+    "timeToInteractive": 1633,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0038065350850423176
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wish",
+      "url": "http://wish.com",
+      "originalURL": "wish.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1635,
+    "speedIndex": 3559.014327041077,
+    "largestContentfulPaint": 2940,
+    "timeToInteractive": 1635,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0037100500530666777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wish",
+      "url": "http://wish.com",
+      "originalURL": "wish.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1622,
+    "speedIndex": 2709.3193923271956,
+    "largestContentfulPaint": 2640,
+    "timeToInteractive": 1622,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0036962976455688474
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4channel",
+      "url": "http://4channel.org",
+      "originalURL": "4channel.org"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 2809.5122634053587,
+    "largestContentfulPaint": 2969,
+    "timeToInteractive": 1890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.1181777615017361
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4channel",
+      "url": "http://4channel.org",
+      "originalURL": "4channel.org"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 2773.457456442761,
+    "largestContentfulPaint": 2984,
+    "timeToInteractive": 2984,
+    "totalBlockingTime": 4.5,
+    "cumulativeLayoutShift": 0.1181777615017361
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4channel",
+      "url": "http://4channel.org",
+      "originalURL": "4channel.org"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 2261.14228396821,
+    "largestContentfulPaint": 2997,
+    "timeToInteractive": 2811,
+    "totalBlockingTime": 11,
+    "cumulativeLayoutShift": 0.1181777615017361
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4channel",
+      "url": "http://4channel.org",
+      "originalURL": "4channel.org"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 3135.770028344628,
+    "largestContentfulPaint": 2388,
+    "timeToInteractive": 1890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.26541517469618053
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4channel",
+      "url": "http://4channel.org",
+      "originalURL": "4channel.org"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 2072.986355798929,
+    "largestContentfulPaint": 2220,
+    "timeToInteractive": 1890,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.1181777615017361
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mail",
+      "url": "http://mail.ru",
+      "originalURL": "mail.ru"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 14558.794954913992,
+    "largestContentfulPaint": 8790,
+    "timeToInteractive": 29578,
+    "totalBlockingTime": 3062,
+    "cumulativeLayoutShift": 0.00736328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mail",
+      "url": "http://mail.ru",
+      "originalURL": "mail.ru"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 15273.496248402882,
+    "largestContentfulPaint": 9615,
+    "timeToInteractive": 30221,
+    "totalBlockingTime": 2435.5,
+    "cumulativeLayoutShift": 0.00736328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mail",
+      "url": "http://mail.ru",
+      "originalURL": "mail.ru"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 14313.512585117025,
+    "largestContentfulPaint": 8940,
+    "timeToInteractive": 30393,
+    "totalBlockingTime": 2831.5,
+    "cumulativeLayoutShift": 0.00736328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mail",
+      "url": "http://mail.ru",
+      "originalURL": "mail.ru"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 12719.417797568558,
+    "largestContentfulPaint": 9390,
+    "timeToInteractive": 30695,
+    "totalBlockingTime": 2691.5,
+    "cumulativeLayoutShift": 0.00736328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mail",
+      "url": "http://mail.ru",
+      "originalURL": "mail.ru"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 14850.402400716364,
+    "largestContentfulPaint": 8280,
+    "timeToInteractive": 29552,
+    "totalBlockingTime": 2460,
+    "cumulativeLayoutShift": 0.00736328125
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eir",
+      "url": "http://eir.ie",
+      "originalURL": "eir.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5260,
+    "speedIndex": 5260,
+    "largestContentfulPaint": 8135,
+    "timeToInteractive": 6074,
+    "totalBlockingTime": 245,
+    "cumulativeLayoutShift": 0.6692393835916295
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eir",
+      "url": "http://eir.ie",
+      "originalURL": "eir.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5277,
+    "speedIndex": 5318.683787673751,
+    "largestContentfulPaint": 8175,
+    "timeToInteractive": 6006,
+    "totalBlockingTime": 241,
+    "cumulativeLayoutShift": 0.6692393835916295
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eir",
+      "url": "http://eir.ie",
+      "originalURL": "eir.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5494,
+    "speedIndex": 6144.699811683766,
+    "largestContentfulPaint": 8215,
+    "timeToInteractive": 6348.5,
+    "totalBlockingTime": 491.5,
+    "cumulativeLayoutShift": 0.6758834077576396
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eir",
+      "url": "http://eir.ie",
+      "originalURL": "eir.ie"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5322,
+    "speedIndex": 5322,
+    "largestContentfulPaint": 8175,
+    "timeToInteractive": 6054.5,
+    "totalBlockingTime": 289.5,
+    "cumulativeLayoutShift": 0.6692393835916295
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eir",
+      "url": "http://eir.ie",
+      "originalURL": "eir.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5331,
+    "speedIndex": 5331,
+    "largestContentfulPaint": 8195,
+    "timeToInteractive": 6043.5,
+    "totalBlockingTime": 278.5,
+    "cumulativeLayoutShift": 0.6758834077576396
+  }
+]

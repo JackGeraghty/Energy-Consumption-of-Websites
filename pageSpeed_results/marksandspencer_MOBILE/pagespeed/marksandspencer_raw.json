@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "marksandspencer",
+      "url": "http://marksandspencer.com",
+      "originalURL": "marksandspencer.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3601,
+    "speedIndex": 5495.027819094403,
+    "largestContentfulPaint": 8109,
+    "timeToInteractive": 10664.5,
+    "totalBlockingTime": 2235.5,
+    "cumulativeLayoutShift": 0.4034593234592014
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "marksandspencer",
+      "url": "http://marksandspencer.com",
+      "originalURL": "marksandspencer.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3407,
+    "speedIndex": 5582.543163835935,
+    "largestContentfulPaint": 8443,
+    "timeToInteractive": 10058,
+    "totalBlockingTime": 1987,
+    "cumulativeLayoutShift": 0.4034593234592014
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "marksandspencer",
+      "url": "http://marksandspencer.com",
+      "originalURL": "marksandspencer.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3583,
+    "speedIndex": 5602.389344144685,
+    "largestContentfulPaint": 8481,
+    "timeToInteractive": 10585.5,
+    "totalBlockingTime": 2515.5,
+    "cumulativeLayoutShift": 0.4034593234592014
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "marksandspencer",
+      "url": "http://marksandspencer.com",
+      "originalURL": "marksandspencer.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.46,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3404,
+    "speedIndex": 5616.41686744759,
+    "largestContentfulPaint": 8196,
+    "timeToInteractive": 9829.5,
+    "totalBlockingTime": 1908,
+    "cumulativeLayoutShift": 0.4034593234592014
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "marksandspencer",
+      "url": "http://marksandspencer.com",
+      "originalURL": "marksandspencer.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.46,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3379,
+    "speedIndex": 5360.817465031918,
+    "largestContentfulPaint": 8096.5,
+    "timeToInteractive": 9977.5,
+    "totalBlockingTime": 2055,
+    "cumulativeLayoutShift": 0.4034593234592014
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 812,
+    "speedIndex": 970.3248956738537,
+    "largestContentfulPaint": 1120.5,
+    "timeToInteractive": 832,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00003140413857513936
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 833.6686903163804,
+    "largestContentfulPaint": 1000,
+    "timeToInteractive": 730,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.000016927881388086274
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 811.0647395644994,
+    "largestContentfulPaint": 1076,
+    "timeToInteractive": 730,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.000012939906021072292
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 847.0148825988304,
+    "largestContentfulPaint": 1094,
+    "timeToInteractive": 731,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.000025787000554534045
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "linkedin",
+      "url": "http://linkedin.com",
+      "originalURL": "linkedin.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 785.3786721027197,
+    "largestContentfulPaint": 1000,
+    "timeToInteractive": 730,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

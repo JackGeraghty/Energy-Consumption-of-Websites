@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "livejasmin",
+      "url": "http://livejasmin.com",
+      "originalURL": "livejasmin.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.11,
+    "seo": 0.75,
+    "accessibility": 0.85,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 980,
+    "speedIndex": 2777.170371487602,
+    "largestContentfulPaint": 3745,
+    "timeToInteractive": 4908,
+    "totalBlockingTime": 794,
+    "cumulativeLayoutShift": 0.23543014096839157
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "livejasmin",
+      "url": "http://livejasmin.com",
+      "originalURL": "livejasmin.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.11,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 930,
+    "speedIndex": 2551.3045316928533,
+    "largestContentfulPaint": 3833,
+    "timeToInteractive": 4878,
+    "totalBlockingTime": 725.5,
+    "cumulativeLayoutShift": 0.5196535679887926
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "livejasmin",
+      "url": "http://livejasmin.com",
+      "originalURL": "livejasmin.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.11,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 930,
+    "speedIndex": 2470.8680776698207,
+    "largestContentfulPaint": 4223.5,
+    "timeToInteractive": 4933.5,
+    "totalBlockingTime": 763.5,
+    "cumulativeLayoutShift": 0.19779612993608264
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "livejasmin",
+      "url": "http://livejasmin.com",
+      "originalURL": "livejasmin.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.11,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 930,
+    "speedIndex": 2565.8756058585814,
+    "largestContentfulPaint": 3262,
+    "timeToInteractive": 4749.5,
+    "totalBlockingTime": 606,
+    "cumulativeLayoutShift": 0.4450310305577445
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "livejasmin",
+      "url": "http://livejasmin.com",
+      "originalURL": "livejasmin.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.11,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 945,
+    "speedIndex": 2499.821412613692,
+    "largestContentfulPaint": 4187.5,
+    "timeToInteractive": 4789,
+    "totalBlockingTime": 748.5,
+    "cumulativeLayoutShift": 0.49477938884510986
+  }
+]

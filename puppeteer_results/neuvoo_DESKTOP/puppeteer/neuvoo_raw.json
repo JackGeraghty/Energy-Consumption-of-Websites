@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 97,
+    "decodedBodySize": 91,
+    "transferSize": 256,
+    "resourcesList": [
+      [
+        "https://neuvoo.com/",
+        256,
+        97,
+        91,
+        0.021516
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 97,
+    "decodedBodySize": 91,
+    "transferSize": 256,
+    "resourcesList": [
+      [
+        "https://neuvoo.com/",
+        256,
+        97,
+        91,
+        0.02091
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 97,
+    "decodedBodySize": 91,
+    "transferSize": 256,
+    "resourcesList": [
+      [
+        "https://neuvoo.com/",
+        256,
+        97,
+        91,
+        0.020766
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 97,
+    "decodedBodySize": 91,
+    "transferSize": 256,
+    "resourcesList": [
+      [
+        "https://neuvoo.com/",
+        256,
+        97,
+        91,
+        0.021136
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 97,
+    "decodedBodySize": 91,
+    "transferSize": 256,
+    "resourcesList": [
+      [
+        "https://neuvoo.com/",
+        256,
+        97,
+        91,
+        0.022369
+      ]
+    ]
+  }
+]

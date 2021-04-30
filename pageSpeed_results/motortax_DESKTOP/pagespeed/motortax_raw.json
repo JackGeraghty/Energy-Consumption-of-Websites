@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "motortax",
+      "url": "http://motortax.ie",
+      "originalURL": "motortax.ie"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.44,
+    "seo": 0.73,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 740,
+    "speedIndex": 1036.6430218363055,
+    "largestContentfulPaint": 1460,
+    "timeToInteractive": 910,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "motortax",
+      "url": "http://motortax.ie",
+      "originalURL": "motortax.ie"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.44,
+    "seo": 0.73,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 740,
+    "speedIndex": 1029.2985486099888,
+    "largestContentfulPaint": 1502,
+    "timeToInteractive": 1063,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "motortax",
+      "url": "http://motortax.ie",
+      "originalURL": "motortax.ie"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.44,
+    "seo": 0.73,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 740,
+    "speedIndex": 1139.9309072810438,
+    "largestContentfulPaint": 1648,
+    "timeToInteractive": 740,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.020099206724454952
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "motortax",
+      "url": "http://motortax.ie",
+      "originalURL": "motortax.ie"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.44,
+    "seo": 0.73,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 740,
+    "speedIndex": 1001.6186413234137,
+    "largestContentfulPaint": 1482,
+    "timeToInteractive": 740,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "motortax",
+      "url": "http://motortax.ie",
+      "originalURL": "motortax.ie"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.44,
+    "seo": 0.73,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 740,
+    "speedIndex": 1068.5050085125263,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1065,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "argos",
+      "url": "http://argos.ie",
+      "originalURL": "argos.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.73,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 2038,
+    "speedIndex": 2949.504447617379,
+    "largestContentfulPaint": 3219,
+    "timeToInteractive": 2366,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0.11446564048682252
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "argos",
+      "url": "http://argos.ie",
+      "originalURL": "argos.ie"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.73,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 2023.5,
+    "speedIndex": 2643.3316781168687,
+    "largestContentfulPaint": 3094,
+    "timeToInteractive": 2080.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.11446564048682252
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "argos",
+      "url": "http://argos.ie",
+      "originalURL": "argos.ie"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.73,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 2042,
+    "speedIndex": 2896.3906448390408,
+    "largestContentfulPaint": 3214,
+    "timeToInteractive": 3264.5,
+    "totalBlockingTime": 17,
+    "cumulativeLayoutShift": 0.11475599451303155
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "argos",
+      "url": "http://argos.ie",
+      "originalURL": "argos.ie"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.73,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 2001.5,
+    "speedIndex": 2883.7560168463915,
+    "largestContentfulPaint": 3127.5,
+    "timeToInteractive": 2057.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.11446564048682252
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "argos",
+      "url": "http://argos.ie",
+      "originalURL": "argos.ie"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.73,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 2044,
+    "speedIndex": 3054.047417808487,
+    "largestContentfulPaint": 3114.5,
+    "timeToInteractive": 3188.5,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 0.11446564048682252
+  }
+]

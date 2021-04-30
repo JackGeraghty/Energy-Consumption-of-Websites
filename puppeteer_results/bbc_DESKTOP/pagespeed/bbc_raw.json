@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1009,
+    "speedIndex": 2604.93075953652,
+    "largestContentfulPaint": 3685,
+    "timeToInteractive": 6121,
+    "totalBlockingTime": 209.5,
+    "cumulativeLayoutShift": 0.4248058407027989
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1002,
+    "speedIndex": 2294.442016358316,
+    "largestContentfulPaint": 3820,
+    "timeToInteractive": 6075,
+    "totalBlockingTime": 166,
+    "cumulativeLayoutShift": 0.31145674692817327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1026,
+    "speedIndex": 2409.8155495308683,
+    "largestContentfulPaint": 3745,
+    "timeToInteractive": 6260,
+    "totalBlockingTime": 283.5,
+    "cumulativeLayoutShift": 0.4248058407027989
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1031,
+    "speedIndex": 2488.980200519125,
+    "largestContentfulPaint": 3800,
+    "timeToInteractive": 6421,
+    "totalBlockingTime": 312.5,
+    "cumulativeLayoutShift": 0.4248058407027989
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 999,
+    "speedIndex": 2400.5051673325124,
+    "largestContentfulPaint": 3700,
+    "timeToInteractive": 6043,
+    "totalBlockingTime": 158,
+    "cumulativeLayoutShift": 0.42523670665148994
+  }
+]

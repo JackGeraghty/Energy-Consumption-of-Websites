@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpgplc",
+      "url": "http://dpgplc.co.uk",
+      "originalURL": "dpgplc.co.uk"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2065,
+    "speedIndex": 3369.87481547438,
+    "largestContentfulPaint": 2875,
+    "timeToInteractive": 5988.5,
+    "totalBlockingTime": 59.5,
+    "cumulativeLayoutShift": 0.03096930916732335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpgplc",
+      "url": "http://dpgplc.co.uk",
+      "originalURL": "dpgplc.co.uk"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 3355.578813539358,
+    "largestContentfulPaint": 3270,
+    "timeToInteractive": 6055.5,
+    "totalBlockingTime": 98.5,
+    "cumulativeLayoutShift": 0.020584882818200388
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpgplc",
+      "url": "http://dpgplc.co.uk",
+      "originalURL": "dpgplc.co.uk"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2345,
+    "speedIndex": 3087.1228664785067,
+    "largestContentfulPaint": 3230,
+    "timeToInteractive": 6078.5,
+    "totalBlockingTime": 80.5,
+    "cumulativeLayoutShift": 0.02094127893062487
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpgplc",
+      "url": "http://dpgplc.co.uk",
+      "originalURL": "dpgplc.co.uk"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2450,
+    "speedIndex": 3517.5225677018348,
+    "largestContentfulPaint": 3250,
+    "timeToInteractive": 6115.5,
+    "totalBlockingTime": 94.5,
+    "cumulativeLayoutShift": 0.020584882818200388
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpgplc",
+      "url": "http://dpgplc.co.uk",
+      "originalURL": "dpgplc.co.uk"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2170,
+    "speedIndex": 3064.0042059026596,
+    "largestContentfulPaint": 3270,
+    "timeToInteractive": 6029.5,
+    "totalBlockingTime": 86.5,
+    "cumulativeLayoutShift": 0.02031670723520999
+  }
+]

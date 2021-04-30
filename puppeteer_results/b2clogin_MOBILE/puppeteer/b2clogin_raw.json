@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "b2clogin",
+      "url": "http://b2clogin.com",
+      "originalURL": "b2clogin.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 771,
+    "decodedBodySize": 771,
+    "transferSize": 950,
+    "resourcesList": [
+      [
+        "http://b2clogin.com/",
+        950,
+        771,
+        771,
+        0.044925
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "b2clogin",
+      "url": "http://b2clogin.com",
+      "originalURL": "b2clogin.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://b2clogin.com/",
+        926,
+        747,
+        747,
+        0.046183
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "b2clogin",
+      "url": "http://b2clogin.com",
+      "originalURL": "b2clogin.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://b2clogin.com/",
+        926,
+        747,
+        747,
+        0.045566
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "b2clogin",
+      "url": "http://b2clogin.com",
+      "originalURL": "b2clogin.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://b2clogin.com/",
+        926,
+        747,
+        747,
+        0.045162
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "b2clogin",
+      "url": "http://b2clogin.com",
+      "originalURL": "b2clogin.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 747,
+    "decodedBodySize": 747,
+    "transferSize": 926,
+    "resourcesList": [
+      [
+        "http://b2clogin.com/",
+        926,
+        747,
+        747,
+        0.045191
+      ]
+    ]
+  }
+]

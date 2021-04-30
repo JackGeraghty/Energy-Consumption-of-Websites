@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.46,
+    "seo": 0.66,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 1890,
+    "largestContentfulPaint": 2387,
+    "timeToInteractive": 3369,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0.37236480034722225
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.46,
+    "seo": 0.66,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 1890,
+    "largestContentfulPaint": 2385,
+    "timeToInteractive": 3384,
+    "totalBlockingTime": 64,
+    "cumulativeLayoutShift": 0.37236480034722225
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.46,
+    "seo": 0.66,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 1890,
+    "largestContentfulPaint": 3398,
+    "timeToInteractive": 3398,
+    "totalBlockingTime": 78,
+    "cumulativeLayoutShift": 0.37236480034722225
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.46,
+    "seo": 0.66,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 1890,
+    "largestContentfulPaint": 2390,
+    "timeToInteractive": 3383,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.37236480034722225
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.46,
+    "seo": 0.66,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1890,
+    "speedIndex": 1890,
+    "largestContentfulPaint": 2378,
+    "timeToInteractive": 3363,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.37236480034722225
+  }
+]

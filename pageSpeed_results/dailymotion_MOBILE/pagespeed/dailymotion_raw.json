@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymotion",
+      "url": "http://dailymotion.com",
+      "originalURL": "dailymotion.com"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.68,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3930,
+    "speedIndex": 3930,
+    "largestContentfulPaint": 5895,
+    "timeToInteractive": 4736.5,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymotion",
+      "url": "http://dailymotion.com",
+      "originalURL": "dailymotion.com"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.68,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3930,
+    "speedIndex": 3930,
+    "largestContentfulPaint": 6060,
+    "timeToInteractive": 4245,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymotion",
+      "url": "http://dailymotion.com",
+      "originalURL": "dailymotion.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.68,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3630,
+    "speedIndex": 3630,
+    "largestContentfulPaint": 6285,
+    "timeToInteractive": 4811.5,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymotion",
+      "url": "http://dailymotion.com",
+      "originalURL": "dailymotion.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.68,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3630,
+    "speedIndex": 3630,
+    "largestContentfulPaint": 6060,
+    "timeToInteractive": 4827,
+    "totalBlockingTime": 17,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymotion",
+      "url": "http://dailymotion.com",
+      "originalURL": "dailymotion.com"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.68,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3630,
+    "speedIndex": 3724.1551680879593,
+    "largestContentfulPaint": 6330,
+    "timeToInteractive": 4813.5,
+    "totalBlockingTime": 3.5,
+    "cumulativeLayoutShift": 0
+  }
+]

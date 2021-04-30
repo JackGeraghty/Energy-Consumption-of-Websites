@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "publicjobs",
+      "url": "http://publicjobs.ie",
+      "originalURL": "publicjobs.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 10286.5,
+    "speedIndex": 13012.335537377097,
+    "largestContentfulPaint": 13292.5,
+    "timeToInteractive": 12618,
+    "totalBlockingTime": 261.5,
+    "cumulativeLayoutShift": 0.08031943766276042
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "publicjobs",
+      "url": "http://publicjobs.ie",
+      "originalURL": "publicjobs.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 10337,
+    "speedIndex": 14136.838940064405,
+    "largestContentfulPaint": 13248.5,
+    "timeToInteractive": 12521.5,
+    "totalBlockingTime": 232.5,
+    "cumulativeLayoutShift": 0.08032177734375001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "publicjobs",
+      "url": "http://publicjobs.ie",
+      "originalURL": "publicjobs.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 10328.5,
+    "speedIndex": 12372.189929324117,
+    "largestContentfulPaint": 13153.5,
+    "timeToInteractive": 12492,
+    "totalBlockingTime": 246,
+    "cumulativeLayoutShift": 0.08032177734375001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "publicjobs",
+      "url": "http://publicjobs.ie",
+      "originalURL": "publicjobs.ie"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 10428.5,
+    "speedIndex": 13515.721283946,
+    "largestContentfulPaint": 13312.5,
+    "timeToInteractive": 12763,
+    "totalBlockingTime": 268,
+    "cumulativeLayoutShift": 0.11160017903645833
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "publicjobs",
+      "url": "http://publicjobs.ie",
+      "originalURL": "publicjobs.ie"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 10394.5,
+    "speedIndex": 12501.839624849723,
+    "largestContentfulPaint": 13162.5,
+    "timeToInteractive": 12783.5,
+    "totalBlockingTime": 375,
+    "cumulativeLayoutShift": 0.08171337890625
+  }
+]

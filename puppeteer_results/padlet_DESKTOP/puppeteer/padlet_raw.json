@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 21566,
+    "decodedBodySize": 45114,
+    "transferSize": 24226,
+    "resourcesList": [
+      [
+        "http://padlet.com/",
+        9341,
+        8310,
+        8310,
+        0.047867
+      ],
+      [
+        "http://padlet.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        13871,
+        13172,
+        36720,
+        0.047867
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=622ff65b2839f3f7",
+        507,
+        42,
+        42,
+        0.047867
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=622ff65b2839f3f7",
+        507,
+        42,
+        42,
+        0.047867
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 21565,
+    "decodedBodySize": 45113,
+    "transferSize": 24225,
+    "resourcesList": [
+      [
+        "http://padlet.com/",
+        9340,
+        8309,
+        8309,
+        0.048215
+      ],
+      [
+        "http://padlet.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        13871,
+        13172,
+        36720,
+        0.048215
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=622ff65e09a2e66c",
+        507,
+        42,
+        42,
+        0.048215
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=622ff65e09a2e66c",
+        507,
+        42,
+        42,
+        0.048215
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 21566,
+    "decodedBodySize": 45114,
+    "transferSize": 24238,
+    "resourcesList": [
+      [
+        "http://padlet.com/",
+        9341,
+        8310,
+        8310,
+        0.046818
+      ],
+      [
+        "http://padlet.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        13883,
+        13172,
+        36720,
+        0.046818
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=622ff660ef830081",
+        507,
+        42,
+        42,
+        0.046818
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=622ff660ef830081",
+        507,
+        42,
+        42,
+        0.046818
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 21566,
+    "decodedBodySize": 45114,
+    "transferSize": 24234,
+    "resourcesList": [
+      [
+        "http://padlet.com/",
+        9341,
+        8310,
+        8310,
+        0.052772
+      ],
+      [
+        "http://padlet.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        13879,
+        13172,
+        36720,
+        0.052772
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=622ff663fb112c92",
+        507,
+        42,
+        42,
+        0.052772
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=622ff663fb112c92",
+        507,
+        42,
+        42,
+        0.052772
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 21570,
+    "decodedBodySize": 45114,
+    "transferSize": 24229,
+    "resourcesList": [
+      [
+        "http://padlet.com/",
+        9334,
+        8310,
+        8310,
+        0.047298
+      ],
+      [
+        "http://padlet.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        13881,
+        13176,
+        36720,
+        0.047298
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=622ff6671ee1dc17",
+        507,
+        42,
+        42,
+        0.047298
+      ],
+      [
+        "http://padlet.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=622ff6671ee1dc17",
+        507,
+        42,
+        42,
+        0.047298
+      ]
+    ]
+  }
+]

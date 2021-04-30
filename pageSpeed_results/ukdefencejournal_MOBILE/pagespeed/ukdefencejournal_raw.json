@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ukdefencejournal",
+      "url": "http://ukdefencejournal.org.uk",
+      "originalURL": "ukdefencejournal.org.uk"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 7625.762285745392,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 17075.5,
+    "totalBlockingTime": 2082.5,
+    "cumulativeLayoutShift": 0.0003919270833333333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ukdefencejournal",
+      "url": "http://ukdefencejournal.org.uk",
+      "originalURL": "ukdefencejournal.org.uk"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6885.582679835026,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 16748.5,
+    "totalBlockingTime": 2061,
+    "cumulativeLayoutShift": 0.0003919270833333333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ukdefencejournal",
+      "url": "http://ukdefencejournal.org.uk",
+      "originalURL": "ukdefencejournal.org.uk"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6248.028778193529,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 15815,
+    "totalBlockingTime": 1949,
+    "cumulativeLayoutShift": 0.0003919270833333333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ukdefencejournal",
+      "url": "http://ukdefencejournal.org.uk",
+      "originalURL": "ukdefencejournal.org.uk"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 7622.105328140477,
+    "largestContentfulPaint": 4320,
+    "timeToInteractive": 17733.5,
+    "totalBlockingTime": 2012,
+    "cumulativeLayoutShift": 0.0005319010416666666
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ukdefencejournal",
+      "url": "http://ukdefencejournal.org.uk",
+      "originalURL": "ukdefencejournal.org.uk"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6781.730004745815,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 17549,
+    "totalBlockingTime": 3332,
+    "cumulativeLayoutShift": 0.0003919270833333333
+  }
+]

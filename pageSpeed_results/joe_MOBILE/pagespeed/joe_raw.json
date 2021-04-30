@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "joe",
+      "url": "http://joe.ie",
+      "originalURL": "joe.ie"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2510,
+    "speedIndex": 5130.0020296947905,
+    "largestContentfulPaint": 13158,
+    "timeToInteractive": 12534,
+    "totalBlockingTime": 1147.5,
+    "cumulativeLayoutShift": 0.3494978841145834
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "joe",
+      "url": "http://joe.ie",
+      "originalURL": "joe.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4341,
+    "speedIndex": 7153.298124910652,
+    "largestContentfulPaint": 13337.5,
+    "timeToInteractive": 12709,
+    "totalBlockingTime": 1331.5,
+    "cumulativeLayoutShift": 0.3496832817925347
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "joe",
+      "url": "http://joe.ie",
+      "originalURL": "joe.ie"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2545,
+    "speedIndex": 4945.463635590281,
+    "largestContentfulPaint": 13212.803144454956,
+    "timeToInteractive": 12530.303144454956,
+    "totalBlockingTime": 1292,
+    "cumulativeLayoutShift": 0.3529659830729167
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "joe",
+      "url": "http://joe.ie",
+      "originalURL": "joe.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2701,
+    "speedIndex": 5496.6685498175,
+    "largestContentfulPaint": 13031,
+    "timeToInteractive": 12167.303144454956,
+    "totalBlockingTime": 884,
+    "cumulativeLayoutShift": 0.34805733235677083
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "joe",
+      "url": "http://joe.ie",
+      "originalURL": "joe.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.25,
+    "seo": 0.91,
+    "accessibility": 0.68,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2638,
+    "speedIndex": 6253.727650529771,
+    "largestContentfulPaint": 13507,
+    "timeToInteractive": 12935,
+    "totalBlockingTime": 2159,
+    "cumulativeLayoutShift": 0.3550012003580729
+  }
+]

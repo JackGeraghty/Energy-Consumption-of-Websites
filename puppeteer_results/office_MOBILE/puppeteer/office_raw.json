@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.net",
+      "originalURL": "office.net"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 745,
+    "decodedBodySize": 745,
+    "transferSize": 924,
+    "resourcesList": [
+      [
+        "http://office.net/",
+        924,
+        745,
+        745,
+        0.04445
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.net",
+      "originalURL": "office.net"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 769,
+    "decodedBodySize": 769,
+    "transferSize": 948,
+    "resourcesList": [
+      [
+        "http://office.net/",
+        948,
+        769,
+        769,
+        0.045008
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.net",
+      "originalURL": "office.net"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 745,
+    "decodedBodySize": 745,
+    "transferSize": 924,
+    "resourcesList": [
+      [
+        "http://office.net/",
+        924,
+        745,
+        745,
+        0.044559
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.net",
+      "originalURL": "office.net"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 745,
+    "decodedBodySize": 745,
+    "transferSize": 924,
+    "resourcesList": [
+      [
+        "http://office.net/",
+        924,
+        745,
+        745,
+        0.044805
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.net",
+      "originalURL": "office.net"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 745,
+    "decodedBodySize": 745,
+    "transferSize": 924,
+    "resourcesList": [
+      [
+        "http://office.net/",
+        924,
+        745,
+        745,
+        0.044615
+      ]
+    ]
+  }
+]

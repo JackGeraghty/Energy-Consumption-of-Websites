@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reuters",
+      "url": "http://reuters.com",
+      "originalURL": "reuters.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5333.5,
+    "speedIndex": 14658.649506631726,
+    "largestContentfulPaint": 30130,
+    "timeToInteractive": 36183,
+    "totalBlockingTime": 3184.5,
+    "cumulativeLayoutShift": 0.0009333902994791666
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reuters",
+      "url": "http://reuters.com",
+      "originalURL": "reuters.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5445,
+    "speedIndex": 14618.183720116149,
+    "largestContentfulPaint": 25456,
+    "timeToInteractive": 36220.5,
+    "totalBlockingTime": 3327,
+    "cumulativeLayoutShift": 0.0006222601996527777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reuters",
+      "url": "http://reuters.com",
+      "originalURL": "reuters.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5158,
+    "speedIndex": 15565.881336045597,
+    "largestContentfulPaint": 27345,
+    "timeToInteractive": 36178,
+    "totalBlockingTime": 3551.5,
+    "cumulativeLayoutShift": 0.0009333902994791666
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reuters",
+      "url": "http://reuters.com",
+      "originalURL": "reuters.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5421,
+    "speedIndex": 15797.749949324822,
+    "largestContentfulPaint": 27044,
+    "timeToInteractive": 34741,
+    "totalBlockingTime": 2955,
+    "cumulativeLayoutShift": 0.0026805691189236112
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reuters",
+      "url": "http://reuters.com",
+      "originalURL": "reuters.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5345.5,
+    "speedIndex": 15186.426079820863,
+    "largestContentfulPaint": 31181.5,
+    "timeToInteractive": 36041.5,
+    "totalBlockingTime": 2500.5,
+    "cumulativeLayoutShift": 0.0007668185763888889
+  }
+]

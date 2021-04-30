@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skyscrapercity",
+      "url": "http://skyscrapercity.com",
+      "originalURL": "skyscrapercity.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1558,
+    "speedIndex": 3192.5081559930127,
+    "largestContentfulPaint": 3363.5,
+    "timeToInteractive": 4090,
+    "totalBlockingTime": 60,
+    "cumulativeLayoutShift": 0.0379489817003765
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skyscrapercity",
+      "url": "http://skyscrapercity.com",
+      "originalURL": "skyscrapercity.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1518,
+    "speedIndex": 3313.1415238035456,
+    "largestContentfulPaint": 3678,
+    "timeToInteractive": 5496.5,
+    "totalBlockingTime": 207,
+    "cumulativeLayoutShift": 0.03821899016431719
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skyscrapercity",
+      "url": "http://skyscrapercity.com",
+      "originalURL": "skyscrapercity.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1516,
+    "speedIndex": 3266.291638369763,
+    "largestContentfulPaint": 3759.5,
+    "timeToInteractive": 4158.5,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0.042036340659019934
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skyscrapercity",
+      "url": "http://skyscrapercity.com",
+      "originalURL": "skyscrapercity.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1515,
+    "speedIndex": 3090.6852714234165,
+    "largestContentfulPaint": 3485,
+    "timeToInteractive": 4104.5,
+    "totalBlockingTime": 65.5,
+    "cumulativeLayoutShift": 0.037842918016519275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skyscrapercity",
+      "url": "http://skyscrapercity.com",
+      "originalURL": "skyscrapercity.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1516,
+    "speedIndex": 3129.333297016172,
+    "largestContentfulPaint": 3523,
+    "timeToInteractive": 4184,
+    "totalBlockingTime": 75.5,
+    "cumulativeLayoutShift": 0.038411755538043955
+  }
+]

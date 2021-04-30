@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "edcolearning",
+      "url": "http://edcolearning.ie",
+      "originalURL": "edcolearning.ie"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4185,
+    "speedIndex": 9209.351953260297,
+    "largestContentfulPaint": 7485,
+    "timeToInteractive": 5108.5,
+    "totalBlockingTime": 93.5,
+    "cumulativeLayoutShift": 0.005362467447916667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "edcolearning",
+      "url": "http://edcolearning.ie",
+      "originalURL": "edcolearning.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4460.5,
+    "speedIndex": 4460.5,
+    "largestContentfulPaint": 7713,
+    "timeToInteractive": 5156,
+    "totalBlockingTime": 85.5,
+    "cumulativeLayoutShift": 0.005362467447916667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "edcolearning",
+      "url": "http://edcolearning.ie",
+      "originalURL": "edcolearning.ie"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4021.5,
+    "speedIndex": 4021.5,
+    "largestContentfulPaint": 7190,
+    "timeToInteractive": 5088,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.005362467447916667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "edcolearning",
+      "url": "http://edcolearning.ie",
+      "originalURL": "edcolearning.ie"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4023,
+    "speedIndex": 4023,
+    "largestContentfulPaint": 7545,
+    "timeToInteractive": 5091,
+    "totalBlockingTime": 53,
+    "cumulativeLayoutShift": 0.004970703125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "edcolearning",
+      "url": "http://edcolearning.ie",
+      "originalURL": "edcolearning.ie"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.46,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4021.5,
+    "speedIndex": 4021.5,
+    "largestContentfulPaint": 7635.5,
+    "timeToInteractive": 5088,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.004970703125
+  }
+]

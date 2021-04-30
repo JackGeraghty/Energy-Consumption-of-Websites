@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cbsnews",
+      "url": "http://cbsnews.com",
+      "originalURL": "cbsnews.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 578.5954167395048,
+    "speedIndex": 2812.371127648611,
+    "largestContentfulPaint": 2428.8812854146795,
+    "timeToInteractive": 5944.091523383922,
+    "totalBlockingTime": 1432.1001082342332,
+    "cumulativeLayoutShift": 0.011637092490441585
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cbsnews",
+      "url": "http://cbsnews.com",
+      "originalURL": "cbsnews.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 591.0274129018594,
+    "speedIndex": 2367.472558726598,
+    "largestContentfulPaint": 2071.1463860615518,
+    "timeToInteractive": 5558.508206824025,
+    "totalBlockingTime": 1235.5,
+    "cumulativeLayoutShift": 0.011637092490441585
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cbsnews",
+      "url": "http://cbsnews.com",
+      "originalURL": "cbsnews.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 563.1707537832574,
+    "speedIndex": 2774.431623296891,
+    "largestContentfulPaint": 2574.309423354411,
+    "timeToInteractive": 6258.594036779568,
+    "totalBlockingTime": 1995.4999999999993,
+    "cumulativeLayoutShift": 0.013138119837725826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cbsnews",
+      "url": "http://cbsnews.com",
+      "originalURL": "cbsnews.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 626.9594129139347,
+    "speedIndex": 2689.543863565913,
+    "largestContentfulPaint": 2556.144411080555,
+    "timeToInteractive": 6230.579123181025,
+    "totalBlockingTime": 1604.0000000000005,
+    "cumulativeLayoutShift": 0.010163771415229256
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cbsnews",
+      "url": "http://cbsnews.com",
+      "originalURL": "cbsnews.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.89,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 646.7651033007269,
+    "speedIndex": 4323.836253923114,
+    "largestContentfulPaint": 2663.9610850592767,
+    "timeToInteractive": 8449.346223444407,
+    "totalBlockingTime": 2236.4999999999986,
+    "cumulativeLayoutShift": 0.011664798762513497
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2940,
+    "speedIndex": 10889.413731345168,
+    "largestContentfulPaint": 11513.5,
+    "timeToInteractive": 12621.5,
+    "totalBlockingTime": 2008,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3390,
+    "speedIndex": 9634.808155470108,
+    "largestContentfulPaint": 11196.5,
+    "timeToInteractive": 11920,
+    "totalBlockingTime": 1220.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2940,
+    "speedIndex": 9915.5608575028,
+    "largestContentfulPaint": 11233,
+    "timeToInteractive": 11939,
+    "totalBlockingTime": 1345,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2940,
+    "speedIndex": 10583.483040886764,
+    "largestContentfulPaint": 11658.5,
+    "timeToInteractive": 12884.5,
+    "totalBlockingTime": 2649.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.58,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2940,
+    "speedIndex": 10789.963244028568,
+    "largestContentfulPaint": 11342.5,
+    "timeToInteractive": 12107,
+    "totalBlockingTime": 1294,
+    "cumulativeLayoutShift": 0
+  }
+]

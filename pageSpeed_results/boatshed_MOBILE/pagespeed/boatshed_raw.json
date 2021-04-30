@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boatshed",
+      "url": "http://boatshed.com",
+      "originalURL": "boatshed.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 10906.974793991914,
+    "largestContentfulPaint": 18795,
+    "timeToInteractive": 13865,
+    "totalBlockingTime": 535.5,
+    "cumulativeLayoutShift": 0.0098555908203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boatshed",
+      "url": "http://boatshed.com",
+      "originalURL": "boatshed.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 9585.54958136402,
+    "largestContentfulPaint": 18465,
+    "timeToInteractive": 13375,
+    "totalBlockingTime": 558,
+    "cumulativeLayoutShift": 0.0098555908203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boatshed",
+      "url": "http://boatshed.com",
+      "originalURL": "boatshed.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3090,
+    "speedIndex": 9467.320154825818,
+    "largestContentfulPaint": 18465,
+    "timeToInteractive": 13398,
+    "totalBlockingTime": 628,
+    "cumulativeLayoutShift": 0.0098555908203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boatshed",
+      "url": "http://boatshed.com",
+      "originalURL": "boatshed.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 9690.264457479474,
+    "largestContentfulPaint": 18945,
+    "timeToInteractive": 13627,
+    "totalBlockingTime": 514.5,
+    "cumulativeLayoutShift": 0.0098555908203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boatshed",
+      "url": "http://boatshed.com",
+      "originalURL": "boatshed.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 8843.432654668059,
+    "largestContentfulPaint": 19095,
+    "timeToInteractive": 13572,
+    "totalBlockingTime": 821,
+    "cumulativeLayoutShift": 0.0098555908203125
+  }
+]

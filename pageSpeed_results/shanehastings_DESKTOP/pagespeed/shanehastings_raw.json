@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shanehastings",
+      "url": "http://shanehastings.eu",
+      "originalURL": "shanehastings.eu"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.44,
+    "seo": 0.78,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 1121,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0007806981291772465
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shanehastings",
+      "url": "http://shanehastings.eu",
+      "originalURL": "shanehastings.eu"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.44,
+    "seo": 0.78,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 800,
+    "timeToInteractive": 1303,
+    "totalBlockingTime": 3,
+    "cumulativeLayoutShift": 0.0007806981291772465
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shanehastings",
+      "url": "http://shanehastings.eu",
+      "originalURL": "shanehastings.eu"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.44,
+    "seo": 0.78,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 1126,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0007806981291772465
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shanehastings",
+      "url": "http://shanehastings.eu",
+      "originalURL": "shanehastings.eu"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.44,
+    "seo": 0.78,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 939,
+    "timeToInteractive": 869.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0007806981291772465
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shanehastings",
+      "url": "http://shanehastings.eu",
+      "originalURL": "shanehastings.eu"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.44,
+    "seo": 0.78,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 800,
+    "speedIndex": 800,
+    "largestContentfulPaint": 1128,
+    "timeToInteractive": 800,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0007806981291772465
+  }
+]

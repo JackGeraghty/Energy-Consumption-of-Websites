@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eflow",
+      "url": "http://eflow.ie",
+      "originalURL": "eflow.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5217,
+    "speedIndex": 6514.520889965779,
+    "largestContentfulPaint": 7200,
+    "timeToInteractive": 13491,
+    "totalBlockingTime": 996.5,
+    "cumulativeLayoutShift": 0.15057668050130207
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eflow",
+      "url": "http://eflow.ie",
+      "originalURL": "eflow.ie"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5245.5,
+    "speedIndex": 5917.534136999255,
+    "largestContentfulPaint": 6600,
+    "timeToInteractive": 13310,
+    "totalBlockingTime": 546,
+    "cumulativeLayoutShift": 0.1537254435221354
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eflow",
+      "url": "http://eflow.ie",
+      "originalURL": "eflow.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5301.5,
+    "speedIndex": 6464.41927983761,
+    "largestContentfulPaint": 7818,
+    "timeToInteractive": 13148,
+    "totalBlockingTime": 396,
+    "cumulativeLayoutShift": 0.15057668050130207
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eflow",
+      "url": "http://eflow.ie",
+      "originalURL": "eflow.ie"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5206,
+    "speedIndex": 6373.510467061193,
+    "largestContentfulPaint": 10883.5,
+    "timeToInteractive": 13522,
+    "totalBlockingTime": 460.5,
+    "cumulativeLayoutShift": 0.6931751166449652
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eflow",
+      "url": "http://eflow.ie",
+      "originalURL": "eflow.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.75,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5041.5,
+    "speedIndex": 6462.514020119811,
+    "largestContentfulPaint": 9702.5,
+    "timeToInteractive": 13164,
+    "totalBlockingTime": 312,
+    "cumulativeLayoutShift": 0.6931751166449652
+  }
+]

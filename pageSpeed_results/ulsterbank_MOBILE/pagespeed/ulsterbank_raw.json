@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulsterbank",
+      "url": "http://ulsterbank.ie",
+      "originalURL": "ulsterbank.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.88,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6126,
+    "speedIndex": 7683.680757158203,
+    "largestContentfulPaint": 12063,
+    "timeToInteractive": 12302.5,
+    "totalBlockingTime": 1498.5,
+    "cumulativeLayoutShift": 0.24492548285590277
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulsterbank",
+      "url": "http://ulsterbank.ie",
+      "originalURL": "ulsterbank.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.88,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5935,
+    "speedIndex": 7626.633473845795,
+    "largestContentfulPaint": 12044.5,
+    "timeToInteractive": 12240,
+    "totalBlockingTime": 1347,
+    "cumulativeLayoutShift": 0.24375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulsterbank",
+      "url": "http://ulsterbank.ie",
+      "originalURL": "ulsterbank.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.88,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6090,
+    "speedIndex": 7873.59306024832,
+    "largestContentfulPaint": 12123,
+    "timeToInteractive": 11965,
+    "totalBlockingTime": 914,
+    "cumulativeLayoutShift": 0.24375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulsterbank",
+      "url": "http://ulsterbank.ie",
+      "originalURL": "ulsterbank.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.88,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6297,
+    "speedIndex": 7966.884063571458,
+    "largestContentfulPaint": 12186.5,
+    "timeToInteractive": 11846.5,
+    "totalBlockingTime": 1076,
+    "cumulativeLayoutShift": 0.24375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulsterbank",
+      "url": "http://ulsterbank.ie",
+      "originalURL": "ulsterbank.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.88,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5857,
+    "speedIndex": 7404.115228773879,
+    "largestContentfulPaint": 12006,
+    "timeToInteractive": 11873.5,
+    "totalBlockingTime": 1015,
+    "cumulativeLayoutShift": 0.24492548285590277
+  }
+]

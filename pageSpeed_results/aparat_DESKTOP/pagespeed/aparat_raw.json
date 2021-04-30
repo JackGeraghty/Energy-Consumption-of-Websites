@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aparat",
+      "url": "http://aparat.com",
+      "originalURL": "aparat.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.69,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1016.5,
+    "speedIndex": 2076.5941183118407,
+    "largestContentfulPaint": 2235,
+    "timeToInteractive": 2794,
+    "totalBlockingTime": 21,
+    "cumulativeLayoutShift": 0.046330721769839184
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aparat",
+      "url": "http://aparat.com",
+      "originalURL": "aparat.com"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.69,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1033.5,
+    "speedIndex": 1914.3342375278662,
+    "largestContentfulPaint": 2078.5,
+    "timeToInteractive": 2896,
+    "totalBlockingTime": 61.5,
+    "cumulativeLayoutShift": 0.03602561130082013
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aparat",
+      "url": "http://aparat.com",
+      "originalURL": "aparat.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.69,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1022,
+    "speedIndex": 2068.0000836688,
+    "largestContentfulPaint": 2556.5,
+    "timeToInteractive": 2881,
+    "totalBlockingTime": 110.5,
+    "cumulativeLayoutShift": 0.046330721769839184
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aparat",
+      "url": "http://aparat.com",
+      "originalURL": "aparat.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.69,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1018,
+    "speedIndex": 1912.9896804901327,
+    "largestContentfulPaint": 2659,
+    "timeToInteractive": 2901,
+    "totalBlockingTime": 36,
+    "cumulativeLayoutShift": 0.04337166914747688
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aparat",
+      "url": "http://aparat.com",
+      "originalURL": "aparat.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1023,
+    "speedIndex": 1973.5053708931605,
+    "largestContentfulPaint": 2240,
+    "timeToInteractive": 2827,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.046330721769839184
+  }
+]

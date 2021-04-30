@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "coolmathgames",
+      "url": "http://coolmathgames.com",
+      "originalURL": "coolmathgames.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.21,
+    "seo": 0.69,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2790,
+    "largestContentfulPaint": 11123.5,
+    "timeToInteractive": 10321.5,
+    "totalBlockingTime": 564,
+    "cumulativeLayoutShift": 0.32649902343750004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "coolmathgames",
+      "url": "http://coolmathgames.com",
+      "originalURL": "coolmathgames.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.21,
+    "seo": 0.69,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2869.9889549453474,
+    "largestContentfulPaint": 11178,
+    "timeToInteractive": 10181.5,
+    "totalBlockingTime": 568,
+    "cumulativeLayoutShift": 0.32649902343750004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "coolmathgames",
+      "url": "http://coolmathgames.com",
+      "originalURL": "coolmathgames.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.21,
+    "seo": 0.69,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2790,
+    "largestContentfulPaint": 11262.5,
+    "timeToInteractive": 10311.5,
+    "totalBlockingTime": 654.5,
+    "cumulativeLayoutShift": 0.32649902343750004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "coolmathgames",
+      "url": "http://coolmathgames.com",
+      "originalURL": "coolmathgames.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.21,
+    "seo": 0.69,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2790,
+    "largestContentfulPaint": 11223,
+    "timeToInteractive": 10264.5,
+    "totalBlockingTime": 429,
+    "cumulativeLayoutShift": 0.32649902343750004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "coolmathgames",
+      "url": "http://coolmathgames.com",
+      "originalURL": "coolmathgames.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.21,
+    "seo": 0.69,
+    "accessibility": 0.59,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2790,
+    "largestContentfulPaint": 11194.5,
+    "timeToInteractive": 10328.5,
+    "totalBlockingTime": 788,
+    "cumulativeLayoutShift": 0.32649902343750004
+  }
+]

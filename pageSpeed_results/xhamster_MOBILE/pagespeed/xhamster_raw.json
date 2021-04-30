@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xhamster",
+      "url": "http://xhamster.com",
+      "originalURL": "xhamster.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": null,
+    "seo": 0.93,
+    "accessibility": 0.77,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3307,
+    "speedIndex": 3307,
+    "largestContentfulPaint": 6882,
+    "timeToInteractive": 9907,
+    "totalBlockingTime": 490,
+    "cumulativeLayoutShift": 0.0034225160810682506
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xhamster",
+      "url": "http://xhamster.com",
+      "originalURL": "xhamster.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": null,
+    "seo": 0.93,
+    "accessibility": 0.76,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3340,
+    "speedIndex": 6283.234560564842,
+    "largestContentfulPaint": 6818,
+    "timeToInteractive": 10827.5,
+    "totalBlockingTime": 987,
+    "cumulativeLayoutShift": 0.0034225160810682506
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xhamster",
+      "url": "http://xhamster.com",
+      "originalURL": "xhamster.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": null,
+    "seo": 0.93,
+    "accessibility": 0.77,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3327,
+    "speedIndex": 3847.5232857772053,
+    "largestContentfulPaint": 6547,
+    "timeToInteractive": 10013,
+    "totalBlockingTime": 762.5,
+    "cumulativeLayoutShift": 0.0034225160810682506
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xhamster",
+      "url": "http://xhamster.com",
+      "originalURL": "xhamster.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": null,
+    "seo": 0.93,
+    "accessibility": 0.77,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3318,
+    "speedIndex": 4058.735075020839,
+    "largestContentfulPaint": 8280,
+    "timeToInteractive": 9540.5,
+    "totalBlockingTime": 469,
+    "cumulativeLayoutShift": 0.0035983886718749998
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xhamster",
+      "url": "http://xhamster.com",
+      "originalURL": "xhamster.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": null,
+    "seo": 0.93,
+    "accessibility": 0.76,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3308,
+    "speedIndex": 3900.0850684866086,
+    "largestContentfulPaint": 5902,
+    "timeToInteractive": 10269.5,
+    "totalBlockingTime": 702.5,
+    "cumulativeLayoutShift": 0.0035983886718749998
+  }
+]

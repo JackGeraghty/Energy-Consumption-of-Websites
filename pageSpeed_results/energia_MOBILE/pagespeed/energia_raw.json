@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "energia",
+      "url": "http://energia.ie",
+      "originalURL": "energia.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.42,
+    "seo": 0.79,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 4862,
+    "speedIndex": 7402.4424111827,
+    "largestContentfulPaint": 11901,
+    "timeToInteractive": 12252.5,
+    "totalBlockingTime": 837,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "energia",
+      "url": "http://energia.ie",
+      "originalURL": "energia.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.42,
+    "seo": 0.79,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2921,
+    "speedIndex": 5591.860945736511,
+    "largestContentfulPaint": 12083.5,
+    "timeToInteractive": 12107.5,
+    "totalBlockingTime": 1017,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "energia",
+      "url": "http://energia.ie",
+      "originalURL": "energia.ie"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.42,
+    "seo": 0.79,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2917.5,
+    "speedIndex": 13754.669122667041,
+    "largestContentfulPaint": 16674,
+    "timeToInteractive": 12077.5,
+    "totalBlockingTime": 540.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "energia",
+      "url": "http://energia.ie",
+      "originalURL": "energia.ie"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.42,
+    "seo": 0.79,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2919,
+    "speedIndex": 6151.433559416553,
+    "largestContentfulPaint": 15057,
+    "timeToInteractive": 11726,
+    "totalBlockingTime": 798.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "energia",
+      "url": "http://energia.ie",
+      "originalURL": "energia.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.42,
+    "seo": 0.79,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3009,
+    "speedIndex": 13979.631615761864,
+    "largestContentfulPaint": 11160,
+    "timeToInteractive": 12713,
+    "totalBlockingTime": 1068,
+    "cumulativeLayoutShift": 0
+  }
+]

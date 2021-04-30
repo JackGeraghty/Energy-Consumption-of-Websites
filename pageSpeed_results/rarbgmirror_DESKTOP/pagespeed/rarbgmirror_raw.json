@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rarbgmirror",
+      "url": "http://rarbgmirror.com",
+      "originalURL": "rarbgmirror.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.73,
+    "accessibility": 0.54,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 709,
+    "speedIndex": 709,
+    "largestContentfulPaint": 1062,
+    "timeToInteractive": 740.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.2752758450806993
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rarbgmirror",
+      "url": "http://rarbgmirror.com",
+      "originalURL": "rarbgmirror.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.73,
+    "accessibility": 0.54,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 737,
+    "speedIndex": 737,
+    "largestContentfulPaint": 1050,
+    "timeToInteractive": 817,
+    "totalBlockingTime": 3.5,
+    "cumulativeLayoutShift": 0.25886987362460967
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rarbgmirror",
+      "url": "http://rarbgmirror.com",
+      "originalURL": "rarbgmirror.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.73,
+    "accessibility": 0.54,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 700,
+    "speedIndex": 700,
+    "largestContentfulPaint": 1049,
+    "timeToInteractive": 729.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.2757789592271546
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rarbgmirror",
+      "url": "http://rarbgmirror.com",
+      "originalURL": "rarbgmirror.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.73,
+    "accessibility": 0.54,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 705,
+    "speedIndex": 875.2540787588332,
+    "largestContentfulPaint": 1054,
+    "timeToInteractive": 734.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.25899570323672766
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rarbgmirror",
+      "url": "http://rarbgmirror.com",
+      "originalURL": "rarbgmirror.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.73,
+    "accessibility": 0.54,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 708,
+    "speedIndex": 802.9942463301405,
+    "largestContentfulPaint": 1082,
+    "timeToInteractive": 740,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.2910936894025625
+  }
+]

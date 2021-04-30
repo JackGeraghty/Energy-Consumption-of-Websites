@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seesaw",
+      "url": "http://seesaw.me",
+      "originalURL": "seesaw.me"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7570,
+    "speedIndex": 10139.128560212388,
+    "largestContentfulPaint": 8620,
+    "timeToInteractive": 20387.5,
+    "totalBlockingTime": 3073,
+    "cumulativeLayoutShift": 0.32243619791666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seesaw",
+      "url": "http://seesaw.me",
+      "originalURL": "seesaw.me"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7496,
+    "speedIndex": 10205.461499057654,
+    "largestContentfulPaint": 8621,
+    "timeToInteractive": 18947.5,
+    "totalBlockingTime": 2289.5,
+    "cumulativeLayoutShift": 0.3176917317708333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seesaw",
+      "url": "http://seesaw.me",
+      "originalURL": "seesaw.me"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7785,
+    "speedIndex": 9204.185138307017,
+    "largestContentfulPaint": 8610,
+    "timeToInteractive": 18938,
+    "totalBlockingTime": 2359,
+    "cumulativeLayoutShift": 0.32243619791666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seesaw",
+      "url": "http://seesaw.me",
+      "originalURL": "seesaw.me"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7622,
+    "speedIndex": 10037.87158209366,
+    "largestContentfulPaint": 8672,
+    "timeToInteractive": 19131.5,
+    "totalBlockingTime": 2689.5,
+    "cumulativeLayoutShift": 0.3176917317708333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "seesaw",
+      "url": "http://seesaw.me",
+      "originalURL": "seesaw.me"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7883,
+    "speedIndex": 9956.68127982516,
+    "largestContentfulPaint": 8558,
+    "timeToInteractive": 19106.5,
+    "totalBlockingTime": 2782,
+    "cumulativeLayoutShift": 0.32243619791666667
+  }
+]

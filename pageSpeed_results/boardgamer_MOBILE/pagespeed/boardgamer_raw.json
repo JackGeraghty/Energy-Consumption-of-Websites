@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boardgamer",
+      "url": "http://boardgamer.ie",
+      "originalURL": "boardgamer.ie"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 6179.110740624162,
+    "largestContentfulPaint": 8645,
+    "timeToInteractive": 17615,
+    "totalBlockingTime": 1250.5,
+    "cumulativeLayoutShift": 0.46796101888020836
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boardgamer",
+      "url": "http://boardgamer.ie",
+      "originalURL": "boardgamer.ie"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 6410.573057195121,
+    "largestContentfulPaint": 8625,
+    "timeToInteractive": 17540,
+    "totalBlockingTime": 1149,
+    "cumulativeLayoutShift": 0.46796101888020836
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boardgamer",
+      "url": "http://boardgamer.ie",
+      "originalURL": "boardgamer.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 8373.257971091109,
+    "largestContentfulPaint": 8661.5,
+    "timeToInteractive": 17260,
+    "totalBlockingTime": 1133,
+    "cumulativeLayoutShift": 0.46960815429687497
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boardgamer",
+      "url": "http://boardgamer.ie",
+      "originalURL": "boardgamer.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 7642.338370854608,
+    "largestContentfulPaint": 8415.5,
+    "timeToInteractive": 17361,
+    "totalBlockingTime": 1255.5,
+    "cumulativeLayoutShift": 0.2997623697916667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boardgamer",
+      "url": "http://boardgamer.ie",
+      "originalURL": "boardgamer.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 7144.417661492169,
+    "largestContentfulPaint": 8678,
+    "timeToInteractive": 17130,
+    "totalBlockingTime": 944,
+    "cumulativeLayoutShift": 0.4728727213541667
+  }
+]

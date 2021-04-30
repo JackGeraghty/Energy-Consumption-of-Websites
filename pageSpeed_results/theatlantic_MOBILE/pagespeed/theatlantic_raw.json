@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theatlantic",
+      "url": "http://theatlantic.com",
+      "originalURL": "theatlantic.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1870,
+    "speedIndex": 12323.216063862037,
+    "largestContentfulPaint": 14805,
+    "timeToInteractive": 33797,
+    "totalBlockingTime": 8206.5,
+    "cumulativeLayoutShift": 0.12339838324652777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theatlantic",
+      "url": "http://theatlantic.com",
+      "originalURL": "theatlantic.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 7970.454271052548,
+    "largestContentfulPaint": 14145,
+    "timeToInteractive": 23073.5,
+    "totalBlockingTime": 4584,
+    "cumulativeLayoutShift": 0.12339838324652778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theatlantic",
+      "url": "http://theatlantic.com",
+      "originalURL": "theatlantic.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1874,
+    "speedIndex": 8218.313369718726,
+    "largestContentfulPaint": 13230,
+    "timeToInteractive": 27623,
+    "totalBlockingTime": 5227,
+    "cumulativeLayoutShift": 0.12339838324652777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theatlantic",
+      "url": "http://theatlantic.com",
+      "originalURL": "theatlantic.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 9284.861766128692,
+    "largestContentfulPaint": 15330,
+    "timeToInteractive": 28870.5,
+    "totalBlockingTime": 5083.5,
+    "cumulativeLayoutShift": 0.12339838324652777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theatlantic",
+      "url": "http://theatlantic.com",
+      "originalURL": "theatlantic.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2955,
+    "speedIndex": 9272.38532286002,
+    "largestContentfulPaint": 13515,
+    "timeToInteractive": 27686.5,
+    "totalBlockingTime": 3949.5,
+    "cumulativeLayoutShift": 0.12325812445746528
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weather",
+      "url": "http://weather.com",
+      "originalURL": "weather.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.36,
+    "seo": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6322.5,
+    "speedIndex": 12257.197807097362,
+    "largestContentfulPaint": 9300,
+    "timeToInteractive": 17546,
+    "totalBlockingTime": 2085.5,
+    "cumulativeLayoutShift": 0.009140625000000001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weather",
+      "url": "http://weather.com",
+      "originalURL": "weather.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.36,
+    "seo": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6336.5,
+    "speedIndex": 11264.97604979601,
+    "largestContentfulPaint": 9150,
+    "timeToInteractive": 17464,
+    "totalBlockingTime": 1961,
+    "cumulativeLayoutShift": 0.009140625000000001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weather",
+      "url": "http://weather.com",
+      "originalURL": "weather.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.36,
+    "seo": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6235,
+    "speedIndex": 9293.213529443727,
+    "largestContentfulPaint": 9150,
+    "timeToInteractive": 17167,
+    "totalBlockingTime": 1600,
+    "cumulativeLayoutShift": 0.009140625000000001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weather",
+      "url": "http://weather.com",
+      "originalURL": "weather.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.36,
+    "seo": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6318.5,
+    "speedIndex": 9396.755356015197,
+    "largestContentfulPaint": 9300,
+    "timeToInteractive": 17471,
+    "totalBlockingTime": 1917,
+    "cumulativeLayoutShift": 0.009140625000000001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weather",
+      "url": "http://weather.com",
+      "originalURL": "weather.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.36,
+    "seo": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6247.5,
+    "speedIndex": 10274.88842809464,
+    "largestContentfulPaint": 9150,
+    "timeToInteractive": 17459,
+    "totalBlockingTime": 1703.5,
+    "cumulativeLayoutShift": 0.009140625000000001
+  }
+]

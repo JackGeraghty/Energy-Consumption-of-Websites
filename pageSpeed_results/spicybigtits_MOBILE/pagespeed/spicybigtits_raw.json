@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spicybigtits",
+      "url": "http://spicybigtits.com",
+      "originalURL": "spicybigtits.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.78,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3319,
+    "speedIndex": 3319,
+    "largestContentfulPaint": 4260,
+    "timeToInteractive": 3539,
+    "totalBlockingTime": 170,
+    "cumulativeLayoutShift": 0.23099359724256727
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spicybigtits",
+      "url": "http://spicybigtits.com",
+      "originalURL": "spicybigtits.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.78,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3319,
+    "speedIndex": 3319,
+    "largestContentfulPaint": 4260,
+    "timeToInteractive": 3482,
+    "totalBlockingTime": 113,
+    "cumulativeLayoutShift": 0.23099359724256727
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spicybigtits",
+      "url": "http://spicybigtits.com",
+      "originalURL": "spicybigtits.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.78,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3319,
+    "speedIndex": 3319,
+    "largestContentfulPaint": 4260,
+    "timeToInteractive": 3516,
+    "totalBlockingTime": 147,
+    "cumulativeLayoutShift": 0.23099359724256727
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spicybigtits",
+      "url": "http://spicybigtits.com",
+      "originalURL": "spicybigtits.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.78,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3351,
+    "speedIndex": 3351,
+    "largestContentfulPaint": 4270.5,
+    "timeToInteractive": 3576,
+    "totalBlockingTime": 175,
+    "cumulativeLayoutShift": 0.23099359724256727
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spicybigtits",
+      "url": "http://spicybigtits.com",
+      "originalURL": "spicybigtits.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.78,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3318,
+    "speedIndex": 3318,
+    "largestContentfulPaint": 4358.5,
+    "timeToInteractive": 3482,
+    "totalBlockingTime": 94.5,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futurelearn",
+      "url": "http://futurelearn.com",
+      "originalURL": "futurelearn.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 1114.369819830913,
+    "largestContentfulPaint": 1835,
+    "timeToInteractive": 2398,
+    "totalBlockingTime": 34,
+    "cumulativeLayoutShift": 0.03102316434637948
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futurelearn",
+      "url": "http://futurelearn.com",
+      "originalURL": "futurelearn.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 1211.433482102625,
+    "largestContentfulPaint": 1860,
+    "timeToInteractive": 2207,
+    "totalBlockingTime": 48.5,
+    "cumulativeLayoutShift": 0.03164341476228001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futurelearn",
+      "url": "http://futurelearn.com",
+      "originalURL": "futurelearn.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 989.7336518175925,
+    "largestContentfulPaint": 1805,
+    "timeToInteractive": 2107,
+    "totalBlockingTime": 31.5,
+    "cumulativeLayoutShift": 0.03164341476228001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futurelearn",
+      "url": "http://futurelearn.com",
+      "originalURL": "futurelearn.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 1072.3479831774612,
+    "largestContentfulPaint": 1860,
+    "timeToInteractive": 2434,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.0316257280448297
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "futurelearn",
+      "url": "http://futurelearn.com",
+      "originalURL": "futurelearn.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 1192.9437221031658,
+    "largestContentfulPaint": 1860,
+    "timeToInteractive": 2446,
+    "totalBlockingTime": 48,
+    "cumulativeLayoutShift": 0.03164341476228001
+  }
+]

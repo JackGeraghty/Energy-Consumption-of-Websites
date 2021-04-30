@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dfa",
+      "url": "http://dfa.ie",
+      "originalURL": "dfa.ie"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5193,
+    "speedIndex": 6533.548452646452,
+    "largestContentfulPaint": 11235,
+    "timeToInteractive": 14585.5,
+    "totalBlockingTime": 949,
+    "cumulativeLayoutShift": 0.00602978515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dfa",
+      "url": "http://dfa.ie",
+      "originalURL": "dfa.ie"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5177,
+    "speedIndex": 7279.856803029745,
+    "largestContentfulPaint": 11685,
+    "timeToInteractive": 14355.5,
+    "totalBlockingTime": 736.5,
+    "cumulativeLayoutShift": 0.007677530924479167
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dfa",
+      "url": "http://dfa.ie",
+      "originalURL": "dfa.ie"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5194,
+    "speedIndex": 6360.19811186144,
+    "largestContentfulPaint": 11235,
+    "timeToInteractive": 14457.5,
+    "totalBlockingTime": 983,
+    "cumulativeLayoutShift": 0.0012958984374999997
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dfa",
+      "url": "http://dfa.ie",
+      "originalURL": "dfa.ie"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5190,
+    "speedIndex": 6834.811805761539,
+    "largestContentfulPaint": 11685,
+    "timeToInteractive": 14421,
+    "totalBlockingTime": 699.5,
+    "cumulativeLayoutShift": 0.0062275390625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dfa",
+      "url": "http://dfa.ie",
+      "originalURL": "dfa.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.75,
+    "accessibility": 0.87,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5194,
+    "speedIndex": 6415.701888414325,
+    "largestContentfulPaint": 11685,
+    "timeToInteractive": 14695,
+    "totalBlockingTime": 898.5,
+    "cumulativeLayoutShift": 0.007677530924479167
+  }
+]

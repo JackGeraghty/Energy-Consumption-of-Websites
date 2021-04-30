@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sky",
+      "url": "http://sky.com",
+      "originalURL": "sky.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4698,
+    "speedIndex": 11076.253234707701,
+    "largestContentfulPaint": 11607.5,
+    "timeToInteractive": 20266.5,
+    "totalBlockingTime": 4172.5,
+    "cumulativeLayoutShift": 0.014062499999999999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sky",
+      "url": "http://sky.com",
+      "originalURL": "sky.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3609,
+    "speedIndex": 10645.028698993165,
+    "largestContentfulPaint": 11675.5,
+    "timeToInteractive": 19845,
+    "totalBlockingTime": 3966,
+    "cumulativeLayoutShift": 0.014062499999999999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sky",
+      "url": "http://sky.com",
+      "originalURL": "sky.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4878,
+    "speedIndex": 11854.386510617109,
+    "largestContentfulPaint": 12171.5,
+    "timeToInteractive": 21400.5,
+    "totalBlockingTime": 4547.5,
+    "cumulativeLayoutShift": 0.014062499999999999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sky",
+      "url": "http://sky.com",
+      "originalURL": "sky.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4726,
+    "speedIndex": 10745.906068770531,
+    "largestContentfulPaint": 12458,
+    "timeToInteractive": 19670.5,
+    "totalBlockingTime": 3649.5,
+    "cumulativeLayoutShift": 0.014062499999999999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sky",
+      "url": "http://sky.com",
+      "originalURL": "sky.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4766,
+    "speedIndex": 10720.08893759678,
+    "largestContentfulPaint": 12794,
+    "timeToInteractive": 21318.5,
+    "totalBlockingTime": 5127,
+    "cumulativeLayoutShift": 0.014062499999999999
+  }
+]

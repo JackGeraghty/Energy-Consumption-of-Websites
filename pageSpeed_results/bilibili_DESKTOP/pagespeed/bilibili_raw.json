@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bilibili",
+      "url": "http://bilibili.com",
+      "originalURL": "bilibili.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.27,
+    "seo": 0.73,
+    "accessibility": 0.77,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1078,
+    "speedIndex": 4762.340411404466,
+    "largestContentfulPaint": 3510,
+    "timeToInteractive": 3872,
+    "totalBlockingTime": 278.5,
+    "cumulativeLayoutShift": 0.006901746162040685
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bilibili",
+      "url": "http://bilibili.com",
+      "originalURL": "bilibili.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.27,
+    "seo": 0.73,
+    "accessibility": 0.77,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 908,
+    "speedIndex": 2503.6529929958706,
+    "largestContentfulPaint": 1750,
+    "timeToInteractive": 3133,
+    "totalBlockingTime": 279.5,
+    "cumulativeLayoutShift": 0.006810487953477512
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bilibili",
+      "url": "http://bilibili.com",
+      "originalURL": "bilibili.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": null,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 812.1738357543945,
+    "speedIndex": 5136.753342356811,
+    "largestContentfulPaint": 4245.5,
+    "timeToInteractive": 3659.5,
+    "totalBlockingTime": 218.5,
+    "cumulativeLayoutShift": 0.0307682021148907
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bilibili",
+      "url": "http://bilibili.com",
+      "originalURL": "bilibili.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.27,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 867,
+    "speedIndex": 7042.677859896883,
+    "largestContentfulPaint": 2913.5,
+    "timeToInteractive": 2884,
+    "totalBlockingTime": 254,
+    "cumulativeLayoutShift": 0.020430554351632955
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bilibili",
+      "url": "http://bilibili.com",
+      "originalURL": "bilibili.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": null,
+    "seo": 0.73,
+    "accessibility": 0.85,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 874,
+    "speedIndex": 3528.299013097828,
+    "largestContentfulPaint": 3986,
+    "timeToInteractive": 3832.5,
+    "totalBlockingTime": 219.5,
+    "cumulativeLayoutShift": 0.018785009813793302
+  }
+]

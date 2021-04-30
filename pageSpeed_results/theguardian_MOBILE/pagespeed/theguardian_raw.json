@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theguardian",
+      "url": "http://theguardian.com",
+      "originalURL": "theguardian.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.29,
+    "seo": 0.84,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2822.0022888183594,
+    "speedIndex": 6084.741990716113,
+    "largestContentfulPaint": 5946.573509216309,
+    "timeToInteractive": 12789.5,
+    "totalBlockingTime": 1790,
+    "cumulativeLayoutShift": 0.14008021375868057
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theguardian",
+      "url": "http://theguardian.com",
+      "originalURL": "theguardian.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.29,
+    "seo": 0.84,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3202,
+    "speedIndex": 7457.018278964531,
+    "largestContentfulPaint": 5945.573509216309,
+    "timeToInteractive": 13029.09084701538,
+    "totalBlockingTime": 2650,
+    "cumulativeLayoutShift": 0.14008021375868057
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theguardian",
+      "url": "http://theguardian.com",
+      "originalURL": "theguardian.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.29,
+    "seo": 0.84,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2822.0022888183594,
+    "speedIndex": 6257.65958451249,
+    "largestContentfulPaint": 6185,
+    "timeToInteractive": 12967.5,
+    "totalBlockingTime": 1784,
+    "cumulativeLayoutShift": 0.14008021375868057
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theguardian",
+      "url": "http://theguardian.com",
+      "originalURL": "theguardian.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.29,
+    "seo": 0.84,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2822.0022888183594,
+    "speedIndex": 6911.652343654755,
+    "largestContentfulPaint": 6253,
+    "timeToInteractive": 14245,
+    "totalBlockingTime": 3527.5,
+    "cumulativeLayoutShift": 0.14008021375868057
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theguardian",
+      "url": "http://theguardian.com",
+      "originalURL": "theguardian.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.29,
+    "seo": 0.84,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 6084.6205799861755,
+    "largestContentfulPaint": 6112,
+    "timeToInteractive": 12860.5,
+    "totalBlockingTime": 1788.5,
+    "cumulativeLayoutShift": 0.14008021375868057
+  }
+]

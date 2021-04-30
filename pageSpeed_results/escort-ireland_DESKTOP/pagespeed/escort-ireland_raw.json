@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "escort-ireland",
+      "url": "http://escort-ireland.com",
+      "originalURL": "escort-ireland.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.64,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 596,
+    "speedIndex": 1265.3299449869307,
+    "largestContentfulPaint": 1080,
+    "timeToInteractive": 2301,
+    "totalBlockingTime": 45.5,
+    "cumulativeLayoutShift": 0.08277906604792343
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "escort-ireland",
+      "url": "http://escort-ireland.com",
+      "originalURL": "escort-ireland.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.64,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1208.0839745386756,
+    "largestContentfulPaint": 1205,
+    "timeToInteractive": 2127,
+    "totalBlockingTime": 58.5,
+    "cumulativeLayoutShift": 0.21684296237924294
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "escort-ireland",
+      "url": "http://escort-ireland.com",
+      "originalURL": "escort-ireland.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.64,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 690,
+    "speedIndex": 1178.197258763049,
+    "largestContentfulPaint": 1150,
+    "timeToInteractive": 2315,
+    "totalBlockingTime": 52.5,
+    "cumulativeLayoutShift": 0.21834922627907657
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "escort-ireland",
+      "url": "http://escort-ireland.com",
+      "originalURL": "escort-ireland.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.64,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1390.026391094699,
+    "largestContentfulPaint": 1225,
+    "timeToInteractive": 2410,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.08500661179698218
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "escort-ireland",
+      "url": "http://escort-ireland.com",
+      "originalURL": "escort-ireland.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.64,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1163.535325045515,
+    "largestContentfulPaint": 1150,
+    "timeToInteractive": 2306,
+    "totalBlockingTime": 48,
+    "cumulativeLayoutShift": 0.08574543793596592
+  }
+]

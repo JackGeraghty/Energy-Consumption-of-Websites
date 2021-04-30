@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "just-eat",
+      "url": "http://just-eat.ie",
+      "originalURL": "just-eat.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1287,
+    "speedIndex": 1663.8900704601867,
+    "largestContentfulPaint": 3325,
+    "timeToInteractive": 2773.5,
+    "totalBlockingTime": 165,
+    "cumulativeLayoutShift": 0.0035704345795756352
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "just-eat",
+      "url": "http://just-eat.ie",
+      "originalURL": "just-eat.ie"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": null,
+    "firstContentfulPaint": 985.5,
+    "speedIndex": 1511.006503029099,
+    "largestContentfulPaint": 3535,
+    "timeToInteractive": 3093,
+    "totalBlockingTime": 240.5,
+    "cumulativeLayoutShift": 0.0010055675218165368
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "just-eat",
+      "url": "http://just-eat.ie",
+      "originalURL": "just-eat.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": null,
+    "firstContentfulPaint": 897,
+    "speedIndex": 1476.850276908894,
+    "largestContentfulPaint": 3325,
+    "timeToInteractive": 2933,
+    "totalBlockingTime": 247.5,
+    "cumulativeLayoutShift": 0.0010055675218165368
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "just-eat",
+      "url": "http://just-eat.ie",
+      "originalURL": "just-eat.ie"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": null,
+    "firstContentfulPaint": 859,
+    "speedIndex": 1392.3975936134414,
+    "largestContentfulPaint": 3380,
+    "timeToInteractive": 2985.5,
+    "totalBlockingTime": 284,
+    "cumulativeLayoutShift": 0.004061179698216735
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "just-eat",
+      "url": "http://just-eat.ie",
+      "originalURL": "just-eat.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": null,
+    "firstContentfulPaint": 859,
+    "speedIndex": 1277.5196819737675,
+    "largestContentfulPaint": 3190,
+    "timeToInteractive": 2886,
+    "totalBlockingTime": 237,
+    "cumulativeLayoutShift": 0.0035704345795756352
+  }
+]

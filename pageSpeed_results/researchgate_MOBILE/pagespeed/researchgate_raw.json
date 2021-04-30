@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "researchgate",
+      "url": "http://researchgate.net",
+      "originalURL": "researchgate.net"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.5,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 7131,
+    "speedIndex": 7131,
+    "largestContentfulPaint": 9472,
+    "timeToInteractive": 9801.5,
+    "totalBlockingTime": 368,
+    "cumulativeLayoutShift": 0.007984737396240234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "researchgate",
+      "url": "http://researchgate.net",
+      "originalURL": "researchgate.net"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.5,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4393,
+    "speedIndex": 4393,
+    "largestContentfulPaint": 6103.5,
+    "timeToInteractive": 9665,
+    "totalBlockingTime": 466,
+    "cumulativeLayoutShift": 0.007984737396240234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "researchgate",
+      "url": "http://researchgate.net",
+      "originalURL": "researchgate.net"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.5,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4460,
+    "speedIndex": 4460,
+    "largestContentfulPaint": 8280,
+    "timeToInteractive": 9906,
+    "totalBlockingTime": 550.5,
+    "cumulativeLayoutShift": 0.007984737396240234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "researchgate",
+      "url": "http://researchgate.net",
+      "originalURL": "researchgate.net"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.5,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 4125.616803119459,
+    "largestContentfulPaint": 5752,
+    "timeToInteractive": 9798,
+    "totalBlockingTime": 565.5,
+    "cumulativeLayoutShift": 0.007984737396240234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "researchgate",
+      "url": "http://researchgate.net",
+      "originalURL": "researchgate.net"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.5,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 4616.511857019923,
+    "largestContentfulPaint": 8697,
+    "timeToInteractive": 9868,
+    "totalBlockingTime": 516,
+    "cumulativeLayoutShift": 0.007984737396240234
+  }
+]

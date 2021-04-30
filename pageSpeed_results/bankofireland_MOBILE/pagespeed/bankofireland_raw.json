@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bankofireland",
+      "url": "http://bankofireland.com",
+      "originalURL": "bankofireland.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4755.5,
+    "speedIndex": 6968.158993315178,
+    "largestContentfulPaint": 12960,
+    "timeToInteractive": 12062.5,
+    "totalBlockingTime": 879.5,
+    "cumulativeLayoutShift": 0.0921875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bankofireland",
+      "url": "http://bankofireland.com",
+      "originalURL": "bankofireland.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4756.5,
+    "speedIndex": 7354.689019487199,
+    "largestContentfulPaint": 12960,
+    "timeToInteractive": 12231,
+    "totalBlockingTime": 1018.5,
+    "cumulativeLayoutShift": 0.09444335937500001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bankofireland",
+      "url": "http://bankofireland.com",
+      "originalURL": "bankofireland.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4769.5,
+    "speedIndex": 7057.903261074372,
+    "largestContentfulPaint": 12960,
+    "timeToInteractive": 12361,
+    "totalBlockingTime": 1172.5,
+    "cumulativeLayoutShift": 0.09444335937500001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bankofireland",
+      "url": "http://bankofireland.com",
+      "originalURL": "bankofireland.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4775.5,
+    "speedIndex": 7671.584587109064,
+    "largestContentfulPaint": 13125,
+    "timeToInteractive": 12434.5,
+    "totalBlockingTime": 1089,
+    "cumulativeLayoutShift": 0.09234928385416667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bankofireland",
+      "url": "http://bankofireland.com",
+      "originalURL": "bankofireland.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4746.5,
+    "speedIndex": 6878.901047937619,
+    "largestContentfulPaint": 12885,
+    "timeToInteractive": 12031.5,
+    "totalBlockingTime": 773.5,
+    "cumulativeLayoutShift": 0.0921875
+  }
+]

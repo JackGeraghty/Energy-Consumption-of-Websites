@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 810,
+    "speedIndex": 1450.839942342132,
+    "largestContentfulPaint": 2900,
+    "timeToInteractive": 3085,
+    "totalBlockingTime": 111,
+    "cumulativeLayoutShift": 0.013643662259580306
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 850,
+    "speedIndex": 1295.570264044466,
+    "largestContentfulPaint": 2770,
+    "timeToInteractive": 2910,
+    "totalBlockingTime": 83,
+    "cumulativeLayoutShift": 0.013643662259580306
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 850,
+    "speedIndex": 1256.7782927424016,
+    "largestContentfulPaint": 3320,
+    "timeToInteractive": 2718,
+    "totalBlockingTime": 80.5,
+    "cumulativeLayoutShift": 0.013643662259580306
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 850,
+    "speedIndex": 1207.2858872895406,
+    "largestContentfulPaint": 3400,
+    "timeToInteractive": 2661,
+    "totalBlockingTime": 58,
+    "cumulativeLayoutShift": 0.013643662259580306
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "disneyplus",
+      "url": "http://disneyplus.com",
+      "originalURL": "disneyplus.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 850,
+    "speedIndex": 1673.5105493000226,
+    "largestContentfulPaint": 2740,
+    "timeToInteractive": 3091,
+    "totalBlockingTime": 489.5,
+    "cumulativeLayoutShift": 0.013643662259580306
+  }
+]

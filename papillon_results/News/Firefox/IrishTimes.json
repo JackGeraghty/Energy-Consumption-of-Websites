@@ -1,0 +1,466 @@
+{
+  "activity": [
+    {
+      "id": "1299",
+      "hostId": "284",
+      "power": "8.287055",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "24.301317026623252",
+      "stat2": "5418701.0",
+      "stat3": "2.4731648E7",
+      "timeStamp": "1617191696",
+      "allApps": "19710.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5347",
+            "activityId": "1299",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "13160.0"
+          },
+          {
+            "appId": "5348",
+            "activityId": "1299",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "5620.0"
+          },
+          {
+            "appId": "5349",
+            "activityId": "1299",
+            "name": "nodejs#02129138629",
+            "cpu": "350.0"
+          },
+          {
+            "appId": "5350",
+            "activityId": "1299",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "5351",
+            "activityId": "1299",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "30.0"
+          },
+          {
+            "appId": "5352",
+            "activityId": "1299",
+            "name": "Web Content[F1]#1007169480",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1300",
+      "hostId": "284",
+      "power": "10.83333",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "24.951111614109397",
+      "stat2": "1473254.0",
+      "stat3": "1.13115136E8",
+      "timeStamp": "1617191756",
+      "allApps": "5280.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5353",
+            "activityId": "1300",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "3740.0"
+          },
+          {
+            "appId": "5354",
+            "activityId": "1300",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "1230.0"
+          },
+          {
+            "appId": "5355",
+            "activityId": "1300",
+            "name": "java#1988125398",
+            "cpu": "150.0"
+          },
+          {
+            "appId": "5356",
+            "activityId": "1300",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "20.0"
+          },
+          {
+            "appId": "5357",
+            "activityId": "1300",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "20.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1301",
+      "hostId": "284",
+      "power": "3.4536840000000004",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "3.3771811194803516",
+      "stat2": "185839.0",
+      "stat3": "5144576.0",
+      "timeStamp": "1617191817",
+      "allApps": "5300.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5358",
+            "activityId": "1301",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "3670.0"
+          },
+          {
+            "appId": "5359",
+            "activityId": "1301",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "1380.0"
+          },
+          {
+            "appId": "5360",
+            "activityId": "1301",
+            "name": "java#1988125398",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "5361",
+            "activityId": "1301",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1302",
+      "hostId": "284",
+      "power": "6.185183000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "19.58167449198451",
+      "stat2": "5996435.0",
+      "stat3": "1.4266368E7",
+      "timeStamp": "1617191877",
+      "allApps": "19080.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5362",
+            "activityId": "1302",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "12080.0"
+          },
+          {
+            "appId": "5363",
+            "activityId": "1302",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "6160.0"
+          },
+          {
+            "appId": "5364",
+            "activityId": "1302",
+            "name": "xfwm4#113978992",
+            "cpu": "150.0"
+          },
+          {
+            "appId": "5365",
+            "activityId": "1302",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "140.0"
+          },
+          {
+            "appId": "5366",
+            "activityId": "1302",
+            "name": "Web Content[F1]#859294689",
+            "cpu": "130.0"
+          },
+          {
+            "appId": "5367",
+            "activityId": "1302",
+            "name": "Web Content[F1]#1007169480",
+            "cpu": "90.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1303",
+      "hostId": "284",
+      "power": "8.395074444444447",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "8.317273995452538",
+      "stat2": "971760.0",
+      "stat3": "1.6887808E7",
+      "timeStamp": "1617191937",
+      "allApps": "11600.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5368",
+            "activityId": "1303",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "8640.0"
+          },
+          {
+            "appId": "5369",
+            "activityId": "1303",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "2590.0"
+          },
+          {
+            "appId": "5370",
+            "activityId": "1303",
+            "name": "java#1988125398",
+            "cpu": "130.0"
+          },
+          {
+            "appId": "5371",
+            "activityId": "1303",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "40.0"
+          },
+          {
+            "appId": "5372",
+            "activityId": "1303",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1304",
+      "hostId": "284",
+      "power": "4.1296170000000005",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "6.217911758655762",
+      "stat2": "1548322.0",
+      "stat3": "7421952.0",
+      "timeStamp": "1617191997",
+      "allApps": "10190.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5373",
+            "activityId": "1304",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "6850.0"
+          },
+          {
+            "appId": "5374",
+            "activityId": "1304",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "2940.0"
+          },
+          {
+            "appId": "5375",
+            "activityId": "1304",
+            "name": "java#1988125398",
+            "cpu": "160.0"
+          },
+          {
+            "appId": "5376",
+            "activityId": "1304",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "20.0"
+          },
+          {
+            "appId": "5377",
+            "activityId": "1304",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1305",
+      "hostId": "284",
+      "power": "6.342600000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "12.398503956421195",
+      "stat2": "6694766.0",
+      "stat3": "1.384448E7",
+      "timeStamp": "1617192057",
+      "allApps": "13450.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5378",
+            "activityId": "1305",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "8510.0"
+          },
+          {
+            "appId": "5379",
+            "activityId": "1305",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "4520.0"
+          },
+          {
+            "appId": "5380",
+            "activityId": "1305",
+            "name": "java#1988125398",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "5381",
+            "activityId": "1305",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "20.0"
+          },
+          {
+            "appId": "5382",
+            "activityId": "1305",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "20.0"
+          },
+          {
+            "appId": "5383",
+            "activityId": "1305",
+            "name": "Web Content[F1]#859294689",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1306",
+      "hostId": "284",
+      "power": "5.648135000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "8.496445995156654",
+      "stat2": "369422.0",
+      "stat3": "1.2017664E7",
+      "timeStamp": "1617192117",
+      "allApps": "6340.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5384",
+            "activityId": "1306",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "4450.0"
+          },
+          {
+            "appId": "5385",
+            "activityId": "1306",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "1660.0"
+          },
+          {
+            "appId": "5386",
+            "activityId": "1306",
+            "name": "java#1988125398",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "5387",
+            "activityId": "1306",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1307",
+      "hostId": "284",
+      "power": "5.7222170000000006",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "6.462355782537854",
+      "stat2": "2700029.0",
+      "stat3": "1.2808192E7",
+      "timeStamp": "1617192177",
+      "allApps": "10850.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5388",
+            "activityId": "1307",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "6710.0"
+          },
+          {
+            "appId": "5389",
+            "activityId": "1307",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "3240.0"
+          },
+          {
+            "appId": "5390",
+            "activityId": "1307",
+            "name": "pulseaudio#01867205593",
+            "cpu": "230.0"
+          },
+          {
+            "appId": "5391",
+            "activityId": "1307",
+            "name": "Web Content[F1]#859294689",
+            "cpu": "140.0"
+          },
+          {
+            "appId": "5392",
+            "activityId": "1307",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "120.0"
+          },
+          {
+            "appId": "5393",
+            "activityId": "1307",
+            "name": "Web Content[F1]#0323722846",
+            "cpu": "100.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1308",
+      "hostId": "284",
+      "power": "2.2592670000000012",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "4.4519060351481405",
+      "stat2": "59510.0",
+      "stat3": "1122304.0",
+      "timeStamp": "1617192237",
+      "allApps": "6970.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "5394",
+            "activityId": "1308",
+            "name": "Web Content[F1]#0798002925",
+            "cpu": "4760.0"
+          },
+          {
+            "appId": "5395",
+            "activityId": "1308",
+            "name": "firefox[F1]#01141598193",
+            "cpu": "1700.0"
+          },
+          {
+            "appId": "5396",
+            "activityId": "1308",
+            "name": "java#1988125398",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "5397",
+            "activityId": "1308",
+            "name": "WebExtensions[F1]#1591998508",
+            "cpu": "30.0"
+          },
+          {
+            "appId": "5398",
+            "activityId": "1308",
+            "name": "Privileged Cont[F1]#09600015",
+            "cpu": "30.0"
+          }
+        ]
+      }
+    }
+  ]
+}

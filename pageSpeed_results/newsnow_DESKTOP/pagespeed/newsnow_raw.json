@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "newsnow",
+      "url": "http://newsnow.co.uk",
+      "originalURL": "newsnow.co.uk"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1161,
+    "speedIndex": 3147.316393332864,
+    "largestContentfulPaint": 4915,
+    "timeToInteractive": 4585,
+    "totalBlockingTime": 107.5,
+    "cumulativeLayoutShift": 0.26245336193561564
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "newsnow",
+      "url": "http://newsnow.co.uk",
+      "originalURL": "newsnow.co.uk"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 2349.326276240631,
+    "largestContentfulPaint": 3893,
+    "timeToInteractive": 4693.5,
+    "totalBlockingTime": 311.5,
+    "cumulativeLayoutShift": 0.3267857729912733
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "newsnow",
+      "url": "http://newsnow.co.uk",
+      "originalURL": "newsnow.co.uk"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1297.5,
+    "speedIndex": 5586.559549378455,
+    "largestContentfulPaint": 2923.5,
+    "timeToInteractive": 11356,
+    "totalBlockingTime": 4461,
+    "cumulativeLayoutShift": 0.2013385792254035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "newsnow",
+      "url": "http://newsnow.co.uk",
+      "originalURL": "newsnow.co.uk"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1107,
+    "speedIndex": 2428.544030004469,
+    "largestContentfulPaint": 1857,
+    "timeToInteractive": 5029,
+    "totalBlockingTime": 198,
+    "cumulativeLayoutShift": 0.2718953740186207
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "newsnow",
+      "url": "http://newsnow.co.uk",
+      "originalURL": "newsnow.co.uk"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1174.5,
+    "speedIndex": 2874.521387280146,
+    "largestContentfulPaint": 3868.5,
+    "timeToInteractive": 4857,
+    "totalBlockingTime": 162,
+    "cumulativeLayoutShift": 0.27174179493914724
+  }
+]

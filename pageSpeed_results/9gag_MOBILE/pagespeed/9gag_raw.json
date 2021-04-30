@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9gag",
+      "url": "http://9gag.com",
+      "originalURL": "9gag.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": null,
+    "seo": 0.91,
+    "accessibility": 0.56,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 12578.070829337332,
+    "largestContentfulPaint": 4890,
+    "timeToInteractive": 31660.5,
+    "totalBlockingTime": 3378.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9gag",
+      "url": "http://9gag.com",
+      "originalURL": "9gag.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": null,
+    "seo": 0.91,
+    "accessibility": 0.56,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1991,
+    "speedIndex": 12018.645169978248,
+    "largestContentfulPaint": 5096.5,
+    "timeToInteractive": 33022.5,
+    "totalBlockingTime": 5069,
+    "cumulativeLayoutShift": 9.629991319444443e-7
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9gag",
+      "url": "http://9gag.com",
+      "originalURL": "9gag.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": null,
+    "seo": 0.91,
+    "accessibility": 0.54,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 11717.706863438896,
+    "largestContentfulPaint": 4680,
+    "timeToInteractive": 25585,
+    "totalBlockingTime": 3159,
+    "cumulativeLayoutShift": 9.629991319444443e-7
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9gag",
+      "url": "http://9gag.com",
+      "originalURL": "9gag.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": null,
+    "seo": 0.91,
+    "accessibility": 0.53,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 10416.595865059577,
+    "largestContentfulPaint": 5265,
+    "timeToInteractive": 29239.5,
+    "totalBlockingTime": 4611.5,
+    "cumulativeLayoutShift": 9.629991319444443e-7
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9gag",
+      "url": "http://9gag.com",
+      "originalURL": "9gag.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": null,
+    "seo": 0.91,
+    "accessibility": 0.56,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 11914.685302498023,
+    "largestContentfulPaint": 5130,
+    "timeToInteractive": 32575,
+    "totalBlockingTime": 3714,
+    "cumulativeLayoutShift": 4.814995659722222e-7
+  }
+]

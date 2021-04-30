@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamingbible",
+      "url": "http://gamingbible.co.uk",
+      "originalURL": "gamingbible.co.uk"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3115,
+    "speedIndex": 4171.046691265473,
+    "largestContentfulPaint": 5545,
+    "timeToInteractive": 6216,
+    "totalBlockingTime": 278.5,
+    "cumulativeLayoutShift": 0.004615356507019233
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamingbible",
+      "url": "http://gamingbible.co.uk",
+      "originalURL": "gamingbible.co.uk"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3070,
+    "speedIndex": 4110.755290059382,
+    "largestContentfulPaint": 5065,
+    "timeToInteractive": 6196,
+    "totalBlockingTime": 222,
+    "cumulativeLayoutShift": 0.004436559554037883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamingbible",
+      "url": "http://gamingbible.co.uk",
+      "originalURL": "gamingbible.co.uk"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3115,
+    "speedIndex": 3639.79631160743,
+    "largestContentfulPaint": 5115,
+    "timeToInteractive": 6426,
+    "totalBlockingTime": 291.5,
+    "cumulativeLayoutShift": 0.004615356507019233
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamingbible",
+      "url": "http://gamingbible.co.uk",
+      "originalURL": "gamingbible.co.uk"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2765,
+    "speedIndex": 3135.0854552421415,
+    "largestContentfulPaint": 5380,
+    "timeToInteractive": 6506,
+    "totalBlockingTime": 188.5,
+    "cumulativeLayoutShift": 0.004436559554037883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamingbible",
+      "url": "http://gamingbible.co.uk",
+      "originalURL": "gamingbible.co.uk"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3010,
+    "speedIndex": 3349.3625289394254,
+    "largestContentfulPaint": 5186,
+    "timeToInteractive": 6323,
+    "totalBlockingTime": 273,
+    "cumulativeLayoutShift": 0.004436559554037883
+  }
+]

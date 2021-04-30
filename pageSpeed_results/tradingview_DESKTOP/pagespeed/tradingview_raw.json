@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tradingview",
+      "url": "http://tradingview.com",
+      "originalURL": "tradingview.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 2410.44117920605,
+    "largestContentfulPaint": 5865,
+    "timeToInteractive": 3614,
+    "totalBlockingTime": 288.5,
+    "cumulativeLayoutShift": 0.0000011393043191407275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tradingview",
+      "url": "http://tradingview.com",
+      "originalURL": "tradingview.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1880.2823405046506,
+    "largestContentfulPaint": 5480,
+    "timeToInteractive": 3628,
+    "totalBlockingTime": 265.5,
+    "cumulativeLayoutShift": 0.0000011393043191407275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tradingview",
+      "url": "http://tradingview.com",
+      "originalURL": "tradingview.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1945.9156919498228,
+    "largestContentfulPaint": 5885,
+    "timeToInteractive": 3642,
+    "totalBlockingTime": 354.5,
+    "cumulativeLayoutShift": 0.0000011393043191407275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tradingview",
+      "url": "http://tradingview.com",
+      "originalURL": "tradingview.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1776.2454732663527,
+    "largestContentfulPaint": 5460,
+    "timeToInteractive": 3601,
+    "totalBlockingTime": 256,
+    "cumulativeLayoutShift": 0.0000011393043191407275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tradingview",
+      "url": "http://tradingview.com",
+      "originalURL": "tradingview.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.37,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 2102.0572894593815,
+    "largestContentfulPaint": 5885,
+    "timeToInteractive": 3671,
+    "totalBlockingTime": 353,
+    "cumulativeLayoutShift": 0.0000011393043191407275
+  }
+]

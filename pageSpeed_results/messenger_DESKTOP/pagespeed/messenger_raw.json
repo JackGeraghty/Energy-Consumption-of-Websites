@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "messenger",
+      "url": "http://messenger.com",
+      "originalURL": "messenger.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.18,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1154,
+    "speedIndex": 1352.3465211647622,
+    "largestContentfulPaint": 1200,
+    "timeToInteractive": 1154,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "messenger",
+      "url": "http://messenger.com",
+      "originalURL": "messenger.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.18,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1158,
+    "speedIndex": 1158,
+    "largestContentfulPaint": 1280,
+    "timeToInteractive": 1158,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "messenger",
+      "url": "http://messenger.com",
+      "originalURL": "messenger.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.18,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1154,
+    "speedIndex": 1154,
+    "largestContentfulPaint": 1280,
+    "timeToInteractive": 1154,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "messenger",
+      "url": "http://messenger.com",
+      "originalURL": "messenger.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.18,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1153,
+    "speedIndex": 1153,
+    "largestContentfulPaint": 1280,
+    "timeToInteractive": 1153,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "messenger",
+      "url": "http://messenger.com",
+      "originalURL": "messenger.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.18,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1161,
+    "speedIndex": 1161,
+    "largestContentfulPaint": 1281,
+    "timeToInteractive": 1161,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

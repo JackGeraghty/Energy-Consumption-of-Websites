@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 99433,
+    "decodedBodySize": 99433,
+    "transferSize": 102602,
+    "resourcesList": [
+      [
+        "https://bitbuzz.net/",
+        2510,
+        1719,
+        1719,
+        0.028779
+      ],
+      [
+        "https://bitbuzz.net/cp/css/style.css?211114",
+        32851,
+        32059,
+        32059,
+        0.028779
+      ],
+      [
+        "https://bitbuzz.net/cp/images/bitbuzzvm1.png",
+        8071,
+        7279,
+        7279,
+        0.028779
+      ],
+      [
+        "https://bitbuzz.net/cp/images/portal/BBBOGUSX/logo@2x.jpg",
+        59170,
+        58376,
+        58376,
+        0.028779
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 99433,
+    "decodedBodySize": 99433,
+    "transferSize": 102602,
+    "resourcesList": [
+      [
+        "https://bitbuzz.net/",
+        2510,
+        1719,
+        1719,
+        0.028344
+      ],
+      [
+        "https://bitbuzz.net/cp/css/style.css?211114",
+        32851,
+        32059,
+        32059,
+        0.028344
+      ],
+      [
+        "https://bitbuzz.net/cp/images/bitbuzzvm1.png",
+        8071,
+        7279,
+        7279,
+        0.028344
+      ],
+      [
+        "https://bitbuzz.net/cp/images/portal/BBBOGUSX/logo@2x.jpg",
+        59170,
+        58376,
+        58376,
+        0.028344
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 99433,
+    "decodedBodySize": 99433,
+    "transferSize": 102602,
+    "resourcesList": [
+      [
+        "https://bitbuzz.net/",
+        2510,
+        1719,
+        1719,
+        0.027419
+      ],
+      [
+        "https://bitbuzz.net/cp/css/style.css?211114",
+        32851,
+        32059,
+        32059,
+        0.027419
+      ],
+      [
+        "https://bitbuzz.net/cp/images/bitbuzzvm1.png",
+        8071,
+        7279,
+        7279,
+        0.027419
+      ],
+      [
+        "https://bitbuzz.net/cp/images/portal/BBBOGUSX/logo@2x.jpg",
+        59170,
+        58376,
+        58376,
+        0.027419
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 99433,
+    "decodedBodySize": 99433,
+    "transferSize": 102602,
+    "resourcesList": [
+      [
+        "https://bitbuzz.net/",
+        2510,
+        1719,
+        1719,
+        0.02902
+      ],
+      [
+        "https://bitbuzz.net/cp/css/style.css?211114",
+        32851,
+        32059,
+        32059,
+        0.02902
+      ],
+      [
+        "https://bitbuzz.net/cp/images/bitbuzzvm1.png",
+        8071,
+        7279,
+        7279,
+        0.02902
+      ],
+      [
+        "https://bitbuzz.net/cp/images/portal/BBBOGUSX/logo@2x.jpg",
+        59170,
+        58376,
+        58376,
+        0.02902
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 99433,
+    "decodedBodySize": 99433,
+    "transferSize": 102602,
+    "resourcesList": [
+      [
+        "https://bitbuzz.net/",
+        2510,
+        1719,
+        1719,
+        0.029713
+      ],
+      [
+        "https://bitbuzz.net/cp/css/style.css?211114",
+        32851,
+        32059,
+        32059,
+        0.029713
+      ],
+      [
+        "https://bitbuzz.net/cp/images/bitbuzzvm1.png",
+        8071,
+        7279,
+        7279,
+        0.029713
+      ],
+      [
+        "https://bitbuzz.net/cp/images/portal/BBBOGUSX/logo@2x.jpg",
+        59170,
+        58376,
+        58376,
+        0.029713
+      ]
+    ]
+  }
+]

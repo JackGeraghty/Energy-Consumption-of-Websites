@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "citizensinformation",
+      "url": "http://citizensinformation.ie",
+      "originalURL": "citizensinformation.ie"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.48,
+    "seo": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 811,
+    "speedIndex": 944.0779816932809,
+    "largestContentfulPaint": 2330,
+    "timeToInteractive": 1567,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.027732181069958846
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "citizensinformation",
+      "url": "http://citizensinformation.ie",
+      "originalURL": "citizensinformation.ie"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.48,
+    "seo": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 819,
+    "speedIndex": 874.3600941679574,
+    "largestContentfulPaint": 2330,
+    "timeToInteractive": 1414.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.028194737763768494
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "citizensinformation",
+      "url": "http://citizensinformation.ie",
+      "originalURL": "citizensinformation.ie"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.48,
+    "seo": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 812,
+    "speedIndex": 812,
+    "largestContentfulPaint": 2330,
+    "timeToInteractive": 1484.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.028194737763768494
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "citizensinformation",
+      "url": "http://citizensinformation.ie",
+      "originalURL": "citizensinformation.ie"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.48,
+    "seo": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1020,
+    "speedIndex": 1020,
+    "largestContentfulPaint": 2330,
+    "timeToInteractive": 1486,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.027732181069958846
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "citizensinformation",
+      "url": "http://citizensinformation.ie",
+      "originalURL": "citizensinformation.ie"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.48,
+    "seo": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1020,
+    "speedIndex": 1020,
+    "largestContentfulPaint": 2330,
+    "timeToInteractive": 1413.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.027732181069958846
+  }
+]

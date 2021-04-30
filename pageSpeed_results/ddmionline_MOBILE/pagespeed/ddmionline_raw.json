@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ddmionline",
+      "url": "http://ddmionline.com",
+      "originalURL": "ddmionline.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7098,
+    "speedIndex": 24596.351988151546,
+    "largestContentfulPaint": 25419.5,
+    "timeToInteractive": 36199.5,
+    "totalBlockingTime": 4665.5,
+    "cumulativeLayoutShift": 0.009087456597222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ddmionline",
+      "url": "http://ddmionline.com",
+      "originalURL": "ddmionline.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7088,
+    "speedIndex": 24650.096515011515,
+    "largestContentfulPaint": 25472.5,
+    "timeToInteractive": 35509,
+    "totalBlockingTime": 4130.5,
+    "cumulativeLayoutShift": 0.009087456597222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ddmionline",
+      "url": "http://ddmionline.com",
+      "originalURL": "ddmionline.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 7071,
+    "speedIndex": 27770.656211886577,
+    "largestContentfulPaint": 28541,
+    "timeToInteractive": 35688,
+    "totalBlockingTime": 4985.5,
+    "cumulativeLayoutShift": 0.009087456597222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ddmionline",
+      "url": "http://ddmionline.com",
+      "originalURL": "ddmionline.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 7080,
+    "speedIndex": 23918.86045154326,
+    "largestContentfulPaint": 25710,
+    "timeToInteractive": 35333,
+    "totalBlockingTime": 5015.5,
+    "cumulativeLayoutShift": 0.009087456597222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ddmionline",
+      "url": "http://ddmionline.com",
+      "originalURL": "ddmionline.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7076,
+    "speedIndex": 26516.982959614576,
+    "largestContentfulPaint": 28515,
+    "timeToInteractive": 35169.5,
+    "totalBlockingTime": 4439.5,
+    "cumulativeLayoutShift": 0.009087456597222222
+  }
+]

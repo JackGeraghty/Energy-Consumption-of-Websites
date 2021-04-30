@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gcd",
+      "url": "http://gcd.ie",
+      "originalURL": "gcd.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3945.5,
+    "speedIndex": 6160.517021357888,
+    "largestContentfulPaint": 8595,
+    "timeToInteractive": 14376,
+    "totalBlockingTime": 1283.5,
+    "cumulativeLayoutShift": 0.272947760687934
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gcd",
+      "url": "http://gcd.ie",
+      "originalURL": "gcd.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 7106.90885937587,
+    "largestContentfulPaint": 8520,
+    "timeToInteractive": 14194.5,
+    "totalBlockingTime": 1477.5,
+    "cumulativeLayoutShift": 0.3505160386827257
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gcd",
+      "url": "http://gcd.ie",
+      "originalURL": "gcd.ie"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 5843.397901413126,
+    "largestContentfulPaint": 11340,
+    "timeToInteractive": 14213,
+    "totalBlockingTime": 985.5,
+    "cumulativeLayoutShift": 0.18269230143229168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gcd",
+      "url": "http://gcd.ie",
+      "originalURL": "gcd.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4275,
+    "speedIndex": 7192.3383207612615,
+    "largestContentfulPaint": 11340,
+    "timeToInteractive": 14394,
+    "totalBlockingTime": 1920,
+    "cumulativeLayoutShift": 0.32772084554036457
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gcd",
+      "url": "http://gcd.ie",
+      "originalURL": "gcd.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 6736.992070538175,
+    "largestContentfulPaint": 14065.5,
+    "timeToInteractive": 13984,
+    "totalBlockingTime": 1014,
+    "cumulativeLayoutShift": 0.20569105360243056
+  }
+]

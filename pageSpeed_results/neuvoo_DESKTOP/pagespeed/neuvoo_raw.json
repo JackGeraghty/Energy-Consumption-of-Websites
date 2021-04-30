@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1178,
+    "speedIndex": 1380.315093397513,
+    "largestContentfulPaint": 1301.5,
+    "timeToInteractive": 1178,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.023689017307299418
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1170,
+    "speedIndex": 1316.321372925651,
+    "largestContentfulPaint": 1302,
+    "timeToInteractive": 1212,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.023689017307299418
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1188.5,
+    "speedIndex": 1205.4869889585193,
+    "largestContentfulPaint": 1305,
+    "timeToInteractive": 1188.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.023689017307299418
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1176.5,
+    "speedIndex": 1430.2624886686892,
+    "largestContentfulPaint": 1442,
+    "timeToInteractive": 1213,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.023689017307299418
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "neuvoo",
+      "url": "http://neuvoo.com",
+      "originalURL": "neuvoo.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1170,
+    "speedIndex": 1195.6723539977584,
+    "largestContentfulPaint": 1302,
+    "timeToInteractive": 1212,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.054650859527770476
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnbc",
+      "url": "http://cnbc.com",
+      "originalURL": "cnbc.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 931,
+    "speedIndex": 2354.0089317651355,
+    "largestContentfulPaint": 1620,
+    "timeToInteractive": 6722.5,
+    "totalBlockingTime": 678,
+    "cumulativeLayoutShift": 0.07384533461751742
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnbc",
+      "url": "http://cnbc.com",
+      "originalURL": "cnbc.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1260,
+    "speedIndex": 2368.1852480716784,
+    "largestContentfulPaint": 1965,
+    "timeToInteractive": 6506.5,
+    "totalBlockingTime": 651,
+    "cumulativeLayoutShift": 0.1010996270028894
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnbc",
+      "url": "http://cnbc.com",
+      "originalURL": "cnbc.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1390,
+    "speedIndex": 2408.960548271693,
+    "largestContentfulPaint": 2230,
+    "timeToInteractive": 6812.5,
+    "totalBlockingTime": 635,
+    "cumulativeLayoutShift": 0.06722352949063128
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnbc",
+      "url": "http://cnbc.com",
+      "originalURL": "cnbc.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1011,
+    "speedIndex": 4770.791045513612,
+    "largestContentfulPaint": 1630.5,
+    "timeToInteractive": 6847,
+    "totalBlockingTime": 747.5,
+    "cumulativeLayoutShift": 0.06669580528740915
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnbc",
+      "url": "http://cnbc.com",
+      "originalURL": "cnbc.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1541,
+    "speedIndex": 2563.9324679403658,
+    "largestContentfulPaint": 2270,
+    "timeToInteractive": 5977,
+    "totalBlockingTime": 724.5,
+    "cumulativeLayoutShift": 0.07025145842453959
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gg",
+      "url": "http://gg.deals",
+      "originalURL": "gg.deals"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.63,
+    "seo": 1,
+    "accessibility": 0.66,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 1049.1879866205707,
+    "largestContentfulPaint": 1305,
+    "timeToInteractive": 2116,
+    "totalBlockingTime": 167.5,
+    "cumulativeLayoutShift": 0.00652594693984765
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gg",
+      "url": "http://gg.deals",
+      "originalURL": "gg.deals"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.63,
+    "seo": 1,
+    "accessibility": 0.66,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 1019.6353484698989,
+    "largestContentfulPaint": 1245,
+    "timeToInteractive": 2142,
+    "totalBlockingTime": 194,
+    "cumulativeLayoutShift": 0.006465076613256283
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gg",
+      "url": "http://gg.deals",
+      "originalURL": "gg.deals"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.63,
+    "seo": 1,
+    "accessibility": 0.66,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 871.2366762590624,
+    "largestContentfulPaint": 1305,
+    "timeToInteractive": 2041,
+    "totalBlockingTime": 153.5,
+    "cumulativeLayoutShift": 0.005163422934360681
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gg",
+      "url": "http://gg.deals",
+      "originalURL": "gg.deals"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.63,
+    "seo": 1,
+    "accessibility": 0.66,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 922.5117983730034,
+    "largestContentfulPaint": 1205,
+    "timeToInteractive": 2082.5,
+    "totalBlockingTime": 152.5,
+    "cumulativeLayoutShift": 0.0064638811545982555
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gg",
+      "url": "http://gg.deals",
+      "originalURL": "gg.deals"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.63,
+    "seo": 1,
+    "accessibility": 0.66,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 928.2699930167829,
+    "largestContentfulPaint": 1205,
+    "timeToInteractive": 2004.5,
+    "totalBlockingTime": 145.5,
+    "cumulativeLayoutShift": 0.007858383679187462
+  }
+]

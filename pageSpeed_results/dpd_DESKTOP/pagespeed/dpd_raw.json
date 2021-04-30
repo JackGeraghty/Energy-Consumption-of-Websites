@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.19,
+    "seo": 0.8,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 4089.5,
+    "largestContentfulPaint": 5204,
+    "timeToInteractive": 6247,
+    "totalBlockingTime": 106.5,
+    "cumulativeLayoutShift": 0.026644398914280713
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.19,
+    "seo": 0.8,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 4083,
+    "largestContentfulPaint": 5520,
+    "timeToInteractive": 6333.5,
+    "totalBlockingTime": 66.5,
+    "cumulativeLayoutShift": 0.026644398914280713
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.19,
+    "seo": 0.8,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 4081,
+    "largestContentfulPaint": 5892.5,
+    "timeToInteractive": 6496.5,
+    "totalBlockingTime": 106,
+    "cumulativeLayoutShift": 0.026649694422554944
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.19,
+    "seo": 0.8,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 4089,
+    "largestContentfulPaint": 5357,
+    "timeToInteractive": 6330.5,
+    "totalBlockingTime": 85,
+    "cumulativeLayoutShift": 0.026644398914280713
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.19,
+    "seo": 0.8,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 4088,
+    "largestContentfulPaint": 5463.5,
+    "timeToInteractive": 6319.5,
+    "totalBlockingTime": 98,
+    "cumulativeLayoutShift": 0.026644398914280713
+  }
+]

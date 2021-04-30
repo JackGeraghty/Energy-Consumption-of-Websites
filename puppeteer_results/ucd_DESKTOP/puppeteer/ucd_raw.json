@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ucd",
+      "url": "http://ucd.ie",
+      "originalURL": "ucd.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 765,
+    "decodedBodySize": 765,
+    "transferSize": 944,
+    "resourcesList": [
+      [
+        "http://ucd.ie/",
+        944,
+        765,
+        765,
+        0.038839
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucd",
+      "url": "http://ucd.ie",
+      "originalURL": "ucd.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucd.ie/",
+        920,
+        741,
+        741,
+        0.039563
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucd",
+      "url": "http://ucd.ie",
+      "originalURL": "ucd.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucd.ie/",
+        920,
+        741,
+        741,
+        0.039579
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucd",
+      "url": "http://ucd.ie",
+      "originalURL": "ucd.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucd.ie/",
+        920,
+        741,
+        741,
+        0.039591
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucd",
+      "url": "http://ucd.ie",
+      "originalURL": "ucd.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucd.ie/",
+        920,
+        741,
+        741,
+        0.039477
+      ]
+    ]
+  }
+]

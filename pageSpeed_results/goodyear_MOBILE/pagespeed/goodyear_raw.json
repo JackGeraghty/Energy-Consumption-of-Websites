@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goodyear",
+      "url": "http://goodyear.com",
+      "originalURL": "goodyear.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5548,
+    "speedIndex": 9047.910830278222,
+    "largestContentfulPaint": 11065.5,
+    "timeToInteractive": 18890,
+    "totalBlockingTime": 2603,
+    "cumulativeLayoutShift": 0.08836720784505209
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goodyear",
+      "url": "http://goodyear.com",
+      "originalURL": "goodyear.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5543,
+    "speedIndex": 8956.322074001671,
+    "largestContentfulPaint": 7508,
+    "timeToInteractive": 18449,
+    "totalBlockingTime": 1979.5,
+    "cumulativeLayoutShift": 0.08836720784505209
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goodyear",
+      "url": "http://goodyear.com",
+      "originalURL": "goodyear.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5575.5,
+    "speedIndex": 9939.386197051099,
+    "largestContentfulPaint": 9102,
+    "timeToInteractive": 18454.5,
+    "totalBlockingTime": 2409,
+    "cumulativeLayoutShift": 0.08836720784505209
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goodyear",
+      "url": "http://goodyear.com",
+      "originalURL": "goodyear.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5555,
+    "speedIndex": 9755.550570640942,
+    "largestContentfulPaint": 10552,
+    "timeToInteractive": 18798.5,
+    "totalBlockingTime": 2293.5,
+    "cumulativeLayoutShift": 0.08836720784505209
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goodyear",
+      "url": "http://goodyear.com",
+      "originalURL": "goodyear.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.84,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5561.5,
+    "speedIndex": 8873.291685910744,
+    "largestContentfulPaint": 10950.5,
+    "timeToInteractive": 18786.5,
+    "totalBlockingTime": 2243.5,
+    "cumulativeLayoutShift": 0.08834821912977431
+  }
+]

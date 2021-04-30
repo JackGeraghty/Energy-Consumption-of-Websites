@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rutracker",
+      "url": "http://rutracker.org",
+      "originalURL": "rutracker.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.33,
+    "seo": 0.83,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 682,
+    "speedIndex": 826.7735612095898,
+    "largestContentfulPaint": 846,
+    "timeToInteractive": 682,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.005730375040130753
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rutracker",
+      "url": "http://rutracker.org",
+      "originalURL": "rutracker.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.33,
+    "seo": 0.83,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 683,
+    "speedIndex": 683,
+    "largestContentfulPaint": 771.5,
+    "timeToInteractive": 683,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.005730375040130753
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rutracker",
+      "url": "http://rutracker.org",
+      "originalURL": "rutracker.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.33,
+    "seo": 0.83,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 683,
+    "speedIndex": 910.5500975651628,
+    "largestContentfulPaint": 723,
+    "timeToInteractive": 683,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.005730375040130753
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rutracker",
+      "url": "http://rutracker.org",
+      "originalURL": "rutracker.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.33,
+    "seo": 0.83,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 680,
+    "speedIndex": 680,
+    "largestContentfulPaint": 760,
+    "timeToInteractive": 721,
+    "totalBlockingTime": 0.5,
+    "cumulativeLayoutShift": 0.005730375040130753
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rutracker",
+      "url": "http://rutracker.org",
+      "originalURL": "rutracker.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.33,
+    "seo": 0.83,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 683,
+    "speedIndex": 721.1387020169993,
+    "largestContentfulPaint": 846.5,
+    "timeToInteractive": 730,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0.005730375040130753
+  }
+]

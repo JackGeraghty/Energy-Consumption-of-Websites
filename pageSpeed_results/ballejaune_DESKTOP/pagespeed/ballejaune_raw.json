@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ballejaune",
+      "url": "http://ballejaune.com",
+      "originalURL": "ballejaune.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.52,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1175,
+    "speedIndex": 1179.5336583811381,
+    "largestContentfulPaint": 1500,
+    "timeToInteractive": 1210,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.6172698864664508
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ballejaune",
+      "url": "http://ballejaune.com",
+      "originalURL": "ballejaune.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.52,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 1235,
+    "largestContentfulPaint": 1522,
+    "timeToInteractive": 1280.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.48272974754107933
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ballejaune",
+      "url": "http://ballejaune.com",
+      "originalURL": "ballejaune.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.52,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1210,
+    "speedIndex": 1210,
+    "largestContentfulPaint": 1504,
+    "timeToInteractive": 1230,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.6172698864664508
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ballejaune",
+      "url": "http://ballejaune.com",
+      "originalURL": "ballejaune.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.52,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1220,
+    "speedIndex": 1220,
+    "largestContentfulPaint": 1521.5,
+    "timeToInteractive": 1275.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.4825132854682894
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ballejaune",
+      "url": "http://ballejaune.com",
+      "originalURL": "ballejaune.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.52,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1220,
+    "speedIndex": 1220,
+    "largestContentfulPaint": 1531.5,
+    "timeToInteractive": 1220,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.6172698864664508
+  }
+]

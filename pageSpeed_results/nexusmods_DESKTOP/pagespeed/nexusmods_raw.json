@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nexusmods",
+      "url": "http://nexusmods.com",
+      "originalURL": "nexusmods.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.45,
+    "seo": 0.82,
+    "accessibility": 0.93,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1675,
+    "speedIndex": 3246.9763709411322,
+    "largestContentfulPaint": 3567.5,
+    "timeToInteractive": 8133,
+    "totalBlockingTime": 478.5,
+    "cumulativeLayoutShift": 0.03016195478723404
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nexusmods",
+      "url": "http://nexusmods.com",
+      "originalURL": "nexusmods.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.45,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1710,
+    "speedIndex": 3513.3068756316125,
+    "largestContentfulPaint": 3610.5,
+    "timeToInteractive": 7569,
+    "totalBlockingTime": 361,
+    "cumulativeLayoutShift": 0.11194402724878148
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nexusmods",
+      "url": "http://nexusmods.com",
+      "originalURL": "nexusmods.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.45,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1660.5,
+    "speedIndex": 3494.0379432546806,
+    "largestContentfulPaint": 3632,
+    "timeToInteractive": 8113.5,
+    "totalBlockingTime": 280,
+    "cumulativeLayoutShift": 0.111955698183901
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nexusmods",
+      "url": "http://nexusmods.com",
+      "originalURL": "nexusmods.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.45,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1711.5,
+    "speedIndex": 3883.5604518466125,
+    "largestContentfulPaint": 3627,
+    "timeToInteractive": 7842,
+    "totalBlockingTime": 521,
+    "cumulativeLayoutShift": 0.1393260549850604
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nexusmods",
+      "url": "http://nexusmods.com",
+      "originalURL": "nexusmods.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.45,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1663,
+    "speedIndex": 4428.736514451434,
+    "largestContentfulPaint": 3625.5,
+    "timeToInteractive": 7289,
+    "totalBlockingTime": 265,
+    "cumulativeLayoutShift": 0.1391001395843366
+  }
+]

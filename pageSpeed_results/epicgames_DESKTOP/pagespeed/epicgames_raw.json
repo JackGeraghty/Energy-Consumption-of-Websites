@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "epicgames",
+      "url": "http://epicgames.com",
+      "originalURL": "epicgames.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1250,
+    "speedIndex": 4346.3372681440715,
+    "largestContentfulPaint": 4670,
+    "timeToInteractive": 7232,
+    "totalBlockingTime": 813.5,
+    "cumulativeLayoutShift": 0.0006332694615912209
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "epicgames",
+      "url": "http://epicgames.com",
+      "originalURL": "epicgames.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1250,
+    "speedIndex": 3780.205413731105,
+    "largestContentfulPaint": 7740,
+    "timeToInteractive": 7488,
+    "totalBlockingTime": 880,
+    "cumulativeLayoutShift": 0.0005712641369699092
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "epicgames",
+      "url": "http://epicgames.com",
+      "originalURL": "epicgames.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1250,
+    "speedIndex": 3324.8604857586606,
+    "largestContentfulPaint": 7465.5,
+    "timeToInteractive": 7268.5,
+    "totalBlockingTime": 798.5,
+    "cumulativeLayoutShift": 0.0005712641369699092
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "epicgames",
+      "url": "http://epicgames.com",
+      "originalURL": "epicgames.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1250,
+    "speedIndex": 3154.48903239314,
+    "largestContentfulPaint": 4750,
+    "timeToInteractive": 7462,
+    "totalBlockingTime": 912,
+    "cumulativeLayoutShift": 0.0006332694615912209
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "epicgames",
+      "url": "http://epicgames.com",
+      "originalURL": "epicgames.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1250,
+    "speedIndex": 3809.49174695333,
+    "largestContentfulPaint": 5263,
+    "timeToInteractive": 7322.5,
+    "totalBlockingTime": 810.5,
+    "cumulativeLayoutShift": 0.0005712641369699092
+  }
+]

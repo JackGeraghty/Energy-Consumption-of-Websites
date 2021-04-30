@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2552,
+    "speedIndex": 4424.178827444566,
+    "largestContentfulPaint": 2581,
+    "timeToInteractive": 6132,
+    "totalBlockingTime": 62,
+    "cumulativeLayoutShift": 0.10126953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2505.5,
+    "speedIndex": 4135.816077175567,
+    "largestContentfulPaint": 2571.5,
+    "timeToInteractive": 6941,
+    "totalBlockingTime": 64.5,
+    "cumulativeLayoutShift": 0.10126953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2482,
+    "speedIndex": 4402.305905642439,
+    "largestContentfulPaint": 4387,
+    "timeToInteractive": 6859.5,
+    "totalBlockingTime": 58.5,
+    "cumulativeLayoutShift": 0.0232421875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3175,
+    "speedIndex": 5698.558915195121,
+    "largestContentfulPaint": 5697.5,
+    "timeToInteractive": 7879,
+    "totalBlockingTime": 594.5,
+    "cumulativeLayoutShift": 0.10126953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soap2day",
+      "url": "http://soap2day.to",
+      "originalURL": "soap2day.to"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2479,
+    "speedIndex": 4267.06651803117,
+    "largestContentfulPaint": 2499.5,
+    "timeToInteractive": 6143,
+    "totalBlockingTime": 76,
+    "cumulativeLayoutShift": 0.10126953125
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "urlData": {
+      "webpageName": "myshopify",
+      "url": "http://myshopify.com",
+      "originalURL": "myshopify.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 70424,
+    "decodedBodySize": 157592,
+    "transferSize": 76625,
+    "resourcesList": [
+      [
+        "http://myshopify.com/",
+        4425,
+        2960,
+        8950,
+        0.056024
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/external-assets-c88c32b3eed925f19319534890da0f33c579905096810aeb9da8987c98d51129.css",
+        8699,
+        7504,
+        35286,
+        0.056024
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/vendor/jquery-2.0.3-eb347740d79a81c7fb7aae2df0c0f1a70afdcb5323a6d89dcabb246e2ce6cbcd.js",
+        30963,
+        29755,
+        83151,
+        0.056024
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/shopify-logo-sm-73abd1f0394ca4db421e9f9f2c389cedae9f65758ec264de67cfe2719f0986f3.png",
+        2493,
+        1321,
+        1321,
+        0.056024
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/proximanova-light-webfont-03ffc62310965db7268b79eaa95395c921d486fd912740390b0b0e8efe369464.woff",
+        30045,
+        28884,
+        28884,
+        0.056024
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myshopify",
+      "url": "http://myshopify.com",
+      "originalURL": "myshopify.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 70424,
+    "decodedBodySize": 157592,
+    "transferSize": 76624,
+    "resourcesList": [
+      [
+        "http://myshopify.com/",
+        4424,
+        2960,
+        8950,
+        0.061971
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/external-assets-c88c32b3eed925f19319534890da0f33c579905096810aeb9da8987c98d51129.css",
+        8699,
+        7504,
+        35286,
+        0.061971
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/vendor/jquery-2.0.3-eb347740d79a81c7fb7aae2df0c0f1a70afdcb5323a6d89dcabb246e2ce6cbcd.js",
+        30963,
+        29755,
+        83151,
+        0.061971
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/shopify-logo-sm-73abd1f0394ca4db421e9f9f2c389cedae9f65758ec264de67cfe2719f0986f3.png",
+        2493,
+        1321,
+        1321,
+        0.061971
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/proximanova-light-webfont-03ffc62310965db7268b79eaa95395c921d486fd912740390b0b0e8efe369464.woff",
+        30045,
+        28884,
+        28884,
+        0.061971
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myshopify",
+      "url": "http://myshopify.com",
+      "originalURL": "myshopify.com"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 70426,
+    "decodedBodySize": 157592,
+    "transferSize": 76627,
+    "resourcesList": [
+      [
+        "http://myshopify.com/",
+        4427,
+        2962,
+        8950,
+        0.056007
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/external-assets-c88c32b3eed925f19319534890da0f33c579905096810aeb9da8987c98d51129.css",
+        8699,
+        7504,
+        35286,
+        0.056007
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/vendor/jquery-2.0.3-eb347740d79a81c7fb7aae2df0c0f1a70afdcb5323a6d89dcabb246e2ce6cbcd.js",
+        30963,
+        29755,
+        83151,
+        0.056007
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/shopify-logo-sm-73abd1f0394ca4db421e9f9f2c389cedae9f65758ec264de67cfe2719f0986f3.png",
+        2493,
+        1321,
+        1321,
+        0.056007
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/proximanova-light-webfont-03ffc62310965db7268b79eaa95395c921d486fd912740390b0b0e8efe369464.woff",
+        30045,
+        28884,
+        28884,
+        0.056007
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myshopify",
+      "url": "http://myshopify.com",
+      "originalURL": "myshopify.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 70424,
+    "decodedBodySize": 157592,
+    "transferSize": 76624,
+    "resourcesList": [
+      [
+        "http://myshopify.com/",
+        4424,
+        2960,
+        8950,
+        0.059171
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/external-assets-c88c32b3eed925f19319534890da0f33c579905096810aeb9da8987c98d51129.css",
+        8699,
+        7504,
+        35286,
+        0.059171
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/vendor/jquery-2.0.3-eb347740d79a81c7fb7aae2df0c0f1a70afdcb5323a6d89dcabb246e2ce6cbcd.js",
+        30963,
+        29755,
+        83151,
+        0.059171
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/shopify-logo-sm-73abd1f0394ca4db421e9f9f2c389cedae9f65758ec264de67cfe2719f0986f3.png",
+        2493,
+        1321,
+        1321,
+        0.059171
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/proximanova-light-webfont-03ffc62310965db7268b79eaa95395c921d486fd912740390b0b0e8efe369464.woff",
+        30045,
+        28884,
+        28884,
+        0.059171
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myshopify",
+      "url": "http://myshopify.com",
+      "originalURL": "myshopify.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 70423,
+    "decodedBodySize": 157592,
+    "transferSize": 76624,
+    "resourcesList": [
+      [
+        "http://myshopify.com/",
+        4424,
+        2959,
+        8950,
+        0.060054
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/external-assets-c88c32b3eed925f19319534890da0f33c579905096810aeb9da8987c98d51129.css",
+        8699,
+        7504,
+        35286,
+        0.060054
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/vendor/jquery-2.0.3-eb347740d79a81c7fb7aae2df0c0f1a70afdcb5323a6d89dcabb246e2ce6cbcd.js",
+        30963,
+        29755,
+        83151,
+        0.060054
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/shopify-logo-sm-73abd1f0394ca4db421e9f9f2c389cedae9f65758ec264de67cfe2719f0986f3.png",
+        2493,
+        1321,
+        1321,
+        0.060054
+      ],
+      [
+        "http://cdn.shopify.com/shopifycloud/shopify/assets/proximanova-light-webfont-03ffc62310965db7268b79eaa95395c921d486fd912740390b0b0e8efe369464.woff",
+        30045,
+        28884,
+        28884,
+        0.060054
+      ]
+    ]
+  }
+]

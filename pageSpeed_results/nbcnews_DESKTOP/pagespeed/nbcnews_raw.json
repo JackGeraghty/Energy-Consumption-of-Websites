@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbcnews",
+      "url": "http://nbcnews.com",
+      "originalURL": "nbcnews.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": 0.7,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1710,
+    "speedIndex": 4400.073061253532,
+    "largestContentfulPaint": 4097,
+    "timeToInteractive": 8445,
+    "totalBlockingTime": 941,
+    "cumulativeLayoutShift": 0.09146645855222835
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbcnews",
+      "url": "http://nbcnews.com",
+      "originalURL": "nbcnews.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": 0.7,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1725,
+    "speedIndex": 4087.4431443073345,
+    "largestContentfulPaint": 4193,
+    "timeToInteractive": 8474.5,
+    "totalBlockingTime": 1098,
+    "cumulativeLayoutShift": 0.08986032949172576
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbcnews",
+      "url": "http://nbcnews.com",
+      "originalURL": "nbcnews.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": 0.7,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1725,
+    "speedIndex": 3330.7409164439246,
+    "largestContentfulPaint": 4400.5,
+    "timeToInteractive": 8100,
+    "totalBlockingTime": 939,
+    "cumulativeLayoutShift": 0.04577316374441818
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbcnews",
+      "url": "http://nbcnews.com",
+      "originalURL": "nbcnews.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": 0.7,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1725,
+    "speedIndex": 3415.9597883280007,
+    "largestContentfulPaint": 4300,
+    "timeToInteractive": 8153,
+    "totalBlockingTime": 1538.5,
+    "cumulativeLayoutShift": 0.04737929280492076
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbcnews",
+      "url": "http://nbcnews.com",
+      "originalURL": "nbcnews.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.64,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1700,
+    "speedIndex": 2966.303566044653,
+    "largestContentfulPaint": 4020,
+    "timeToInteractive": 6708,
+    "totalBlockingTime": 905.5,
+    "cumulativeLayoutShift": 0.046156625788022064
+  }
+]

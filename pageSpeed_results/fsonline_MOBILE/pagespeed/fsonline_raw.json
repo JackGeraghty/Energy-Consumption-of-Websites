@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fsonline",
+      "url": "http://fsonline.to",
+      "originalURL": "fsonline.to"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2205,
+    "speedIndex": 3181.574838684427,
+    "largestContentfulPaint": 5289,
+    "timeToInteractive": 5109,
+    "totalBlockingTime": 219,
+    "cumulativeLayoutShift": 0.23698799641927085
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fsonline",
+      "url": "http://fsonline.to",
+      "originalURL": "fsonline.to"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2225.5,
+    "speedIndex": 2928.4586760458483,
+    "largestContentfulPaint": 5314,
+    "timeToInteractive": 5209,
+    "totalBlockingTime": 249,
+    "cumulativeLayoutShift": 0.23698799641927085
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fsonline",
+      "url": "http://fsonline.to",
+      "originalURL": "fsonline.to"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2205,
+    "speedIndex": 3088.0050456742665,
+    "largestContentfulPaint": 5274,
+    "timeToInteractive": 5094,
+    "totalBlockingTime": 217.5,
+    "cumulativeLayoutShift": 0.23698799641927085
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fsonline",
+      "url": "http://fsonline.to",
+      "originalURL": "fsonline.to"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2130,
+    "speedIndex": 2773.876492845136,
+    "largestContentfulPaint": 5492,
+    "timeToInteractive": 5132,
+    "totalBlockingTime": 251,
+    "cumulativeLayoutShift": 0.23698799641927085
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fsonline",
+      "url": "http://fsonline.to",
+      "originalURL": "fsonline.to"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2205,
+    "speedIndex": 2663.751540654799,
+    "largestContentfulPaint": 5301,
+    "timeToInteractive": 5121,
+    "totalBlockingTime": 198.5,
+    "cumulativeLayoutShift": 0.23759941270616322
+  }
+]

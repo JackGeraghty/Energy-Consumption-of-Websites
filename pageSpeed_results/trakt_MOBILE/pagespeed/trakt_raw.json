@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trakt",
+      "url": "http://trakt.tv",
+      "originalURL": "trakt.tv"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.68,
+    "seo": 0.91,
+    "accessibility": 0.59,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 7086,
+    "speedIndex": 7623.212968246495,
+    "largestContentfulPaint": 10304.5,
+    "timeToInteractive": 9939.5,
+    "totalBlockingTime": 998,
+    "cumulativeLayoutShift": 0.011807969835069444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trakt",
+      "url": "http://trakt.tv",
+      "originalURL": "trakt.tv"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.43,
+    "seo": 0.91,
+    "accessibility": 0.59,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7166.5,
+    "speedIndex": 7651.472417933769,
+    "largestContentfulPaint": 10904.5,
+    "timeToInteractive": 10594.5,
+    "totalBlockingTime": 1427.5,
+    "cumulativeLayoutShift": 0.012412360297309027
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trakt",
+      "url": "http://trakt.tv",
+      "originalURL": "trakt.tv"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.43,
+    "seo": 0.91,
+    "accessibility": 0.59,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7056.5,
+    "speedIndex": 7056.5,
+    "largestContentfulPaint": 10755,
+    "timeToInteractive": 10328,
+    "totalBlockingTime": 998,
+    "cumulativeLayoutShift": 0.011977179633246526
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trakt",
+      "url": "http://trakt.tv",
+      "originalURL": "trakt.tv"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.43,
+    "seo": 0.91,
+    "accessibility": 0.59,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7104,
+    "speedIndex": 7465.193571091151,
+    "largestContentfulPaint": 10819.5,
+    "timeToInteractive": 10453.5,
+    "totalBlockingTime": 1201.5,
+    "cumulativeLayoutShift": 0.01253884548611111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trakt",
+      "url": "http://trakt.tv",
+      "originalURL": "trakt.tv"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.43,
+    "seo": 0.91,
+    "accessibility": 0.59,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7547.5,
+    "speedIndex": 7780.9425262166715,
+    "largestContentfulPaint": 11088.5,
+    "timeToInteractive": 10754,
+    "totalBlockingTime": 1682.5,
+    "cumulativeLayoutShift": 0.01210683865017361
+  }
+]

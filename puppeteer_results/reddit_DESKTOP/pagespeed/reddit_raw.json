@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 4908.531124245857,
+    "largestContentfulPaint": 7181,
+    "timeToInteractive": 8812.5,
+    "totalBlockingTime": 1251,
+    "cumulativeLayoutShift": 0.061125561100896
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 5493.624137920773,
+    "largestContentfulPaint": 6022.5,
+    "timeToInteractive": 9108.5,
+    "totalBlockingTime": 1388.5,
+    "cumulativeLayoutShift": 0.061180253334500764
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 5778.520005995031,
+    "largestContentfulPaint": 6317.5,
+    "timeToInteractive": 8293,
+    "totalBlockingTime": 1395,
+    "cumulativeLayoutShift": 0.0835599585558766
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 4492.434237290615,
+    "largestContentfulPaint": 7301.5,
+    "timeToInteractive": 9048.5,
+    "totalBlockingTime": 1321,
+    "cumulativeLayoutShift": 0.058054682310363946
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reddit",
+      "url": "http://reddit.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 5289.85903432285,
+    "largestContentfulPaint": 7640,
+    "timeToInteractive": 9315,
+    "totalBlockingTime": 1516.5,
+    "cumulativeLayoutShift": 0.057999915360593055
+  }
+]

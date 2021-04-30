@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "etbonline",
+      "url": "http://etbonline.ie",
+      "originalURL": "etbonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 492,
+    "resourcesList": [
+      [
+        "http://etbonline.ie/",
+        492,
+        315,
+        315,
+        0.02913
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "etbonline",
+      "url": "http://etbonline.ie",
+      "originalURL": "etbonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 492,
+    "resourcesList": [
+      [
+        "http://etbonline.ie/",
+        492,
+        315,
+        315,
+        0.027769
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "etbonline",
+      "url": "http://etbonline.ie",
+      "originalURL": "etbonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 492,
+    "resourcesList": [
+      [
+        "http://etbonline.ie/",
+        492,
+        315,
+        315,
+        0.028188
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "etbonline",
+      "url": "http://etbonline.ie",
+      "originalURL": "etbonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 492,
+    "resourcesList": [
+      [
+        "http://etbonline.ie/",
+        492,
+        315,
+        315,
+        0.027609
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "etbonline",
+      "url": "http://etbonline.ie",
+      "originalURL": "etbonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 492,
+    "resourcesList": [
+      [
+        "http://etbonline.ie/",
+        492,
+        315,
+        315,
+        0.028362
+      ]
+    ]
+  }
+]

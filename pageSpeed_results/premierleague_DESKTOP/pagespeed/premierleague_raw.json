@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "premierleague",
+      "url": "http://premierleague.com",
+      "originalURL": "premierleague.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.22,
+    "seo": 0.8,
+    "accessibility": 0.72,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1355,
+    "speedIndex": 3029.7074866755447,
+    "largestContentfulPaint": 5970,
+    "timeToInteractive": 7772.5,
+    "totalBlockingTime": 751.5,
+    "cumulativeLayoutShift": 0.17750043487143566
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "premierleague",
+      "url": "http://premierleague.com",
+      "originalURL": "premierleague.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.22,
+    "seo": 0.8,
+    "accessibility": 0.72,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1355,
+    "speedIndex": 2880.1048479806823,
+    "largestContentfulPaint": 5290,
+    "timeToInteractive": 7102,
+    "totalBlockingTime": 615.5,
+    "cumulativeLayoutShift": 0.24906235297551296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "premierleague",
+      "url": "http://premierleague.com",
+      "originalURL": "premierleague.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.22,
+    "seo": 0.8,
+    "accessibility": 0.72,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1355,
+    "speedIndex": 2573.7964771818474,
+    "largestContentfulPaint": 5370,
+    "timeToInteractive": 6797,
+    "totalBlockingTime": 458,
+    "cumulativeLayoutShift": 0.17750043487143566
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "premierleague",
+      "url": "http://premierleague.com",
+      "originalURL": "premierleague.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.22,
+    "seo": 0.8,
+    "accessibility": 0.72,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1355,
+    "speedIndex": 3029.595567727037,
+    "largestContentfulPaint": 5590,
+    "timeToInteractive": 7017.5,
+    "totalBlockingTime": 332,
+    "cumulativeLayoutShift": 0.24860267343781925
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "premierleague",
+      "url": "http://premierleague.com",
+      "originalURL": "premierleague.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.22,
+    "seo": 0.8,
+    "accessibility": 0.72,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1355,
+    "speedIndex": 2714.5469465355864,
+    "largestContentfulPaint": 5715,
+    "timeToInteractive": 7541,
+    "totalBlockingTime": 816.5,
+    "cumulativeLayoutShift": 0.17717209234451156
+  }
+]

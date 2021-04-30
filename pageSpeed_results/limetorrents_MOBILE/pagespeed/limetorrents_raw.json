@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "limetorrents",
+      "url": "http://limetorrents.info",
+      "originalURL": "limetorrents.info"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.46,
+    "seo": 0.95,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1971,
+    "speedIndex": 2859.2625127125607,
+    "largestContentfulPaint": 3319.5,
+    "timeToInteractive": 4639.5,
+    "totalBlockingTime": 351,
+    "cumulativeLayoutShift": 1.0683602973090278
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "limetorrents",
+      "url": "http://limetorrents.info",
+      "originalURL": "limetorrents.info"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.46,
+    "seo": 0.95,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 2817.8941827041117,
+    "largestContentfulPaint": 3318,
+    "timeToInteractive": 4448,
+    "totalBlockingTime": 178,
+    "cumulativeLayoutShift": 0.9775618082682292
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "limetorrents",
+      "url": "http://limetorrents.info",
+      "originalURL": "limetorrents.info"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.46,
+    "seo": 0.95,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1946,
+    "speedIndex": 2138.323557601424,
+    "largestContentfulPaint": 4185,
+    "timeToInteractive": 4537.5,
+    "totalBlockingTime": 267.5,
+    "cumulativeLayoutShift": 1.0448748914930557
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "limetorrents",
+      "url": "http://limetorrents.info",
+      "originalURL": "limetorrents.info"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.46,
+    "seo": 0.95,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1939,
+    "speedIndex": 1939,
+    "largestContentfulPaint": 3875.5,
+    "timeToInteractive": 4559.5,
+    "totalBlockingTime": 289.5,
+    "cumulativeLayoutShift": 1.0198007269965277
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "limetorrents",
+      "url": "http://limetorrents.info",
+      "originalURL": "limetorrents.info"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.46,
+    "seo": 0.95,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 1935,
+    "largestContentfulPaint": 3502,
+    "timeToInteractive": 4534.5,
+    "totalBlockingTime": 264.5,
+    "cumulativeLayoutShift": 1.076144558376736
+  }
+]

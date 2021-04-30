@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "folensonline",
+      "url": "http://folensonline.ie",
+      "originalURL": "folensonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://folensonline.ie/",
+        1113,
+        934,
+        934,
+        0.040378
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "folensonline",
+      "url": "http://folensonline.ie",
+      "originalURL": "folensonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://folensonline.ie/",
+        1113,
+        934,
+        934,
+        0.040112
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "folensonline",
+      "url": "http://folensonline.ie",
+      "originalURL": "folensonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://folensonline.ie/",
+        1113,
+        934,
+        934,
+        0.049058
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "folensonline",
+      "url": "http://folensonline.ie",
+      "originalURL": "folensonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://folensonline.ie/",
+        1113,
+        934,
+        934,
+        0.03984
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "folensonline",
+      "url": "http://folensonline.ie",
+      "originalURL": "folensonline.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://folensonline.ie/",
+        1113,
+        934,
+        934,
+        0.040213
+      ]
+    ]
+  }
+]

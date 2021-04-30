@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sseairtricity",
+      "url": "http://sseairtricity.com",
+      "originalURL": "sseairtricity.com"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 5006.429740837571,
+    "largestContentfulPaint": 6120,
+    "timeToInteractive": 9728,
+    "totalBlockingTime": 628.5,
+    "cumulativeLayoutShift": 0.0009108886718750001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sseairtricity",
+      "url": "http://sseairtricity.com",
+      "originalURL": "sseairtricity.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2730,
+    "speedIndex": 5050.3182729425625,
+    "largestContentfulPaint": 4725,
+    "timeToInteractive": 9136,
+    "totalBlockingTime": 589,
+    "cumulativeLayoutShift": 0.00064093017578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sseairtricity",
+      "url": "http://sseairtricity.com",
+      "originalURL": "sseairtricity.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2730,
+    "speedIndex": 5662.725063194687,
+    "largestContentfulPaint": 6105,
+    "timeToInteractive": 9637,
+    "totalBlockingTime": 559.5,
+    "cumulativeLayoutShift": 0.0009108886718750001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sseairtricity",
+      "url": "http://sseairtricity.com",
+      "originalURL": "sseairtricity.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2730,
+    "speedIndex": 5448.085106605718,
+    "largestContentfulPaint": 8490,
+    "timeToInteractive": 9650,
+    "totalBlockingTime": 578,
+    "cumulativeLayoutShift": 0.0009108886718750001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sseairtricity",
+      "url": "http://sseairtricity.com",
+      "originalURL": "sseairtricity.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2400,
+    "speedIndex": 5759.537578795517,
+    "largestContentfulPaint": 8962,
+    "timeToInteractive": 9764,
+    "totalBlockingTime": 1007.5,
+    "cumulativeLayoutShift": 0.0009108886718750001
+  }
+]

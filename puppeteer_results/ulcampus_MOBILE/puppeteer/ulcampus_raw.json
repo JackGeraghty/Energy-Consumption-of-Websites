@@ -1,0 +1,151 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 164858,
+    "decodedBodySize": 617185,
+    "transferSize": 167067,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=FD944195F2DB771B25531D522C53D9237DBCEEF75FB867CA-93422C904FAEA06F15DE4DBDD49629E89E27063CD306206A42F6E607ACBEE1EF&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=702fac9f-e086-2000-a0c6-8f4a84bc0678&popupui=1",
+        49502,
+        47855,
+        187674,
+        0.094759
+      ],
+      [
+        "https://login.live.com/Me.htm?v=3",
+        0,
+        0,
+        0,
+        0.094759
+      ],
+      [
+        "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_LM9cCcf0SdMOdjrXR1CnzA2.js",
+        117565,
+        117003,
+        429511,
+        0.094759
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 164872,
+    "decodedBodySize": 617179,
+    "transferSize": 167171,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=7462B993FA5C2BBD525F5EE32C7C7A4BFC33D8528C15AD56-6DB6876C06062EC96CB004EADC56F9EA42A5665F56A3A233A651A1D65B95ED97&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=702fac9f-d0f1-2000-a0c6-8a480889c925&popupui=1",
+        49514,
+        47869,
+        187668,
+        0.09508
+      ],
+      [
+        "https://login.live.com/Me.htm?v=3",
+        0,
+        0,
+        0,
+        0.09508
+      ],
+      [
+        "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_LM9cCcf0SdMOdjrXR1CnzA2.js",
+        117657,
+        117003,
+        429511,
+        0.09508
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 164877,
+    "decodedBodySize": 617181,
+    "transferSize": 167177,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=72A659597D62FAFA43CB95358AE269B07F2B06E206C30036-058740C959DC2E4ED9D9B9A7FA3ABA90D340E301B6AD80BF578595BCDFBA66AB&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=712fac9f-3051-2000-a0c6-8c407dd6c9c7&popupui=1",
+        49519,
+        47874,
+        187670,
+        0.093675
+      ],
+      [
+        "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_LM9cCcf0SdMOdjrXR1CnzA2.js",
+        117658,
+        117003,
+        429511,
+        0.093675
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 164876,
+    "decodedBodySize": 617198,
+    "transferSize": 167085,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=5795464EF4DD2B0E5FAA9994C18E29A9326459EB037636B6-A528CC919A7F845B69B62EA9657BFEF48F1B7C04711B1CA2F622B29E6EABCB71&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=712fac9f-7093-2000-a0c6-8b4fda00d526&popupui=1",
+        49520,
+        47873,
+        187687,
+        0.093863
+      ],
+      [
+        "https://aadcdn.msftauth.net/shared/1.0/content/js/ConvergedLogin_PCore_LM9cCcf0SdMOdjrXR1CnzA2.js",
+        117565,
+        117003,
+        429511,
+        0.093863
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 164863,
+    "decodedBodySize": 617152,
+    "transferSize": 167162,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=FF1BEA6FF040AD62285EB8737EDF62BA7295541EB7B1436B-7DCE4EA12D3E4D02DEE5C865C2172A9AE765D1D69F01111B883DC578B6930425&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=712fac9f-00d6-2000-a0c6-89ea72305b02&popupui=1",
+        49505,
+        47860,
+        187641,
+        0.098071
+      ],
+      [
+        "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_LM9cCcf0SdMOdjrXR1CnzA2.js",
+        117657,
+        117003,
+        429511,
+        0.098071
+      ]
+    ]
+  }
+]

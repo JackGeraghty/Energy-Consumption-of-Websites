@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rip",
+      "url": "http://rip.ie",
+      "originalURL": "rip.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.5,
+    "seo": 0.84,
+    "accessibility": 0.68,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5555,
+    "speedIndex": 5555,
+    "largestContentfulPaint": 6375,
+    "timeToInteractive": 8540.5,
+    "totalBlockingTime": 76,
+    "cumulativeLayoutShift": 0.000155517578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rip",
+      "url": "http://rip.ie",
+      "originalURL": "rip.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.5,
+    "seo": 0.84,
+    "accessibility": 0.68,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5545,
+    "speedIndex": 5545,
+    "largestContentfulPaint": 6375,
+    "timeToInteractive": 8522.5,
+    "totalBlockingTime": 50.5,
+    "cumulativeLayoutShift": 0.000155517578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rip",
+      "url": "http://rip.ie",
+      "originalURL": "rip.ie"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.5,
+    "seo": 0.84,
+    "accessibility": 0.68,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5460.5,
+    "speedIndex": 5460.5,
+    "largestContentfulPaint": 6285,
+    "timeToInteractive": 7905.5,
+    "totalBlockingTime": 5.5,
+    "cumulativeLayoutShift": 0.000155517578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rip",
+      "url": "http://rip.ie",
+      "originalURL": "rip.ie"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.5,
+    "seo": 0.84,
+    "accessibility": 0.68,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5466,
+    "speedIndex": 5466,
+    "largestContentfulPaint": 6285,
+    "timeToInteractive": 7909,
+    "totalBlockingTime": 9,
+    "cumulativeLayoutShift": 0.000155517578125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rip",
+      "url": "http://rip.ie",
+      "originalURL": "rip.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.5,
+    "seo": 0.84,
+    "accessibility": 0.68,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5535,
+    "speedIndex": 5535,
+    "largestContentfulPaint": 6375,
+    "timeToInteractive": 8250.5,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0.000155517578125
+  }
+]

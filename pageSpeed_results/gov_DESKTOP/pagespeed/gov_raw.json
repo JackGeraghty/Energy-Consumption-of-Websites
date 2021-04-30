@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gov",
+      "url": "http://www.gov.ie",
+      "originalURL": "www.gov.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 910,
+    "speedIndex": 931.568976296268,
+    "largestContentfulPaint": 1533.5,
+    "timeToInteractive": 910,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.24435110293903045
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gov",
+      "url": "http://www.gov.ie",
+      "originalURL": "www.gov.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 910,
+    "speedIndex": 936.5749694051347,
+    "largestContentfulPaint": 1472.5,
+    "timeToInteractive": 910,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.24317938767766978
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gov",
+      "url": "http://www.gov.ie",
+      "originalURL": "www.gov.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 910,
+    "speedIndex": 910,
+    "largestContentfulPaint": 1473.5,
+    "timeToInteractive": 910,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.24320594693984765
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gov",
+      "url": "http://www.gov.ie",
+      "originalURL": "www.gov.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 910,
+    "speedIndex": 910,
+    "largestContentfulPaint": 1479,
+    "timeToInteractive": 910,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.24231118349239705
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gov",
+      "url": "http://www.gov.ie",
+      "originalURL": "www.gov.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 910,
+    "speedIndex": 910,
+    "largestContentfulPaint": 1536.5,
+    "timeToInteractive": 1026.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.24317938767766978
+  }
+]

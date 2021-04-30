@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "davyselect",
+      "url": "http://davyselect.ie",
+      "originalURL": "davyselect.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6926,
+    "speedIndex": 8369.005424330662,
+    "largestContentfulPaint": 12565,
+    "timeToInteractive": 12798,
+    "totalBlockingTime": 1047,
+    "cumulativeLayoutShift": 0.14541593424479166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "davyselect",
+      "url": "http://davyselect.ie",
+      "originalURL": "davyselect.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6938,
+    "speedIndex": 8571.210766693266,
+    "largestContentfulPaint": 12598.5,
+    "timeToInteractive": 12782.5,
+    "totalBlockingTime": 1143,
+    "cumulativeLayoutShift": 0.14541593424479166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "davyselect",
+      "url": "http://davyselect.ie",
+      "originalURL": "davyselect.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6990,
+    "speedIndex": 8432.38649682267,
+    "largestContentfulPaint": 12422,
+    "timeToInteractive": 12641.5,
+    "totalBlockingTime": 1128,
+    "cumulativeLayoutShift": 0.12951161024305555
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "davyselect",
+      "url": "http://davyselect.ie",
+      "originalURL": "davyselect.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6943,
+    "speedIndex": 8795.657893201587,
+    "largestContentfulPaint": 12473.5,
+    "timeToInteractive": 12688,
+    "totalBlockingTime": 1029.5,
+    "cumulativeLayoutShift": 0.14541593424479166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "davyselect",
+      "url": "http://davyselect.ie",
+      "originalURL": "davyselect.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6903,
+    "speedIndex": 8505.321853143509,
+    "largestContentfulPaint": 12349,
+    "timeToInteractive": 12475,
+    "totalBlockingTime": 837,
+    "cumulativeLayoutShift": 0.10038835313585069
+  }
+]

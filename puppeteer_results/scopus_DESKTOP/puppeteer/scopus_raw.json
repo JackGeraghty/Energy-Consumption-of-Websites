@@ -1,0 +1,151 @@
+[
+  {
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 3113,
+    "decodedBodySize": 9754,
+    "transferSize": 4281,
+    "resourcesList": [
+      [
+        "http://scopus.com/",
+        1940,
+        1268,
+        3134,
+        0.043361
+      ],
+      [
+        "http://scopus.com/cdn-cgi/styles/main.css",
+        2341,
+        1845,
+        6620,
+        0.043361
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 7980,
+    "decodedBodySize": 22918,
+    "transferSize": 9549,
+    "resourcesList": [
+      [
+        "http://scopus.com/",
+        2019,
+        1347,
+        3291,
+        0.04851
+      ],
+      [
+        "http://scopus.com/cdn-cgi/styles/main.css",
+        2341,
+        1845,
+        6620,
+        0.04851
+      ],
+      [
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        5189,
+        4788,
+        13007,
+        0.04851
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 3112,
+    "decodedBodySize": 9754,
+    "transferSize": 4280,
+    "resourcesList": [
+      [
+        "http://scopus.com/",
+        1939,
+        1267,
+        3134,
+        0.044278
+      ],
+      [
+        "http://scopus.com/cdn-cgi/styles/main.css",
+        2341,
+        1845,
+        6620,
+        0.044278
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "numTransferred": 2,
+    "encodedBodySize": 3112,
+    "decodedBodySize": 9754,
+    "transferSize": 4280,
+    "resourcesList": [
+      [
+        "http://scopus.com/",
+        1939,
+        1267,
+        3134,
+        0.044041
+      ],
+      [
+        "http://scopus.com/cdn-cgi/styles/main.css",
+        2341,
+        1845,
+        6620,
+        0.044041
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "scopus",
+      "url": "http://scopus.com",
+      "originalURL": "scopus.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 7979,
+    "decodedBodySize": 22918,
+    "transferSize": 9548,
+    "resourcesList": [
+      [
+        "http://scopus.com/",
+        2018,
+        1346,
+        3291,
+        0.048251
+      ],
+      [
+        "http://scopus.com/cdn-cgi/styles/main.css",
+        2341,
+        1845,
+        6620,
+        0.048251
+      ],
+      [
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        5189,
+        4788,
+        13007,
+        0.048251
+      ]
+    ]
+  }
+]

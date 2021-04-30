@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsmole",
+      "url": "http://sportsmole.co.uk",
+      "originalURL": "sportsmole.co.uk"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.45,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.56,
+    "firstContentfulPaint": 1237,
+    "speedIndex": 3710.487801430436,
+    "largestContentfulPaint": 1900,
+    "timeToInteractive": 7539,
+    "totalBlockingTime": 413.5,
+    "cumulativeLayoutShift": 0.0988623453882924
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsmole",
+      "url": "http://sportsmole.co.uk",
+      "originalURL": "sportsmole.co.uk"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.45,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.56,
+    "firstContentfulPaint": 1266,
+    "speedIndex": 3858.227889310897,
+    "largestContentfulPaint": 2027,
+    "timeToInteractive": 7494.5,
+    "totalBlockingTime": 559,
+    "cumulativeLayoutShift": 0.0988623453882924
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsmole",
+      "url": "http://sportsmole.co.uk",
+      "originalURL": "sportsmole.co.uk"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.45,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.56,
+    "firstContentfulPaint": 1277,
+    "speedIndex": 4070.267959081032,
+    "largestContentfulPaint": 1918,
+    "timeToInteractive": 7272.5,
+    "totalBlockingTime": 530,
+    "cumulativeLayoutShift": 0.0988623453882924
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsmole",
+      "url": "http://sportsmole.co.uk",
+      "originalURL": "sportsmole.co.uk"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.45,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.56,
+    "firstContentfulPaint": 1227,
+    "speedIndex": 3468.330534927998,
+    "largestContentfulPaint": 2015,
+    "timeToInteractive": 7208,
+    "totalBlockingTime": 353,
+    "cumulativeLayoutShift": 0.0988623453882924
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsmole",
+      "url": "http://sportsmole.co.uk",
+      "originalURL": "sportsmole.co.uk"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.45,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.56,
+    "firstContentfulPaint": 1223,
+    "speedIndex": 3382.9055613209493,
+    "largestContentfulPaint": 1925.5,
+    "timeToInteractive": 7328,
+    "totalBlockingTime": 316,
+    "cumulativeLayoutShift": 0.0988623453882924
+  }
+]

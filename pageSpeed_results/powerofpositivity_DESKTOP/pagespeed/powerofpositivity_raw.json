@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powerofpositivity",
+      "url": "http://powerofpositivity.com",
+      "originalURL": "powerofpositivity.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.22,
+    "seo": 0.64,
+    "accessibility": 0.87,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 960,
+    "speedIndex": 2067.9723313696677,
+    "largestContentfulPaint": 2765,
+    "timeToInteractive": 5029.5,
+    "totalBlockingTime": 140,
+    "cumulativeLayoutShift": 0.0013554259697049296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powerofpositivity",
+      "url": "http://powerofpositivity.com",
+      "originalURL": "powerofpositivity.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.22,
+    "seo": 0.64,
+    "accessibility": 0.87,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 960,
+    "speedIndex": 2176.650829876146,
+    "largestContentfulPaint": 2820,
+    "timeToInteractive": 4681.5,
+    "totalBlockingTime": 127,
+    "cumulativeLayoutShift": 0.0013554259697049296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powerofpositivity",
+      "url": "http://powerofpositivity.com",
+      "originalURL": "powerofpositivity.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.22,
+    "seo": 0.64,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 880,
+    "speedIndex": 1690.1667035197404,
+    "largestContentfulPaint": 2850,
+    "timeToInteractive": 4796,
+    "totalBlockingTime": 108,
+    "cumulativeLayoutShift": 0.06283612993608265
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powerofpositivity",
+      "url": "http://powerofpositivity.com",
+      "originalURL": "powerofpositivity.com"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.22,
+    "seo": 0.64,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 960,
+    "speedIndex": 2109.7583848198515,
+    "largestContentfulPaint": 2780,
+    "timeToInteractive": 5235.5,
+    "totalBlockingTime": 161.5,
+    "cumulativeLayoutShift": 0.0013554259697049296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powerofpositivity",
+      "url": "http://powerofpositivity.com",
+      "originalURL": "powerofpositivity.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.22,
+    "seo": 0.64,
+    "accessibility": 0.87,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 878,
+    "speedIndex": 1817.5375869587883,
+    "largestContentfulPaint": 2825,
+    "timeToInteractive": 4388.5,
+    "totalBlockingTime": 108,
+    "cumulativeLayoutShift": 0.06283612993608265
+  }
+]

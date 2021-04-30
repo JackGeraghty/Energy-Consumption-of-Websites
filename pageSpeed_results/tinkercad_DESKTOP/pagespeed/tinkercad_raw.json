@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tinkercad",
+      "url": "http://tinkercad.com",
+      "originalURL": "tinkercad.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2774,
+    "speedIndex": 3606.572244062189,
+    "largestContentfulPaint": 4070,
+    "timeToInteractive": 3975,
+    "totalBlockingTime": 538,
+    "cumulativeLayoutShift": 0.23173838776522782
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tinkercad",
+      "url": "http://tinkercad.com",
+      "originalURL": "tinkercad.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2898,
+    "speedIndex": 3271.225120972936,
+    "largestContentfulPaint": 4150,
+    "timeToInteractive": 4028,
+    "totalBlockingTime": 649.5,
+    "cumulativeLayoutShift": 0.23173838776522782
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tinkercad",
+      "url": "http://tinkercad.com",
+      "originalURL": "tinkercad.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2950,
+    "speedIndex": 3276.0192631298983,
+    "largestContentfulPaint": 4150,
+    "timeToInteractive": 4018,
+    "totalBlockingTime": 682.5,
+    "cumulativeLayoutShift": 0.23173838776522782
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tinkercad",
+      "url": "http://tinkercad.com",
+      "originalURL": "tinkercad.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3175,
+    "speedIndex": 4510.768504777318,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 4070,
+    "totalBlockingTime": 542.5,
+    "cumulativeLayoutShift": 0.23169829553746024
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tinkercad",
+      "url": "http://tinkercad.com",
+      "originalURL": "tinkercad.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 3273.4127426675777,
+    "largestContentfulPaint": 4190,
+    "timeToInteractive": 4112.5,
+    "totalBlockingTime": 723.5,
+    "cumulativeLayoutShift": 0.23173838776522782
+  }
+]

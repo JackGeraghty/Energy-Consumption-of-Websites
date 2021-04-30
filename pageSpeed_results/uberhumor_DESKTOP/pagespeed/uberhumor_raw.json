@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uberhumor",
+      "url": "http://uberhumor.com",
+      "originalURL": "uberhumor.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1071,
+    "speedIndex": 3527.7882923487755,
+    "largestContentfulPaint": 2342,
+    "timeToInteractive": 7141.000147819519,
+    "totalBlockingTime": 152.5,
+    "cumulativeLayoutShift": 0.06654718575796048
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uberhumor",
+      "url": "http://uberhumor.com",
+      "originalURL": "uberhumor.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1061.5,
+    "speedIndex": 3118.2536541152595,
+    "largestContentfulPaint": 2261,
+    "timeToInteractive": 7272.5,
+    "totalBlockingTime": 196,
+    "cumulativeLayoutShift": 0.06654718575796048
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uberhumor",
+      "url": "http://uberhumor.com",
+      "originalURL": "uberhumor.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1072.5,
+    "speedIndex": 3223.3370426287297,
+    "largestContentfulPaint": 2422,
+    "timeToInteractive": 7197,
+    "totalBlockingTime": 171,
+    "cumulativeLayoutShift": 0.06654718575796048
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uberhumor",
+      "url": "http://uberhumor.com",
+      "originalURL": "uberhumor.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1089.5,
+    "speedIndex": 3207.9967883575873,
+    "largestContentfulPaint": 2342,
+    "timeToInteractive": 7217,
+    "totalBlockingTime": 142.5,
+    "cumulativeLayoutShift": 0.06654718575796048
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "uberhumor",
+      "url": "http://uberhumor.com",
+      "originalURL": "uberhumor.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 1069,
+    "speedIndex": 3680.880530403367,
+    "largestContentfulPaint": 2486,
+    "timeToInteractive": 7262,
+    "totalBlockingTime": 107,
+    "cumulativeLayoutShift": 0.06654718575796048
+  }
+]

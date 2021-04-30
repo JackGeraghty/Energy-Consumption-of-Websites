@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paypal",
+      "url": "http://paypal.com",
+      "originalURL": "paypal.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4346.909623719665,
+    "largestContentfulPaint": 4067,
+    "timeToInteractive": 7277,
+    "totalBlockingTime": 621,
+    "cumulativeLayoutShift": 0.030662706163194445
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paypal",
+      "url": "http://paypal.com",
+      "originalURL": "paypal.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4684.426274536502,
+    "largestContentfulPaint": 4066.5,
+    "timeToInteractive": 7172,
+    "totalBlockingTime": 473.5,
+    "cumulativeLayoutShift": 0.030662706163194445
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paypal",
+      "url": "http://paypal.com",
+      "originalURL": "paypal.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4567.509081857669,
+    "largestContentfulPaint": 4252,
+    "timeToInteractive": 7252,
+    "totalBlockingTime": 551.5,
+    "cumulativeLayoutShift": 0.02911376953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paypal",
+      "url": "http://paypal.com",
+      "originalURL": "paypal.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.5,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4684.917553836429,
+    "largestContentfulPaint": 6330,
+    "timeToInteractive": 7819,
+    "totalBlockingTime": 551,
+    "cumulativeLayoutShift": 0.030662706163194445
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paypal",
+      "url": "http://paypal.com",
+      "originalURL": "paypal.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 4361.825625481438,
+    "largestContentfulPaint": 3914,
+    "timeToInteractive": 7102,
+    "totalBlockingTime": 601,
+    "cumulativeLayoutShift": 0.030662706163194445
+  }
+]

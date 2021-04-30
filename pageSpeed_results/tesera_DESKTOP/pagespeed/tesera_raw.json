@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesera",
+      "url": "http://tesera.ru",
+      "originalURL": "tesera.ru"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.52,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1020,
+    "speedIndex": 2256.0288347550168,
+    "largestContentfulPaint": 2740,
+    "timeToInteractive": 1716,
+    "totalBlockingTime": 53,
+    "cumulativeLayoutShift": 0.01615547149986866
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesera",
+      "url": "http://tesera.ru",
+      "originalURL": "tesera.ru"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.52,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1020,
+    "speedIndex": 1161.6455095876777,
+    "largestContentfulPaint": 2805,
+    "timeToInteractive": 1796.5,
+    "totalBlockingTime": 47,
+    "cumulativeLayoutShift": 0.04642593234684645
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesera",
+      "url": "http://tesera.ru",
+      "originalURL": "tesera.ru"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.52,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1040,
+    "speedIndex": 1040,
+    "largestContentfulPaint": 2895,
+    "timeToInteractive": 1638.5,
+    "totalBlockingTime": 35.5,
+    "cumulativeLayoutShift": 0.04645991652803315
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesera",
+      "url": "http://tesera.ru",
+      "originalURL": "tesera.ru"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.52,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1040,
+    "speedIndex": 1338.7714452987298,
+    "largestContentfulPaint": 2955,
+    "timeToInteractive": 2743,
+    "totalBlockingTime": 49.5,
+    "cumulativeLayoutShift": 0.04651679420949712
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesera",
+      "url": "http://tesera.ru",
+      "originalURL": "tesera.ru"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.52,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1020,
+    "speedIndex": 1094.408434722291,
+    "largestContentfulPaint": 2780,
+    "timeToInteractive": 1674.5,
+    "totalBlockingTime": 27,
+    "cumulativeLayoutShift": 0.04913094241601728
+  }
+]

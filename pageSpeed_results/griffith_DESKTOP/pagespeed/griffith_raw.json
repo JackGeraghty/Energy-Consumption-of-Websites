@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "griffith",
+      "url": "http://griffith.ie",
+      "originalURL": "griffith.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 994.5,
+    "speedIndex": 1547.7055456029457,
+    "largestContentfulPaint": 3082.5,
+    "timeToInteractive": 3279,
+    "totalBlockingTime": 116,
+    "cumulativeLayoutShift": 0.027879094650205757
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "griffith",
+      "url": "http://griffith.ie",
+      "originalURL": "griffith.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 975,
+    "speedIndex": 1313.9079763206505,
+    "largestContentfulPaint": 3078.5,
+    "timeToInteractive": 2822,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0.025769044742141665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "griffith",
+      "url": "http://griffith.ie",
+      "originalURL": "griffith.ie"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 975,
+    "speedIndex": 1447.674701123145,
+    "largestContentfulPaint": 3100.5,
+    "timeToInteractive": 3016,
+    "totalBlockingTime": 26.5,
+    "cumulativeLayoutShift": 0.025769044742141665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "griffith",
+      "url": "http://griffith.ie",
+      "originalURL": "griffith.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 975,
+    "speedIndex": 1274.0006504575128,
+    "largestContentfulPaint": 3114.5,
+    "timeToInteractive": 2817,
+    "totalBlockingTime": 32,
+    "cumulativeLayoutShift": 0.025769044742141665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "griffith",
+      "url": "http://griffith.ie",
+      "originalURL": "griffith.ie"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 975,
+    "speedIndex": 1404.519930745802,
+    "largestContentfulPaint": 3216,
+    "timeToInteractive": 2692,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0.03238163208125383
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "justwatch",
+      "url": "http://justwatch.com",
+      "originalURL": "justwatch.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2191.5,
+    "speedIndex": 2191.5,
+    "largestContentfulPaint": 4353,
+    "timeToInteractive": 3190,
+    "totalBlockingTime": 177,
+    "cumulativeLayoutShift": 0.17792397863584625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "justwatch",
+      "url": "http://justwatch.com",
+      "originalURL": "justwatch.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2216,
+    "speedIndex": 2216,
+    "largestContentfulPaint": 4380,
+    "timeToInteractive": 3353.5,
+    "totalBlockingTime": 220,
+    "cumulativeLayoutShift": 0.17792397863584625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "justwatch",
+      "url": "http://justwatch.com",
+      "originalURL": "justwatch.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2182,
+    "speedIndex": 2182,
+    "largestContentfulPaint": 4345.5,
+    "timeToInteractive": 3182.5,
+    "totalBlockingTime": 172,
+    "cumulativeLayoutShift": 0.17792397863584625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "justwatch",
+      "url": "http://justwatch.com",
+      "originalURL": "justwatch.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2168.5,
+    "speedIndex": 2168.5,
+    "largestContentfulPaint": 4302,
+    "timeToInteractive": 3122.5,
+    "totalBlockingTime": 131,
+    "cumulativeLayoutShift": 0.17792397863584625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "justwatch",
+      "url": "http://justwatch.com",
+      "originalURL": "justwatch.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2189.5,
+    "speedIndex": 2189.5,
+    "largestContentfulPaint": 4352,
+    "timeToInteractive": 3084.5,
+    "totalBlockingTime": 178.5,
+    "cumulativeLayoutShift": 0.04148148148148148
+  }
+]

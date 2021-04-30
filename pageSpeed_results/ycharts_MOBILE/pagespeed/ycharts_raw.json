@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ycharts",
+      "url": "http://ycharts.com",
+      "originalURL": "ycharts.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.39,
+    "seo": 0.85,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3615,
+    "speedIndex": 5563.1839984041135,
+    "largestContentfulPaint": 8667,
+    "timeToInteractive": 10138.5,
+    "totalBlockingTime": 167.5,
+    "cumulativeLayoutShift": 0.12158425564236111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ycharts",
+      "url": "http://ycharts.com",
+      "originalURL": "ycharts.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.39,
+    "seo": 0.85,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3615,
+    "speedIndex": 4592.801344597177,
+    "largestContentfulPaint": 7269,
+    "timeToInteractive": 10147,
+    "totalBlockingTime": 168,
+    "cumulativeLayoutShift": 0.12158425564236111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ycharts",
+      "url": "http://ycharts.com",
+      "originalURL": "ycharts.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.39,
+    "seo": 0.85,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3765,
+    "speedIndex": 5225.347896626126,
+    "largestContentfulPaint": 7937,
+    "timeToInteractive": 10069,
+    "totalBlockingTime": 167.5,
+    "cumulativeLayoutShift": 0.12158425564236111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ycharts",
+      "url": "http://ycharts.com",
+      "originalURL": "ycharts.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.39,
+    "seo": 0.85,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3615,
+    "speedIndex": 4613.613277190107,
+    "largestContentfulPaint": 8176,
+    "timeToInteractive": 10726.5,
+    "totalBlockingTime": 2164,
+    "cumulativeLayoutShift": 0.12158425564236111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ycharts",
+      "url": "http://ycharts.com",
+      "originalURL": "ycharts.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.39,
+    "seo": 0.85,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3765,
+    "speedIndex": 5207.784557474101,
+    "largestContentfulPaint": 7913,
+    "timeToInteractive": 10119,
+    "totalBlockingTime": 104,
+    "cumulativeLayoutShift": 0.12158425564236111
+  }
+]

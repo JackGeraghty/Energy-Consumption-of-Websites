@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discord",
+      "url": "http://discord.com",
+      "originalURL": "discord.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2370,
+    "speedIndex": 2370,
+    "largestContentfulPaint": 3405,
+    "timeToInteractive": 19724,
+    "totalBlockingTime": 960,
+    "cumulativeLayoutShift": 0.04580984327528212
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discord",
+      "url": "http://discord.com",
+      "originalURL": "discord.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2775,
+    "speedIndex": 2775,
+    "largestContentfulPaint": 3630,
+    "timeToInteractive": 19979,
+    "totalBlockingTime": 1099,
+    "cumulativeLayoutShift": 0.04586724175347222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discord",
+      "url": "http://discord.com",
+      "originalURL": "discord.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2370,
+    "speedIndex": 2370,
+    "largestContentfulPaint": 3555,
+    "timeToInteractive": 19818.5,
+    "totalBlockingTime": 1189,
+    "cumulativeLayoutShift": 0.04586724175347222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discord",
+      "url": "http://discord.com",
+      "originalURL": "discord.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2535,
+    "speedIndex": 2535,
+    "largestContentfulPaint": 3630,
+    "timeToInteractive": 20113.5,
+    "totalBlockingTime": 1591,
+    "cumulativeLayoutShift": 0.04586724175347222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "discord",
+      "url": "http://discord.com",
+      "originalURL": "discord.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.42,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3015,
+    "speedIndex": 3015,
+    "largestContentfulPaint": 3405,
+    "timeToInteractive": 20119.5,
+    "totalBlockingTime": 1668.5,
+    "cumulativeLayoutShift": 0.04586724175347222
+  }
+]

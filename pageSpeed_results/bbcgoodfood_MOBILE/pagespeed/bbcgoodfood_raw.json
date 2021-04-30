@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbcgoodfood",
+      "url": "http://bbcgoodfood.com",
+      "originalURL": "bbcgoodfood.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 9908.701959601902,
+    "largestContentfulPaint": 31716,
+    "timeToInteractive": 33807,
+    "totalBlockingTime": 1721.5,
+    "cumulativeLayoutShift": 0.11103316921657985
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbcgoodfood",
+      "url": "http://bbcgoodfood.com",
+      "originalURL": "bbcgoodfood.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.95,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 10795.148625242655,
+    "largestContentfulPaint": 34434.5,
+    "timeToInteractive": 34519,
+    "totalBlockingTime": 2556.5,
+    "cumulativeLayoutShift": 0.3613780381944445
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbcgoodfood",
+      "url": "http://bbcgoodfood.com",
+      "originalURL": "bbcgoodfood.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 11259.865631293138,
+    "largestContentfulPaint": 31731,
+    "timeToInteractive": 34587,
+    "totalBlockingTime": 3009.5,
+    "cumulativeLayoutShift": 0.11103316921657985
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbcgoodfood",
+      "url": "http://bbcgoodfood.com",
+      "originalURL": "bbcgoodfood.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 10941.082874887981,
+    "largestContentfulPaint": 32611.5,
+    "timeToInteractive": 34098,
+    "totalBlockingTime": 1961.5,
+    "cumulativeLayoutShift": 0.11103316921657985
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbcgoodfood",
+      "url": "http://bbcgoodfood.com",
+      "originalURL": "bbcgoodfood.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 4789.5,
+    "speedIndex": 12566.986389006921,
+    "largestContentfulPaint": 31909,
+    "timeToInteractive": 34568,
+    "totalBlockingTime": 2860,
+    "cumulativeLayoutShift": 0.11103316921657985
+  }
+]

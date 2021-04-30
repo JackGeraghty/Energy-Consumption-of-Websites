@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yts",
+      "url": "http://yts.mx",
+      "originalURL": "yts.mx"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.6,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 3649.016357885803,
+    "largestContentfulPaint": 4691,
+    "timeToInteractive": 6201,
+    "totalBlockingTime": 377,
+    "cumulativeLayoutShift": 0.0009059244791666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yts",
+      "url": "http://yts.mx",
+      "originalURL": "yts.mx"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.6,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 3792.655191511537,
+    "largestContentfulPaint": 5658,
+    "timeToInteractive": 7086,
+    "totalBlockingTime": 365,
+    "cumulativeLayoutShift": 0.0009059244791666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yts",
+      "url": "http://yts.mx",
+      "originalURL": "yts.mx"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.6,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 3977.2463632746453,
+    "largestContentfulPaint": 4575,
+    "timeToInteractive": 8187.5,
+    "totalBlockingTime": 529.5,
+    "cumulativeLayoutShift": 0.0009059244791666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yts",
+      "url": "http://yts.mx",
+      "originalURL": "yts.mx"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.6,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 3555.5457449419146,
+    "largestContentfulPaint": 4425,
+    "timeToInteractive": 6177,
+    "totalBlockingTime": 363.5,
+    "cumulativeLayoutShift": 0.0009059244791666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yts",
+      "url": "http://yts.mx",
+      "originalURL": "yts.mx"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.6,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 3957.354712057184,
+    "largestContentfulPaint": 4801,
+    "timeToInteractive": 7317,
+    "totalBlockingTime": 581,
+    "cumulativeLayoutShift": 0.0009059244791666665
+  }
+]

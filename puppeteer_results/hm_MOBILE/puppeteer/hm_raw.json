@@ -1,0 +1,312 @@
+[
+  {
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 179139,
+    "decodedBodySize": 320672,
+    "transferSize": 184391,
+    "resourcesList": [
+      [
+        "https://www.hm.com/entrance.ahtml?orguri=%2F",
+        8350,
+        7585,
+        41795,
+        0.204369
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/css/bundle-desktop-083b0.css",
+        4462,
+        3745,
+        11135,
+        0.204369
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/js/bundle-desktop-003f1.js",
+        46714,
+        45950,
+        105666,
+        0.204369
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/sprite-global-3f8c5.png",
+        57391,
+        56620,
+        56620,
+        0.204369
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/subbar-loader-90a87.gif",
+        3906,
+        3208,
+        3208,
+        0.204369
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Regular-75537.ttf",
+        34777,
+        33995,
+        55360,
+        0.204369
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Bold-560f0.ttf",
+        28791,
+        28036,
+        46888,
+        0.204369
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 179141,
+    "decodedBodySize": 320672,
+    "transferSize": 184411,
+    "resourcesList": [
+      [
+        "https://www.hm.com/entrance.ahtml?orguri=%2F",
+        8361,
+        7587,
+        41795,
+        0.163008
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/css/bundle-desktop-083b0.css",
+        4471,
+        3745,
+        11135,
+        0.163008
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/js/bundle-desktop-003f1.js",
+        46750,
+        45950,
+        105666,
+        0.163008
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/sprite-global-3f8c5.png",
+        57400,
+        56620,
+        56620,
+        0.163008
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/subbar-loader-90a87.gif",
+        3906,
+        3208,
+        3208,
+        0.163008
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Regular-75537.ttf",
+        34741,
+        33995,
+        55360,
+        0.163008
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Bold-560f0.ttf",
+        28782,
+        28036,
+        46888,
+        0.163008
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 179141,
+    "decodedBodySize": 320672,
+    "transferSize": 184474,
+    "resourcesList": [
+      [
+        "https://www.hm.com/entrance.ahtml?orguri=%2F",
+        8361,
+        7587,
+        41795,
+        0.136982
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/css/bundle-desktop-083b0.css",
+        4471,
+        3745,
+        11135,
+        0.136982
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/js/bundle-desktop-003f1.js",
+        46768,
+        45950,
+        105666,
+        0.136982
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/sprite-global-3f8c5.png",
+        57409,
+        56620,
+        56620,
+        0.136982
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/subbar-loader-90a87.gif",
+        3906,
+        3208,
+        3208,
+        0.136982
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Regular-75537.ttf",
+        34768,
+        33995,
+        55360,
+        0.136982
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Bold-560f0.ttf",
+        28791,
+        28036,
+        46888,
+        0.136982
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 179134,
+    "decodedBodySize": 320672,
+    "transferSize": 184422,
+    "resourcesList": [
+      [
+        "https://www.hm.com/entrance.ahtml?orguri=%2F",
+        8354,
+        7580,
+        41795,
+        0.145867
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/css/bundle-desktop-083b0.css",
+        4471,
+        3745,
+        11135,
+        0.145867
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/js/bundle-desktop-003f1.js",
+        46777,
+        45950,
+        105666,
+        0.145867
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/sprite-global-3f8c5.png",
+        57391,
+        56620,
+        56620,
+        0.145867
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/subbar-loader-90a87.gif",
+        3906,
+        3208,
+        3208,
+        0.145867
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Regular-75537.ttf",
+        34750,
+        33995,
+        55360,
+        0.145867
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Bold-560f0.ttf",
+        28773,
+        28036,
+        46888,
+        0.145867
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 179142,
+    "decodedBodySize": 320672,
+    "transferSize": 184466,
+    "resourcesList": [
+      [
+        "https://www.hm.com/entrance.ahtml?orguri=%2F",
+        8362,
+        7588,
+        41795,
+        0.147011
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/css/bundle-desktop-083b0.css",
+        4462,
+        3745,
+        11135,
+        0.147011
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/js/bundle-desktop-003f1.js",
+        46768,
+        45950,
+        105666,
+        0.147011
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/sprite-global-3f8c5.png",
+        57382,
+        56620,
+        56620,
+        0.147011
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/img/subbar-loader-90a87.gif",
+        3906,
+        3208,
+        3208,
+        0.147011
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Regular-75537.ttf",
+        34777,
+        33995,
+        55360,
+        0.147011
+      ],
+      [
+        "https://www.hm.com/entrance/assets/bundle/fonts/HMAmpersandW01-Bold-560f0.ttf",
+        28809,
+        28036,
+        46888,
+        0.147011
+      ]
+    ]
+  }
+]

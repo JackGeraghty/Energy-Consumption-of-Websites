@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 258,
+    "decodedBodySize": 328,
+    "transferSize": 1085,
+    "resourcesList": [
+      [
+        "http://enigmatv.com/",
+        1085,
+        258,
+        328,
+        0.014044
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 258,
+    "decodedBodySize": 328,
+    "transferSize": 1089,
+    "resourcesList": [
+      [
+        "http://enigmatv.com/",
+        1089,
+        258,
+        328,
+        0.014488
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 258,
+    "decodedBodySize": 328,
+    "transferSize": 1087,
+    "resourcesList": [
+      [
+        "http://enigmatv.com/",
+        1087,
+        258,
+        328,
+        0.013428
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 258,
+    "decodedBodySize": 328,
+    "transferSize": 1085,
+    "resourcesList": [
+      [
+        "http://enigmatv.com/",
+        1085,
+        258,
+        328,
+        0.016043
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 258,
+    "decodedBodySize": 328,
+    "transferSize": 1085,
+    "resourcesList": [
+      [
+        "http://enigmatv.com/",
+        1085,
+        258,
+        328,
+        0.013629
+      ]
+    ]
+  }
+]

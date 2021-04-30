@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie",
+      "originalURL": "rte.ie"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1300,
+    "speedIndex": 3112.88212569692,
+    "largestContentfulPaint": 1830,
+    "timeToInteractive": 3846,
+    "totalBlockingTime": 217.5,
+    "cumulativeLayoutShift": 0.00037024603800017513
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie",
+      "originalURL": "rte.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1270.5,
+    "speedIndex": 2517.5680000774128,
+    "largestContentfulPaint": 3839,
+    "timeToInteractive": 4776,
+    "totalBlockingTime": 158.5,
+    "cumulativeLayoutShift": 0.04589811750284564
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie",
+      "originalURL": "rte.ie"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1269,
+    "speedIndex": 2359.0008396509056,
+    "largestContentfulPaint": 3040,
+    "timeToInteractive": 4653,
+    "totalBlockingTime": 74,
+    "cumulativeLayoutShift": 0.005941078714648454
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie",
+      "originalURL": "rte.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1265,
+    "speedIndex": 2593.8972821260445,
+    "largestContentfulPaint": 3040,
+    "timeToInteractive": 4785,
+    "totalBlockingTime": 153,
+    "cumulativeLayoutShift": 0.002901255581822958
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie",
+      "originalURL": "rte.ie"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1332.5,
+    "speedIndex": 2482.242430932426,
+    "largestContentfulPaint": 3030,
+    "timeToInteractive": 4823,
+    "totalBlockingTime": 176,
+    "cumulativeLayoutShift": 0.006500378250591017
+  }
+]

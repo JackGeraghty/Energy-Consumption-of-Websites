@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chaturbate",
+      "url": "http://chaturbate.com",
+      "originalURL": "chaturbate.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.74,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6748.7183196291535,
+    "largestContentfulPaint": 11046,
+    "timeToInteractive": 11449,
+    "totalBlockingTime": 1051.5,
+    "cumulativeLayoutShift": 0.004103407118055556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chaturbate",
+      "url": "http://chaturbate.com",
+      "originalURL": "chaturbate.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.74,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6667.472809821977,
+    "largestContentfulPaint": 11414.5,
+    "timeToInteractive": 10922,
+    "totalBlockingTime": 741.5,
+    "cumulativeLayoutShift": 0.017919189453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chaturbate",
+      "url": "http://chaturbate.com",
+      "originalURL": "chaturbate.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.74,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6382.338280319854,
+    "largestContentfulPaint": 11354.5,
+    "timeToInteractive": 10970.5,
+    "totalBlockingTime": 787.5,
+    "cumulativeLayoutShift": 0.008539143880208332
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chaturbate",
+      "url": "http://chaturbate.com",
+      "originalURL": "chaturbate.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.74,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6602.058468999162,
+    "largestContentfulPaint": 11176.5,
+    "timeToInteractive": 11187.5,
+    "totalBlockingTime": 800.5,
+    "cumulativeLayoutShift": 0.017557881673177084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chaturbate",
+      "url": "http://chaturbate.com",
+      "originalURL": "chaturbate.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.25,
+    "seo": 0.85,
+    "accessibility": 0.74,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 6515.250274037979,
+    "largestContentfulPaint": 11730.5,
+    "timeToInteractive": 11101,
+    "totalBlockingTime": 924.5,
+    "cumulativeLayoutShift": 0.004103407118055556
+  }
+]

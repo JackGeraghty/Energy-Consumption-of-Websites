@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "foxnews",
+      "url": "http://foxnews.com",
+      "originalURL": "foxnews.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4628,
+    "speedIndex": 8535.068601304376,
+    "largestContentfulPaint": 6450,
+    "timeToInteractive": 19234.5,
+    "totalBlockingTime": 1860.5,
+    "cumulativeLayoutShift": 0.390966796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "foxnews",
+      "url": "http://foxnews.com",
+      "originalURL": "foxnews.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4631,
+    "speedIndex": 7952.009163620915,
+    "largestContentfulPaint": 6225,
+    "timeToInteractive": 19467,
+    "totalBlockingTime": 1865.5,
+    "cumulativeLayoutShift": 0.390966796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "foxnews",
+      "url": "http://foxnews.com",
+      "originalURL": "foxnews.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4635,
+    "speedIndex": 8107.619118003543,
+    "largestContentfulPaint": 6225,
+    "timeToInteractive": 19024,
+    "totalBlockingTime": 2345,
+    "cumulativeLayoutShift": 0.390966796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "foxnews",
+      "url": "http://foxnews.com",
+      "originalURL": "foxnews.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4629,
+    "speedIndex": 7767.825266953074,
+    "largestContentfulPaint": 7005,
+    "timeToInteractive": 19476.5,
+    "totalBlockingTime": 2713,
+    "cumulativeLayoutShift": 0.390966796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "foxnews",
+      "url": "http://foxnews.com",
+      "originalURL": "foxnews.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4673,
+    "speedIndex": 7851.4358788469235,
+    "largestContentfulPaint": 6705,
+    "timeToInteractive": 19097,
+    "totalBlockingTime": 2154.5,
+    "cumulativeLayoutShift": 0.390966796875
+  }
+]

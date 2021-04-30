@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 52910,
+    "decodedBodySize": 118809,
+    "transferSize": 53816,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/accounts/login/",
+        21343,
+        20776,
+        20776,
+        0.052392
+      ],
+      [
+        "https://www.instagram.com/static/scripts/jquery.js/a4e77326039e.js",
+        29990,
+        29798,
+        94840,
+        0.052392
+      ],
+      [
+        "https://www.instagram.com/static/scripts/bluebar.js/203583927eba.js",
+        267,
+        197,
+        438,
+        0.052392
+      ],
+      [
+        "https://www.instagram.com/static/images/branding/logoWhiteoutLockup.png/3a62b1a95da3.png",
+        2216,
+        2139,
+        2755,
+        0.052392
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 52910,
+    "decodedBodySize": 118809,
+    "transferSize": 53807,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/accounts/login/",
+        21334,
+        20776,
+        20776,
+        0.05196
+      ],
+      [
+        "https://www.instagram.com/static/scripts/jquery.js/a4e77326039e.js",
+        29878,
+        29798,
+        94840,
+        0.05196
+      ],
+      [
+        "https://www.instagram.com/static/scripts/bluebar.js/203583927eba.js",
+        379,
+        197,
+        438,
+        0.05196
+      ],
+      [
+        "https://www.instagram.com/static/images/branding/logoWhiteoutLockup.png/3a62b1a95da3.png",
+        2216,
+        2139,
+        2755,
+        0.05196
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 52910,
+    "decodedBodySize": 118809,
+    "transferSize": 53798,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/accounts/login/",
+        21325,
+        20776,
+        20776,
+        0.052536
+      ],
+      [
+        "https://www.instagram.com/static/scripts/jquery.js/a4e77326039e.js",
+        29990,
+        29798,
+        94840,
+        0.052536
+      ],
+      [
+        "https://www.instagram.com/static/scripts/bluebar.js/203583927eba.js",
+        267,
+        197,
+        438,
+        0.052536
+      ],
+      [
+        "https://www.instagram.com/static/images/branding/logoWhiteoutLockup.png/3a62b1a95da3.png",
+        2216,
+        2139,
+        2755,
+        0.052536
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 52910,
+    "decodedBodySize": 118809,
+    "transferSize": 53839,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/accounts/login/",
+        21366,
+        20776,
+        20776,
+        0.05112
+      ],
+      [
+        "https://www.instagram.com/static/scripts/jquery.js/a4e77326039e.js",
+        29990,
+        29798,
+        94840,
+        0.05112
+      ],
+      [
+        "https://www.instagram.com/static/scripts/bluebar.js/203583927eba.js",
+        267,
+        197,
+        438,
+        0.05112
+      ],
+      [
+        "https://www.instagram.com/static/images/branding/logoWhiteoutLockup.png/3a62b1a95da3.png",
+        2216,
+        2139,
+        2755,
+        0.05112
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 52910,
+    "decodedBodySize": 118809,
+    "transferSize": 53825,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/accounts/login/",
+        21352,
+        20776,
+        20776,
+        0.051932
+      ],
+      [
+        "https://www.instagram.com/static/scripts/jquery.js/a4e77326039e.js",
+        29990,
+        29798,
+        94840,
+        0.051932
+      ],
+      [
+        "https://www.instagram.com/static/scripts/bluebar.js/203583927eba.js",
+        267,
+        197,
+        438,
+        0.051932
+      ],
+      [
+        "https://www.instagram.com/static/images/branding/logoWhiteoutLockup.png/3a62b1a95da3.png",
+        2216,
+        2139,
+        2755,
+        0.051932
+      ]
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1274,
+    "speedIndex": 2160.7495668481397,
+    "largestContentfulPaint": 2930,
+    "timeToInteractive": 3479,
+    "totalBlockingTime": 64.5,
+    "cumulativeLayoutShift": 0.009639635174970084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1327.5,
+    "speedIndex": 3188.4542608224874,
+    "largestContentfulPaint": 3030,
+    "timeToInteractive": 2343.5,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0.07181863351136795
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1243.5,
+    "speedIndex": 2055.527301436245,
+    "largestContentfulPaint": 2850,
+    "timeToInteractive": 2312,
+    "totalBlockingTime": 50,
+    "cumulativeLayoutShift": 0.00037024603800017513
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1367.5,
+    "speedIndex": 2151.665227309644,
+    "largestContentfulPaint": 2955,
+    "timeToInteractive": 3549,
+    "totalBlockingTime": 38,
+    "cumulativeLayoutShift": 0.032968750547237545
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.3,
+    "seo": 1,
+    "accessibility": 0.78,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1319,
+    "speedIndex": 2097.6187227624014,
+    "largestContentfulPaint": 2955,
+    "timeToInteractive": 3480.5,
+    "totalBlockingTime": 19,
+    "cumulativeLayoutShift": 0.013809086769985114
+  }
+]

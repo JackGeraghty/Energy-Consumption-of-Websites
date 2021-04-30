@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ait",
+      "url": "http://ait.ie",
+      "originalURL": "ait.ie"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.6,
+    "bestPractices": null,
+    "firstContentfulPaint": 5280,
+    "speedIndex": 17278.73733797336,
+    "largestContentfulPaint": 54735,
+    "timeToInteractive": 58331,
+    "totalBlockingTime": 7908,
+    "cumulativeLayoutShift": 1.5503369140625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ait",
+      "url": "http://ait.ie",
+      "originalURL": "ait.ie"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.6,
+    "bestPractices": null,
+    "firstContentfulPaint": 5280,
+    "speedIndex": 16722.514978433803,
+    "largestContentfulPaint": 53685,
+    "timeToInteractive": 55303.5,
+    "totalBlockingTime": 1379.5,
+    "cumulativeLayoutShift": 1.5503369140625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ait",
+      "url": "http://ait.ie",
+      "originalURL": "ait.ie"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.6,
+    "bestPractices": null,
+    "firstContentfulPaint": 5520,
+    "speedIndex": 17051.24833677287,
+    "largestContentfulPaint": 56385,
+    "timeToInteractive": 57741.5,
+    "totalBlockingTime": 6606.5,
+    "cumulativeLayoutShift": 1.6593779296875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ait",
+      "url": "http://ait.ie",
+      "originalURL": "ait.ie"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.6,
+    "bestPractices": null,
+    "firstContentfulPaint": 2490,
+    "speedIndex": 5261.23650726712,
+    "largestContentfulPaint": 31185,
+    "timeToInteractive": 13525.5,
+    "totalBlockingTime": 1013.5,
+    "cumulativeLayoutShift": 2.2081455078125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ait",
+      "url": "http://ait.ie",
+      "originalURL": "ait.ie"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.6,
+    "bestPractices": null,
+    "firstContentfulPaint": 5355,
+    "speedIndex": 15366.143606971751,
+    "largestContentfulPaint": 51810,
+    "timeToInteractive": 54454.5,
+    "totalBlockingTime": 1409,
+    "cumulativeLayoutShift": 1.5110423177083332
+  }
+]

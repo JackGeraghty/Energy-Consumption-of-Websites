@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "8muses",
+      "url": "http://8muses.com",
+      "originalURL": "8muses.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1230.124101468101,
+    "largestContentfulPaint": 1798,
+    "timeToInteractive": 1571,
+    "totalBlockingTime": 45,
+    "cumulativeLayoutShift": 0.0021287102705542424
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "8muses",
+      "url": "http://8muses.com",
+      "originalURL": "8muses.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1291.6539907157644,
+    "largestContentfulPaint": 1975,
+    "timeToInteractive": 1673,
+    "totalBlockingTime": 76.5,
+    "cumulativeLayoutShift": 0.0021279397600910605
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "8muses",
+      "url": "http://8muses.com",
+      "originalURL": "8muses.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1849.1746926091485,
+    "largestContentfulPaint": 1624,
+    "timeToInteractive": 3270,
+    "totalBlockingTime": 711,
+    "cumulativeLayoutShift": 0.0021287102705542424
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "8muses",
+      "url": "http://8muses.com",
+      "originalURL": "8muses.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1126.7634229914836,
+    "largestContentfulPaint": 1880,
+    "timeToInteractive": 1598,
+    "totalBlockingTime": 66.5,
+    "cumulativeLayoutShift": 0.0021287102705542424
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "8muses",
+      "url": "http://8muses.com",
+      "originalURL": "8muses.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1130.3761348414005,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 1583,
+    "totalBlockingTime": 69,
+    "cumulativeLayoutShift": 0.0021287102705542424
+  }
+]

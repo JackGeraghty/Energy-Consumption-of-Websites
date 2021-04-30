@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "iafd",
+      "url": "http://iafd.com",
+      "originalURL": "iafd.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 4500,
+    "largestContentfulPaint": 4995,
+    "timeToInteractive": 8053,
+    "totalBlockingTime": 383,
+    "cumulativeLayoutShift": 0.013954969618055554
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "iafd",
+      "url": "http://iafd.com",
+      "originalURL": "iafd.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5955,
+    "speedIndex": 14267.668984971015,
+    "largestContentfulPaint": 7170.5,
+    "timeToInteractive": 25482.5,
+    "totalBlockingTime": 17523.5,
+    "cumulativeLayoutShift": 0.013621744791666664
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "iafd",
+      "url": "http://iafd.com",
+      "originalURL": "iafd.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 8827.392190885112,
+    "largestContentfulPaint": 6031,
+    "timeToInteractive": 15876.5,
+    "totalBlockingTime": 1183,
+    "cumulativeLayoutShift": 0.013621744791666664
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "iafd",
+      "url": "http://iafd.com",
+      "originalURL": "iafd.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4500,
+    "speedIndex": 4604.771877229765,
+    "largestContentfulPaint": 5070,
+    "timeToInteractive": 8086,
+    "totalBlockingTime": 634,
+    "cumulativeLayoutShift": 0.013954969618055554
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "iafd",
+      "url": "http://iafd.com",
+      "originalURL": "iafd.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4626,
+    "speedIndex": 6505.584693874242,
+    "largestContentfulPaint": 6513,
+    "timeToInteractive": 9912,
+    "totalBlockingTime": 3833.5,
+    "cumulativeLayoutShift": 0.013954969618055554
+  }
+]

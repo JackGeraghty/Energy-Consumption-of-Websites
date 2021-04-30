@@ -1,0 +1,277 @@
+[
+  {
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 117268,
+    "decodedBodySize": 292429,
+    "transferSize": 119920,
+    "resourcesList": [
+      [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_ea7e3b59-da0e-48ed-99d4-f7e464765168",
+        9084,
+        7912,
+        38917,
+        0.055609
+      ],
+      [
+        "https://s.yimg.com/oa/build/css/site-ltr-d84da034.css",
+        22129,
+        21617,
+        128557,
+        0.055609
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+        983,
+        760,
+        760,
+        0.055609
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png",
+        1057,
+        810,
+        810,
+        0.055609
+      ],
+      [
+        "https://s.yimg.com/oa/build/js/site-bb65c143.js",
+        9352,
+        9108,
+        46324,
+        0.055609
+      ],
+      [
+        "https://s.yimg.com/oa/build/images/en-IE-home_794edfb221fd0174.jpeg",
+        77315,
+        77061,
+        77061,
+        0.055609
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 117269,
+    "decodedBodySize": 292429,
+    "transferSize": 119913,
+    "resourcesList": [
+      [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_c0030459-b90a-485e-99fe-ec11940ac545",
+        9085,
+        7913,
+        38917,
+        0.069794
+      ],
+      [
+        "https://s.yimg.com/oa/build/css/site-ltr-d84da034.css",
+        22129,
+        21617,
+        128557,
+        0.069794
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+        983,
+        760,
+        760,
+        0.069794
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png",
+        1057,
+        810,
+        810,
+        0.069794
+      ],
+      [
+        "https://s.yimg.com/oa/build/js/site-bb65c143.js",
+        9351,
+        9108,
+        46324,
+        0.069794
+      ],
+      [
+        "https://s.yimg.com/oa/build/images/en-IE-home_794edfb221fd0174.jpeg",
+        77308,
+        77061,
+        77061,
+        0.069794
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 117267,
+    "decodedBodySize": 292429,
+    "transferSize": 119912,
+    "resourcesList": [
+      [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_e8eeaf7e-bc49-4852-9f0d-a7e6979d26f3",
+        9083,
+        7911,
+        38917,
+        0.081394
+      ],
+      [
+        "https://s.yimg.com/oa/build/css/site-ltr-d84da034.css",
+        22129,
+        21617,
+        128557,
+        0.081394
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+        1007,
+        760,
+        760,
+        0.081394
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png",
+        1033,
+        810,
+        810,
+        0.081394
+      ],
+      [
+        "https://s.yimg.com/oa/build/js/site-bb65c143.js",
+        9351,
+        9108,
+        46324,
+        0.081394
+      ],
+      [
+        "https://s.yimg.com/oa/build/images/en-IE-home_794edfb221fd0174.jpeg",
+        77309,
+        77061,
+        77061,
+        0.081394
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 117265,
+    "decodedBodySize": 292429,
+    "transferSize": 119917,
+    "resourcesList": [
+      [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4d47dba6-4954-4949-a5d4-03551f56d6a3",
+        9081,
+        7909,
+        38917,
+        0.062062
+      ],
+      [
+        "https://s.yimg.com/oa/build/css/site-ltr-d84da034.css",
+        22129,
+        21617,
+        128557,
+        0.062062
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+        983,
+        760,
+        760,
+        0.062062
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png",
+        1057,
+        810,
+        810,
+        0.062062
+      ],
+      [
+        "https://s.yimg.com/oa/build/js/site-bb65c143.js",
+        9352,
+        9108,
+        46324,
+        0.062062
+      ],
+      [
+        "https://s.yimg.com/oa/build/images/en-IE-home_794edfb221fd0174.jpeg",
+        77315,
+        77061,
+        77061,
+        0.062062
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com",
+      "originalURL": "yahoo.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 117272,
+    "decodedBodySize": 292429,
+    "transferSize": 119924,
+    "resourcesList": [
+      [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_e6aeeb99-5300-4b06-a391-bd8b27565779",
+        9088,
+        7916,
+        38917,
+        0.077732
+      ],
+      [
+        "https://s.yimg.com/oa/build/css/site-ltr-d84da034.css",
+        22129,
+        21617,
+        128557,
+        0.077732
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_bestfit_frontpage.png",
+        983,
+        760,
+        760,
+        0.077732
+      ],
+      [
+        "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png",
+        1057,
+        810,
+        810,
+        0.077732
+      ],
+      [
+        "https://s.yimg.com/oa/build/js/site-bb65c143.js",
+        9352,
+        9108,
+        46324,
+        0.077732
+      ],
+      [
+        "https://s.yimg.com/oa/build/images/en-IE-home_794edfb221fd0174.jpeg",
+        77315,
+        77061,
+        77061,
+        0.077732
+      ]
+    ]
+  }
+]

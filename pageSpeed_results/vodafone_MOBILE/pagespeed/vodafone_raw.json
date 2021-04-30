@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vodafone",
+      "url": "http://vodafone.ie",
+      "originalURL": "vodafone.ie"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4254,
+    "speedIndex": 8526.79274728741,
+    "largestContentfulPaint": 14153.5,
+    "timeToInteractive": 14460.5,
+    "totalBlockingTime": 2590.5,
+    "cumulativeLayoutShift": 1.503486056857639
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vodafone",
+      "url": "http://vodafone.ie",
+      "originalURL": "vodafone.ie"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4209,
+    "speedIndex": 8128.021798006308,
+    "largestContentfulPaint": 11105.5,
+    "timeToInteractive": 14719.5,
+    "totalBlockingTime": 3180,
+    "cumulativeLayoutShift": 1.5071449110243056
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vodafone",
+      "url": "http://vodafone.ie",
+      "originalURL": "vodafone.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3660,
+    "speedIndex": 8288.207120934418,
+    "largestContentfulPaint": 9640,
+    "timeToInteractive": 15117,
+    "totalBlockingTime": 3453.5,
+    "cumulativeLayoutShift": 1.2161263020833335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vodafone",
+      "url": "http://vodafone.ie",
+      "originalURL": "vodafone.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3660,
+    "speedIndex": 8615.489177284453,
+    "largestContentfulPaint": 11020.5,
+    "timeToInteractive": 14861,
+    "totalBlockingTime": 3407.5,
+    "cumulativeLayoutShift": 1.5071449110243056
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vodafone",
+      "url": "http://vodafone.ie",
+      "originalURL": "vodafone.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3660,
+    "speedIndex": 8647.006637715622,
+    "largestContentfulPaint": 11163.5,
+    "timeToInteractive": 14984,
+    "totalBlockingTime": 3590,
+    "cumulativeLayoutShift": 1.2161263020833335
+  }
+]

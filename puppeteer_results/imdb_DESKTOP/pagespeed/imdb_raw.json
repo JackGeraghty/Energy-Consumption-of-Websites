@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1137,
+    "speedIndex": 2289.465281362759,
+    "largestContentfulPaint": 3974,
+    "timeToInteractive": 4005,
+    "totalBlockingTime": 209.5,
+    "cumulativeLayoutShift": 0.40680054110848435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1130,
+    "speedIndex": 2324.047524582108,
+    "largestContentfulPaint": 3940,
+    "timeToInteractive": 3927,
+    "totalBlockingTime": 176,
+    "cumulativeLayoutShift": 0.40680054110848435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1134,
+    "speedIndex": 2370.521774521612,
+    "largestContentfulPaint": 3988.5,
+    "timeToInteractive": 3936,
+    "totalBlockingTime": 179.5,
+    "cumulativeLayoutShift": 0.40678991798733327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1140,
+    "speedIndex": 2362.2477698901653,
+    "largestContentfulPaint": 3941,
+    "timeToInteractive": 3992.5,
+    "totalBlockingTime": 207.5,
+    "cumulativeLayoutShift": 0.40680054110848435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1116,
+    "speedIndex": 2395.990644036833,
+    "largestContentfulPaint": 2456,
+    "timeToInteractive": 4129.5,
+    "totalBlockingTime": 260.5,
+    "cumulativeLayoutShift": 0.40680054110848435
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zarion",
+      "url": "http://zarion.com",
+      "originalURL": "zarion.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5930,
+    "speedIndex": 12521.326715529609,
+    "largestContentfulPaint": 22830,
+    "timeToInteractive": 11684.5,
+    "totalBlockingTime": 373.5,
+    "cumulativeLayoutShift": 0.12217828369140624
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zarion",
+      "url": "http://zarion.com",
+      "originalURL": "zarion.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.29,
+    "seo": 0.87,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5929,
+    "speedIndex": 13638.181719937229,
+    "largestContentfulPaint": 21555,
+    "timeToInteractive": 11514,
+    "totalBlockingTime": 295,
+    "cumulativeLayoutShift": 0.2349183553059896
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zarion",
+      "url": "http://zarion.com",
+      "originalURL": "zarion.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5899,
+    "speedIndex": 12310.670768401913,
+    "largestContentfulPaint": 22545,
+    "timeToInteractive": 11426,
+    "totalBlockingTime": 295,
+    "cumulativeLayoutShift": 0.2515239868164062
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zarion",
+      "url": "http://zarion.com",
+      "originalURL": "zarion.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5919,
+    "speedIndex": 12490.87320874352,
+    "largestContentfulPaint": 22680,
+    "timeToInteractive": 11784.5,
+    "totalBlockingTime": 393.5,
+    "cumulativeLayoutShift": 0.12217828369140624
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zarion",
+      "url": "http://zarion.com",
+      "originalURL": "zarion.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5925,
+    "speedIndex": 12433.488554132735,
+    "largestContentfulPaint": 22605,
+    "timeToInteractive": 11474.5,
+    "totalBlockingTime": 300,
+    "cumulativeLayoutShift": 0.12217828369140624
+  }
+]

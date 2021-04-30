@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.53,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 491,
+    "speedIndex": 599.7844361499497,
+    "largestContentfulPaint": 784,
+    "timeToInteractive": 491,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.53,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 491,
+    "speedIndex": 491,
+    "largestContentfulPaint": 715,
+    "timeToInteractive": 603,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.53,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 491,
+    "speedIndex": 491,
+    "largestContentfulPaint": 714,
+    "timeToInteractive": 602.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.53,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 481,
+    "speedIndex": 481,
+    "largestContentfulPaint": 716,
+    "timeToInteractive": 598.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "123moviesfree",
+      "url": "http://123moviesfree.net",
+      "originalURL": "123moviesfree.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.53,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 478,
+    "speedIndex": 478,
+    "largestContentfulPaint": 712,
+    "timeToInteractive": 595,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

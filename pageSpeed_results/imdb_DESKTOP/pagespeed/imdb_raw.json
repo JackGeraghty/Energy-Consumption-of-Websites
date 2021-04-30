@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com",
+      "originalURL": "imdb.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1151,
+    "speedIndex": 2465.5663276533014,
+    "largestContentfulPaint": 4077,
+    "timeToInteractive": 4074,
+    "totalBlockingTime": 252,
+    "cumulativeLayoutShift": 0.40678991798733327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com",
+      "originalURL": "imdb.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1152,
+    "speedIndex": 2427.614513552288,
+    "largestContentfulPaint": 4049,
+    "timeToInteractive": 4060.5,
+    "totalBlockingTime": 249,
+    "cumulativeLayoutShift": 0.40680054110848435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com",
+      "originalURL": "imdb.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1157,
+    "speedIndex": 2920.7587277771604,
+    "largestContentfulPaint": 4219,
+    "timeToInteractive": 4133.5,
+    "totalBlockingTime": 298,
+    "cumulativeLayoutShift": 0.40678991798733327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com",
+      "originalURL": "imdb.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1157,
+    "speedIndex": 2497.3285809638414,
+    "largestContentfulPaint": 4145,
+    "timeToInteractive": 4176.5,
+    "totalBlockingTime": 308.5,
+    "cumulativeLayoutShift": 0.40678991798733327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com",
+      "originalURL": "imdb.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1148,
+    "speedIndex": 2620.379352887411,
+    "largestContentfulPaint": 3960,
+    "timeToInteractive": 4116,
+    "totalBlockingTime": 258,
+    "cumulativeLayoutShift": 0.40678991798733327
+  }
+]

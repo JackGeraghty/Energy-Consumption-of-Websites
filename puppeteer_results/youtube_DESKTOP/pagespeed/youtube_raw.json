@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.41,
+    "seo": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1370.5,
+    "speedIndex": 4907.716104364526,
+    "largestContentfulPaint": 4398,
+    "timeToInteractive": 4991,
+    "totalBlockingTime": 1570,
+    "cumulativeLayoutShift": 0.039823483057525616
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.41,
+    "seo": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1243.5,
+    "speedIndex": 4978.359549008048,
+    "largestContentfulPaint": 4379,
+    "timeToInteractive": 5109.5,
+    "totalBlockingTime": 1724.5,
+    "cumulativeLayoutShift": 0.035757429296909206
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.41,
+    "seo": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1366,
+    "speedIndex": 6398.73716252795,
+    "largestContentfulPaint": 4782.5,
+    "timeToInteractive": 6054.5,
+    "totalBlockingTime": 2621.5,
+    "cumulativeLayoutShift": 0.04519141931529639
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.41,
+    "seo": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1334,
+    "speedIndex": 5027.520274572958,
+    "largestContentfulPaint": 4276.5,
+    "timeToInteractive": 4984.5,
+    "totalBlockingTime": 1577.5,
+    "cumulativeLayoutShift": 0.035757429296909206
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.41,
+    "seo": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1370,
+    "speedIndex": 5030.2314367477165,
+    "largestContentfulPaint": 4516,
+    "timeToInteractive": 5028,
+    "totalBlockingTime": 1642,
+    "cumulativeLayoutShift": 0.039823483057525616
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thingiverse",
+      "url": "http://thingiverse.com",
+      "originalURL": "thingiverse.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.62,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3610,
+    "speedIndex": 3610,
+    "largestContentfulPaint": 6905,
+    "timeToInteractive": 4303,
+    "totalBlockingTime": 157,
+    "cumulativeLayoutShift": 0.272110780725564
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thingiverse",
+      "url": "http://thingiverse.com",
+      "originalURL": "thingiverse.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.62,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2686,
+    "speedIndex": 2698.3620426338166,
+    "largestContentfulPaint": 10125,
+    "timeToInteractive": 4196,
+    "totalBlockingTime": 244.5,
+    "cumulativeLayoutShift": 0.27182621720222977
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thingiverse",
+      "url": "http://thingiverse.com",
+      "originalURL": "thingiverse.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.62,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2673,
+    "speedIndex": 2673,
+    "largestContentfulPaint": 6378,
+    "timeToInteractive": 4234,
+    "totalBlockingTime": 229.5,
+    "cumulativeLayoutShift": 0.272110780725564
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thingiverse",
+      "url": "http://thingiverse.com",
+      "originalURL": "thingiverse.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.62,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2680,
+    "speedIndex": 2680,
+    "largestContentfulPaint": 6188.5,
+    "timeToInteractive": 4192,
+    "totalBlockingTime": 196,
+    "cumulativeLayoutShift": 0.272110780725564
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thingiverse",
+      "url": "http://thingiverse.com",
+      "originalURL": "thingiverse.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.62,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2648,
+    "speedIndex": 2784.956666156383,
+    "largestContentfulPaint": 6667.5,
+    "timeToInteractive": 4155,
+    "totalBlockingTime": 177,
+    "cumulativeLayoutShift": 0.272110780725564
+  }
+]

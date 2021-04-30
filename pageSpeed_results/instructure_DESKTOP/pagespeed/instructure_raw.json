@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instructure",
+      "url": "http://instructure.com",
+      "originalURL": "instructure.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1845,
+    "speedIndex": 2841.0529393050747,
+    "largestContentfulPaint": 5006.5,
+    "timeToInteractive": 4876,
+    "totalBlockingTime": 348,
+    "cumulativeLayoutShift": 0.00930468085106383
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instructure",
+      "url": "http://instructure.com",
+      "originalURL": "instructure.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1690,
+    "speedIndex": 3069.7706592639097,
+    "largestContentfulPaint": 5041.5,
+    "timeToInteractive": 4765,
+    "totalBlockingTime": 396,
+    "cumulativeLayoutShift": 0.049508978198056205
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instructure",
+      "url": "http://instructure.com",
+      "originalURL": "instructure.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1845,
+    "speedIndex": 2740.1031852654232,
+    "largestContentfulPaint": 5156.5,
+    "timeToInteractive": 4772.5,
+    "totalBlockingTime": 246.5,
+    "cumulativeLayoutShift": 0.00930468085106383
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instructure",
+      "url": "http://instructure.com",
+      "originalURL": "instructure.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1865,
+    "speedIndex": 2971.0988556561792,
+    "largestContentfulPaint": 5499,
+    "timeToInteractive": 5379.5,
+    "totalBlockingTime": 236,
+    "cumulativeLayoutShift": 0.00930468085106383
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "instructure",
+      "url": "http://instructure.com",
+      "originalURL": "instructure.com"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1530,
+    "speedIndex": 2554.488354678986,
+    "largestContentfulPaint": 5056,
+    "timeToInteractive": 4658.5,
+    "totalBlockingTime": 185,
+    "cumulativeLayoutShift": 0.049508978198056205
+  }
+]

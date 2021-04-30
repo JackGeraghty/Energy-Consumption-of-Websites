@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "msn",
+      "url": "http://msn.com",
+      "originalURL": "msn.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1060,
+    "speedIndex": 3588.425558787262,
+    "largestContentfulPaint": 1599,
+    "timeToInteractive": 3351.5,
+    "totalBlockingTime": 990.5,
+    "cumulativeLayoutShift": 0.011817791787058928
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "msn",
+      "url": "http://msn.com",
+      "originalURL": "msn.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1060,
+    "speedIndex": 1654.1580525149675,
+    "largestContentfulPaint": 1206.5,
+    "timeToInteractive": 2684,
+    "totalBlockingTime": 68.5,
+    "cumulativeLayoutShift": 0.0013770691416396697
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "msn",
+      "url": "http://msn.com",
+      "originalURL": "msn.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1060,
+    "speedIndex": 1761.3729373597512,
+    "largestContentfulPaint": 1125,
+    "timeToInteractive": 2115.5,
+    "totalBlockingTime": 79.5,
+    "cumulativeLayoutShift": 0.0013770691416396697
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "msn",
+      "url": "http://msn.com",
+      "originalURL": "msn.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1060,
+    "speedIndex": 1585.601855243236,
+    "largestContentfulPaint": 1193,
+    "timeToInteractive": 2094.5,
+    "totalBlockingTime": 83,
+    "cumulativeLayoutShift": 0.0013877278697136852
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "msn",
+      "url": "http://msn.com",
+      "originalURL": "msn.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.44,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1060,
+    "speedIndex": 1608.1007236303535,
+    "largestContentfulPaint": 1105,
+    "timeToInteractive": 2066,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.0013877278697136852
+  }
+]

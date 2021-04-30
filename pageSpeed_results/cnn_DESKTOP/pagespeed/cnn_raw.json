@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnn",
+      "url": "http://cnn.com",
+      "originalURL": "cnn.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.45,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2562,
+    "speedIndex": 4760.943461361378,
+    "largestContentfulPaint": 4587.5,
+    "timeToInteractive": 9867.5,
+    "totalBlockingTime": 839,
+    "cumulativeLayoutShift": 0.30769257938592653
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnn",
+      "url": "http://cnn.com",
+      "originalURL": "cnn.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.45,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2672,
+    "speedIndex": 5021.0373952572245,
+    "largestContentfulPaint": 4535.5,
+    "timeToInteractive": 10293.00027179718,
+    "totalBlockingTime": 1070,
+    "cumulativeLayoutShift": 0.2929325558182296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnn",
+      "url": "http://cnn.com",
+      "originalURL": "cnn.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.45,
+    "seo": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1666,
+    "speedIndex": 2180.3309486744174,
+    "largestContentfulPaint": 2395,
+    "timeToInteractive": 4690,
+    "totalBlockingTime": 277,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnn",
+      "url": "http://cnn.com",
+      "originalURL": "cnn.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.45,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2578.5,
+    "speedIndex": 4868.054430747573,
+    "largestContentfulPaint": 4605.5,
+    "timeToInteractive": 9250.5,
+    "totalBlockingTime": 941.5,
+    "cumulativeLayoutShift": 0.2929325558182296
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cnn",
+      "url": "http://cnn.com",
+      "originalURL": "cnn.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.45,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2647,
+    "speedIndex": 5092.363460824422,
+    "largestContentfulPaint": 4720,
+    "timeToInteractive": 9993,
+    "totalBlockingTime": 1373.5,
+    "cumulativeLayoutShift": 0.2929325558182296
+  }
+]

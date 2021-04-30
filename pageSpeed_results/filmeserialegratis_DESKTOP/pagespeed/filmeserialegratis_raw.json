@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmeserialegratis",
+      "url": "http://filmeserialegratis.org",
+      "originalURL": "filmeserialegratis.org"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.89,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1065,
+    "speedIndex": 1363.6497937183449,
+    "largestContentfulPaint": 2946,
+    "timeToInteractive": 1360,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0.12086844467793247
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmeserialegratis",
+      "url": "http://filmeserialegratis.org",
+      "originalURL": "filmeserialegratis.org"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.89,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1310,
+    "speedIndex": 1422.962909528329,
+    "largestContentfulPaint": 3105,
+    "timeToInteractive": 1385,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.12478836762688614
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmeserialegratis",
+      "url": "http://filmeserialegratis.org",
+      "originalURL": "filmeserialegratis.org"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.89,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1402.2663614839976,
+    "largestContentfulPaint": 2960,
+    "timeToInteractive": 1345,
+    "totalBlockingTime": 7,
+    "cumulativeLayoutShift": 0.12478836762688614
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmeserialegratis",
+      "url": "http://filmeserialegratis.org",
+      "originalURL": "filmeserialegratis.org"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.89,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1105,
+    "speedIndex": 1343.6691771860214,
+    "largestContentfulPaint": 2929.5,
+    "timeToInteractive": 1345,
+    "totalBlockingTime": 15.5,
+    "cumulativeLayoutShift": 0.12478836762688614
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmeserialegratis",
+      "url": "http://filmeserialegratis.org",
+      "originalURL": "filmeserialegratis.org"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.89,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1342.3180493826244,
+    "largestContentfulPaint": 2960,
+    "timeToInteractive": 1365,
+    "totalBlockingTime": 3.5,
+    "cumulativeLayoutShift": 0.12086844467793245
+  }
+]

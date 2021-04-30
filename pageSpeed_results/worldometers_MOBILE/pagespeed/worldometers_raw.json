@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "worldometers",
+      "url": "http://worldometers.info",
+      "originalURL": "worldometers.info"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4095,
+    "speedIndex": 8272.19909025707,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 15024.5,
+    "totalBlockingTime": 3040,
+    "cumulativeLayoutShift": 0.34710693359375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "worldometers",
+      "url": "http://worldometers.info",
+      "originalURL": "worldometers.info"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4095,
+    "speedIndex": 8810.442262806475,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 14285.5,
+    "totalBlockingTime": 3155,
+    "cumulativeLayoutShift": 0.34710693359375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "worldometers",
+      "url": "http://worldometers.info",
+      "originalURL": "worldometers.info"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4095,
+    "speedIndex": 6994.703474078949,
+    "largestContentfulPaint": 4188.5,
+    "timeToInteractive": 15651.5,
+    "totalBlockingTime": 4020,
+    "cumulativeLayoutShift": 0.347308349609375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "worldometers",
+      "url": "http://worldometers.info",
+      "originalURL": "worldometers.info"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4095,
+    "speedIndex": 7432.236422707065,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 16446,
+    "totalBlockingTime": 5395,
+    "cumulativeLayoutShift": 0.347308349609375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "worldometers",
+      "url": "http://worldometers.info",
+      "originalURL": "worldometers.info"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.79,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 4095,
+    "speedIndex": 7429.673574029073,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 14602.5,
+    "totalBlockingTime": 2866.5,
+    "cumulativeLayoutShift": 0.34710693359375
+  }
+]

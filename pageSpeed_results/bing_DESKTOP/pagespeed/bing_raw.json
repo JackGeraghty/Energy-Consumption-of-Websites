@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 640,
+    "speedIndex": 2395.9195360109343,
+    "largestContentfulPaint": 1155,
+    "timeToInteractive": 828.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.021715301637334733
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 640,
+    "speedIndex": 2513.730315297621,
+    "largestContentfulPaint": 1120,
+    "timeToInteractive": 3392,
+    "totalBlockingTime": 7,
+    "cumulativeLayoutShift": 0.015481574292969095
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 640,
+    "speedIndex": 2030.3140077080357,
+    "largestContentfulPaint": 1120,
+    "timeToInteractive": 3046,
+    "totalBlockingTime": 16.5,
+    "cumulativeLayoutShift": 0.020742409596357585
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 640,
+    "speedIndex": 2473.0121071772755,
+    "largestContentfulPaint": 1140,
+    "timeToInteractive": 1043,
+    "totalBlockingTime": 13,
+    "cumulativeLayoutShift": 0.026763386159997668
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.15,
+    "seo": 0.73,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 640,
+    "speedIndex": 2394.72022079442,
+    "largestContentfulPaint": 1140,
+    "timeToInteractive": 830.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.024767311093599507
+  }
+]

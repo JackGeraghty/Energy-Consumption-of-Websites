@@ -1,0 +1,334 @@
+{
+  "activity": [
+    {
+      "id": "2244",
+      "hostId": "284",
+      "power": "10.83333",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "53.17181907798933",
+      "stat2": "5.8637971E7",
+      "stat3": "1.1067392E8",
+      "timeStamp": "1617802113",
+      "allApps": "30650.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8888",
+            "activityId": "2244",
+            "name": "msedge#1477776976",
+            "cpu": "19360.0"
+          },
+          {
+            "appId": "8889",
+            "activityId": "2244",
+            "name": "msedge#0620732303",
+            "cpu": "5530.0"
+          },
+          {
+            "appId": "8890",
+            "activityId": "2244",
+            "name": "msedge#983697659",
+            "cpu": "2570.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2245",
+      "hostId": "284",
+      "power": "9.58333",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "40.93617634488463",
+      "stat2": "2.0021095E7",
+      "stat3": "6.47168E7",
+      "timeStamp": "1617802174",
+      "allApps": "34630.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8891",
+            "activityId": "2245",
+            "name": "msedge#1477776976",
+            "cpu": "22000.0"
+          },
+          {
+            "appId": "8892",
+            "activityId": "2245",
+            "name": "msedge#0620732303",
+            "cpu": "11130.0"
+          },
+          {
+            "appId": "8893",
+            "activityId": "2245",
+            "name": "pulseaudio#01867205593",
+            "cpu": "490.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2246",
+      "hostId": "284",
+      "power": "9.475276666666668",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "38.95703543958032",
+      "stat2": "2.5995342E7",
+      "stat3": "2.234368E7",
+      "timeStamp": "1617802234",
+      "allApps": "34620.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8894",
+            "activityId": "2246",
+            "name": "msedge#1477776976",
+            "cpu": "22180.0"
+          },
+          {
+            "appId": "8895",
+            "activityId": "2246",
+            "name": "msedge#0620732303",
+            "cpu": "10950.0"
+          },
+          {
+            "appId": "8896",
+            "activityId": "2246",
+            "name": "pulseaudio#01867205593",
+            "cpu": "520.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2247",
+      "hostId": "284",
+      "power": "8.178998333333334",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "33.2438768557837",
+      "stat2": "1.6524988E7",
+      "stat3": "2.213888E7",
+      "timeStamp": "1617802294",
+      "allApps": "31200.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8897",
+            "activityId": "2247",
+            "name": "msedge#1477776976",
+            "cpu": "18900.0"
+          },
+          {
+            "appId": "8898",
+            "activityId": "2247",
+            "name": "msedge#0620732303",
+            "cpu": "10940.0"
+          },
+          {
+            "appId": "8899",
+            "activityId": "2247",
+            "name": "pulseaudio#01867205593",
+            "cpu": "520.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2248",
+      "hostId": "284",
+      "power": "9.02775",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "35.750442634803385",
+      "stat2": "2.1645581E7",
+      "stat3": "1.773568E7",
+      "timeStamp": "1617802354",
+      "allApps": "33150.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8900",
+            "activityId": "2248",
+            "name": "msedge#1477776976",
+            "cpu": "20790.0"
+          },
+          {
+            "appId": "8901",
+            "activityId": "2248",
+            "name": "msedge#0620732303",
+            "cpu": "10920.0"
+          },
+          {
+            "appId": "8902",
+            "activityId": "2248",
+            "name": "pulseaudio#01867205593",
+            "cpu": "520.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2249",
+      "hostId": "284",
+      "power": "10.83333",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "49.60089901546406",
+      "stat2": "3.0754551E7",
+      "stat3": "3.65408256E8",
+      "timeStamp": "1617802414",
+      "allApps": "32750.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8903",
+            "activityId": "2249",
+            "name": "msedge#1477776976",
+            "cpu": "20220.0"
+          },
+          {
+            "appId": "8904",
+            "activityId": "2249",
+            "name": "msedge#0620732303",
+            "cpu": "10900.0"
+          },
+          {
+            "appId": "8905",
+            "activityId": "2249",
+            "name": "pulseaudio#01867205593",
+            "cpu": "530.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2250",
+      "hostId": "284",
+      "power": "9.567886666666666",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "36.82802808964787",
+      "stat2": "2.1730212E7",
+      "stat3": "2.7193344E7",
+      "timeStamp": "1617802474",
+      "allApps": "34250.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8906",
+            "activityId": "2250",
+            "name": "msedge#1477776976",
+            "cpu": "21850.0"
+          },
+          {
+            "appId": "8907",
+            "activityId": "2250",
+            "name": "msedge#0620732303",
+            "cpu": "11010.0"
+          },
+          {
+            "appId": "8908",
+            "activityId": "2250",
+            "name": "pulseaudio#01867205593",
+            "cpu": "530.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2251",
+      "hostId": "284",
+      "power": "9.074053333333334",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "39.238681420487055",
+      "stat2": "2.7984008E7",
+      "stat3": "2.596864E7",
+      "timeStamp": "1617802534",
+      "allApps": "34550.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8909",
+            "activityId": "2251",
+            "name": "msedge#1477776976",
+            "cpu": "22000.0"
+          },
+          {
+            "appId": "8910",
+            "activityId": "2251",
+            "name": "msedge#0620732303",
+            "cpu": "11000.0"
+          },
+          {
+            "appId": "8911",
+            "activityId": "2251",
+            "name": "pulseaudio#01867205593",
+            "cpu": "540.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2252",
+      "hostId": "284",
+      "power": "9.475276666666668",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "39.31450916838306",
+      "stat2": "2.8781835E7",
+      "stat3": "3.0224384E7",
+      "timeStamp": "1617802594",
+      "allApps": "34230.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8912",
+            "activityId": "2252",
+            "name": "msedge#1477776976",
+            "cpu": "22170.0"
+          },
+          {
+            "appId": "8913",
+            "activityId": "2252",
+            "name": "msedge#0620732303",
+            "cpu": "10370.0"
+          },
+          {
+            "appId": "8914",
+            "activityId": "2252",
+            "name": "pulseaudio#01867205593",
+            "cpu": "550.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2253",
+      "hostId": "284",
+      "power": "10.231500000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "38.37930672827232",
+      "stat2": "3.2642097E7",
+      "stat3": "3.4992128E7",
+      "timeStamp": "1617802654",
+      "allApps": "34180.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8915",
+            "activityId": "2253",
+            "name": "msedge#1477776976",
+            "cpu": "23240.0"
+          },
+          {
+            "appId": "8916",
+            "activityId": "2253",
+            "name": "msedge#0620732303",
+            "cpu": "9290.0"
+          },
+          {
+            "appId": "8917",
+            "activityId": "2253",
+            "name": "pulseaudio#01867205593",
+            "cpu": "520.0"
+          }
+        ]
+      }
+    }
+  ]
+}

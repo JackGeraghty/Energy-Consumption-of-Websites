@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3720,
+    "largestContentfulPaint": 4770,
+    "timeToInteractive": 6153,
+    "totalBlockingTime": 88,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3720,
+    "largestContentfulPaint": 4845,
+    "timeToInteractive": 6458.5,
+    "totalBlockingTime": 165.5,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3720,
+    "largestContentfulPaint": 6248.5,
+    "timeToInteractive": 6257,
+    "totalBlockingTime": 141.5,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2970,
+    "speedIndex": 3030.288426411983,
+    "largestContentfulPaint": 5445,
+    "timeToInteractive": 6348,
+    "totalBlockingTime": 168.5,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3720,
+    "largestContentfulPaint": 5478,
+    "timeToInteractive": 6303,
+    "totalBlockingTime": 192.5,
+    "cumulativeLayoutShift": 0.2875
+  }
+]

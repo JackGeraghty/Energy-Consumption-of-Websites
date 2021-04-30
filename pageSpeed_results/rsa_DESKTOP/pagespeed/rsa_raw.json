@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rsa",
+      "url": "http://rsa.ie",
+      "originalURL": "rsa.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.62,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1517.5,
+    "speedIndex": 1517.5,
+    "largestContentfulPaint": 3003,
+    "timeToInteractive": 1726.5,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.01895511776551966
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rsa",
+      "url": "http://rsa.ie",
+      "originalURL": "rsa.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.62,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1505,
+    "speedIndex": 1505,
+    "largestContentfulPaint": 2946.5,
+    "timeToInteractive": 1780,
+    "totalBlockingTime": 41,
+    "cumulativeLayoutShift": 0.01895511776551966
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rsa",
+      "url": "http://rsa.ie",
+      "originalURL": "rsa.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.62,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1547,
+    "speedIndex": 1547,
+    "largestContentfulPaint": 3022.5,
+    "timeToInteractive": 1744.5,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.01895511776551966
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rsa",
+      "url": "http://rsa.ie",
+      "originalURL": "rsa.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.62,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1515,
+    "speedIndex": 1515,
+    "largestContentfulPaint": 2968.5,
+    "timeToInteractive": 1743.5,
+    "totalBlockingTime": 31.5,
+    "cumulativeLayoutShift": 0.01895511776551966
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rsa",
+      "url": "http://rsa.ie",
+      "originalURL": "rsa.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.62,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1504,
+    "speedIndex": 1504,
+    "largestContentfulPaint": 3003,
+    "timeToInteractive": 1738,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0.01895511776551966
+  }
+]

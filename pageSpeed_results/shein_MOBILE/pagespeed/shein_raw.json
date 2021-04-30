@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shein",
+      "url": "http://shein.com",
+      "originalURL": "shein.com"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.43,
+    "seo": 0.7,
+    "accessibility": 0.5,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 7142.102454793377,
+    "speedIndex": 16483.183244158627,
+    "largestContentfulPaint": 17889.51577704333,
+    "timeToInteractive": 24086.045482659552,
+    "totalBlockingTime": 5102.500000000005,
+    "cumulativeLayoutShift": 0.29251790364583335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shein",
+      "url": "http://shein.com",
+      "originalURL": "shein.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.43,
+    "seo": 0.7,
+    "accessibility": 0.5,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4168.134744907824,
+    "speedIndex": 15691.347602666832,
+    "largestContentfulPaint": 15255.376601886705,
+    "timeToInteractive": 22359.868891054368,
+    "totalBlockingTime": 4936.999999999997,
+    "cumulativeLayoutShift": 0.29147200520833333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shein",
+      "url": "http://shein.com",
+      "originalURL": "shein.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.43,
+    "seo": 0.7,
+    "accessibility": 0.5,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4451.963595633713,
+    "speedIndex": 14392.202295195733,
+    "largestContentfulPaint": 15079.673301873834,
+    "timeToInteractive": 20312.780374263348,
+    "totalBlockingTime": 3307.9999999999945,
+    "cumulativeLayoutShift": 0.29147200520833333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shein",
+      "url": "http://shein.com",
+      "originalURL": "shein.com"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.43,
+    "seo": 0.7,
+    "accessibility": 0.5,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 6724.831436841523,
+    "speedIndex": 15753.07696956307,
+    "largestContentfulPaint": 17759.39626138965,
+    "timeToInteractive": 23081.476847777667,
+    "totalBlockingTime": 3456.0000000000036,
+    "cumulativeLayoutShift": 0.30112386067708335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "shein",
+      "url": "http://shein.com",
+      "originalURL": "shein.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.43,
+    "seo": 0.7,
+    "accessibility": 0.5,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4432.5894327523065,
+    "speedIndex": 15111.491399214992,
+    "largestContentfulPaint": 15330.250182548478,
+    "timeToInteractive": 23304.442522723097,
+    "totalBlockingTime": 3950.0000000000014,
+    "cumulativeLayoutShift": 0.29147200520833333
+  }
+]

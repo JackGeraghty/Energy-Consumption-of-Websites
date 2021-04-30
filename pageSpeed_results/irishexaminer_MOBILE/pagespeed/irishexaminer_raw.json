@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishexaminer",
+      "url": "http://irishexaminer.com",
+      "originalURL": "irishexaminer.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.61,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4613,
+    "speedIndex": 4617.1110042052605,
+    "largestContentfulPaint": 7770,
+    "timeToInteractive": 7261.5,
+    "totalBlockingTime": 297.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishexaminer",
+      "url": "http://irishexaminer.com",
+      "originalURL": "irishexaminer.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.61,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4730,
+    "speedIndex": 4730,
+    "largestContentfulPaint": 8865,
+    "timeToInteractive": 7155,
+    "totalBlockingTime": 214.5,
+    "cumulativeLayoutShift": 0.08483778211805555
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishexaminer",
+      "url": "http://irishexaminer.com",
+      "originalURL": "irishexaminer.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.61,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4512,
+    "speedIndex": 4512,
+    "largestContentfulPaint": 8205,
+    "timeToInteractive": 7071,
+    "totalBlockingTime": 223,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishexaminer",
+      "url": "http://irishexaminer.com",
+      "originalURL": "irishexaminer.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.61,
+    "seo": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4615,
+    "speedIndex": 4615,
+    "largestContentfulPaint": 7770,
+    "timeToInteractive": 7203.5,
+    "totalBlockingTime": 294,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishexaminer",
+      "url": "http://irishexaminer.com",
+      "originalURL": "irishexaminer.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.61,
+    "seo": 0.85,
+    "accessibility": 0.87,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4601,
+    "speedIndex": 4601,
+    "largestContentfulPaint": 5700,
+    "timeToInteractive": 5794.5,
+    "totalBlockingTime": 185,
+    "cumulativeLayoutShift": 0
+  }
+]

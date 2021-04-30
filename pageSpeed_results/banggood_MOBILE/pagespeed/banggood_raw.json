@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "banggood",
+      "url": "http://banggood.com",
+      "originalURL": "banggood.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6445.302078197945,
+    "speedIndex": 12180.257509200455,
+    "largestContentfulPaint": 8617.278071776971,
+    "timeToInteractive": 22238.98225710625,
+    "totalBlockingTime": 2756.0421542245276,
+    "cumulativeLayoutShift": 0.00277783203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "banggood",
+      "url": "http://banggood.com",
+      "originalURL": "banggood.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6401.020889873629,
+    "speedIndex": 8534.668889998553,
+    "largestContentfulPaint": 8837.056717397618,
+    "timeToInteractive": 21986.94502298621,
+    "totalBlockingTime": 2466.5000000000036,
+    "cumulativeLayoutShift": 0.003166286892361111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "banggood",
+      "url": "http://banggood.com",
+      "originalURL": "banggood.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6000.583587374276,
+    "speedIndex": 9087.293519302004,
+    "largestContentfulPaint": 8676.508910269986,
+    "timeToInteractive": 21387.121749999995,
+    "totalBlockingTime": 2076.499999999999,
+    "cumulativeLayoutShift": 0.00277783203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "banggood",
+      "url": "http://banggood.com",
+      "originalURL": "banggood.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6057.693436792741,
+    "speedIndex": 9384.250173144681,
+    "largestContentfulPaint": 8944.938333593764,
+    "timeToInteractive": 21852.803631026138,
+    "totalBlockingTime": 2626.3516772317544,
+    "cumulativeLayoutShift": 0.00277783203125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "banggood",
+      "url": "http://banggood.com",
+      "originalURL": "banggood.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.64,
+    "seo": 0.83,
+    "accessibility": null,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5961.330084895644,
+    "speedIndex": 8750.322432642874,
+    "largestContentfulPaint": 8705.336393055051,
+    "timeToInteractive": 21361.10493668582,
+    "totalBlockingTime": 1650.4999999999982,
+    "cumulativeLayoutShift": 0.003166286892361111
+  }
+]

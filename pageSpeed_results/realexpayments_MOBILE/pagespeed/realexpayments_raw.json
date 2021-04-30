@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "realexpayments",
+      "url": "http://realexpayments.com",
+      "originalURL": "realexpayments.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5655,
+    "speedIndex": 10148.064564647995,
+    "largestContentfulPaint": 6630,
+    "timeToInteractive": 15125,
+    "totalBlockingTime": 1967,
+    "cumulativeLayoutShift": 0.07031294759114583
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "realexpayments",
+      "url": "http://realexpayments.com",
+      "originalURL": "realexpayments.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5955,
+    "speedIndex": 9714.492038356067,
+    "largestContentfulPaint": 7080,
+    "timeToInteractive": 15508.5,
+    "totalBlockingTime": 2225.5,
+    "cumulativeLayoutShift": 0.2277579752604167
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "realexpayments",
+      "url": "http://realexpayments.com",
+      "originalURL": "realexpayments.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5655,
+    "speedIndex": 9343.762705273646,
+    "largestContentfulPaint": 6705,
+    "timeToInteractive": 15463.5,
+    "totalBlockingTime": 2072.5,
+    "cumulativeLayoutShift": 0.2277579752604167
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "realexpayments",
+      "url": "http://realexpayments.com",
+      "originalURL": "realexpayments.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5400,
+    "speedIndex": 10307.797324937597,
+    "largestContentfulPaint": 6630,
+    "timeToInteractive": 14751.5,
+    "totalBlockingTime": 1438,
+    "cumulativeLayoutShift": 0.2286773681640625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "realexpayments",
+      "url": "http://realexpayments.com",
+      "originalURL": "realexpayments.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.96,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5655,
+    "speedIndex": 9040.329383846592,
+    "largestContentfulPaint": 6630,
+    "timeToInteractive": 14676,
+    "totalBlockingTime": 1318.5,
+    "cumulativeLayoutShift": 0.2938150431315104
+  }
+]

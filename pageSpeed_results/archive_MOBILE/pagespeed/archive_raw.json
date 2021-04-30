@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "archive",
+      "url": "http://archive.org",
+      "originalURL": "archive.org"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6425,
+    "speedIndex": 9765.781952369704,
+    "largestContentfulPaint": 6520.5,
+    "timeToInteractive": 7366,
+    "totalBlockingTime": 415,
+    "cumulativeLayoutShift": 0.23228564453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "archive",
+      "url": "http://archive.org",
+      "originalURL": "archive.org"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6459,
+    "speedIndex": 8493.44977016601,
+    "largestContentfulPaint": 6616.5,
+    "timeToInteractive": 7524,
+    "totalBlockingTime": 596.5,
+    "cumulativeLayoutShift": 0.23228564453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "archive",
+      "url": "http://archive.org",
+      "originalURL": "archive.org"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6257,
+    "speedIndex": 7961.1190876923665,
+    "largestContentfulPaint": 6341,
+    "timeToInteractive": 7100,
+    "totalBlockingTime": 439.5,
+    "cumulativeLayoutShift": 0.23228564453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "archive",
+      "url": "http://archive.org",
+      "originalURL": "archive.org"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.46,
+    "seo": 0.77,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6696,
+    "speedIndex": 8888.488063336517,
+    "largestContentfulPaint": 6818,
+    "timeToInteractive": 7615,
+    "totalBlockingTime": 532.5,
+    "cumulativeLayoutShift": 0.23228564453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "archive",
+      "url": "http://archive.org",
+      "originalURL": "archive.org"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.46,
+    "seo": 0.85,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6273,
+    "speedIndex": 7832.255457102723,
+    "largestContentfulPaint": 6351.5,
+    "timeToInteractive": 7105,
+    "totalBlockingTime": 340.5,
+    "cumulativeLayoutShift": 0.23228564453125
+  }
+]

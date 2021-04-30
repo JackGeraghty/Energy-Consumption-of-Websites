@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "airbnb",
+      "url": "http://airbnb.ie",
+      "originalURL": "airbnb.ie"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2312,
+    "speedIndex": 7312.203933914148,
+    "largestContentfulPaint": 8640,
+    "timeToInteractive": 16270,
+    "totalBlockingTime": 2843.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "airbnb",
+      "url": "http://airbnb.ie",
+      "originalURL": "airbnb.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2312,
+    "speedIndex": 8072.838360542394,
+    "largestContentfulPaint": 8625,
+    "timeToInteractive": 16291,
+    "totalBlockingTime": 3004.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "airbnb",
+      "url": "http://airbnb.ie",
+      "originalURL": "airbnb.ie"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.29,
+    "seo": 1,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2311,
+    "speedIndex": 8743.63199190615,
+    "largestContentfulPaint": 8595,
+    "timeToInteractive": 16329,
+    "totalBlockingTime": 2838,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "airbnb",
+      "url": "http://airbnb.ie",
+      "originalURL": "airbnb.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2286,
+    "speedIndex": 8422.929128627693,
+    "largestContentfulPaint": 8685,
+    "timeToInteractive": 16099,
+    "totalBlockingTime": 2089,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "airbnb",
+      "url": "http://airbnb.ie",
+      "originalURL": "airbnb.ie"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2281,
+    "speedIndex": 7283.834304259301,
+    "largestContentfulPaint": 8520,
+    "timeToInteractive": 16078.5,
+    "totalBlockingTime": 1935,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4chan",
+      "url": "http://4chan.org",
+      "originalURL": "4chan.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 918.6914811762549,
+    "largestContentfulPaint": 711,
+    "timeToInteractive": 596,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4chan",
+      "url": "http://4chan.org",
+      "originalURL": "4chan.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 623,
+    "speedIndex": 997.8670821651913,
+    "largestContentfulPaint": 740,
+    "timeToInteractive": 663,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4chan",
+      "url": "http://4chan.org",
+      "originalURL": "4chan.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1116.801172452132,
+    "largestContentfulPaint": 740,
+    "timeToInteractive": 773,
+    "totalBlockingTime": 33,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4chan",
+      "url": "http://4chan.org",
+      "originalURL": "4chan.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 585,
+    "speedIndex": 1352.1706380289636,
+    "largestContentfulPaint": 724.5,
+    "timeToInteractive": 602,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "4chan",
+      "url": "http://4chan.org",
+      "originalURL": "4chan.org"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 570,
+    "speedIndex": 901.9435706680815,
+    "largestContentfulPaint": 853,
+    "timeToInteractive": 670,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0
+  }
+]

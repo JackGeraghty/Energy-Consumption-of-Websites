@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nflgamepass",
+      "url": "http://nflgamepass.com",
+      "originalURL": "nflgamepass.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1365.825667128424,
+    "largestContentfulPaint": 1670,
+    "timeToInteractive": 1180,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.8116472906633978
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nflgamepass",
+      "url": "http://nflgamepass.com",
+      "originalURL": "nflgamepass.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 720,
+    "speedIndex": 720,
+    "largestContentfulPaint": 1670,
+    "timeToInteractive": 720,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.6164907567930421
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nflgamepass",
+      "url": "http://nflgamepass.com",
+      "originalURL": "nflgamepass.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 950,
+    "speedIndex": 950,
+    "largestContentfulPaint": 1650,
+    "timeToInteractive": 950,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nflgamepass",
+      "url": "http://nflgamepass.com",
+      "originalURL": "nflgamepass.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 720,
+    "speedIndex": 720,
+    "largestContentfulPaint": 1650,
+    "timeToInteractive": 720,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.6001446528325016
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nflgamepass",
+      "url": "http://nflgamepass.com",
+      "originalURL": "nflgamepass.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 720,
+    "speedIndex": 720,
+    "largestContentfulPaint": 1750,
+    "timeToInteractive": 720,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.7400598896769109
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.75,
+    "seo": 0.78,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4195.414313478045,
+    "largestContentfulPaint": 3405,
+    "timeToInteractive": 7920,
+    "totalBlockingTime": 592,
+    "cumulativeLayoutShift": 0.00454141616821289
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.75,
+    "seo": 0.78,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4328.169499934592,
+    "largestContentfulPaint": 3405,
+    "timeToInteractive": 7971,
+    "totalBlockingTime": 659,
+    "cumulativeLayoutShift": 0.00454141616821289
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.75,
+    "seo": 0.78,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 4425.420800292631,
+    "largestContentfulPaint": 3405,
+    "timeToInteractive": 7957,
+    "totalBlockingTime": 738,
+    "cumulativeLayoutShift": 0.00454141616821289
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.75,
+    "seo": 0.78,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 4023.574580035208,
+    "largestContentfulPaint": 3075,
+    "timeToInteractive": 8121,
+    "totalBlockingTime": 834.5,
+    "cumulativeLayoutShift": 0.00454141616821289
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.75,
+    "seo": 0.78,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 3846.334863075869,
+    "largestContentfulPaint": 3405,
+    "timeToInteractive": 7970,
+    "totalBlockingTime": 799.5,
+    "cumulativeLayoutShift": 0.00454141616821289
+  }
+]

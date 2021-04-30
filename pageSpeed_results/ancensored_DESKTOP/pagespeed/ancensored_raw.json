@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ancensored",
+      "url": "http://ancensored.com",
+      "originalURL": "ancensored.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.11,
+    "seo": 0.91,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 915,
+    "speedIndex": 1520.1522639348912,
+    "largestContentfulPaint": 2829,
+    "timeToInteractive": 2468,
+    "totalBlockingTime": 64,
+    "cumulativeLayoutShift": 0.17197152963838544
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ancensored",
+      "url": "http://ancensored.com",
+      "originalURL": "ancensored.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.11,
+    "seo": 0.91,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 875,
+    "speedIndex": 1363.2650086382457,
+    "largestContentfulPaint": 1590,
+    "timeToInteractive": 2920,
+    "totalBlockingTime": 70,
+    "cumulativeLayoutShift": 0.1604341522925605
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ancensored",
+      "url": "http://ancensored.com",
+      "originalURL": "ancensored.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.11,
+    "seo": 0.91,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1095,
+    "speedIndex": 1522.0442798362417,
+    "largestContentfulPaint": 2819,
+    "timeToInteractive": 2478,
+    "totalBlockingTime": 69,
+    "cumulativeLayoutShift": 0.17237520649096694
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ancensored",
+      "url": "http://ancensored.com",
+      "originalURL": "ancensored.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.11,
+    "seo": 0.91,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 875,
+    "speedIndex": 1331.7661726831134,
+    "largestContentfulPaint": 1790,
+    "timeToInteractive": 2463,
+    "totalBlockingTime": 54,
+    "cumulativeLayoutShift": 0.16161834281878412
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ancensored",
+      "url": "http://ancensored.com",
+      "originalURL": "ancensored.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.11,
+    "seo": 0.91,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 915,
+    "speedIndex": 1534.744753322728,
+    "largestContentfulPaint": 2844.5,
+    "timeToInteractive": 2494,
+    "totalBlockingTime": 59.5,
+    "cumulativeLayoutShift": 0.17197152963838544
+  }
+]

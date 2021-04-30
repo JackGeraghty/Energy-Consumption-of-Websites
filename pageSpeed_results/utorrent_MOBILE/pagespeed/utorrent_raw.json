@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "utorrent",
+      "url": "http://utorrent.com",
+      "originalURL": "utorrent.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.5,
+    "seo": 0.87,
+    "accessibility": 0.53,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 6689,
+    "speedIndex": 8155.477682714147,
+    "largestContentfulPaint": 10198,
+    "timeToInteractive": 15827,
+    "totalBlockingTime": 242.5,
+    "cumulativeLayoutShift": 0.039965006510416665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "utorrent",
+      "url": "http://utorrent.com",
+      "originalURL": "utorrent.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.5,
+    "seo": 0.87,
+    "accessibility": 0.53,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 6401.5,
+    "speedIndex": 6853.058680482001,
+    "largestContentfulPaint": 8877,
+    "timeToInteractive": 13943.5,
+    "totalBlockingTime": 230,
+    "cumulativeLayoutShift": 0.11415771484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "utorrent",
+      "url": "http://utorrent.com",
+      "originalURL": "utorrent.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.5,
+    "seo": 0.87,
+    "accessibility": 0.53,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 6336,
+    "speedIndex": 6840.362423726305,
+    "largestContentfulPaint": 9367.5,
+    "timeToInteractive": 14250,
+    "totalBlockingTime": 227,
+    "cumulativeLayoutShift": 0.11415771484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "utorrent",
+      "url": "http://utorrent.com",
+      "originalURL": "utorrent.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.5,
+    "seo": 0.87,
+    "accessibility": 0.53,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 6588,
+    "speedIndex": 7561.755874310687,
+    "largestContentfulPaint": 8812,
+    "timeToInteractive": 13974.5,
+    "totalBlockingTime": 190.5,
+    "cumulativeLayoutShift": 0.039965006510416665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "utorrent",
+      "url": "http://utorrent.com",
+      "originalURL": "utorrent.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.5,
+    "seo": 0.87,
+    "accessibility": 0.53,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 6554.5,
+    "speedIndex": 7329.567873795442,
+    "largestContentfulPaint": 9279,
+    "timeToInteractive": 14113.5,
+    "totalBlockingTime": 255,
+    "cumulativeLayoutShift": 0.11415771484375
+  }
+]

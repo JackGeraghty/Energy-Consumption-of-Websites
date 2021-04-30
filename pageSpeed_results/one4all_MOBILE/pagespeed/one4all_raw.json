@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "one4all",
+      "url": "http://one4all.ie",
+      "originalURL": "one4all.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.29,
+    "seo": 0.89,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 2908.340128019333,
+    "largestContentfulPaint": 5850,
+    "timeToInteractive": 11816.5,
+    "totalBlockingTime": 170,
+    "cumulativeLayoutShift": 0.38284931098090275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "one4all",
+      "url": "http://one4all.ie",
+      "originalURL": "one4all.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.29,
+    "seo": 0.89,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 11495.434252825367,
+    "largestContentfulPaint": 5685,
+    "timeToInteractive": 19568,
+    "totalBlockingTime": 935,
+    "cumulativeLayoutShift": 0.9460007595486113
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "one4all",
+      "url": "http://one4all.ie",
+      "originalURL": "one4all.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.29,
+    "seo": 0.89,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 2820,
+    "largestContentfulPaint": 5760,
+    "timeToInteractive": 15275.5,
+    "totalBlockingTime": 344.5,
+    "cumulativeLayoutShift": 0.5034743109809028
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "one4all",
+      "url": "http://one4all.ie",
+      "originalURL": "one4all.ie"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.29,
+    "seo": 0.89,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 2820,
+    "largestContentfulPaint": 5670,
+    "timeToInteractive": 14781.5,
+    "totalBlockingTime": 202.5,
+    "cumulativeLayoutShift": 0.49851337348090274
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "one4all",
+      "url": "http://one4all.ie",
+      "originalURL": "one4all.ie"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.29,
+    "seo": 0.89,
+    "accessibility": 0.92,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 2820,
+    "largestContentfulPaint": 5925,
+    "timeToInteractive": 15346,
+    "totalBlockingTime": 250.5,
+    "cumulativeLayoutShift": 0.38284931098090275
+  }
+]

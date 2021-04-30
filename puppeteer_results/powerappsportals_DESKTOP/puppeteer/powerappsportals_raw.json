@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "powerappsportals",
+      "url": "http://powerappsportals.com",
+      "originalURL": "powerappsportals.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 779,
+    "decodedBodySize": 779,
+    "transferSize": 958,
+    "resourcesList": [
+      [
+        "http://powerappsportals.com/",
+        958,
+        779,
+        779,
+        0.039955
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "powerappsportals",
+      "url": "http://powerappsportals.com",
+      "originalURL": "powerappsportals.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 755,
+    "decodedBodySize": 755,
+    "transferSize": 934,
+    "resourcesList": [
+      [
+        "http://powerappsportals.com/",
+        934,
+        755,
+        755,
+        0.040291
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "powerappsportals",
+      "url": "http://powerappsportals.com",
+      "originalURL": "powerappsportals.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 755,
+    "decodedBodySize": 755,
+    "transferSize": 934,
+    "resourcesList": [
+      [
+        "http://powerappsportals.com/",
+        934,
+        755,
+        755,
+        0.041601
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "powerappsportals",
+      "url": "http://powerappsportals.com",
+      "originalURL": "powerappsportals.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 755,
+    "decodedBodySize": 755,
+    "transferSize": 934,
+    "resourcesList": [
+      [
+        "http://powerappsportals.com/",
+        934,
+        755,
+        755,
+        0.039412
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "powerappsportals",
+      "url": "http://powerappsportals.com",
+      "originalURL": "powerappsportals.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 755,
+    "decodedBodySize": 755,
+    "transferSize": 934,
+    "resourcesList": [
+      [
+        "http://powerappsportals.com/",
+        934,
+        755,
+        755,
+        0.038294
+      ]
+    ]
+  }
+]

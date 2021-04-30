@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.5,
+    "seo": 0.91,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 2640,
+    "largestContentfulPaint": 5625,
+    "timeToInteractive": 5767.5,
+    "totalBlockingTime": 127.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.5,
+    "seo": 0.91,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 3367.5063405314963,
+    "largestContentfulPaint": 3495,
+    "timeToInteractive": 6281,
+    "totalBlockingTime": 287.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.5,
+    "seo": 0.91,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 3166.1681297376226,
+    "largestContentfulPaint": 2940,
+    "timeToInteractive": 5891.5,
+    "totalBlockingTime": 198.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.5,
+    "seo": 0.91,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 2957.399658336971,
+    "largestContentfulPaint": 3495,
+    "timeToInteractive": 6346.5,
+    "totalBlockingTime": 351,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.5,
+    "seo": 0.91,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2640,
+    "speedIndex": 3159.7749414365044,
+    "largestContentfulPaint": 3495,
+    "timeToInteractive": 6293,
+    "totalBlockingTime": 303.5,
+    "cumulativeLayoutShift": 0
+  }
+]

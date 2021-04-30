@@ -1,0 +1,93 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3135,
+    "speedIndex": 12483.576416124706,
+    "largestContentfulPaint": 22215,
+    "timeToInteractive": 16185,
+    "totalBlockingTime": 268.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3135,
+    "speedIndex": 10695.274951036505,
+    "timeToInteractive": 16133,
+    "totalBlockingTime": 349.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3135,
+    "speedIndex": 12567.567587682759,
+    "timeToInteractive": 15944,
+    "totalBlockingTime": 172.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3135,
+    "speedIndex": 12791.472061968601,
+    "timeToInteractive": 16088,
+    "totalBlockingTime": 209,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3135,
+    "speedIndex": 12680.276310549074,
+    "timeToInteractive": 16113,
+    "totalBlockingTime": 160,
+    "cumulativeLayoutShift": 0
+  }
+]

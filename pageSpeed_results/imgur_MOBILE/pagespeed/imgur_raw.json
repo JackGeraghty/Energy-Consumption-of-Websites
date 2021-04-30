@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imgur",
+      "url": "http://imgur.com",
+      "originalURL": "imgur.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.92,
+    "seo": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 9943.785605046336,
+    "largestContentfulPaint": 10404.5,
+    "timeToInteractive": 26210,
+    "totalBlockingTime": 1979,
+    "cumulativeLayoutShift": 0.7345191446940106
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imgur",
+      "url": "http://imgur.com",
+      "originalURL": "imgur.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.92,
+    "seo": 0.79,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 8042.27421503239,
+    "largestContentfulPaint": 10657.5,
+    "timeToInteractive": 15305,
+    "totalBlockingTime": 1344.5,
+    "cumulativeLayoutShift": 0.7345191446940106
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imgur",
+      "url": "http://imgur.com",
+      "originalURL": "imgur.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.92,
+    "seo": 0.79,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 5904,
+    "speedIndex": 9920.064668087607,
+    "largestContentfulPaint": 13690.5,
+    "timeToInteractive": 17642.5,
+    "totalBlockingTime": 1338.5,
+    "cumulativeLayoutShift": 0.7345191446940106
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imgur",
+      "url": "http://imgur.com",
+      "originalURL": "imgur.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.92,
+    "seo": 0.79,
+    "accessibility": 0.84,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 7968.406301556646,
+    "largestContentfulPaint": 10717,
+    "timeToInteractive": 13377.5,
+    "totalBlockingTime": 1142,
+    "cumulativeLayoutShift": 0.7322676255967883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imgur",
+      "url": "http://imgur.com",
+      "originalURL": "imgur.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.92,
+    "seo": 0.77,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2370,
+    "speedIndex": 10207.705521401655,
+    "largestContentfulPaint": 11012.248308297287,
+    "timeToInteractive": 24039.47211157262,
+    "totalBlockingTime": 2134.5,
+    "cumulativeLayoutShift": 0.11753672281901038
+  }
+]

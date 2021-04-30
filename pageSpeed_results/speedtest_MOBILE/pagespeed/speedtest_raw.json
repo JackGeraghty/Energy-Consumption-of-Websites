@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "speedtest",
+      "url": "http://speedtest.net",
+      "originalURL": "speedtest.net"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.21,
+    "seo": 0.94,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3090,
+    "speedIndex": 6547.226758849106,
+    "largestContentfulPaint": 9480,
+    "timeToInteractive": 13225,
+    "totalBlockingTime": 2815,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "speedtest",
+      "url": "http://speedtest.net",
+      "originalURL": "speedtest.net"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.21,
+    "seo": 0.94,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3090,
+    "speedIndex": 6551.290661010674,
+    "largestContentfulPaint": 9480,
+    "timeToInteractive": 13360,
+    "totalBlockingTime": 2898.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "speedtest",
+      "url": "http://speedtest.net",
+      "originalURL": "speedtest.net"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.21,
+    "seo": 0.94,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3092.265111923218,
+    "speedIndex": 4483.237412920227,
+    "largestContentfulPaint": 9480,
+    "timeToInteractive": 13327,
+    "totalBlockingTime": 2794,
+    "cumulativeLayoutShift": 0.1264833984375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "speedtest",
+      "url": "http://speedtest.net",
+      "originalURL": "speedtest.net"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.21,
+    "seo": 0.94,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3090,
+    "speedIndex": 4859.047250399996,
+    "largestContentfulPaint": 9555,
+    "timeToInteractive": 13143.5,
+    "totalBlockingTime": 2670.5,
+    "cumulativeLayoutShift": 0.1264833984375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "speedtest",
+      "url": "http://speedtest.net",
+      "originalURL": "speedtest.net"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.21,
+    "seo": 0.94,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3092.265111923218,
+    "speedIndex": 4413.678468128343,
+    "largestContentfulPaint": 11795,
+    "timeToInteractive": 14881,
+    "totalBlockingTime": 4526.5,
+    "cumulativeLayoutShift": 0
+  }
+]

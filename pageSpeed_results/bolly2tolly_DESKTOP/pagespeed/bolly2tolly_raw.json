@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bolly2tolly",
+      "url": "http://bolly2tolly.com",
+      "originalURL": "bolly2tolly.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 880,
+    "speedIndex": 1588.7490651557173,
+    "largestContentfulPaint": 1835,
+    "timeToInteractive": 880,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.12062007413244609
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bolly2tolly",
+      "url": "http://bolly2tolly.com",
+      "originalURL": "bolly2tolly.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 880,
+    "speedIndex": 1609.7188206557435,
+    "largestContentfulPaint": 1835,
+    "timeToInteractive": 880,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.12062007413244609
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bolly2tolly",
+      "url": "http://bolly2tolly.com",
+      "originalURL": "bolly2tolly.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 880,
+    "speedIndex": 1542.3167226620712,
+    "largestContentfulPaint": 1815,
+    "timeToInteractive": 880,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.12062007413244609
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bolly2tolly",
+      "url": "http://bolly2tolly.com",
+      "originalURL": "bolly2tolly.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 820,
+    "speedIndex": 1501.4366411662497,
+    "largestContentfulPaint": 1700,
+    "timeToInteractive": 820,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.12057526544669178
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bolly2tolly",
+      "url": "http://bolly2tolly.com",
+      "originalURL": "bolly2tolly.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.76,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 880,
+    "speedIndex": 1552.2072056880693,
+    "largestContentfulPaint": 1835,
+    "timeToInteractive": 880,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.12179153022210548
+  }
+]

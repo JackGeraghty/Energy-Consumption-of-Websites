@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 274,
+    "decodedBodySize": 274,
+    "transferSize": 554,
+    "resourcesList": [
+      [
+        "https://www.ea.com/en-gb/",
+        554,
+        274,
+        274,
+        0.024747
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 274,
+    "decodedBodySize": 274,
+    "transferSize": 554,
+    "resourcesList": [
+      [
+        "https://www.ea.com/en-gb/",
+        554,
+        274,
+        274,
+        0.025693
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 274,
+    "decodedBodySize": 274,
+    "transferSize": 554,
+    "resourcesList": [
+      [
+        "https://www.ea.com/en-gb/",
+        554,
+        274,
+        274,
+        0.025048
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 274,
+    "decodedBodySize": 274,
+    "transferSize": 554,
+    "resourcesList": [
+      [
+        "https://www.ea.com/en-gb/",
+        554,
+        274,
+        274,
+        0.025582
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 274,
+    "decodedBodySize": 274,
+    "transferSize": 554,
+    "resourcesList": [
+      [
+        "https://www.ea.com/en-gb/",
+        554,
+        274,
+        274,
+        0.026221
+      ]
+    ]
+  }
+]

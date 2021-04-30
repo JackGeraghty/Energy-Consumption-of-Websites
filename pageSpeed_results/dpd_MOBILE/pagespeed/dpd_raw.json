@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.21,
+    "seo": 0.72,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 13773,
+    "largestContentfulPaint": 16380,
+    "timeToInteractive": 26147.5,
+    "totalBlockingTime": 856,
+    "cumulativeLayoutShift": 0.0025899522569444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.21,
+    "seo": 0.72,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 13806.5,
+    "largestContentfulPaint": 20899,
+    "timeToInteractive": 25690,
+    "totalBlockingTime": 767.5,
+    "cumulativeLayoutShift": 0.0025767686631944444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.21,
+    "seo": 0.72,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 14083.5,
+    "largestContentfulPaint": 21614,
+    "timeToInteractive": 26153,
+    "totalBlockingTime": 680.5,
+    "cumulativeLayoutShift": 0.0025767686631944444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.21,
+    "seo": 0.72,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 14070,
+    "largestContentfulPaint": 24761,
+    "timeToInteractive": 28382,
+    "totalBlockingTime": 1978.5,
+    "cumulativeLayoutShift": 0.0025767686631944444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dpd",
+      "url": "http://dpd.ie",
+      "originalURL": "dpd.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.21,
+    "seo": 0.72,
+    "accessibility": null,
+    "bestPractices": null,
+    "firstContentfulPaint": 14040.5,
+    "largestContentfulPaint": 23378,
+    "timeToInteractive": 26709,
+    "totalBlockingTime": 1212.5,
+    "cumulativeLayoutShift": 0.0025767686631944444
+  }
+]

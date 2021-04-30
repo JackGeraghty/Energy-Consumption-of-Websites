@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fitbit",
+      "url": "http://fitbit.com",
+      "originalURL": "fitbit.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.67,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7371.5,
+    "speedIndex": 9327.244239191927,
+    "largestContentfulPaint": 15093,
+    "timeToInteractive": 20072.5,
+    "totalBlockingTime": 1781.5,
+    "cumulativeLayoutShift": 0.03874131944444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fitbit",
+      "url": "http://fitbit.com",
+      "originalURL": "fitbit.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.67,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7446.5,
+    "speedIndex": 12083.857687410153,
+    "largestContentfulPaint": 14852,
+    "timeToInteractive": 20827.5,
+    "totalBlockingTime": 1906,
+    "cumulativeLayoutShift": 0.03867629665798611
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fitbit",
+      "url": "http://fitbit.com",
+      "originalURL": "fitbit.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.67,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7605.5,
+    "speedIndex": 10040.076241888924,
+    "largestContentfulPaint": 15194,
+    "timeToInteractive": 19981.5,
+    "totalBlockingTime": 1795.5,
+    "cumulativeLayoutShift": 0.03874131944444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fitbit",
+      "url": "http://fitbit.com",
+      "originalURL": "fitbit.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.67,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 9285,
+    "speedIndex": 11327.68376624515,
+    "largestContentfulPaint": 14943,
+    "timeToInteractive": 20963,
+    "totalBlockingTime": 1825,
+    "cumulativeLayoutShift": 0.038374945746527785
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fitbit",
+      "url": "http://fitbit.com",
+      "originalURL": "fitbit.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.67,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 8362,
+    "speedIndex": 10197.412315548612,
+    "largestContentfulPaint": 14666,
+    "timeToInteractive": 20338,
+    "totalBlockingTime": 1533.5,
+    "cumulativeLayoutShift": 0.036796875
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 531630,
+    "decodedBodySize": 1596223,
+    "transferSize": 535542,
+    "resourcesList": [
+      [
+        "https://www.ecosia.org/",
+        9032,
+        8121,
+        30439,
+        0.329998
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/a0e9519c111e2e864c14.css",
+        11926,
+        11517,
+        66066,
+        0.329998
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/e3d899403b982e46af0f.js",
+        340323,
+        339821,
+        1229821,
+        0.329998
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/img/741ebdf.webp",
+        73197,
+        72906,
+        72906,
+        0.329998
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/7c3bc1f.woff2",
+        28118,
+        27552,
+        27552,
+        0.329998
+      ],
+      [
+        "https://analytics.ecosia.org/analytics.js",
+        16849,
+        16510,
+        61332,
+        0.329998
+      ],
+      [
+        "https://api.ecosia.org/v1/trees/count",
+        72,
+        33,
+        33,
+        0.329998
+      ],
+      [
+        "https://api.ecosia.org/v1/notifications?language=en&limit=3&market=en-us&browser=ios",
+        781,
+        509,
+        1205,
+        0.329998
+      ],
+      [
+        "https://ps.ecosia.org/FVh3ot2zPwDMi43LjI.js",
+        27241,
+        26917,
+        79125,
+        0.329998
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/4e711b3.woff2",
+        28003,
+        27744,
+        27744,
+        0.329998
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 531630,
+    "decodedBodySize": 1596223,
+    "transferSize": 535516,
+    "resourcesList": [
+      [
+        "https://www.ecosia.org/",
+        9023,
+        8121,
+        30439,
+        0.331634
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/a0e9519c111e2e864c14.css",
+        11926,
+        11517,
+        66066,
+        0.331634
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/e3d899403b982e46af0f.js",
+        340297,
+        339821,
+        1229821,
+        0.331634
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/img/741ebdf.webp",
+        73207,
+        72906,
+        72906,
+        0.331634
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/7c3bc1f.woff2",
+        28117,
+        27552,
+        27552,
+        0.331634
+      ],
+      [
+        "https://analytics.ecosia.org/analytics.js",
+        16850,
+        16510,
+        61332,
+        0.331634
+      ],
+      [
+        "https://api.ecosia.org/v1/trees/count",
+        291,
+        33,
+        33,
+        0.331634
+      ],
+      [
+        "https://api.ecosia.org/v1/notifications?language=en&limit=3&market=en-us&browser=ios",
+        553,
+        509,
+        1205,
+        0.331634
+      ],
+      [
+        "https://ps.ecosia.org/FVh3ot2zPwDMi43LjI.js",
+        27249,
+        26917,
+        79125,
+        0.331634
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/4e711b3.woff2",
+        28003,
+        27744,
+        27744,
+        0.331634
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 531687,
+    "decodedBodySize": 1596223,
+    "transferSize": 535550,
+    "resourcesList": [
+      [
+        "https://www.ecosia.org/",
+        9079,
+        8178,
+        30439,
+        0.332707
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/a0e9519c111e2e864c14.css",
+        11927,
+        11517,
+        66066,
+        0.332707
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/e3d899403b982e46af0f.js",
+        340287,
+        339821,
+        1229821,
+        0.332707
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/img/741ebdf.webp",
+        73205,
+        72906,
+        72906,
+        0.332707
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/7c3bc1f.woff2",
+        28107,
+        27552,
+        27552,
+        0.332707
+      ],
+      [
+        "https://analytics.ecosia.org/analytics.js",
+        16849,
+        16510,
+        61332,
+        0.332707
+      ],
+      [
+        "https://api.ecosia.org/v1/trees/count",
+        63,
+        33,
+        33,
+        0.332707
+      ],
+      [
+        "https://api.ecosia.org/v1/notifications?language=en&limit=3&market=en-us&browser=ios",
+        781,
+        509,
+        1205,
+        0.332707
+      ],
+      [
+        "https://ps.ecosia.org/FVh3ot2zPwDMi43LjI.js",
+        27249,
+        26917,
+        79125,
+        0.332707
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/4e711b3.woff2",
+        28003,
+        27744,
+        27744,
+        0.332707
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 531646,
+    "decodedBodySize": 1596223,
+    "transferSize": 535539,
+    "resourcesList": [
+      [
+        "https://www.ecosia.org/",
+        9039,
+        8137,
+        30439,
+        0.32492
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/a0e9519c111e2e864c14.css",
+        11926,
+        11517,
+        66066,
+        0.32492
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/e3d899403b982e46af0f.js",
+        340324,
+        339821,
+        1229821,
+        0.32492
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/img/741ebdf.webp",
+        73198,
+        72906,
+        72906,
+        0.32492
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/7c3bc1f.woff2",
+        28109,
+        27552,
+        27552,
+        0.32492
+      ],
+      [
+        "https://analytics.ecosia.org/analytics.js",
+        16848,
+        16510,
+        61332,
+        0.32492
+      ],
+      [
+        "https://api.ecosia.org/v1/trees/count",
+        291,
+        33,
+        33,
+        0.32492
+      ],
+      [
+        "https://api.ecosia.org/v1/notifications?language=en&limit=3&market=en-us&browser=ios",
+        553,
+        509,
+        1205,
+        0.32492
+      ],
+      [
+        "https://ps.ecosia.org/FVh3ot2zPwDMi43LjI.js",
+        27248,
+        26917,
+        79125,
+        0.32492
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/4e711b3.woff2",
+        28003,
+        27744,
+        27744,
+        0.32492
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ecosia",
+      "url": "http://ecosia.org",
+      "originalURL": "ecosia.org"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 531630,
+    "decodedBodySize": 1596223,
+    "transferSize": 535551,
+    "resourcesList": [
+      [
+        "https://www.ecosia.org/",
+        9031,
+        8121,
+        30439,
+        0.328001
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/a0e9519c111e2e864c14.css",
+        11926,
+        11517,
+        66066,
+        0.328001
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/e3d899403b982e46af0f.js",
+        340323,
+        339821,
+        1229821,
+        0.328001
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/img/741ebdf.webp",
+        73207,
+        72906,
+        72906,
+        0.328001
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/7c3bc1f.woff2",
+        28118,
+        27552,
+        27552,
+        0.328001
+      ],
+      [
+        "https://analytics.ecosia.org/analytics.js",
+        16848,
+        16510,
+        61332,
+        0.328001
+      ],
+      [
+        "https://api.ecosia.org/v1/trees/count",
+        63,
+        33,
+        33,
+        0.328001
+      ],
+      [
+        "https://api.ecosia.org/v1/notifications?language=en&limit=3&market=en-us&browser=ios",
+        781,
+        509,
+        1205,
+        0.328001
+      ],
+      [
+        "https://ps.ecosia.org/FVh3ot2zPwDMi43LjI.js",
+        27250,
+        26917,
+        79125,
+        0.328001
+      ],
+      [
+        "https://cdn-indexpage.ecosia.org/fonts/4e711b3.woff2",
+        28004,
+        27744,
+        27744,
+        0.328001
+      ]
+    ]
+  }
+]

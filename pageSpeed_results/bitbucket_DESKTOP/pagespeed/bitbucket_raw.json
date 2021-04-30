@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbucket",
+      "url": "http://bitbucket.org",
+      "originalURL": "bitbucket.org"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3243,
+    "speedIndex": 3243,
+    "largestContentfulPaint": 4225,
+    "timeToInteractive": 4962,
+    "totalBlockingTime": 231,
+    "cumulativeLayoutShift": 0.1439256597495841
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbucket",
+      "url": "http://bitbucket.org",
+      "originalURL": "bitbucket.org"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1390,
+    "speedIndex": 2331.1773853295804,
+    "largestContentfulPaint": 1660,
+    "timeToInteractive": 5630.5,
+    "totalBlockingTime": 1792,
+    "cumulativeLayoutShift": 0.010284945276245513
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbucket",
+      "url": "http://bitbucket.org",
+      "originalURL": "bitbucket.org"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1610,
+    "speedIndex": 2113.871751033181,
+    "largestContentfulPaint": 4195,
+    "timeToInteractive": 4818,
+    "totalBlockingTime": 307.5,
+    "cumulativeLayoutShift": 0.1439256597495841
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbucket",
+      "url": "http://bitbucket.org",
+      "originalURL": "bitbucket.org"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2558,
+    "speedIndex": 2609.225220813812,
+    "largestContentfulPaint": 4143,
+    "timeToInteractive": 4721,
+    "totalBlockingTime": 218,
+    "cumulativeLayoutShift": 0.1439256597495841
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbucket",
+      "url": "http://bitbucket.org",
+      "originalURL": "bitbucket.org"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3153,
+    "speedIndex": 3153,
+    "largestContentfulPaint": 4176,
+    "timeToInteractive": 5145,
+    "totalBlockingTime": 188.5,
+    "cumulativeLayoutShift": 0.1439256597495841
+  }
+]

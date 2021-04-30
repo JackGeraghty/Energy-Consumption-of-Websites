@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1550,
+    "speedIndex": 3351.617057330841,
+    "largestContentfulPaint": 7395,
+    "timeToInteractive": 4039,
+    "totalBlockingTime": 214,
+    "cumulativeLayoutShift": 0.02217618305460701
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1555.5,
+    "speedIndex": 3239.2776920396423,
+    "largestContentfulPaint": 7055,
+    "timeToInteractive": 5406,
+    "totalBlockingTime": 266,
+    "cumulativeLayoutShift": 0.004668317426962029
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1569,
+    "speedIndex": 3268.959926706969,
+    "largestContentfulPaint": 7050,
+    "timeToInteractive": 5080,
+    "totalBlockingTime": 261,
+    "cumulativeLayoutShift": 0.004668317426962029
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1550,
+    "speedIndex": 3120.6123056042015,
+    "largestContentfulPaint": 7125,
+    "timeToInteractive": 3628.5,
+    "totalBlockingTime": 201,
+    "cumulativeLayoutShift": 0.004668317426962029
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1566,
+    "speedIndex": 3249.3614431318665,
+    "largestContentfulPaint": 7015,
+    "timeToInteractive": 5153,
+    "totalBlockingTime": 275.5,
+    "cumulativeLayoutShift": 0.004668317426962029
+  }
+]

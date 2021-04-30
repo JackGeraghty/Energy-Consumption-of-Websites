@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "emigrantas",
+      "url": "http://emigrantas.tv",
+      "originalURL": "emigrantas.tv"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.36,
+    "seo": 0.67,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2933,
+    "speedIndex": 2933,
+    "largestContentfulPaint": 2933,
+    "timeToInteractive": 2933,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "emigrantas",
+      "url": "http://emigrantas.tv",
+      "originalURL": "emigrantas.tv"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.36,
+    "seo": 0.67,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2822,
+    "speedIndex": 2822,
+    "largestContentfulPaint": 2822,
+    "timeToInteractive": 2822,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "emigrantas",
+      "url": "http://emigrantas.tv",
+      "originalURL": "emigrantas.tv"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.36,
+    "seo": 0.67,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2937,
+    "speedIndex": 2937,
+    "largestContentfulPaint": 2937,
+    "timeToInteractive": 2937,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "emigrantas",
+      "url": "http://emigrantas.tv",
+      "originalURL": "emigrantas.tv"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.36,
+    "seo": 0.67,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3115,
+    "speedIndex": 3115,
+    "largestContentfulPaint": 3115,
+    "timeToInteractive": 3115,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "emigrantas",
+      "url": "http://emigrantas.tv",
+      "originalURL": "emigrantas.tv"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.36,
+    "seo": 0.67,
+    "accessibility": 0.57,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2837,
+    "speedIndex": 2837,
+    "largestContentfulPaint": 2837,
+    "timeToInteractive": 2837,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0
+  }
+]

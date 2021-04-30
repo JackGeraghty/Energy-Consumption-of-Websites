@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supercoloring",
+      "url": "http://supercoloring.com",
+      "originalURL": "supercoloring.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.14,
+    "seo": 0.77,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5698.5,
+    "speedIndex": 8778.44687385399,
+    "largestContentfulPaint": 6645,
+    "timeToInteractive": 22047.5,
+    "totalBlockingTime": 3018.5,
+    "cumulativeLayoutShift": 0.05474236933589021
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supercoloring",
+      "url": "http://supercoloring.com",
+      "originalURL": "supercoloring.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.14,
+    "seo": 0.77,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5724.5,
+    "speedIndex": 7689.829795516805,
+    "largestContentfulPaint": 6120,
+    "timeToInteractive": 21688.5,
+    "totalBlockingTime": 3391.5,
+    "cumulativeLayoutShift": 0.047344625473128274
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supercoloring",
+      "url": "http://supercoloring.com",
+      "originalURL": "supercoloring.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.14,
+    "seo": 0.77,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5717,
+    "speedIndex": 9012.145337256705,
+    "largestContentfulPaint": 7890,
+    "timeToInteractive": 22985.5,
+    "totalBlockingTime": 3725.5,
+    "cumulativeLayoutShift": 0.047344625473128274
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supercoloring",
+      "url": "http://supercoloring.com",
+      "originalURL": "supercoloring.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.14,
+    "seo": 0.77,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5783,
+    "speedIndex": 9009.271868639686,
+    "largestContentfulPaint": 6360,
+    "timeToInteractive": 22742,
+    "totalBlockingTime": 3428,
+    "cumulativeLayoutShift": 0.04735224294862346
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supercoloring",
+      "url": "http://supercoloring.com",
+      "originalURL": "supercoloring.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.14,
+    "seo": 0.77,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5712.5,
+    "speedIndex": 8659.031829756199,
+    "largestContentfulPaint": 6555,
+    "timeToInteractive": 23340,
+    "totalBlockingTime": 4304,
+    "cumulativeLayoutShift": 0.04739621880435009
+  }
+]

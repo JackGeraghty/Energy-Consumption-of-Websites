@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "did",
+      "url": "http://did.ie",
+      "originalURL": "did.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.21,
+    "seo": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6525,
+    "speedIndex": 8106.207248255973,
+    "largestContentfulPaint": 19065,
+    "timeToInteractive": 14926.5,
+    "totalBlockingTime": 839.5,
+    "cumulativeLayoutShift": 0.11972234429253473
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "did",
+      "url": "http://did.ie",
+      "originalURL": "did.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.21,
+    "seo": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 7620,
+    "speedIndex": 8231.217660810304,
+    "largestContentfulPaint": 18990,
+    "timeToInteractive": 14817.5,
+    "totalBlockingTime": 880.5,
+    "cumulativeLayoutShift": 0.25907953559027774
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "did",
+      "url": "http://did.ie",
+      "originalURL": "did.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 7305,
+    "speedIndex": 7955.637061646135,
+    "largestContentfulPaint": 21465,
+    "timeToInteractive": 15326,
+    "totalBlockingTime": 1178.5,
+    "cumulativeLayoutShift": 0.4265251600477431
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "did",
+      "url": "http://did.ie",
+      "originalURL": "did.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 7620,
+    "speedIndex": 8170.191198308473,
+    "largestContentfulPaint": 18990,
+    "timeToInteractive": 14533.5,
+    "totalBlockingTime": 753.5,
+    "cumulativeLayoutShift": 0.11360150824652777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "did",
+      "url": "http://did.ie",
+      "originalURL": "did.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.63,
+    "accessibility": 0.76,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6567,
+    "speedIndex": 7779.760478557495,
+    "largestContentfulPaint": 18990,
+    "timeToInteractive": 14830,
+    "totalBlockingTime": 1037,
+    "cumulativeLayoutShift": 0.10815116373697917
+  }
+]

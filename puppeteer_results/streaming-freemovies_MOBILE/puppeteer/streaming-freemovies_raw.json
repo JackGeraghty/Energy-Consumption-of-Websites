@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "streaming-freemovies",
+      "url": "http://streaming-freemovies.com",
+      "originalURL": "streaming-freemovies.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 1,
+    "decodedBodySize": 0,
+    "transferSize": 700,
+    "resourcesList": [
+      [
+        "https://streaming-freemovies.com/",
+        700,
+        1,
+        0,
+        0.015027
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "streaming-freemovies",
+      "url": "http://streaming-freemovies.com",
+      "originalURL": "streaming-freemovies.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 1,
+    "decodedBodySize": 0,
+    "transferSize": 698,
+    "resourcesList": [
+      [
+        "https://streaming-freemovies.com/",
+        698,
+        1,
+        0,
+        0.016912
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "streaming-freemovies",
+      "url": "http://streaming-freemovies.com",
+      "originalURL": "streaming-freemovies.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 1,
+    "decodedBodySize": 0,
+    "transferSize": 697,
+    "resourcesList": [
+      [
+        "https://streaming-freemovies.com/",
+        697,
+        1,
+        0,
+        0.014898
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "streaming-freemovies",
+      "url": "http://streaming-freemovies.com",
+      "originalURL": "streaming-freemovies.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 1,
+    "decodedBodySize": 0,
+    "transferSize": 696,
+    "resourcesList": [
+      [
+        "https://streaming-freemovies.com/",
+        696,
+        1,
+        0,
+        0.016133
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "streaming-freemovies",
+      "url": "http://streaming-freemovies.com",
+      "originalURL": "streaming-freemovies.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 1,
+    "decodedBodySize": 0,
+    "transferSize": 696,
+    "resourcesList": [
+      [
+        "https://streaming-freemovies.com/",
+        696,
+        1,
+        0,
+        0.014147
+      ]
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsdirect",
+      "url": "http://sportsdirect.com",
+      "originalURL": "sportsdirect.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1144,
+    "speedIndex": 1546.42116132501,
+    "largestContentfulPaint": 1965,
+    "timeToInteractive": 2828.5,
+    "totalBlockingTime": 188,
+    "cumulativeLayoutShift": 0.9030496453900708
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsdirect",
+      "url": "http://sportsdirect.com",
+      "originalURL": "sportsdirect.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1112.5,
+    "speedIndex": 1457.1219797103463,
+    "largestContentfulPaint": 1936,
+    "timeToInteractive": 2901,
+    "totalBlockingTime": 111,
+    "cumulativeLayoutShift": 0.600354609929078
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsdirect",
+      "url": "http://sportsdirect.com",
+      "originalURL": "sportsdirect.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1123,
+    "speedIndex": 1572.176718854856,
+    "largestContentfulPaint": 1950,
+    "timeToInteractive": 2822,
+    "totalBlockingTime": 114,
+    "cumulativeLayoutShift": 0.600354609929078
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsdirect",
+      "url": "http://sportsdirect.com",
+      "originalURL": "sportsdirect.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1115.5,
+    "speedIndex": 1382.7462669247027,
+    "largestContentfulPaint": 1622,
+    "timeToInteractive": 2625.5,
+    "totalBlockingTime": 97,
+    "cumulativeLayoutShift": 0.600354609929078
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportsdirect",
+      "url": "http://sportsdirect.com",
+      "originalURL": "sportsdirect.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1122,
+    "speedIndex": 1421.7605620705585,
+    "largestContentfulPaint": 2415,
+    "timeToInteractive": 2554,
+    "totalBlockingTime": 148,
+    "cumulativeLayoutShift": 0.9030496453900708
+  }
+]

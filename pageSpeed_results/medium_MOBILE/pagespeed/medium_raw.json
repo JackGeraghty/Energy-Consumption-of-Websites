@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "medium",
+      "url": "http://medium.com",
+      "originalURL": "medium.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.18,
+    "seo": 0.96,
+    "accessibility": 0.94,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2550,
+    "speedIndex": 8952.008301934742,
+    "largestContentfulPaint": 10872,
+    "timeToInteractive": 11656,
+    "totalBlockingTime": 3506,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "medium",
+      "url": "http://medium.com",
+      "originalURL": "medium.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.18,
+    "seo": 0.96,
+    "accessibility": 0.94,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2385,
+    "speedIndex": 6740.367689077397,
+    "largestContentfulPaint": 10110,
+    "timeToInteractive": 10629.5,
+    "totalBlockingTime": 2181.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "medium",
+      "url": "http://medium.com",
+      "originalURL": "medium.com"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.18,
+    "seo": 0.96,
+    "accessibility": 0.94,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2550,
+    "speedIndex": 8275.064240780684,
+    "largestContentfulPaint": 10412,
+    "timeToInteractive": 11631,
+    "totalBlockingTime": 3815,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "medium",
+      "url": "http://medium.com",
+      "originalURL": "medium.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.18,
+    "seo": 0.96,
+    "accessibility": 0.94,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2550,
+    "speedIndex": 8909.436492832723,
+    "largestContentfulPaint": 11381.5,
+    "timeToInteractive": 11509.5,
+    "totalBlockingTime": 3071.5,
+    "cumulativeLayoutShift": 0.00289044189453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "medium",
+      "url": "http://medium.com",
+      "originalURL": "medium.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.18,
+    "seo": 0.96,
+    "accessibility": 0.94,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2550,
+    "speedIndex": 7937.727982235703,
+    "largestContentfulPaint": 10227.5,
+    "timeToInteractive": 10835.5,
+    "totalBlockingTime": 2266,
+    "cumulativeLayoutShift": 0
+  }
+]

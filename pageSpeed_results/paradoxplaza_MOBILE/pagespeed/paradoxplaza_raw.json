@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paradoxplaza",
+      "url": "http://paradoxplaza.com",
+      "originalURL": "paradoxplaza.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4592.5,
+    "speedIndex": 7499.0740294744455,
+    "largestContentfulPaint": 13872.5,
+    "timeToInteractive": 22282,
+    "totalBlockingTime": 1693,
+    "cumulativeLayoutShift": 0.00024981011284722223
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paradoxplaza",
+      "url": "http://paradoxplaza.com",
+      "originalURL": "paradoxplaza.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4587.5,
+    "speedIndex": 7870.377686402881,
+    "largestContentfulPaint": 14675,
+    "timeToInteractive": 21825.5,
+    "totalBlockingTime": 1682,
+    "cumulativeLayoutShift": 0.0002973090277777778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paradoxplaza",
+      "url": "http://paradoxplaza.com",
+      "originalURL": "paradoxplaza.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4333,
+    "speedIndex": 8825.777657614937,
+    "largestContentfulPaint": 13527.5,
+    "timeToInteractive": 21777.5,
+    "totalBlockingTime": 1339.5,
+    "cumulativeLayoutShift": 0.00029730902777777774
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paradoxplaza",
+      "url": "http://paradoxplaza.com",
+      "originalURL": "paradoxplaza.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4587,
+    "speedIndex": 7754.210577194631,
+    "largestContentfulPaint": 13669.5,
+    "timeToInteractive": 22101,
+    "totalBlockingTime": 1364,
+    "cumulativeLayoutShift": 0.0002973090277777778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "paradoxplaza",
+      "url": "http://paradoxplaza.com",
+      "originalURL": "paradoxplaza.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4588,
+    "speedIndex": 11921.169291900198,
+    "largestContentfulPaint": 13667.5,
+    "timeToInteractive": 28331,
+    "totalBlockingTime": 4346.5,
+    "cumulativeLayoutShift": 0.0002973090277777778
+  }
+]

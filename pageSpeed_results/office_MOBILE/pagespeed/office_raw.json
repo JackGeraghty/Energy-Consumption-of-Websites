@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com",
+      "originalURL": "office.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 4396.6634658462235,
+    "largestContentfulPaint": 5808,
+    "timeToInteractive": 6315,
+    "totalBlockingTime": 227.5,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com",
+      "originalURL": "office.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 4044.390176260843,
+    "largestContentfulPaint": 5606,
+    "timeToInteractive": 6211.5,
+    "totalBlockingTime": 204,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com",
+      "originalURL": "office.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3720,
+    "largestContentfulPaint": 5768,
+    "timeToInteractive": 6365.5,
+    "totalBlockingTime": 177,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com",
+      "originalURL": "office.com"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3820.21434321909,
+    "largestContentfulPaint": 4770,
+    "timeToInteractive": 6306,
+    "totalBlockingTime": 215,
+    "cumulativeLayoutShift": 0.2875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "office",
+      "url": "http://office.com",
+      "originalURL": "office.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": null,
+    "seo": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3720,
+    "speedIndex": 3720,
+    "largestContentfulPaint": 6170,
+    "timeToInteractive": 6395,
+    "totalBlockingTime": 195,
+    "cumulativeLayoutShift": 0.2875
+  }
+]

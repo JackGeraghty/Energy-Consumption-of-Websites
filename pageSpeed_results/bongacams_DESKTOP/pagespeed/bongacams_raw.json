@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bongacams",
+      "url": "http://bongacams.com",
+      "originalURL": "bongacams.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.3,
+    "seo": 0.75,
+    "accessibility": 0.54,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 764,
+    "speedIndex": 1304.8623573264501,
+    "largestContentfulPaint": 2736,
+    "timeToInteractive": 3403.5,
+    "totalBlockingTime": 478.5,
+    "cumulativeLayoutShift": 0.3087378816799463
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bongacams",
+      "url": "http://bongacams.com",
+      "originalURL": "bongacams.com"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.3,
+    "seo": 0.75,
+    "accessibility": 0.54,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 760,
+    "speedIndex": 1389.3188326122468,
+    "largestContentfulPaint": 2681.5,
+    "timeToInteractive": 3158.5,
+    "totalBlockingTime": 323.5,
+    "cumulativeLayoutShift": 0.30882278726322854
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bongacams",
+      "url": "http://bongacams.com",
+      "originalURL": "bongacams.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.3,
+    "seo": 0.83,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 763,
+    "speedIndex": 1374.4741005073035,
+    "largestContentfulPaint": 2728,
+    "timeToInteractive": 3462,
+    "totalBlockingTime": 430.5,
+    "cumulativeLayoutShift": 0.3110991471850101
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bongacams",
+      "url": "http://bongacams.com",
+      "originalURL": "bongacams.com"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.3,
+    "seo": 0.83,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 762,
+    "speedIndex": 1190.770127728601,
+    "largestContentfulPaint": 2727,
+    "timeToInteractive": 3299.5,
+    "totalBlockingTime": 364.5,
+    "cumulativeLayoutShift": 0.3110717450310831
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bongacams",
+      "url": "http://bongacams.com",
+      "originalURL": "bongacams.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.3,
+    "seo": 0.83,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 765,
+    "speedIndex": 1376.254974341215,
+    "largestContentfulPaint": 2732,
+    "timeToInteractive": 3487.5,
+    "totalBlockingTime": 461,
+    "cumulativeLayoutShift": 0.3110717450310831
+  }
+]

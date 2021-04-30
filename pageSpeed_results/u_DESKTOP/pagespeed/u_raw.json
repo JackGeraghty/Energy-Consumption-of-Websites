@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "u",
+      "url": "http://u.gg",
+      "originalURL": "u.gg"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1040,
+    "speedIndex": 2738.5994544058203,
+    "largestContentfulPaint": 4210,
+    "timeToInteractive": 4361,
+    "totalBlockingTime": 730.5,
+    "cumulativeLayoutShift": 0.021065429180165192
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "u",
+      "url": "http://u.gg",
+      "originalURL": "u.gg"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 970,
+    "speedIndex": 2449.155053514134,
+    "largestContentfulPaint": 4175,
+    "timeToInteractive": 4360,
+    "totalBlockingTime": 560,
+    "cumulativeLayoutShift": 0.020498946385313604
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "u",
+      "url": "http://u.gg",
+      "originalURL": "u.gg"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 970,
+    "speedIndex": 2462.3544983769625,
+    "largestContentfulPaint": 4175,
+    "timeToInteractive": 4337,
+    "totalBlockingTime": 560,
+    "cumulativeLayoutShift": 0.020498946385313604
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "u",
+      "url": "http://u.gg",
+      "originalURL": "u.gg"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2420.696654605376,
+    "largestContentfulPaint": 4419.5,
+    "timeToInteractive": 4734,
+    "totalBlockingTime": 451,
+    "cumulativeLayoutShift": 0.020641911099436708
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "u",
+      "url": "http://u.gg",
+      "originalURL": "u.gg"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.71,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1040,
+    "speedIndex": 2545.509910119665,
+    "largestContentfulPaint": 4195,
+    "timeToInteractive": 4345,
+    "totalBlockingTime": 640,
+    "cumulativeLayoutShift": 0.01956752823745732
+  }
+]

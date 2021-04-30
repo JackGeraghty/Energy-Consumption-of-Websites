@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abebooks",
+      "url": "http://abebooks.co.uk",
+      "originalURL": "abebooks.co.uk"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.46,
+    "seo": 0.86,
+    "accessibility": 0.83,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 3248.5502948348767,
+    "largestContentfulPaint": 5025,
+    "timeToInteractive": 4755,
+    "totalBlockingTime": 77.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abebooks",
+      "url": "http://abebooks.co.uk",
+      "originalURL": "abebooks.co.uk"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.46,
+    "seo": 0.86,
+    "accessibility": 0.83,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 3532.129179078521,
+    "largestContentfulPaint": 5100,
+    "timeToInteractive": 4894,
+    "totalBlockingTime": 147,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abebooks",
+      "url": "http://abebooks.co.uk",
+      "originalURL": "abebooks.co.uk"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.46,
+    "seo": 0.86,
+    "accessibility": 0.83,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 3385.883361626503,
+    "largestContentfulPaint": 5400,
+    "timeToInteractive": 4864,
+    "totalBlockingTime": 132,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abebooks",
+      "url": "http://abebooks.co.uk",
+      "originalURL": "abebooks.co.uk"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.46,
+    "seo": 0.86,
+    "accessibility": 0.83,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 3891.804899339543,
+    "largestContentfulPaint": 5325,
+    "timeToInteractive": 4913,
+    "totalBlockingTime": 156.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abebooks",
+      "url": "http://abebooks.co.uk",
+      "originalURL": "abebooks.co.uk"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.46,
+    "seo": 0.86,
+    "accessibility": 0.83,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 3120,
+    "largestContentfulPaint": 5025,
+    "timeToInteractive": 4780,
+    "totalBlockingTime": 90,
+    "cumulativeLayoutShift": 0
+  }
+]

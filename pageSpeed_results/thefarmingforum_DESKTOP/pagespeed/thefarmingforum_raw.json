@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thefarmingforum",
+      "url": "http://thefarmingforum.co.uk",
+      "originalURL": "thefarmingforum.co.uk"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 704.5,
+    "speedIndex": 2131.6576302467593,
+    "largestContentfulPaint": 2812,
+    "timeToInteractive": 4808,
+    "totalBlockingTime": 164,
+    "cumulativeLayoutShift": 0.5718978775939061
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thefarmingforum",
+      "url": "http://thefarmingforum.co.uk",
+      "originalURL": "thefarmingforum.co.uk"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 702,
+    "speedIndex": 2176.950649791507,
+    "largestContentfulPaint": 2600,
+    "timeToInteractive": 4677,
+    "totalBlockingTime": 179.5,
+    "cumulativeLayoutShift": 0.5260858062633161
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thefarmingforum",
+      "url": "http://thefarmingforum.co.uk",
+      "originalURL": "thefarmingforum.co.uk"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 704.5,
+    "speedIndex": 2279.506079481044,
+    "largestContentfulPaint": 2877,
+    "timeToInteractive": 4789,
+    "totalBlockingTime": 153,
+    "cumulativeLayoutShift": 0.5718978775939061
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thefarmingforum",
+      "url": "http://thefarmingforum.co.uk",
+      "originalURL": "thefarmingforum.co.uk"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 702,
+    "speedIndex": 2078.029785584398,
+    "largestContentfulPaint": 2921.5,
+    "timeToInteractive": 4785.5,
+    "totalBlockingTime": 248,
+    "cumulativeLayoutShift": 0.5718978775939061
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thefarmingforum",
+      "url": "http://thefarmingforum.co.uk",
+      "originalURL": "thefarmingforum.co.uk"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 708.5,
+    "speedIndex": 1988.3077870281309,
+    "largestContentfulPaint": 2844,
+    "timeToInteractive": 4688,
+    "totalBlockingTime": 234,
+    "cumulativeLayoutShift": 0.5718978775939061
+  }
+]

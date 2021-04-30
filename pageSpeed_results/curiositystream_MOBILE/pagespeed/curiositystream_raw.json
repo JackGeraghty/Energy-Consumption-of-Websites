@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.21,
+    "seo": 0.9,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2047.5,
+    "speedIndex": 12893.266687318457,
+    "largestContentfulPaint": 26761.5,
+    "timeToInteractive": 24762.5,
+    "totalBlockingTime": 4931.5,
+    "cumulativeLayoutShift": 0.0125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.9,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2362,
+    "speedIndex": 14398.782067945445,
+    "largestContentfulPaint": 25865.5,
+    "timeToInteractive": 23976.5,
+    "totalBlockingTime": 4428,
+    "cumulativeLayoutShift": 0.0125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.21,
+    "seo": 0.9,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1911.5,
+    "speedIndex": 11719.290687148983,
+    "largestContentfulPaint": 25941,
+    "timeToInteractive": 23857,
+    "totalBlockingTime": 4486.5,
+    "cumulativeLayoutShift": 0.0125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.9,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2360,
+    "speedIndex": 13009.725188800523,
+    "largestContentfulPaint": 26237.5,
+    "timeToInteractive": 23679.5,
+    "totalBlockingTime": 4471,
+    "cumulativeLayoutShift": 0.0125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.9,
+    "accessibility": 0.54,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2047,
+    "speedIndex": 17672.566731535087,
+    "largestContentfulPaint": 26468,
+    "timeToInteractive": 24715,
+    "totalBlockingTime": 5043,
+    "cumulativeLayoutShift": 0.0125
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamestop",
+      "url": "http://gamestop.ie",
+      "originalURL": "gamestop.ie"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 11173.998813543263,
+    "largestContentfulPaint": 21105,
+    "timeToInteractive": 18063.5,
+    "totalBlockingTime": 670,
+    "cumulativeLayoutShift": 0.44297607421874996
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamestop",
+      "url": "http://gamestop.ie",
+      "originalURL": "gamestop.ie"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 13258.385935571578,
+    "largestContentfulPaint": 29338.5,
+    "timeToInteractive": 22864.5,
+    "totalBlockingTime": 954.5,
+    "cumulativeLayoutShift": 1.0270686848958333
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamestop",
+      "url": "http://gamestop.ie",
+      "originalURL": "gamestop.ie"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 12186.852533303874,
+    "largestContentfulPaint": 28500,
+    "timeToInteractive": 21885,
+    "totalBlockingTime": 635.5,
+    "cumulativeLayoutShift": 0.9079795057508682
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamestop",
+      "url": "http://gamestop.ie",
+      "originalURL": "gamestop.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 13458.058352937442,
+    "largestContentfulPaint": 29295,
+    "timeToInteractive": 22893,
+    "totalBlockingTime": 869,
+    "cumulativeLayoutShift": 1.0213432617187501
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamestop",
+      "url": "http://gamestop.ie",
+      "originalURL": "gamestop.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.77,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 13752.79534559876,
+    "largestContentfulPaint": 30350,
+    "timeToInteractive": 23057.5,
+    "totalBlockingTime": 1357.5,
+    "cumulativeLayoutShift": 0.7064270019531249
+  }
+]

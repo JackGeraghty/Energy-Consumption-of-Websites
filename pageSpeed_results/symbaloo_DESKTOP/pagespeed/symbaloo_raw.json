@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "symbaloo",
+      "url": "http://symbaloo.com",
+      "originalURL": "symbaloo.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.44,
+    "seo": 0.7,
+    "accessibility": 0.44,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1590,
+    "speedIndex": 1590,
+    "largestContentfulPaint": 3290,
+    "timeToInteractive": 2324,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.1254316592860853
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "symbaloo",
+      "url": "http://symbaloo.com",
+      "originalURL": "symbaloo.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.44,
+    "seo": 0.7,
+    "accessibility": 0.44,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1590,
+    "speedIndex": 1631.661151405037,
+    "largestContentfulPaint": 3313.5,
+    "timeToInteractive": 2368,
+    "totalBlockingTime": 99.5,
+    "cumulativeLayoutShift": 0.12539534547818756
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "symbaloo",
+      "url": "http://symbaloo.com",
+      "originalURL": "symbaloo.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.44,
+    "seo": 0.7,
+    "accessibility": 0.44,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1590,
+    "speedIndex": 1810.44659610682,
+    "largestContentfulPaint": 2840,
+    "timeToInteractive": 2382,
+    "totalBlockingTime": 118.5,
+    "cumulativeLayoutShift": 0.003314149435809492
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "symbaloo",
+      "url": "http://symbaloo.com",
+      "originalURL": "symbaloo.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.44,
+    "seo": 0.7,
+    "accessibility": 0.44,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1590,
+    "speedIndex": 1590,
+    "largestContentfulPaint": 2745,
+    "timeToInteractive": 2313,
+    "totalBlockingTime": 4,
+    "cumulativeLayoutShift": 0.04135760972825324
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "symbaloo",
+      "url": "http://symbaloo.com",
+      "originalURL": "symbaloo.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.44,
+    "seo": 0.7,
+    "accessibility": 0.44,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1590,
+    "speedIndex": 1613.3211604447772,
+    "largestContentfulPaint": 3332,
+    "timeToInteractive": 2365,
+    "totalBlockingTime": 82,
+    "cumulativeLayoutShift": 0.12539534547818756
+  }
+]

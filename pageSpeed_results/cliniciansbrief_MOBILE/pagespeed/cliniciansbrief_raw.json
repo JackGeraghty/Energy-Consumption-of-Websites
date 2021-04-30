@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cliniciansbrief",
+      "url": "http://cliniciansbrief.com",
+      "originalURL": "cliniciansbrief.com"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.21,
+    "seo": 0.83,
+    "accessibility": 0.59,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9919,
+    "speedIndex": 25224.44140197274,
+    "largestContentfulPaint": 27420,
+    "timeToInteractive": 36674.5,
+    "totalBlockingTime": 1790.5,
+    "cumulativeLayoutShift": 0.35440345594618056
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cliniciansbrief",
+      "url": "http://cliniciansbrief.com",
+      "originalURL": "cliniciansbrief.com"
+    },
+    "performance": 0.02,
+    "progressiveWebApp": 0.21,
+    "seo": 0.83,
+    "accessibility": 0.59,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 10133,
+    "speedIndex": 26165.892318852904,
+    "largestContentfulPaint": 26310,
+    "timeToInteractive": 36107,
+    "totalBlockingTime": 2017,
+    "cumulativeLayoutShift": 0.34613708496093754
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cliniciansbrief",
+      "url": "http://cliniciansbrief.com",
+      "originalURL": "cliniciansbrief.com"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.21,
+    "seo": 0.83,
+    "accessibility": 0.59,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 10016,
+    "speedIndex": 26369.035024847075,
+    "largestContentfulPaint": 28155,
+    "timeToInteractive": 36745.5,
+    "totalBlockingTime": 1817,
+    "cumulativeLayoutShift": 0.34613708496093754
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cliniciansbrief",
+      "url": "http://cliniciansbrief.com",
+      "originalURL": "cliniciansbrief.com"
+    },
+    "performance": 0.03,
+    "progressiveWebApp": 0.21,
+    "seo": 0.83,
+    "accessibility": 0.59,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9862,
+    "speedIndex": 25497.64233532496,
+    "largestContentfulPaint": 23205,
+    "timeToInteractive": 35389,
+    "totalBlockingTime": 2094,
+    "cumulativeLayoutShift": 0.23350737847222222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cliniciansbrief",
+      "url": "http://cliniciansbrief.com",
+      "originalURL": "cliniciansbrief.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.21,
+    "seo": 0.83,
+    "accessibility": 0.59,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9901,
+    "speedIndex": 29369.04748147584,
+    "largestContentfulPaint": 27270,
+    "timeToInteractive": 35743,
+    "totalBlockingTime": 1160.5,
+    "cumulativeLayoutShift": 0.35440345594618056
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1509.2416574801669,
+    "largestContentfulPaint": 1940,
+    "timeToInteractive": 2716,
+    "totalBlockingTime": 144,
+    "cumulativeLayoutShift": 0.0007208242127075855
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1592.5906544690797,
+    "largestContentfulPaint": 2033,
+    "timeToInteractive": 2702,
+    "totalBlockingTime": 101.5,
+    "cumulativeLayoutShift": 0.0007208242127075855
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1438,
+    "speedIndex": 1610.63801515179,
+    "largestContentfulPaint": 1920,
+    "timeToInteractive": 1458,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0007208242127075855
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1606,
+    "speedIndex": 1606,
+    "largestContentfulPaint": 2109,
+    "timeToInteractive": 2610,
+    "totalBlockingTime": 103.5,
+    "cumulativeLayoutShift": 0.0007208242127075855
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1395.2612588566049,
+    "largestContentfulPaint": 1860,
+    "timeToInteractive": 2620.5,
+    "totalBlockingTime": 97.5,
+    "cumulativeLayoutShift": 0.0007208242127075855
+  }
+]

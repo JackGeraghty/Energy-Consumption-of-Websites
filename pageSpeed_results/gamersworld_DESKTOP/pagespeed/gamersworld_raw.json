@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamersworld",
+      "url": "http://gamersworld.ie",
+      "originalURL": "gamersworld.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1554.5,
+    "speedIndex": 3265.7786452758637,
+    "largestContentfulPaint": 2232,
+    "timeToInteractive": 1554.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07425108309254883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamersworld",
+      "url": "http://gamersworld.ie",
+      "originalURL": "gamersworld.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1551.5,
+    "speedIndex": 3134.662515936279,
+    "largestContentfulPaint": 2248,
+    "timeToInteractive": 1665,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07425108309254883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamersworld",
+      "url": "http://gamersworld.ie",
+      "originalURL": "gamersworld.ie"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1557,
+    "speedIndex": 3758.556105699886,
+    "largestContentfulPaint": 2145,
+    "timeToInteractive": 1665,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07425108309254883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamersworld",
+      "url": "http://gamersworld.ie",
+      "originalURL": "gamersworld.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1535,
+    "speedIndex": 3116.118857229908,
+    "largestContentfulPaint": 2205,
+    "timeToInteractive": 1685,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07425108309254883
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamersworld",
+      "url": "http://gamersworld.ie",
+      "originalURL": "gamersworld.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1557,
+    "speedIndex": 3171.093858207858,
+    "largestContentfulPaint": 2150.5,
+    "timeToInteractive": 1665,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07425108309254883
+  }
+]

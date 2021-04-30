@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.07,
+    "seo": 0.92,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 619,
+    "speedIndex": 2930.1629310463068,
+    "largestContentfulPaint": 3202,
+    "timeToInteractive": 6117.5,
+    "totalBlockingTime": 792,
+    "cumulativeLayoutShift": 0.13842138750255376
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.07,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 880,
+    "speedIndex": 3007.607237591701,
+    "largestContentfulPaint": 3023,
+    "timeToInteractive": 6409.5,
+    "totalBlockingTime": 787,
+    "cumulativeLayoutShift": 0.13842138750255376
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.07,
+    "seo": 0.92,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 880,
+    "speedIndex": 2844.646877825556,
+    "largestContentfulPaint": 2940.5,
+    "timeToInteractive": 6004,
+    "totalBlockingTime": 471.5,
+    "cumulativeLayoutShift": 0.13842138750255376
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.07,
+    "seo": 0.92,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 880,
+    "speedIndex": 2990.043382828697,
+    "largestContentfulPaint": 3222,
+    "timeToInteractive": 6156.5,
+    "totalBlockingTime": 832.5,
+    "cumulativeLayoutShift": 0.13842138750255376
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.07,
+    "seo": 0.92,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 932,
+    "speedIndex": 3029.768076106274,
+    "largestContentfulPaint": 3271,
+    "timeToInteractive": 6510,
+    "totalBlockingTime": 771,
+    "cumulativeLayoutShift": 0.1398775075153956
+  }
+]

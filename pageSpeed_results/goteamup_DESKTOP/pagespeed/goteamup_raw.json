@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goteamup",
+      "url": "http://goteamup.com",
+      "originalURL": "goteamup.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 920,
+    "speedIndex": 1031.073572842649,
+    "largestContentfulPaint": 1135,
+    "timeToInteractive": 1606,
+    "totalBlockingTime": 10.5,
+    "cumulativeLayoutShift": 0.013568841023844964
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goteamup",
+      "url": "http://goteamup.com",
+      "originalURL": "goteamup.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 962.8444864005805,
+    "largestContentfulPaint": 1015,
+    "timeToInteractive": 1583,
+    "totalBlockingTime": 6.5,
+    "cumulativeLayoutShift": 0.013568841023844964
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goteamup",
+      "url": "http://goteamup.com",
+      "originalURL": "goteamup.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 920,
+    "speedIndex": 920,
+    "largestContentfulPaint": 1630,
+    "timeToInteractive": 1610,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0.013568841023844964
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goteamup",
+      "url": "http://goteamup.com",
+      "originalURL": "goteamup.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 920,
+    "speedIndex": 1220.427014271811,
+    "largestContentfulPaint": 1030,
+    "timeToInteractive": 1614,
+    "totalBlockingTime": 17.5,
+    "cumulativeLayoutShift": 0.013568841023844964
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "goteamup",
+      "url": "http://goteamup.com",
+      "originalURL": "goteamup.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 800,
+    "speedIndex": 955.8095425369187,
+    "largestContentfulPaint": 1015,
+    "timeToInteractive": 1603,
+    "totalBlockingTime": 16.5,
+    "cumulativeLayoutShift": 0.013568841023844964
+  }
+]

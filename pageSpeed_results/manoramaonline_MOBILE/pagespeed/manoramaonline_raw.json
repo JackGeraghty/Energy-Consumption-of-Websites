@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "manoramaonline",
+      "url": "http://manoramaonline.com",
+      "originalURL": "manoramaonline.com"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.75,
+    "seo": 0.84,
+    "accessibility": 0.65,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 4476,
+    "speedIndex": 7907.017879765901,
+    "largestContentfulPaint": 11783,
+    "timeToInteractive": 19802,
+    "totalBlockingTime": 1580,
+    "cumulativeLayoutShift": 0.34170981174045145
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "manoramaonline",
+      "url": "http://manoramaonline.com",
+      "originalURL": "manoramaonline.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.75,
+    "seo": 0.84,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4482,
+    "speedIndex": 7321.848521634526,
+    "largestContentfulPaint": 10682,
+    "timeToInteractive": 19569,
+    "totalBlockingTime": 1551.5,
+    "cumulativeLayoutShift": 0.34170981174045145
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "manoramaonline",
+      "url": "http://manoramaonline.com",
+      "originalURL": "manoramaonline.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.75,
+    "seo": 0.84,
+    "accessibility": 0.65,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 4455,
+    "speedIndex": 8337.231016805395,
+    "largestContentfulPaint": 10671,
+    "timeToInteractive": 21194.5,
+    "totalBlockingTime": 2136.5,
+    "cumulativeLayoutShift": 0.2792911919487847
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "manoramaonline",
+      "url": "http://manoramaonline.com",
+      "originalURL": "manoramaonline.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.75,
+    "seo": 0.84,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4473,
+    "speedIndex": 7840.99382024634,
+    "largestContentfulPaint": 15037.5,
+    "timeToInteractive": 20297.5,
+    "totalBlockingTime": 1708,
+    "cumulativeLayoutShift": 0.34170981174045145
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "manoramaonline",
+      "url": "http://manoramaonline.com",
+      "originalURL": "manoramaonline.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.75,
+    "seo": 0.84,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 4511,
+    "speedIndex": 8634.426677717842,
+    "largestContentfulPaint": 15140,
+    "timeToInteractive": 20051,
+    "totalBlockingTime": 2534,
+    "cumulativeLayoutShift": 0.34170981174045145
+  }
+]

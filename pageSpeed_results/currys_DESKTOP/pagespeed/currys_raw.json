@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "currys",
+      "url": "http://currys.ie",
+      "originalURL": "currys.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.76,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1201,
+    "speedIndex": 2454.7828561652227,
+    "largestContentfulPaint": 2822,
+    "timeToInteractive": 3367,
+    "totalBlockingTime": 94.5,
+    "cumulativeLayoutShift": 0.038618280360738985
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "currys",
+      "url": "http://currys.ie",
+      "originalURL": "currys.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.76,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1175,
+    "speedIndex": 2016.735073265987,
+    "largestContentfulPaint": 2767,
+    "timeToInteractive": 3392,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.038618280360738985
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "currys",
+      "url": "http://currys.ie",
+      "originalURL": "currys.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.76,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1183,
+    "speedIndex": 1890.403814034075,
+    "largestContentfulPaint": 1927.1069259643555,
+    "timeToInteractive": 3398,
+    "totalBlockingTime": 72,
+    "cumulativeLayoutShift": 0.11657533841169776
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "currys",
+      "url": "http://currys.ie",
+      "originalURL": "currys.ie"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.76,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1189,
+    "speedIndex": 2678.9744973443344,
+    "largestContentfulPaint": 4075,
+    "timeToInteractive": 3425,
+    "totalBlockingTime": 84,
+    "cumulativeLayoutShift": 0.038618280360738985
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "currys",
+      "url": "http://currys.ie",
+      "originalURL": "currys.ie"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.76,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1171,
+    "speedIndex": 1611.683827909075,
+    "largestContentfulPaint": 2573,
+    "timeToInteractive": 3368,
+    "totalBlockingTime": 70.5,
+    "cumulativeLayoutShift": 0.03861342614482094
+  }
+]

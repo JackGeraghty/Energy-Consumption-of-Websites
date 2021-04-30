@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "screwfix",
+      "url": "http://screwfix.ie",
+      "originalURL": "screwfix.ie"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.68,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2747.1942862965698,
+    "largestContentfulPaint": 2025,
+    "timeToInteractive": 1971,
+    "totalBlockingTime": 17,
+    "cumulativeLayoutShift": 0.028723112395295215
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "screwfix",
+      "url": "http://screwfix.ie",
+      "originalURL": "screwfix.ie"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.68,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2349.98583198796,
+    "largestContentfulPaint": 1845.5,
+    "timeToInteractive": 1957,
+    "totalBlockingTime": 21.5,
+    "cumulativeLayoutShift": 0.028208078685462455
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "screwfix",
+      "url": "http://screwfix.ie",
+      "originalURL": "screwfix.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.68,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2425.4049554179705,
+    "largestContentfulPaint": 2063.5,
+    "timeToInteractive": 2202,
+    "totalBlockingTime": 35,
+    "cumulativeLayoutShift": 0.031496199398768354
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "screwfix",
+      "url": "http://screwfix.ie",
+      "originalURL": "screwfix.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.68,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2396.6759924658595,
+    "largestContentfulPaint": 1839.5,
+    "timeToInteractive": 2180.5,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0.03070503108309255
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "screwfix",
+      "url": "http://screwfix.ie",
+      "originalURL": "screwfix.ie"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.68,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2532.64604720394,
+    "largestContentfulPaint": 1853,
+    "timeToInteractive": 1968,
+    "totalBlockingTime": 27.5,
+    "cumulativeLayoutShift": 0.031496199398768354
+  }
+]

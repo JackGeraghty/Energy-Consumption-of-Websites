@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eneba",
+      "url": "http://eneba.com",
+      "originalURL": "eneba.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.37,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 840,
+    "speedIndex": 3554.7650989694193,
+    "largestContentfulPaint": 3841.5,
+    "timeToInteractive": 3924,
+    "totalBlockingTime": 489,
+    "cumulativeLayoutShift": 0.0009909581764585703
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eneba",
+      "url": "http://eneba.com",
+      "originalURL": "eneba.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.37,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 3583.812370824936,
+    "largestContentfulPaint": 3927.5,
+    "timeToInteractive": 4174,
+    "totalBlockingTime": 639,
+    "cumulativeLayoutShift": 0.0009909581764585703
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eneba",
+      "url": "http://eneba.com",
+      "originalURL": "eneba.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.37,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2753.860409024166,
+    "largestContentfulPaint": 3804.5,
+    "timeToInteractive": 4036.5,
+    "totalBlockingTime": 520,
+    "cumulativeLayoutShift": 0.0009909581764585703
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eneba",
+      "url": "http://eneba.com",
+      "originalURL": "eneba.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.37,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2629.5977599782063,
+    "largestContentfulPaint": 3848,
+    "timeToInteractive": 4261.5,
+    "totalBlockingTime": 652,
+    "cumulativeLayoutShift": 0.0009909581764585703
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eneba",
+      "url": "http://eneba.com",
+      "originalURL": "eneba.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.37,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 840,
+    "speedIndex": 2669.227047332934,
+    "largestContentfulPaint": 3930,
+    "timeToInteractive": 4188,
+    "totalBlockingTime": 580.5,
+    "cumulativeLayoutShift": 0.0009909581764585703
+  }
+]

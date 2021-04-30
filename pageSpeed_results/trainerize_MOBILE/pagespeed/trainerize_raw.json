@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trainerize",
+      "url": "http://trainerize.com",
+      "originalURL": "trainerize.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.95,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4380,
+    "speedIndex": 6791.310616164957,
+    "largestContentfulPaint": 10080,
+    "timeToInteractive": 14445,
+    "totalBlockingTime": 2131,
+    "cumulativeLayoutShift": 0.0847136027018229
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trainerize",
+      "url": "http://trainerize.com",
+      "originalURL": "trainerize.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5340,
+    "speedIndex": 7082.963935205991,
+    "largestContentfulPaint": 10860,
+    "timeToInteractive": 14747,
+    "totalBlockingTime": 2009,
+    "cumulativeLayoutShift": 0.0847136027018229
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trainerize",
+      "url": "http://trainerize.com",
+      "originalURL": "trainerize.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4380,
+    "speedIndex": 6002.0378319257725,
+    "largestContentfulPaint": 9465,
+    "timeToInteractive": 14810.5,
+    "totalBlockingTime": 2796,
+    "cumulativeLayoutShift": 0.08428114827473959
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trainerize",
+      "url": "http://trainerize.com",
+      "originalURL": "trainerize.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5490,
+    "speedIndex": 9015.530179738333,
+    "largestContentfulPaint": 11164,
+    "timeToInteractive": 16187,
+    "totalBlockingTime": 6087.5,
+    "cumulativeLayoutShift": 0.04104384358723959
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trainerize",
+      "url": "http://trainerize.com",
+      "originalURL": "trainerize.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.25,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5340,
+    "speedIndex": 6632.444576301742,
+    "largestContentfulPaint": 9960,
+    "timeToInteractive": 14695.5,
+    "totalBlockingTime": 2071,
+    "cumulativeLayoutShift": 0.04147629801432291
+  }
+]

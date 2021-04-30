@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "parliament",
+      "url": "http://parliament.uk",
+      "originalURL": "parliament.uk"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1295,
+    "speedIndex": 1483.9956657841026,
+    "largestContentfulPaint": 1335,
+    "timeToInteractive": 3094,
+    "totalBlockingTime": 94,
+    "cumulativeLayoutShift": 0.23587447859206728
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "parliament",
+      "url": "http://parliament.uk",
+      "originalURL": "parliament.uk"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1520,
+    "speedIndex": 1520,
+    "largestContentfulPaint": 1610,
+    "timeToInteractive": 2999,
+    "totalBlockingTime": 67.5,
+    "cumulativeLayoutShift": 0.23587447859206728
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "parliament",
+      "url": "http://parliament.uk",
+      "originalURL": "parliament.uk"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1295,
+    "speedIndex": 1502.5383305765645,
+    "largestContentfulPaint": 1455,
+    "timeToInteractive": 2993,
+    "totalBlockingTime": 71.5,
+    "cumulativeLayoutShift": 0.2356177859498585
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "parliament",
+      "url": "http://parliament.uk",
+      "originalURL": "parliament.uk"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1240,
+    "speedIndex": 1506.4493525352086,
+    "largestContentfulPaint": 1285,
+    "timeToInteractive": 3033,
+    "totalBlockingTime": 71.5,
+    "cumulativeLayoutShift": 0.2356177859498585
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "parliament",
+      "url": "http://parliament.uk",
+      "originalURL": "parliament.uk"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1470,
+    "speedIndex": 1470,
+    "largestContentfulPaint": 1550,
+    "timeToInteractive": 3002,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0.2368423973382366
+  }
+]

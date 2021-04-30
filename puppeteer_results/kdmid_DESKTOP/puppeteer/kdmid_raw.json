@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "kdmid",
+      "url": "http://kdmid.ru",
+      "originalURL": "kdmid.ru"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 767,
+    "decodedBodySize": 767,
+    "transferSize": 946,
+    "resourcesList": [
+      [
+        "http://kdmid.ru/",
+        946,
+        767,
+        767,
+        0.040193
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "kdmid",
+      "url": "http://kdmid.ru",
+      "originalURL": "kdmid.ru"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 743,
+    "decodedBodySize": 743,
+    "transferSize": 922,
+    "resourcesList": [
+      [
+        "http://kdmid.ru/",
+        922,
+        743,
+        743,
+        0.039849
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "kdmid",
+      "url": "http://kdmid.ru",
+      "originalURL": "kdmid.ru"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 743,
+    "decodedBodySize": 743,
+    "transferSize": 922,
+    "resourcesList": [
+      [
+        "http://kdmid.ru/",
+        922,
+        743,
+        743,
+        0.041017
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "kdmid",
+      "url": "http://kdmid.ru",
+      "originalURL": "kdmid.ru"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 743,
+    "decodedBodySize": 743,
+    "transferSize": 922,
+    "resourcesList": [
+      [
+        "http://kdmid.ru/",
+        922,
+        743,
+        743,
+        0.039096
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "kdmid",
+      "url": "http://kdmid.ru",
+      "originalURL": "kdmid.ru"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 743,
+    "decodedBodySize": 743,
+    "transferSize": 922,
+    "resourcesList": [
+      [
+        "http://kdmid.ru/",
+        922,
+        743,
+        743,
+        0.041727
+      ]
+    ]
+  }
+]

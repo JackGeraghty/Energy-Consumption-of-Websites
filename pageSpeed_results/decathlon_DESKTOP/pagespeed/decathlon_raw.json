@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "decathlon",
+      "url": "http://decathlon.ie",
+      "originalURL": "decathlon.ie"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1276,
+    "speedIndex": 2170.2410890173223,
+    "largestContentfulPaint": 4655,
+    "timeToInteractive": 5701.5,
+    "totalBlockingTime": 608.5,
+    "cumulativeLayoutShift": 0.08124978198056212
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "decathlon",
+      "url": "http://decathlon.ie",
+      "originalURL": "decathlon.ie"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1309.5,
+    "speedIndex": 3072.599239517549,
+    "largestContentfulPaint": 2832,
+    "timeToInteractive": 5480,
+    "totalBlockingTime": 492.5,
+    "cumulativeLayoutShift": 0.07197002655926217
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "decathlon",
+      "url": "http://decathlon.ie",
+      "originalURL": "decathlon.ie"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1273.5,
+    "speedIndex": 2803.2434090891265,
+    "largestContentfulPaint": 6320,
+    "timeToInteractive": 5586.5,
+    "totalBlockingTime": 404,
+    "cumulativeLayoutShift": 0.08750241193123778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "decathlon",
+      "url": "http://decathlon.ie",
+      "originalURL": "decathlon.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1311.5,
+    "speedIndex": 2315.9386276351793,
+    "largestContentfulPaint": 4301,
+    "timeToInteractive": 5523.5,
+    "totalBlockingTime": 469,
+    "cumulativeLayoutShift": 0.08161974433061903
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "decathlon",
+      "url": "http://decathlon.ie",
+      "originalURL": "decathlon.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1306,
+    "speedIndex": 4011.124524235818,
+    "largestContentfulPaint": 4288,
+    "timeToInteractive": 5603,
+    "totalBlockingTime": 538.5,
+    "cumulativeLayoutShift": 0.09303347517730498
+  }
+]

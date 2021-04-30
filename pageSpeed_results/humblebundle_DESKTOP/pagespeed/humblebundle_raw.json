@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "humblebundle",
+      "url": "http://humblebundle.com",
+      "originalURL": "humblebundle.com"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1155,
+    "speedIndex": 2017.1672330372353,
+    "largestContentfulPaint": 2504.5,
+    "timeToInteractive": 2175,
+    "totalBlockingTime": 127.5,
+    "cumulativeLayoutShift": 0.9590139240580218
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "humblebundle",
+      "url": "http://humblebundle.com",
+      "originalURL": "humblebundle.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1239,
+    "speedIndex": 2203.86819566586,
+    "largestContentfulPaint": 2636,
+    "timeToInteractive": 2350.5,
+    "totalBlockingTime": 245.5,
+    "cumulativeLayoutShift": 0.9577117858914864
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "humblebundle",
+      "url": "http://humblebundle.com",
+      "originalURL": "humblebundle.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1189,
+    "speedIndex": 1836.2374211165002,
+    "largestContentfulPaint": 2433.5,
+    "timeToInteractive": 2149.5,
+    "totalBlockingTime": 128.5,
+    "cumulativeLayoutShift": 0.9621700143011411
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "humblebundle",
+      "url": "http://humblebundle.com",
+      "originalURL": "humblebundle.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1197,
+    "speedIndex": 1857.708262614568,
+    "largestContentfulPaint": 2417.5,
+    "timeToInteractive": 2117.5,
+    "totalBlockingTime": 113,
+    "cumulativeLayoutShift": 0.9577117858914864
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "humblebundle",
+      "url": "http://humblebundle.com",
+      "originalURL": "humblebundle.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1198,
+    "speedIndex": 2014.5308219627423,
+    "largestContentfulPaint": 2471,
+    "timeToInteractive": 2139.5,
+    "totalBlockingTime": 126,
+    "cumulativeLayoutShift": 0.16189535533957913
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishmirror",
+      "url": "http://irishmirror.ie",
+      "originalURL": "irishmirror.ie"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.52,
+    "seo": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1031.9051414326968,
+    "speedIndex": 2100.75973733718,
+    "largestContentfulPaint": 2806.91027546466,
+    "timeToInteractive": 4704.44352771583,
+    "totalBlockingTime": 486.4999999999993,
+    "cumulativeLayoutShift": 0.022279169950091937
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishmirror",
+      "url": "http://irishmirror.ie",
+      "originalURL": "irishmirror.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.52,
+    "seo": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1130.4491418283153,
+    "speedIndex": 2190.718989385321,
+    "largestContentfulPaint": 2676.0011684467336,
+    "timeToInteractive": 4851.981490471408,
+    "totalBlockingTime": 535.4999999999995,
+    "cumulativeLayoutShift": 0.022279169950091937
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishmirror",
+      "url": "http://irishmirror.ie",
+      "originalURL": "irishmirror.ie"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.52,
+    "seo": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1016.7355712104894,
+    "speedIndex": 1935.3142015870242,
+    "largestContentfulPaint": 2961.848025196882,
+    "timeToInteractive": 4607.242479183273,
+    "totalBlockingTime": 327.49999999999955,
+    "cumulativeLayoutShift": 0.022279169950091937
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishmirror",
+      "url": "http://irishmirror.ie",
+      "originalURL": "irishmirror.ie"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.52,
+    "seo": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1366.9005458118502,
+    "speedIndex": 2337.865291767672,
+    "largestContentfulPaint": 2740.455118617295,
+    "timeToInteractive": 5205.461017877422,
+    "totalBlockingTime": 644.4999999999989,
+    "cumulativeLayoutShift": 0.02273016373347343
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishmirror",
+      "url": "http://irishmirror.ie",
+      "originalURL": "irishmirror.ie"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.52,
+    "seo": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1399.8966909166643,
+    "speedIndex": 2348.396857253391,
+    "largestContentfulPaint": 3300.66106202023,
+    "timeToInteractive": 5121.773924413324,
+    "totalBlockingTime": 541.0000000000023,
+    "cumulativeLayoutShift": 0.022279169950091937
+  }
+]

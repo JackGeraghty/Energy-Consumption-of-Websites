@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supervalu",
+      "url": "http://supervalu.ie",
+      "originalURL": "supervalu.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.54,
+    "seo": 0.77,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3897,
+    "speedIndex": 3897,
+    "largestContentfulPaint": 17970,
+    "timeToInteractive": 7195,
+    "totalBlockingTime": 335,
+    "cumulativeLayoutShift": 0.000009928385416666668
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supervalu",
+      "url": "http://supervalu.ie",
+      "originalURL": "supervalu.ie"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.54,
+    "seo": 0.77,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3830,
+    "speedIndex": 3830,
+    "largestContentfulPaint": 17280,
+    "timeToInteractive": 7126.5,
+    "totalBlockingTime": 357.5,
+    "cumulativeLayoutShift": 0.1358649631076389
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supervalu",
+      "url": "http://supervalu.ie",
+      "originalURL": "supervalu.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.54,
+    "seo": 0.77,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3849.5,
+    "speedIndex": 3849.5,
+    "largestContentfulPaint": 17055,
+    "timeToInteractive": 7119.5,
+    "totalBlockingTime": 329,
+    "cumulativeLayoutShift": 0.06793744574652778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supervalu",
+      "url": "http://supervalu.ie",
+      "originalURL": "supervalu.ie"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.54,
+    "seo": 0.77,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3817.5,
+    "speedIndex": 3817.5,
+    "largestContentfulPaint": 18270,
+    "timeToInteractive": 7109,
+    "totalBlockingTime": 299,
+    "cumulativeLayoutShift": 0.06793744574652778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "supervalu",
+      "url": "http://supervalu.ie",
+      "originalURL": "supervalu.ie"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.54,
+    "seo": 0.77,
+    "accessibility": 0.73,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4004.5,
+    "speedIndex": 4004.5,
+    "largestContentfulPaint": 12975,
+    "timeToInteractive": 7119,
+    "totalBlockingTime": 374.5,
+    "cumulativeLayoutShift": 0.06793744574652778
+  }
+]

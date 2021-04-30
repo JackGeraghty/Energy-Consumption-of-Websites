@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "homestoreandmore",
+      "url": "http://homestoreandmore.ie",
+      "originalURL": "homestoreandmore.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.68,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1880,
+    "speedIndex": 2765.4365046294015,
+    "largestContentfulPaint": 4363,
+    "timeToInteractive": 4159.5,
+    "totalBlockingTime": 54,
+    "cumulativeLayoutShift": 0.288113190750591
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "homestoreandmore",
+      "url": "http://homestoreandmore.ie",
+      "originalURL": "homestoreandmore.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.68,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1880,
+    "speedIndex": 2798.428100505297,
+    "largestContentfulPaint": 4389,
+    "timeToInteractive": 4179,
+    "totalBlockingTime": 82.5,
+    "cumulativeLayoutShift": 0.2730686899680413
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "homestoreandmore",
+      "url": "http://homestoreandmore.ie",
+      "originalURL": "homestoreandmore.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.68,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1880,
+    "speedIndex": 2696.263453046183,
+    "largestContentfulPaint": 4380.5,
+    "timeToInteractive": 4187.5,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.28812973921394797
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "homestoreandmore",
+      "url": "http://homestoreandmore.ie",
+      "originalURL": "homestoreandmore.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.68,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1880,
+    "speedIndex": 2650.8065637209497,
+    "largestContentfulPaint": 4342,
+    "timeToInteractive": 4142.5,
+    "totalBlockingTime": 54.5,
+    "cumulativeLayoutShift": 0.28812973921394797
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "homestoreandmore",
+      "url": "http://homestoreandmore.ie",
+      "originalURL": "homestoreandmore.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.68,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1845,
+    "speedIndex": 2841.8350524713933,
+    "largestContentfulPaint": 4364.5,
+    "timeToInteractive": 4188,
+    "totalBlockingTime": 65.5,
+    "cumulativeLayoutShift": 0.2880942782210402
+  }
+]

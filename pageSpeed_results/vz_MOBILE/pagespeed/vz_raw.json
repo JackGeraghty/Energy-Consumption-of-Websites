@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vz",
+      "url": "http://vz.ru",
+      "originalURL": "vz.ru"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 23124.81342880195,
+    "largestContentfulPaint": 26212,
+    "timeToInteractive": 31102,
+    "totalBlockingTime": 1471,
+    "cumulativeLayoutShift": 0.0004033565521240234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vz",
+      "url": "http://vz.ru",
+      "originalURL": "vz.ru"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 22847.24575551654,
+    "largestContentfulPaint": 24972,
+    "timeToInteractive": 31005.5,
+    "totalBlockingTime": 1754.5,
+    "cumulativeLayoutShift": 0.0004033565521240234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vz",
+      "url": "http://vz.ru",
+      "originalURL": "vz.ru"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 24953.467469446936,
+    "largestContentfulPaint": 27083.5,
+    "timeToInteractive": 31051,
+    "totalBlockingTime": 1199,
+    "cumulativeLayoutShift": 0.00035644626617431643
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vz",
+      "url": "http://vz.ru",
+      "originalURL": "vz.ru"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 22449.284081415764,
+    "largestContentfulPaint": 25276,
+    "timeToInteractive": 29415,
+    "totalBlockingTime": 1605.5,
+    "cumulativeLayoutShift": 0.0003570381800333659
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vz",
+      "url": "http://vz.ru",
+      "originalURL": "vz.ru"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.67,
+    "seo": 0.98,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 2820,
+    "speedIndex": 21760.739552652783,
+    "largestContentfulPaint": 26635,
+    "timeToInteractive": 30041,
+    "totalBlockingTime": 1239.5,
+    "cumulativeLayoutShift": 0.0003570381800333659
+  }
+]

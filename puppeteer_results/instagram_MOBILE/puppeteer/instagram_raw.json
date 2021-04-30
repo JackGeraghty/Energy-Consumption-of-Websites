@@ -1,0 +1,277 @@
+[
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 10,
+    "encodedBodySize": 631875,
+    "decodedBodySize": 865656,
+    "transferSize": 635511,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/",
+        15141,
+        13220,
+        49608,
+        0.336473
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js",
+        2360,
+        1780,
+        3224,
+        0.336473
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/BDClientSignalCollectionTrigger.js/4cc9e599a802.js",
+        17020,
+        16941,
+        62553,
+        0.336473
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_core_2x_bcd90c1d4868.png/bcd90c1d4868.png",
+        189436,
+        189258,
+        190706,
+        0.336473
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_glyphs_2x_9e0e7ad2c7e4.png/9e0e7ad2c7e4.png",
+        348556,
+        348296,
+        351159,
+        0.336473
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js?hash=18942686ee01e295d3b39665f36d7f7b",
+        62998,
+        62380,
+        208406,
+        0.336473
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 10,
+    "encodedBodySize": 631868,
+    "decodedBodySize": 865663,
+    "transferSize": 635477,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/",
+        15107,
+        13213,
+        49615,
+        0.336257
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js",
+        2360,
+        1780,
+        3224,
+        0.336257
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/BDClientSignalCollectionTrigger.js/4cc9e599a802.js",
+        17020,
+        16941,
+        62553,
+        0.336257
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_core_2x_bcd90c1d4868.png/bcd90c1d4868.png",
+        189436,
+        189258,
+        190706,
+        0.336257
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_glyphs_2x_9e0e7ad2c7e4.png/9e0e7ad2c7e4.png",
+        348556,
+        348296,
+        351159,
+        0.336257
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js?hash=18942686ee01e295d3b39665f36d7f7b",
+        62998,
+        62380,
+        208406,
+        0.336257
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 10,
+    "encodedBodySize": 631881,
+    "decodedBodySize": 865666,
+    "transferSize": 635868,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/",
+        15138,
+        13226,
+        49618,
+        0.336909
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js",
+        2360,
+        1780,
+        3224,
+        0.336909
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/BDClientSignalCollectionTrigger.js/4cc9e599a802.js",
+        17020,
+        16941,
+        62553,
+        0.336909
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_core_2x_bcd90c1d4868.png/bcd90c1d4868.png",
+        189598,
+        189258,
+        190706,
+        0.336909
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_glyphs_2x_9e0e7ad2c7e4.png/9e0e7ad2c7e4.png",
+        348754,
+        348296,
+        351159,
+        0.336909
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js?hash=18942686ee01e295d3b39665f36d7f7b",
+        62998,
+        62380,
+        208406,
+        0.336909
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 10,
+    "encodedBodySize": 631877,
+    "decodedBodySize": 865659,
+    "transferSize": 635504,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/",
+        15134,
+        13222,
+        49611,
+        0.332846
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js",
+        2360,
+        1780,
+        3224,
+        0.332846
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/BDClientSignalCollectionTrigger.js/4cc9e599a802.js",
+        17020,
+        16941,
+        62553,
+        0.332846
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_core_2x_bcd90c1d4868.png/bcd90c1d4868.png",
+        189436,
+        189258,
+        190706,
+        0.332846
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_glyphs_2x_9e0e7ad2c7e4.png/9e0e7ad2c7e4.png",
+        348556,
+        348296,
+        351159,
+        0.332846
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js?hash=18942686ee01e295d3b39665f36d7f7b",
+        62998,
+        62380,
+        208406,
+        0.332846
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "instagram",
+      "url": "http://instagram.com",
+      "originalURL": "instagram.com"
+    },
+    "numTransferred": 10,
+    "encodedBodySize": 631868,
+    "decodedBodySize": 865663,
+    "transferSize": 635486,
+    "resourcesList": [
+      [
+        "https://www.instagram.com/",
+        15116,
+        13213,
+        49615,
+        0.334798
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js",
+        2360,
+        1780,
+        3224,
+        0.334798
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/BDClientSignalCollectionTrigger.js/4cc9e599a802.js",
+        17020,
+        16941,
+        62553,
+        0.334798
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_core_2x_bcd90c1d4868.png/bcd90c1d4868.png",
+        189436,
+        189258,
+        190706,
+        0.334798
+      ],
+      [
+        "https://www.instagram.com/static/bundles/metro/sprite_glyphs_2x_9e0e7ad2c7e4.png/9e0e7ad2c7e4.png",
+        348556,
+        348296,
+        351159,
+        0.334798
+      ],
+      [
+        "https://connect.facebook.net/en_US/sdk.js?hash=18942686ee01e295d3b39665f36d7f7b",
+        62998,
+        62380,
+        208406,
+        0.334798
+      ]
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "businessinsider",
+      "url": "http://businessinsider.com",
+      "originalURL": "businessinsider.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 676,
+    "speedIndex": 892.634288899076,
+    "largestContentfulPaint": 920,
+    "timeToInteractive": 949,
+    "totalBlockingTime": 13.5,
+    "cumulativeLayoutShift": 0.000018794618101158682
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "businessinsider",
+      "url": "http://businessinsider.com",
+      "originalURL": "businessinsider.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 683,
+    "speedIndex": 960.6069336313799,
+    "largestContentfulPaint": 940,
+    "timeToInteractive": 985,
+    "totalBlockingTime": 32,
+    "cumulativeLayoutShift": 0.000018794618101158682
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "businessinsider",
+      "url": "http://businessinsider.com",
+      "originalURL": "businessinsider.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 695.5,
+    "speedIndex": 1075.3805227878834,
+    "largestContentfulPaint": 1005.5,
+    "timeToInteractive": 1024.5,
+    "totalBlockingTime": 49.5,
+    "cumulativeLayoutShift": 0.000018794618101158682
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "businessinsider",
+      "url": "http://businessinsider.com",
+      "originalURL": "businessinsider.com"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.48,
+    "seo": 0.83,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 679,
+    "speedIndex": 877.4225930804116,
+    "largestContentfulPaint": 934.5,
+    "timeToInteractive": 979.5,
+    "totalBlockingTime": 30.5,
+    "cumulativeLayoutShift": 0.000018794618101158682
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "businessinsider",
+      "url": "http://businessinsider.com",
+      "originalURL": "businessinsider.com"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 764,
+    "speedIndex": 2499.848500519489,
+    "largestContentfulPaint": 1181,
+    "timeToInteractive": 2742.5,
+    "totalBlockingTime": 682,
+    "cumulativeLayoutShift": 0.000018794618101158682
+  }
+]

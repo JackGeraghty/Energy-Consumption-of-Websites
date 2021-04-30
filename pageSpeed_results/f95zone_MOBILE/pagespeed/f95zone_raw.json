@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f95zone",
+      "url": "http://f95zone.to",
+      "originalURL": "f95zone.to"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.46,
+    "seo": 0.96,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7215,
+    "speedIndex": 7215,
+    "largestContentfulPaint": 9570,
+    "timeToInteractive": 8022,
+    "totalBlockingTime": 306,
+    "cumulativeLayoutShift": 0.0007120225694444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f95zone",
+      "url": "http://f95zone.to",
+      "originalURL": "f95zone.to"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.46,
+    "seo": 0.96,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6615,
+    "speedIndex": 6615,
+    "largestContentfulPaint": 9345,
+    "timeToInteractive": 9602,
+    "totalBlockingTime": 450,
+    "cumulativeLayoutShift": 0.0007120225694444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f95zone",
+      "url": "http://f95zone.to",
+      "originalURL": "f95zone.to"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.46,
+    "seo": 0.96,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7065,
+    "speedIndex": 7065,
+    "largestContentfulPaint": 9645,
+    "timeToInteractive": 9509,
+    "totalBlockingTime": 166.5,
+    "cumulativeLayoutShift": 0.0007120225694444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f95zone",
+      "url": "http://f95zone.to",
+      "originalURL": "f95zone.to"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.46,
+    "seo": 0.96,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7065,
+    "speedIndex": 7065,
+    "largestContentfulPaint": 9945,
+    "timeToInteractive": 9523,
+    "totalBlockingTime": 220,
+    "cumulativeLayoutShift": 0.0007120225694444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "f95zone",
+      "url": "http://f95zone.to",
+      "originalURL": "f95zone.to"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.46,
+    "seo": 0.96,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5925,
+    "speedIndex": 5925,
+    "largestContentfulPaint": 8265,
+    "timeToInteractive": 8362,
+    "totalBlockingTime": 145,
+    "cumulativeLayoutShift": 0.0007120225694444444
+  }
+]

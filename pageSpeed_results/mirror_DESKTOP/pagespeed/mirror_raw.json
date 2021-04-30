@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mirror",
+      "url": "http://mirror.co.uk",
+      "originalURL": "mirror.co.uk"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.52,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1297.4400247575131,
+    "speedIndex": 3352.671206952882,
+    "largestContentfulPaint": 2948.1880177478324,
+    "timeToInteractive": 8830.072099940191,
+    "totalBlockingTime": 1114.4999999999918,
+    "cumulativeLayoutShift": 0.21463711292064327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mirror",
+      "url": "http://mirror.co.uk",
+      "originalURL": "mirror.co.uk"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.52,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1000.9656186360932,
+    "speedIndex": 3093.027835682484,
+    "largestContentfulPaint": 2575.9247428428116,
+    "timeToInteractive": 7839.767805527664,
+    "totalBlockingTime": 1097.4999999999914,
+    "cumulativeLayoutShift": 0.21463711292064327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mirror",
+      "url": "http://mirror.co.uk",
+      "originalURL": "mirror.co.uk"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.52,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1010.6086895034393,
+    "speedIndex": 3729.6223407084344,
+    "largestContentfulPaint": 2639.5081498627314,
+    "timeToInteractive": 7981.0858428264655,
+    "totalBlockingTime": 1766.1593029884657,
+    "cumulativeLayoutShift": 0.5720742923853719
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mirror",
+      "url": "http://mirror.co.uk",
+      "originalURL": "mirror.co.uk"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.52,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 827.109364207942,
+    "speedIndex": 3463.3798862791864,
+    "largestContentfulPaint": 2478.564104630851,
+    "timeToInteractive": 8548.514452993255,
+    "totalBlockingTime": 1164.4999999999982,
+    "cumulativeLayoutShift": 0.3877346537080816
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mirror",
+      "url": "http://mirror.co.uk",
+      "originalURL": "mirror.co.uk"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.52,
+    "seo": 0.82,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1004.8363468595162,
+    "speedIndex": 3085.402667365861,
+    "largestContentfulPaint": 2613.4267382687813,
+    "timeToInteractive": 8672.938947974011,
+    "totalBlockingTime": 1288.9999999999923,
+    "cumulativeLayoutShift": 0.3868361147593614
+  }
+]

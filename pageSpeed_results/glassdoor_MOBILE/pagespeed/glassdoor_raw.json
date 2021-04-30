@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "glassdoor",
+      "url": "http://glassdoor.ie",
+      "originalURL": "glassdoor.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 7276,
+    "speedIndex": 11052.891200901628,
+    "largestContentfulPaint": 10103,
+    "timeToInteractive": 22471,
+    "totalBlockingTime": 12705.5,
+    "cumulativeLayoutShift": 0.1295823703342014
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "glassdoor",
+      "url": "http://glassdoor.ie",
+      "originalURL": "glassdoor.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 8474.337044249252,
+    "largestContentfulPaint": 7810,
+    "timeToInteractive": 23077,
+    "totalBlockingTime": 16228.5,
+    "cumulativeLayoutShift": 0.18094337293836804
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "glassdoor",
+      "url": "http://glassdoor.ie",
+      "originalURL": "glassdoor.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 9242.026945428484,
+    "largestContentfulPaint": 8608,
+    "timeToInteractive": 22777.5,
+    "totalBlockingTime": 16263.5,
+    "cumulativeLayoutShift": 0.12641727701822916
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "glassdoor",
+      "url": "http://glassdoor.ie",
+      "originalURL": "glassdoor.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3750,
+    "speedIndex": 9907.152439597998,
+    "largestContentfulPaint": 7863,
+    "timeToInteractive": 21922,
+    "totalBlockingTime": 15167.5,
+    "cumulativeLayoutShift": 0.12641727701822916
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "glassdoor",
+      "url": "http://glassdoor.ie",
+      "originalURL": "glassdoor.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.29,
+    "seo": 0.88,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 9268.30330166346,
+    "largestContentfulPaint": 12630,
+    "timeToInteractive": 20991,
+    "totalBlockingTime": 12142,
+    "cumulativeLayoutShift": 0.12641727701822916
+  }
+]

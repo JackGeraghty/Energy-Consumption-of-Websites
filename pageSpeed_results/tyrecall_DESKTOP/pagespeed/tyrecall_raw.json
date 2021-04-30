@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyrecall",
+      "url": "http://tyrecall.ie",
+      "originalURL": "tyrecall.ie"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1475,
+    "speedIndex": 1702.966668213211,
+    "largestContentfulPaint": 1810,
+    "timeToInteractive": 1532.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00041644339374835826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyrecall",
+      "url": "http://tyrecall.ie",
+      "originalURL": "tyrecall.ie"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1445,
+    "speedIndex": 1474.2930282000502,
+    "largestContentfulPaint": 1805,
+    "timeToInteractive": 1546.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00041644339374835826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyrecall",
+      "url": "http://tyrecall.ie",
+      "originalURL": "tyrecall.ie"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1444,
+    "speedIndex": 1444,
+    "largestContentfulPaint": 1780,
+    "timeToInteractive": 1507.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00041644339374835826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyrecall",
+      "url": "http://tyrecall.ie",
+      "originalURL": "tyrecall.ie"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1440.5,
+    "speedIndex": 1440.5,
+    "largestContentfulPaint": 1780,
+    "timeToInteractive": 1506.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00041644339374835826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyrecall",
+      "url": "http://tyrecall.ie",
+      "originalURL": "tyrecall.ie"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1428,
+    "speedIndex": 1428,
+    "largestContentfulPaint": 1760,
+    "timeToInteractive": 1494.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00041644339374835826
+  }
+]

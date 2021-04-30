@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nmbi",
+      "url": "http://nmbi.ie",
+      "originalURL": "nmbi.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7519,
+    "speedIndex": 7519,
+    "largestContentfulPaint": 8925,
+    "timeToInteractive": 10731,
+    "totalBlockingTime": 107.5,
+    "cumulativeLayoutShift": 0.018018866644965277
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nmbi",
+      "url": "http://nmbi.ie",
+      "originalURL": "nmbi.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7596,
+    "speedIndex": 7596,
+    "largestContentfulPaint": 9615,
+    "timeToInteractive": 10743,
+    "totalBlockingTime": 107,
+    "cumulativeLayoutShift": 0.017767537434895835
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nmbi",
+      "url": "http://nmbi.ie",
+      "originalURL": "nmbi.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7515.5,
+    "speedIndex": 7515.5,
+    "largestContentfulPaint": 9000,
+    "timeToInteractive": 10819,
+    "totalBlockingTime": 149,
+    "cumulativeLayoutShift": 0.018022325303819448
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nmbi",
+      "url": "http://nmbi.ie",
+      "originalURL": "nmbi.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7356,
+    "speedIndex": 7356,
+    "largestContentfulPaint": 9270,
+    "timeToInteractive": 10679,
+    "totalBlockingTime": 125,
+    "cumulativeLayoutShift": 0.017846299913194447
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nmbi",
+      "url": "http://nmbi.ie",
+      "originalURL": "nmbi.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7380,
+    "speedIndex": 7428.075818248459,
+    "largestContentfulPaint": 11430,
+    "timeToInteractive": 10883,
+    "totalBlockingTime": 218,
+    "cumulativeLayoutShift": 0.018094306098090276
+  }
+]

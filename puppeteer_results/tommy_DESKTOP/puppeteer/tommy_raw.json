@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 260,
+    "decodedBodySize": 260,
+    "transferSize": 1058,
+    "resourcesList": [
+      [
+        "https://ie.tommy.com/",
+        1058,
+        260,
+        260,
+        0.031633
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 260,
+    "decodedBodySize": 260,
+    "transferSize": 1057,
+    "resourcesList": [
+      [
+        "https://ie.tommy.com/",
+        1057,
+        260,
+        260,
+        0.025209
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 260,
+    "decodedBodySize": 260,
+    "transferSize": 1064,
+    "resourcesList": [
+      [
+        "https://ie.tommy.com/",
+        1064,
+        260,
+        260,
+        0.024775
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 260,
+    "decodedBodySize": 260,
+    "transferSize": 1062,
+    "resourcesList": [
+      [
+        "https://ie.tommy.com/",
+        1062,
+        260,
+        260,
+        0.025462
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 260,
+    "decodedBodySize": 260,
+    "transferSize": 1057,
+    "resourcesList": [
+      [
+        "https://ie.tommy.com/",
+        1057,
+        260,
+        260,
+        0.029474
+      ]
+    ]
+  }
+]

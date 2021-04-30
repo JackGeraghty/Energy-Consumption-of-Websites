@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aliexpress",
+      "url": "http://aliexpress.com",
+      "originalURL": "aliexpress.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 760,
+    "speedIndex": 2426.863286202029,
+    "largestContentfulPaint": 3470,
+    "timeToInteractive": 2334,
+    "totalBlockingTime": 132,
+    "cumulativeLayoutShift": 0.08855442080378251
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aliexpress",
+      "url": "http://aliexpress.com",
+      "originalURL": "aliexpress.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 760,
+    "speedIndex": 2658.8843346116246,
+    "largestContentfulPaint": 3190,
+    "timeToInteractive": 1894.5,
+    "totalBlockingTime": 23.5,
+    "cumulativeLayoutShift": 0.0826019828970026
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aliexpress",
+      "url": "http://aliexpress.com",
+      "originalURL": "aliexpress.com"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 760,
+    "speedIndex": 3006.6667896233234,
+    "largestContentfulPaint": 3160,
+    "timeToInteractive": 1899,
+    "totalBlockingTime": 27.5,
+    "cumulativeLayoutShift": 0.07156062166185098
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aliexpress",
+      "url": "http://aliexpress.com",
+      "originalURL": "aliexpress.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 800,
+    "speedIndex": 2324.5790801135345,
+    "largestContentfulPaint": 3445,
+    "timeToInteractive": 2465.5,
+    "totalBlockingTime": 107.5,
+    "cumulativeLayoutShift": 0.09467236786037417
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aliexpress",
+      "url": "http://aliexpress.com",
+      "originalURL": "aliexpress.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 760,
+    "speedIndex": 2185.6584292140965,
+    "largestContentfulPaint": 3445,
+    "timeToInteractive": 2721,
+    "totalBlockingTime": 140,
+    "cumulativeLayoutShift": 0.07156062166185098
+  }
+]

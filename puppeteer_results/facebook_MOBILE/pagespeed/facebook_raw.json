@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4246,
+    "speedIndex": 4246,
+    "largestContentfulPaint": 4246,
+    "timeToInteractive": 4523.5,
+    "totalBlockingTime": 95.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4250,
+    "speedIndex": 4250,
+    "largestContentfulPaint": 4400,
+    "timeToInteractive": 4710.5,
+    "totalBlockingTime": 214.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3933,
+    "speedIndex": 3933,
+    "largestContentfulPaint": 3933,
+    "timeToInteractive": 4621.5,
+    "totalBlockingTime": 128.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4329,
+    "speedIndex": 4329,
+    "largestContentfulPaint": 4329,
+    "timeToInteractive": 4765,
+    "totalBlockingTime": 286,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.5,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4278,
+    "speedIndex": 4278,
+    "largestContentfulPaint": 4428,
+    "timeToInteractive": 4625.5,
+    "totalBlockingTime": 169,
+    "cumulativeLayoutShift": 0
+  }
+]

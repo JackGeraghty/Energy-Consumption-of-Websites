@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "1337x",
+      "url": "http://1337x.to",
+      "originalURL": "1337x.to"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.46,
+    "seo": 0.99,
+    "accessibility": 0.81,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 3331.553246066661,
+    "largestContentfulPaint": 2497,
+    "timeToInteractive": 4635,
+    "totalBlockingTime": 81.5,
+    "cumulativeLayoutShift": 0.14672100830078125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "1337x",
+      "url": "http://1337x.to",
+      "originalURL": "1337x.to"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.46,
+    "seo": 0.99,
+    "accessibility": 0.81,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 3056.2972861236976,
+    "largestContentfulPaint": 3353,
+    "timeToInteractive": 4643,
+    "totalBlockingTime": 86.5,
+    "cumulativeLayoutShift": 0.17318691677517362
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "1337x",
+      "url": "http://1337x.to",
+      "originalURL": "1337x.to"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.46,
+    "seo": 0.99,
+    "accessibility": 0.81,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 3115.137192211601,
+    "largestContentfulPaint": 3960,
+    "timeToInteractive": 4597,
+    "totalBlockingTime": 46,
+    "cumulativeLayoutShift": 0.19605859375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "1337x",
+      "url": "http://1337x.to",
+      "originalURL": "1337x.to"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.46,
+    "seo": 0.99,
+    "accessibility": 0.81,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 3368.000720241795,
+    "largestContentfulPaint": 3295,
+    "timeToInteractive": 4416,
+    "totalBlockingTime": 40,
+    "cumulativeLayoutShift": 0.14348118082682293
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "1337x",
+      "url": "http://1337x.to",
+      "originalURL": "1337x.to"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.46,
+    "seo": 0.99,
+    "accessibility": 0.81,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1935,
+    "speedIndex": 3222.5379027566096,
+    "largestContentfulPaint": 3524,
+    "timeToInteractive": 4649,
+    "totalBlockingTime": 78.5,
+    "cumulativeLayoutShift": 0.1486530015733507
+  }
+]

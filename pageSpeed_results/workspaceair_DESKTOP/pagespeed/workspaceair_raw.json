@@ -1,0 +1,73 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.36,
+    "seo": 0.89,
+    "accessibility": 1,
+    "bestPractices": null
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.36,
+    "seo": null,
+    "accessibility": 1,
+    "bestPractices": null
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.36,
+    "seo": 0.8,
+    "accessibility": 0.84,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1419.5,
+    "speedIndex": 1686.006293648386,
+    "largestContentfulPaint": 2988.5,
+    "timeToInteractive": 1419.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00035705608090359867
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.18,
+    "seo": null,
+    "accessibility": 0,
+    "bestPractices": null
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.36,
+    "seo": 0.89,
+    "accessibility": 1,
+    "bestPractices": null
+  }
+]

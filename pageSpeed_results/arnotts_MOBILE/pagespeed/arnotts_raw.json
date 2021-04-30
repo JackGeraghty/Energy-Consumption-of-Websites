@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arnotts",
+      "url": "http://arnotts.ie",
+      "originalURL": "arnotts.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.83,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5325,
+    "speedIndex": 8806.452402623496,
+    "largestContentfulPaint": 7005,
+    "timeToInteractive": 13438,
+    "totalBlockingTime": 2129.5,
+    "cumulativeLayoutShift": 0.6181252670288088
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arnotts",
+      "url": "http://arnotts.ie",
+      "originalURL": "arnotts.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.83,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5325,
+    "speedIndex": 8185.214795153879,
+    "largestContentfulPaint": 7005,
+    "timeToInteractive": 12846,
+    "totalBlockingTime": 1503.5,
+    "cumulativeLayoutShift": 0.6181252670288088
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arnotts",
+      "url": "http://arnotts.ie",
+      "originalURL": "arnotts.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.83,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5325,
+    "speedIndex": 7730.201639493453,
+    "largestContentfulPaint": 7005,
+    "timeToInteractive": 13063,
+    "totalBlockingTime": 1692.5,
+    "cumulativeLayoutShift": 0.6172512435913087
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arnotts",
+      "url": "http://arnotts.ie",
+      "originalURL": "arnotts.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.83,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5328,
+    "speedIndex": 7753.982904571816,
+    "largestContentfulPaint": 7005,
+    "timeToInteractive": 12808,
+    "totalBlockingTime": 1471,
+    "cumulativeLayoutShift": 0.6172512435913087
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arnotts",
+      "url": "http://arnotts.ie",
+      "originalURL": "arnotts.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.83,
+    "seo": 0.91,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5330,
+    "speedIndex": 8323.583722032436,
+    "largestContentfulPaint": 7005,
+    "timeToInteractive": 12928,
+    "totalBlockingTime": 1499,
+    "cumulativeLayoutShift": 0.6172512435913087
+  }
+]

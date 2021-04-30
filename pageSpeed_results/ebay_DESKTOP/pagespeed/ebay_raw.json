@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ebay",
+      "url": "http://ebay.com",
+      "originalURL": "ebay.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 840,
+    "speedIndex": 2236.2221981296,
+    "largestContentfulPaint": 1350.5,
+    "timeToInteractive": 3433,
+    "totalBlockingTime": 1053,
+    "cumulativeLayoutShift": 0.03399972506785746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ebay",
+      "url": "http://ebay.com",
+      "originalURL": "ebay.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 840,
+    "speedIndex": 2160.2235898568433,
+    "largestContentfulPaint": 1325,
+    "timeToInteractive": 2972.5,
+    "totalBlockingTime": 478.5,
+    "cumulativeLayoutShift": 0.03399972506785746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ebay",
+      "url": "http://ebay.com",
+      "originalURL": "ebay.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 840,
+    "speedIndex": 2215.569937577742,
+    "largestContentfulPaint": 1332,
+    "timeToInteractive": 2822,
+    "totalBlockingTime": 501,
+    "cumulativeLayoutShift": 0.03399972506785746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ebay",
+      "url": "http://ebay.com",
+      "originalURL": "ebay.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 840,
+    "speedIndex": 2559.0758466173847,
+    "largestContentfulPaint": 1337,
+    "timeToInteractive": 2648,
+    "totalBlockingTime": 488,
+    "cumulativeLayoutShift": 0.03399972506785746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ebay",
+      "url": "http://ebay.com",
+      "originalURL": "ebay.com"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 770,
+    "speedIndex": 2210.07519695957,
+    "largestContentfulPaint": 1340,
+    "timeToInteractive": 2895,
+    "totalBlockingTime": 650,
+    "cumulativeLayoutShift": 0.0354942170854858
+  }
+]

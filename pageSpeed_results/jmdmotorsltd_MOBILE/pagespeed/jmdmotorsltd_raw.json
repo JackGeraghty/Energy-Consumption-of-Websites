@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jmdmotorsltd",
+      "url": "http://jmdmotorsltd.co.uk",
+      "originalURL": "jmdmotorsltd.co.uk"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3892.181065828203,
+    "largestContentfulPaint": 7217.5,
+    "timeToInteractive": 6155,
+    "totalBlockingTime": 186.5,
+    "cumulativeLayoutShift": 0.26716232638888887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jmdmotorsltd",
+      "url": "http://jmdmotorsltd.co.uk",
+      "originalURL": "jmdmotorsltd.co.uk"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3712.155839567953,
+    "largestContentfulPaint": 7184,
+    "timeToInteractive": 6088,
+    "totalBlockingTime": 139,
+    "cumulativeLayoutShift": 0.26716232638888887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jmdmotorsltd",
+      "url": "http://jmdmotorsltd.co.uk",
+      "originalURL": "jmdmotorsltd.co.uk"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3765.2390753059276,
+    "largestContentfulPaint": 7200,
+    "timeToInteractive": 6120,
+    "totalBlockingTime": 162,
+    "cumulativeLayoutShift": 0.26716232638888887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jmdmotorsltd",
+      "url": "http://jmdmotorsltd.co.uk",
+      "originalURL": "jmdmotorsltd.co.uk"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3760.545534155097,
+    "largestContentfulPaint": 7223,
+    "timeToInteractive": 6166,
+    "totalBlockingTime": 196,
+    "cumulativeLayoutShift": 0.26716232638888887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jmdmotorsltd",
+      "url": "http://jmdmotorsltd.co.uk",
+      "originalURL": "jmdmotorsltd.co.uk"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.79,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3709.227594646061,
+    "largestContentfulPaint": 7169,
+    "timeToInteractive": 6058,
+    "totalBlockingTime": 119,
+    "cumulativeLayoutShift": 0.26716232638888887
+  }
+]

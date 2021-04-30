@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3819,
+    "speedIndex": 8705.080727921315,
+    "largestContentfulPaint": 16215,
+    "timeToInteractive": 23006,
+    "totalBlockingTime": 2444.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.94,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 9582.86987120421,
+    "largestContentfulPaint": 15870,
+    "timeToInteractive": 23319,
+    "totalBlockingTime": 2488.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 3767,
+    "speedIndex": 7856.609854280714,
+    "largestContentfulPaint": 16920,
+    "timeToInteractive": 23258.5,
+    "totalBlockingTime": 2024.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3796,
+    "speedIndex": 8922.041036373925,
+    "largestContentfulPaint": 15750,
+    "timeToInteractive": 23014.5,
+    "totalBlockingTime": 2228.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3740,
+    "speedIndex": 8711.077016071293,
+    "largestContentfulPaint": 16200,
+    "timeToInteractive": 23199,
+    "totalBlockingTime": 1970.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  }
+]

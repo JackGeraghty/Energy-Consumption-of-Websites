@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ign",
+      "url": "http://ign.com",
+      "originalURL": "ign.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 628,
+    "speedIndex": 3008.5530135756217,
+    "largestContentfulPaint": 2190,
+    "timeToInteractive": 6355,
+    "totalBlockingTime": 663,
+    "cumulativeLayoutShift": 0.16623596065726876
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ign",
+      "url": "http://ign.com",
+      "originalURL": "ign.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 628,
+    "speedIndex": 2723.5335440581707,
+    "largestContentfulPaint": 1480,
+    "timeToInteractive": 6123,
+    "totalBlockingTime": 531,
+    "cumulativeLayoutShift": 0.1557458109330765
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ign",
+      "url": "http://ign.com",
+      "originalURL": "ign.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 627,
+    "speedIndex": 3085.604631678014,
+    "largestContentfulPaint": 2565,
+    "timeToInteractive": 6345,
+    "totalBlockingTime": 680.5,
+    "cumulativeLayoutShift": 0.09112800163441613
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ign",
+      "url": "http://ign.com",
+      "originalURL": "ign.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 635,
+    "speedIndex": 2879.7850508867505,
+    "largestContentfulPaint": 1550,
+    "timeToInteractive": 6134,
+    "totalBlockingTime": 640,
+    "cumulativeLayoutShift": 0.16238410880541693
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ign",
+      "url": "http://ign.com",
+      "originalURL": "ign.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 652,
+    "speedIndex": 2929.1609090416705,
+    "largestContentfulPaint": 1550,
+    "timeToInteractive": 6136,
+    "totalBlockingTime": 613.5,
+    "cumulativeLayoutShift": 0.1557458109330765
+  }
+]

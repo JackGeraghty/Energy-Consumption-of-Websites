@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us",
+      "originalURL": "zoom.us"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6045,
+    "speedIndex": 13781.890231922896,
+    "largestContentfulPaint": 13804,
+    "timeToInteractive": 22577.5,
+    "totalBlockingTime": 4489.5,
+    "cumulativeLayoutShift": 0.13788653564453124
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us",
+      "originalURL": "zoom.us"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 12207.48406225065,
+    "largestContentfulPaint": 13381.5,
+    "timeToInteractive": 22150,
+    "totalBlockingTime": 4320.5,
+    "cumulativeLayoutShift": 0.13788653564453124
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us",
+      "originalURL": "zoom.us"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6195,
+    "speedIndex": 13308.226575173452,
+    "largestContentfulPaint": 13890,
+    "timeToInteractive": 22879,
+    "totalBlockingTime": 5189.5,
+    "cumulativeLayoutShift": 0.13788653564453124
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us",
+      "originalURL": "zoom.us"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 12871.623487977424,
+    "largestContentfulPaint": 14273.5,
+    "timeToInteractive": 22064,
+    "totalBlockingTime": 3924,
+    "cumulativeLayoutShift": 0.13989939371744792
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "zoom",
+      "url": "http://zoom.us",
+      "originalURL": "zoom.us"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.81,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 6195,
+    "speedIndex": 14390.33948579687,
+    "largestContentfulPaint": 14643,
+    "timeToInteractive": 23732,
+    "totalBlockingTime": 6017.5,
+    "cumulativeLayoutShift": 0.13788653564453124
+  }
+]

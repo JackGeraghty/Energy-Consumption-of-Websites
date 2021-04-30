@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.39,
+    "seo": 0.77,
+    "accessibility": 0.41,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 661,
+    "speedIndex": 661,
+    "largestContentfulPaint": 661,
+    "timeToInteractive": 2778,
+    "totalBlockingTime": 55,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.39,
+    "seo": 0.77,
+    "accessibility": 0.41,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 667,
+    "speedIndex": 667,
+    "largestContentfulPaint": 1674,
+    "timeToInteractive": 2769,
+    "totalBlockingTime": 48.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.39,
+    "seo": 0.77,
+    "accessibility": 0.41,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 662,
+    "speedIndex": 662,
+    "largestContentfulPaint": 662,
+    "timeToInteractive": 2766,
+    "totalBlockingTime": 66,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.39,
+    "seo": 0.77,
+    "accessibility": 0.41,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 654,
+    "speedIndex": 654,
+    "largestContentfulPaint": 654,
+    "timeToInteractive": 2760,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.39,
+    "seo": 0.77,
+    "accessibility": 0.41,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 654,
+    "speedIndex": 654,
+    "largestContentfulPaint": 654,
+    "timeToInteractive": 2773,
+    "totalBlockingTime": 47.5,
+    "cumulativeLayoutShift": 0
+  }
+]

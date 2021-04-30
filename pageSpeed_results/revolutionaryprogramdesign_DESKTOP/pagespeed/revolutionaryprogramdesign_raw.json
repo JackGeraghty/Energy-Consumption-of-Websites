@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revolutionaryprogramdesign",
+      "url": "http://revolutionaryprogramdesign.com",
+      "originalURL": "revolutionaryprogramdesign.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 470,
+    "speedIndex": 1561.727057681511,
+    "largestContentfulPaint": 1755.5,
+    "timeToInteractive": 635,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0011913942153343256
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revolutionaryprogramdesign",
+      "url": "http://revolutionaryprogramdesign.com",
+      "originalURL": "revolutionaryprogramdesign.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 635,
+    "speedIndex": 1714.4789832034508,
+    "largestContentfulPaint": 1930,
+    "timeToInteractive": 1745,
+    "totalBlockingTime": 62.5,
+    "cumulativeLayoutShift": 0.0007766745468873128
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revolutionaryprogramdesign",
+      "url": "http://revolutionaryprogramdesign.com",
+      "originalURL": "revolutionaryprogramdesign.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 600,
+    "speedIndex": 1596.3805931643865,
+    "largestContentfulPaint": 1832.5,
+    "timeToInteractive": 1019,
+    "totalBlockingTime": 4.5,
+    "cumulativeLayoutShift": 0.0007766745468873128
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revolutionaryprogramdesign",
+      "url": "http://revolutionaryprogramdesign.com",
+      "originalURL": "revolutionaryprogramdesign.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 600,
+    "speedIndex": 707.1704746187727,
+    "largestContentfulPaint": 1759.5,
+    "timeToInteractive": 635,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0011913942153343256
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revolutionaryprogramdesign",
+      "url": "http://revolutionaryprogramdesign.com",
+      "originalURL": "revolutionaryprogramdesign.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 635,
+    "speedIndex": 905.1228839159162,
+    "largestContentfulPaint": 1874.5,
+    "timeToInteractive": 737.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0011913942153343256
+  }
+]

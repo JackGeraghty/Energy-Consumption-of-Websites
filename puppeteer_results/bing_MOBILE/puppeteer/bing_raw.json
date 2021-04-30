@@ -1,0 +1,172 @@
+[
+  {
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 197654,
+    "decodedBodySize": 232132,
+    "transferSize": 199607,
+    "resourcesList": [
+      [
+        "https://www.bing.com/?toWww=1&redig=10766C930D25433191AA63212562D1E8",
+        24053,
+        23029,
+        57511,
+        0.05648
+      ],
+      [
+        "https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_ROW6834914148_768x1366.jpg&rf=LaDigue_1920x1080.jpg",
+        174950,
+        174620,
+        174620,
+        0.05648
+      ],
+      [
+        "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js",
+        604,
+        5,
+        1,
+        0.05648
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 197647,
+    "decodedBodySize": 232132,
+    "transferSize": 199590,
+    "resourcesList": [
+      [
+        "https://www.bing.com/?toWww=1&redig=FD41E871CA0046A28025AE7D7747C77B",
+        24027,
+        23022,
+        57511,
+        0.055428
+      ],
+      [
+        "https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_ROW6834914148_768x1366.jpg&rf=LaDigue_1920x1080.jpg",
+        175083,
+        174620,
+        174620,
+        0.055428
+      ],
+      [
+        "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js",
+        480,
+        5,
+        1,
+        0.055428
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 197651,
+    "decodedBodySize": 232132,
+    "transferSize": 199585,
+    "resourcesList": [
+      [
+        "https://www.bing.com/?toWww=1&redig=F7A7A07DD896417FBCF0630CF0E209E6",
+        24023,
+        23026,
+        57511,
+        0.057574
+      ],
+      [
+        "https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_ROW6834914148_768x1366.jpg&rf=LaDigue_1920x1080.jpg",
+        175082,
+        174620,
+        174620,
+        0.057574
+      ],
+      [
+        "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js",
+        480,
+        5,
+        1,
+        0.057574
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 197652,
+    "decodedBodySize": 232135,
+    "transferSize": 199586,
+    "resourcesList": [
+      [
+        "https://www.bing.com/?toWww=1&redig=B2531002536D4A3986E2439A8396F612",
+        24031,
+        23027,
+        57514,
+        0.057179
+      ],
+      [
+        "https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_ROW6834914148_768x1366.jpg&rf=LaDigue_1920x1080.jpg",
+        174951,
+        174620,
+        174620,
+        0.057179
+      ],
+      [
+        "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js",
+        604,
+        5,
+        1,
+        0.057179
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bing",
+      "url": "http://bing.com",
+      "originalURL": "bing.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 197658,
+    "decodedBodySize": 232135,
+    "transferSize": 199621,
+    "resourcesList": [
+      [
+        "https://www.bing.com/?toWww=1&redig=4524193137D34837B4AC03B1588C8389",
+        24047,
+        23033,
+        57514,
+        0.055479
+      ],
+      [
+        "https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_ROW6834914148_768x1366.jpg&rf=LaDigue_1920x1080.jpg",
+        175083,
+        174620,
+        174620,
+        0.055479
+      ],
+      [
+        "https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js",
+        491,
+        5,
+        1,
+        0.055479
+      ]
+    ]
+  }
+]

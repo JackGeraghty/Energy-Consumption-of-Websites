@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gumtree",
+      "url": "http://gumtree.ie",
+      "originalURL": "gumtree.ie"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 868,
+    "speedIndex": 1509.5404834572525,
+    "largestContentfulPaint": 1150,
+    "timeToInteractive": 3198.5,
+    "totalBlockingTime": 131,
+    "cumulativeLayoutShift": 0.2630120888421913
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gumtree",
+      "url": "http://gumtree.ie",
+      "originalURL": "gumtree.ie"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 908,
+    "speedIndex": 1534.3001999026994,
+    "largestContentfulPaint": 1166,
+    "timeToInteractive": 3518.5,
+    "totalBlockingTime": 337.5,
+    "cumulativeLayoutShift": 0.2630120888421913
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gumtree",
+      "url": "http://gumtree.ie",
+      "originalURL": "gumtree.ie"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 859,
+    "speedIndex": 1421.3593182044478,
+    "largestContentfulPaint": 1152,
+    "timeToInteractive": 3259.5,
+    "totalBlockingTime": 150.5,
+    "cumulativeLayoutShift": 0.2630120888421913
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gumtree",
+      "url": "http://gumtree.ie",
+      "originalURL": "gumtree.ie"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 859,
+    "speedIndex": 1499.861080899425,
+    "largestContentfulPaint": 1130,
+    "timeToInteractive": 3442,
+    "totalBlockingTime": 181,
+    "cumulativeLayoutShift": 0.2630120888421913
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gumtree",
+      "url": "http://gumtree.ie",
+      "originalURL": "gumtree.ie"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 863,
+    "speedIndex": 1385.8163514061064,
+    "largestContentfulPaint": 1157,
+    "timeToInteractive": 3444.5,
+    "totalBlockingTime": 203,
+    "cumulativeLayoutShift": 0.2630120888421913
+  }
+]

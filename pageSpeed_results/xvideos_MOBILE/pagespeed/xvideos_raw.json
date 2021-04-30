@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xvideos",
+      "url": "http://xvideos.com",
+      "originalURL": "xvideos.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.57,
+    "seo": 0.82,
+    "accessibility": 0.72,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2725,
+    "speedIndex": 3286.824968939725,
+    "largestContentfulPaint": 5505,
+    "timeToInteractive": 7855,
+    "totalBlockingTime": 591,
+    "cumulativeLayoutShift": 0.08882520887586805
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xvideos",
+      "url": "http://xvideos.com",
+      "originalURL": "xvideos.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.57,
+    "seo": 0.82,
+    "accessibility": 0.72,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2779,
+    "speedIndex": 3086.0098554349815,
+    "largestContentfulPaint": 5235,
+    "timeToInteractive": 7640,
+    "totalBlockingTime": 464.5,
+    "cumulativeLayoutShift": 0.08874372016059028
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xvideos",
+      "url": "http://xvideos.com",
+      "originalURL": "xvideos.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.57,
+    "seo": 0.82,
+    "accessibility": 0.72,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2915,
+    "speedIndex": 3381.7486640511634,
+    "largestContentfulPaint": 5370,
+    "timeToInteractive": 7606,
+    "totalBlockingTime": 386,
+    "cumulativeLayoutShift": 0.08882520887586805
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xvideos",
+      "url": "http://xvideos.com",
+      "originalURL": "xvideos.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.57,
+    "seo": 0.82,
+    "accessibility": 0.72,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2751,
+    "speedIndex": 3041.357871017237,
+    "largestContentfulPaint": 5535,
+    "timeToInteractive": 7934,
+    "totalBlockingTime": 627.5,
+    "cumulativeLayoutShift": 0.09043507215711806
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "xvideos",
+      "url": "http://xvideos.com",
+      "originalURL": "xvideos.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.57,
+    "seo": 0.82,
+    "accessibility": 0.72,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2857,
+    "speedIndex": 3341.5500316720254,
+    "largestContentfulPaint": 5243,
+    "timeToInteractive": 7883,
+    "totalBlockingTime": 667,
+    "cumulativeLayoutShift": 0.08882520887586806
+  }
+]

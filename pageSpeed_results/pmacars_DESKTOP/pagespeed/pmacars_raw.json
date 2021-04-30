@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pmacars",
+      "url": "http://pmacars.com",
+      "originalURL": "pmacars.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 694,
+    "speedIndex": 1197.3065760741986,
+    "largestContentfulPaint": 2037,
+    "timeToInteractive": 1618.5,
+    "totalBlockingTime": 6.5,
+    "cumulativeLayoutShift": 0.27398977497592153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pmacars",
+      "url": "http://pmacars.com",
+      "originalURL": "pmacars.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 694,
+    "speedIndex": 1217.0123403636637,
+    "largestContentfulPaint": 2009.5,
+    "timeToInteractive": 1799,
+    "totalBlockingTime": 14.5,
+    "cumulativeLayoutShift": 0.27398977497592153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pmacars",
+      "url": "http://pmacars.com",
+      "originalURL": "pmacars.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 691,
+    "speedIndex": 1086.201930188744,
+    "largestContentfulPaint": 2008.5,
+    "timeToInteractive": 1797,
+    "totalBlockingTime": 13.5,
+    "cumulativeLayoutShift": 0.2739897749759215
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pmacars",
+      "url": "http://pmacars.com",
+      "originalURL": "pmacars.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 694,
+    "speedIndex": 1130.2147220697875,
+    "largestContentfulPaint": 2013,
+    "timeToInteractive": 1806,
+    "totalBlockingTime": 18,
+    "cumulativeLayoutShift": 0.2739567977118174
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pmacars",
+      "url": "http://pmacars.com",
+      "originalURL": "pmacars.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 683,
+    "speedIndex": 1065.404265317207,
+    "largestContentfulPaint": 1985.5,
+    "timeToInteractive": 1791,
+    "totalBlockingTime": 10.5,
+    "cumulativeLayoutShift": 0.2739897749759215
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dabbledoomusic",
+      "url": "http://dabbledoomusic.com",
+      "originalURL": "dabbledoomusic.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.15,
+    "seo": 0.58,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1797,
+    "speedIndex": 2798.195822392326,
+    "largestContentfulPaint": 3817,
+    "timeToInteractive": 4288.5,
+    "totalBlockingTime": 160,
+    "cumulativeLayoutShift": 0.012435198318886261
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dabbledoomusic",
+      "url": "http://dabbledoomusic.com",
+      "originalURL": "dabbledoomusic.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.15,
+    "seo": 0.58,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1785,
+    "speedIndex": 2763.1810326768045,
+    "largestContentfulPaint": 3885,
+    "timeToInteractive": 4165,
+    "totalBlockingTime": 88.5,
+    "cumulativeLayoutShift": 0.012435198318886261
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dabbledoomusic",
+      "url": "http://dabbledoomusic.com",
+      "originalURL": "dabbledoomusic.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.15,
+    "seo": 0.58,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1849,
+    "speedIndex": 3020.337225517442,
+    "largestContentfulPaint": 3779,
+    "timeToInteractive": 4383,
+    "totalBlockingTime": 193.5,
+    "cumulativeLayoutShift": 0.012435198318886261
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dabbledoomusic",
+      "url": "http://dabbledoomusic.com",
+      "originalURL": "dabbledoomusic.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.15,
+    "seo": 0.58,
+    "accessibility": 0.77,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1819,
+    "speedIndex": 2968.4484500065546,
+    "largestContentfulPaint": 3959,
+    "timeToInteractive": 4348,
+    "totalBlockingTime": 326.5,
+    "cumulativeLayoutShift": 0.012435198318886261
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dabbledoomusic",
+      "url": "http://dabbledoomusic.com",
+      "originalURL": "dabbledoomusic.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.15,
+    "seo": 0.58,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1812,
+    "speedIndex": 3141.42672712663,
+    "largestContentfulPaint": 3672,
+    "timeToInteractive": 4347,
+    "totalBlockingTime": 231,
+    "cumulativeLayoutShift": 0.012435198318886261
+  }
+]

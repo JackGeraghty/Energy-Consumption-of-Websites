@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": null,
+    "seo": 0.84,
+    "accessibility": 0.64,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7620,
+    "speedIndex": 7620,
+    "largestContentfulPaint": 12150,
+    "timeToInteractive": 14276,
+    "totalBlockingTime": 701,
+    "cumulativeLayoutShift": 0.0047301907009548606
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.64,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7170,
+    "speedIndex": 7170,
+    "largestContentfulPaint": 10978,
+    "timeToInteractive": 14346,
+    "totalBlockingTime": 1654,
+    "cumulativeLayoutShift": 0.0047301907009548606
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.64,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7620,
+    "speedIndex": 7620,
+    "largestContentfulPaint": 12417,
+    "timeToInteractive": 14875,
+    "totalBlockingTime": 1774,
+    "cumulativeLayoutShift": 0.0047301907009548606
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.64,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7470,
+    "speedIndex": 7470,
+    "largestContentfulPaint": 11759,
+    "timeToInteractive": 14383,
+    "totalBlockingTime": 971,
+    "cumulativeLayoutShift": 0.0047301907009548606
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "donedeal",
+      "url": "http://donedeal.ie"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.64,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7620,
+    "speedIndex": 7620,
+    "largestContentfulPaint": 11921,
+    "timeToInteractive": 14549,
+    "totalBlockingTime": 1006.5,
+    "cumulativeLayoutShift": 0.0047301907009548606
+  }
+]

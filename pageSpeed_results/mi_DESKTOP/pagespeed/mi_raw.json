@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mi",
+      "url": "http://mi.com",
+      "originalURL": "mi.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.5,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 909,
+    "speedIndex": 1880.1915008087435,
+    "largestContentfulPaint": 2346.5,
+    "timeToInteractive": 1325,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0030933473426144826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mi",
+      "url": "http://mi.com",
+      "originalURL": "mi.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.11,
+    "seo": 0.67,
+    "accessibility": 0.5,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1030,
+    "speedIndex": 1843.6678094636193,
+    "largestContentfulPaint": 1565,
+    "timeToInteractive": 1325,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0030933473426144826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mi",
+      "url": "http://mi.com",
+      "originalURL": "mi.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": null,
+    "seo": 0.67,
+    "accessibility": 0.5,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1030,
+    "speedIndex": 1459.5389620576893,
+    "largestContentfulPaint": 1560,
+    "timeToInteractive": 1325,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0030933473426144826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mi",
+      "url": "http://mi.com",
+      "originalURL": "mi.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.11,
+    "seo": 0.67,
+    "accessibility": 0.5,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1030,
+    "speedIndex": 1703.3115942216355,
+    "largestContentfulPaint": 1560,
+    "timeToInteractive": 1325,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0030933473426144826
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mi",
+      "url": "http://mi.com",
+      "originalURL": "mi.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.5,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1030,
+    "speedIndex": 1485.759710968902,
+    "largestContentfulPaint": 1625,
+    "timeToInteractive": 1325,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0030933473426144826
+  }
+]

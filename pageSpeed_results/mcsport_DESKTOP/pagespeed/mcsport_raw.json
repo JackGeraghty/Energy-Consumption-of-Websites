@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mcsport",
+      "url": "http://mcsport.ie",
+      "originalURL": "mcsport.ie"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.68,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1361,
+    "speedIndex": 1978.4716864882735,
+    "largestContentfulPaint": 3006.5,
+    "timeToInteractive": 5572,
+    "totalBlockingTime": 435,
+    "cumulativeLayoutShift": 0.2836626670168987
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mcsport",
+      "url": "http://mcsport.ie",
+      "originalURL": "mcsport.ie"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1429,
+    "speedIndex": 2042.9179251266614,
+    "largestContentfulPaint": 3410,
+    "timeToInteractive": 5675,
+    "totalBlockingTime": 671.5,
+    "cumulativeLayoutShift": 0.27648444794676474
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mcsport",
+      "url": "http://mcsport.ie",
+      "originalURL": "mcsport.ie"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1429.5,
+    "speedIndex": 2313.762744471136,
+    "largestContentfulPaint": 3300,
+    "timeToInteractive": 5764,
+    "totalBlockingTime": 549,
+    "cumulativeLayoutShift": 0.27648444794676474
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mcsport",
+      "url": "http://mcsport.ie",
+      "originalURL": "mcsport.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1342.5,
+    "speedIndex": 1978.8511281437186,
+    "largestContentfulPaint": 3615,
+    "timeToInteractive": 5694,
+    "totalBlockingTime": 482.5,
+    "cumulativeLayoutShift": 0.3756971403554855
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mcsport",
+      "url": "http://mcsport.ie",
+      "originalURL": "mcsport.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.7,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1419,
+    "speedIndex": 2268.7402260560125,
+    "largestContentfulPaint": 3680,
+    "timeToInteractive": 5750,
+    "totalBlockingTime": 507,
+    "cumulativeLayoutShift": 0.4381090972769459
+  }
+]

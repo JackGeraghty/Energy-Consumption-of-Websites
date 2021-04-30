@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spotify",
+      "url": "http://spotify.com",
+      "originalURL": "spotify.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1430,
+    "speedIndex": 2911.8776846015844,
+    "largestContentfulPaint": 1996,
+    "timeToInteractive": 5769,
+    "totalBlockingTime": 2846.5,
+    "cumulativeLayoutShift": 0.010156196480168111
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spotify",
+      "url": "http://spotify.com",
+      "originalURL": "spotify.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1350,
+    "speedIndex": 1350,
+    "largestContentfulPaint": 1570,
+    "timeToInteractive": 2132.5,
+    "totalBlockingTime": 197,
+    "cumulativeLayoutShift": 0.009313958497504597
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spotify",
+      "url": "http://spotify.com",
+      "originalURL": "spotify.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1230,
+    "speedIndex": 1230,
+    "largestContentfulPaint": 1590,
+    "timeToInteractive": 2131,
+    "totalBlockingTime": 154,
+    "cumulativeLayoutShift": 0.009313958497504597
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spotify",
+      "url": "http://spotify.com",
+      "originalURL": "spotify.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1350,
+    "speedIndex": 1402.7251416842141,
+    "largestContentfulPaint": 1650,
+    "timeToInteractive": 3404,
+    "totalBlockingTime": 1149,
+    "cumulativeLayoutShift": 0.009313958497504597
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "spotify",
+      "url": "http://spotify.com",
+      "originalURL": "spotify.com"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1350,
+    "speedIndex": 1350,
+    "largestContentfulPaint": 1510,
+    "timeToInteractive": 2134,
+    "totalBlockingTime": 181,
+    "cumulativeLayoutShift": 0.009313958497504597
+  }
+]

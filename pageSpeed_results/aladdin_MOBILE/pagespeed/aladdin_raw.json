@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aladdin",
+      "url": "http://aladdin.ie",
+      "originalURL": "aladdin.ie"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.21,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3422,
+    "speedIndex": 6661.623669641762,
+    "largestContentfulPaint": 18390,
+    "timeToInteractive": 11950,
+    "totalBlockingTime": 72,
+    "cumulativeLayoutShift": 0.08156537543402778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aladdin",
+      "url": "http://aladdin.ie",
+      "originalURL": "aladdin.ie"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.21,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3465,
+    "speedIndex": 6709.379822480875,
+    "largestContentfulPaint": 18990,
+    "timeToInteractive": 11702,
+    "totalBlockingTime": 88.5,
+    "cumulativeLayoutShift": 0.07669373914930556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aladdin",
+      "url": "http://aladdin.ie",
+      "originalURL": "aladdin.ie"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.46,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3420,
+    "speedIndex": 6087.994152515734,
+    "largestContentfulPaint": 17955,
+    "timeToInteractive": 9601,
+    "totalBlockingTime": 55.5,
+    "cumulativeLayoutShift": 0.08156537543402778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aladdin",
+      "url": "http://aladdin.ie",
+      "originalURL": "aladdin.ie"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.21,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3555,
+    "speedIndex": 6173.569751727315,
+    "largestContentfulPaint": 16230,
+    "timeToInteractive": 12004.5,
+    "totalBlockingTime": 105.5,
+    "cumulativeLayoutShift": 0.08156537543402778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aladdin",
+      "url": "http://aladdin.ie",
+      "originalURL": "aladdin.ie"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.21,
+    "seo": 0.73,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3272,
+    "speedIndex": 6690.386149057035,
+    "largestContentfulPaint": 16905,
+    "timeToInteractive": 12073,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.07669373914930556
+  }
+]

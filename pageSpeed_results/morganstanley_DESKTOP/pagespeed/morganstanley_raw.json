@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morganstanley",
+      "url": "http://morganstanley.com",
+      "originalURL": "morganstanley.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 896.5,
+    "speedIndex": 3773.949958992353,
+    "largestContentfulPaint": 3115,
+    "timeToInteractive": 4623.5,
+    "totalBlockingTime": 348.5,
+    "cumulativeLayoutShift": 0.0018997595073402794
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morganstanley",
+      "url": "http://morganstanley.com",
+      "originalURL": "morganstanley.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 809,
+    "speedIndex": 4077.77309350654,
+    "largestContentfulPaint": 3770.5,
+    "timeToInteractive": 4670.5,
+    "totalBlockingTime": 139.5,
+    "cumulativeLayoutShift": 0.018787197268190177
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morganstanley",
+      "url": "http://morganstanley.com",
+      "originalURL": "morganstanley.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 874,
+    "speedIndex": 3857.1809517239526,
+    "largestContentfulPaint": 2945,
+    "timeToInteractive": 4717.5,
+    "totalBlockingTime": 269,
+    "cumulativeLayoutShift": 0.005233998190467852
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morganstanley",
+      "url": "http://morganstanley.com",
+      "originalURL": "morganstanley.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 876.5,
+    "speedIndex": 4446.035420908854,
+    "largestContentfulPaint": 3377,
+    "timeToInteractive": 4966.5,
+    "totalBlockingTime": 189,
+    "cumulativeLayoutShift": 0.007718638764848379
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morganstanley",
+      "url": "http://morganstanley.com",
+      "originalURL": "morganstanley.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 854,
+    "speedIndex": 3844.4666851714965,
+    "largestContentfulPaint": 2975,
+    "timeToInteractive": 4549.5,
+    "totalBlockingTime": 248.5,
+    "cumulativeLayoutShift": 0.01197187169833348
+  }
+]

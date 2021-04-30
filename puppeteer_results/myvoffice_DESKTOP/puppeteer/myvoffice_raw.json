@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "myvoffice",
+      "url": "http://myvoffice.com",
+      "originalURL": "myvoffice.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 772,
+    "decodedBodySize": 772,
+    "transferSize": 951,
+    "resourcesList": [
+      [
+        "http://myvoffice.com/",
+        951,
+        772,
+        772,
+        0.040973
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myvoffice",
+      "url": "http://myvoffice.com",
+      "originalURL": "myvoffice.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://myvoffice.com/",
+        927,
+        748,
+        748,
+        0.040068
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myvoffice",
+      "url": "http://myvoffice.com",
+      "originalURL": "myvoffice.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://myvoffice.com/",
+        927,
+        748,
+        748,
+        0.039867
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myvoffice",
+      "url": "http://myvoffice.com",
+      "originalURL": "myvoffice.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://myvoffice.com/",
+        927,
+        748,
+        748,
+        0.039989
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "myvoffice",
+      "url": "http://myvoffice.com",
+      "originalURL": "myvoffice.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 748,
+    "decodedBodySize": 748,
+    "transferSize": 927,
+    "resourcesList": [
+      [
+        "http://myvoffice.com/",
+        927,
+        748,
+        748,
+        0.040705
+      ]
+    ]
+  }
+]

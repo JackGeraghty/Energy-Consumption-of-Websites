@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gogoanime",
+      "url": "http://gogoanime.so",
+      "originalURL": "gogoanime.so"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1300,
+    "speedIndex": 1465.4086945888384,
+    "largestContentfulPaint": 3075,
+    "timeToInteractive": 2043.5,
+    "totalBlockingTime": 60,
+    "cumulativeLayoutShift": 0.08090216326649738
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gogoanime",
+      "url": "http://gogoanime.so",
+      "originalURL": "gogoanime.so"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1260,
+    "speedIndex": 1260,
+    "largestContentfulPaint": 3075,
+    "timeToInteractive": 2022,
+    "totalBlockingTime": 40,
+    "cumulativeLayoutShift": 0.08090216326649738
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gogoanime",
+      "url": "http://gogoanime.so",
+      "originalURL": "gogoanime.so"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1260,
+    "speedIndex": 1389.1580344752108,
+    "largestContentfulPaint": 3075,
+    "timeToInteractive": 2021.5,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.08090216326649738
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gogoanime",
+      "url": "http://gogoanime.so",
+      "originalURL": "gogoanime.so"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1300,
+    "speedIndex": 1338.5817114815982,
+    "largestContentfulPaint": 3075,
+    "timeToInteractive": 2052,
+    "totalBlockingTime": 58,
+    "cumulativeLayoutShift": 0.08090216326649738
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gogoanime",
+      "url": "http://gogoanime.so",
+      "originalURL": "gogoanime.so"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1300,
+    "speedIndex": 1305.3513182884585,
+    "largestContentfulPaint": 3075,
+    "timeToInteractive": 2040,
+    "totalBlockingTime": 56,
+    "cumulativeLayoutShift": 0.08090216326649738
+  }
+]

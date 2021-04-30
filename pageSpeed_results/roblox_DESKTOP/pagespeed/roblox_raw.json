@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roblox",
+      "url": "http://roblox.com",
+      "originalURL": "roblox.com"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.41,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1280,
+    "speedIndex": 2271.650798668663,
+    "largestContentfulPaint": 3100,
+    "timeToInteractive": 1280,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roblox",
+      "url": "http://roblox.com",
+      "originalURL": "roblox.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.41,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1280,
+    "speedIndex": 2019.755051684598,
+    "largestContentfulPaint": 3060,
+    "timeToInteractive": 1280,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roblox",
+      "url": "http://roblox.com",
+      "originalURL": "roblox.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.41,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1080,
+    "speedIndex": 1236.0575656618576,
+    "largestContentfulPaint": 3080,
+    "timeToInteractive": 1280,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roblox",
+      "url": "http://roblox.com",
+      "originalURL": "roblox.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.41,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1280,
+    "speedIndex": 1479.2512566611417,
+    "largestContentfulPaint": 3080,
+    "timeToInteractive": 1280,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roblox",
+      "url": "http://roblox.com",
+      "originalURL": "roblox.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.41,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1080,
+    "speedIndex": 1461.7855111716785,
+    "largestContentfulPaint": 2935,
+    "timeToInteractive": 1240,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

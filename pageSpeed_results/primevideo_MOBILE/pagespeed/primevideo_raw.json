@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "primevideo",
+      "url": "http://primevideo.com",
+      "originalURL": "primevideo.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4843.505935695491,
+    "largestContentfulPaint": 5100,
+    "timeToInteractive": 8026,
+    "totalBlockingTime": 262.5,
+    "cumulativeLayoutShift": 0.000078369140625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "primevideo",
+      "url": "http://primevideo.com",
+      "originalURL": "primevideo.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4568.696814341895,
+    "largestContentfulPaint": 6030,
+    "timeToInteractive": 7980,
+    "totalBlockingTime": 263,
+    "cumulativeLayoutShift": 0.000078369140625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "primevideo",
+      "url": "http://primevideo.com",
+      "originalURL": "primevideo.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4579.889135849445,
+    "largestContentfulPaint": 6030,
+    "timeToInteractive": 8138.5,
+    "totalBlockingTime": 431,
+    "cumulativeLayoutShift": 0.000078369140625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "primevideo",
+      "url": "http://primevideo.com",
+      "originalURL": "primevideo.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4245.7863961252,
+    "largestContentfulPaint": 6030,
+    "timeToInteractive": 8006,
+    "totalBlockingTime": 275.5,
+    "cumulativeLayoutShift": 0.000078369140625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "primevideo",
+      "url": "http://primevideo.com",
+      "originalURL": "primevideo.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.5,
+    "seo": 0.9,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4206.342958767607,
+    "largestContentfulPaint": 6030,
+    "timeToInteractive": 7951,
+    "totalBlockingTime": 198,
+    "cumulativeLayoutShift": 0.000078369140625
+  }
+]

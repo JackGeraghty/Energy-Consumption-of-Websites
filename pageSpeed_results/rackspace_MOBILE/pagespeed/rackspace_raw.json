@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rackspace",
+      "url": "http://rackspace.com",
+      "originalURL": "rackspace.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.21,
+    "seo": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 5295.712386706434,
+    "largestContentfulPaint": 12077,
+    "timeToInteractive": 14494.5,
+    "totalBlockingTime": 337.5,
+    "cumulativeLayoutShift": 0.6019291110568576
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rackspace",
+      "url": "http://rackspace.com",
+      "originalURL": "rackspace.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.21,
+    "seo": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 5287.004537349048,
+    "largestContentfulPaint": 12107,
+    "timeToInteractive": 14270.5,
+    "totalBlockingTime": 237.5,
+    "cumulativeLayoutShift": 0.5961565687391492
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rackspace",
+      "url": "http://rackspace.com",
+      "originalURL": "rackspace.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.21,
+    "seo": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 5174.881952207429,
+    "largestContentfulPaint": 11739,
+    "timeToInteractive": 14100.5,
+    "totalBlockingTime": 284.5,
+    "cumulativeLayoutShift": 0.6049148966471354
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rackspace",
+      "url": "http://rackspace.com",
+      "originalURL": "rackspace.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 5434.738181132969,
+    "largestContentfulPaint": 12172,
+    "timeToInteractive": 14547.5,
+    "totalBlockingTime": 367,
+    "cumulativeLayoutShift": 0.6080362277560764
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rackspace",
+      "url": "http://rackspace.com",
+      "originalURL": "rackspace.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.21,
+    "seo": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 4970.023965198348,
+    "largestContentfulPaint": 11515,
+    "timeToInteractive": 14438,
+    "totalBlockingTime": 325.5,
+    "cumulativeLayoutShift": 0.7755943196614583
+  }
+]

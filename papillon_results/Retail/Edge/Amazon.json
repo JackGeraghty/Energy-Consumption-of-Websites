@@ -1,0 +1,334 @@
+{
+  "activity": [
+    {
+      "id": "2036",
+      "hostId": "284",
+      "power": "8.657415",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "20.274076131400587",
+      "stat2": "6776191.0",
+      "stat3": "6.4618496E7",
+      "timeStamp": "1617720776",
+      "allApps": "10920.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8264",
+            "activityId": "2036",
+            "name": "msedge#0452838809",
+            "cpu": "6170.0"
+          },
+          {
+            "appId": "8265",
+            "activityId": "2036",
+            "name": "msedge#983697659",
+            "cpu": "2040.0"
+          },
+          {
+            "appId": "8266",
+            "activityId": "2036",
+            "name": "msedge#0456961915",
+            "cpu": "930.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2037",
+      "hostId": "284",
+      "power": "8.14816666666667",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "29.22018419101879",
+      "stat2": "4710946.0",
+      "stat3": "1.6592896E7",
+      "timeStamp": "1617720836",
+      "allApps": "24810.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8267",
+            "activityId": "2037",
+            "name": "msedge#0452838809",
+            "cpu": "15770.0"
+          },
+          {
+            "appId": "8268",
+            "activityId": "2037",
+            "name": "msedge#0456961915",
+            "cpu": "4660.0"
+          },
+          {
+            "appId": "8269",
+            "activityId": "2037",
+            "name": "msedge#983697659",
+            "cpu": "2890.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2038",
+      "hostId": "284",
+      "power": "6.148166000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "19.358026695998625",
+      "stat2": "2959958.0",
+      "stat3": "1.2652544E7",
+      "timeStamp": "1617720896",
+      "allApps": "15440.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8270",
+            "activityId": "2038",
+            "name": "msedge#0452838809",
+            "cpu": "9650.0"
+          },
+          {
+            "appId": "8271",
+            "activityId": "2038",
+            "name": "msedge#983697659",
+            "cpu": "2800.0"
+          },
+          {
+            "appId": "8272",
+            "activityId": "2038",
+            "name": "msedge#0456961915",
+            "cpu": "1760.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2039",
+      "hostId": "284",
+      "power": "6.537051000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "32.903020950792474",
+      "stat2": "1899837.0",
+      "stat3": "1.3856768E7",
+      "timeStamp": "1617720956",
+      "allApps": "25670.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8273",
+            "activityId": "2039",
+            "name": "msedge#0452838809",
+            "cpu": "15710.0"
+          },
+          {
+            "appId": "8274",
+            "activityId": "2039",
+            "name": "msedge#0456961915",
+            "cpu": "4560.0"
+          },
+          {
+            "appId": "8275",
+            "activityId": "2039",
+            "name": "msedge#983697659",
+            "cpu": "3280.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2040",
+      "hostId": "284",
+      "power": "10.833330000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "46.01395348451771",
+      "stat2": "8342684.0",
+      "stat3": "4.8678912E8",
+      "timeStamp": "1617721016",
+      "allApps": "19770.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8276",
+            "activityId": "2040",
+            "name": "msedge#0452838809",
+            "cpu": "12930.0"
+          },
+          {
+            "appId": "8277",
+            "activityId": "2040",
+            "name": "msedge#983697659",
+            "cpu": "2790.0"
+          },
+          {
+            "appId": "8278",
+            "activityId": "2040",
+            "name": "msedge#0456961915",
+            "cpu": "1580.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2041",
+      "hostId": "284",
+      "power": "8.759264000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "24.68342444273015",
+      "stat2": "2.1497426E7",
+      "stat3": "2.2593536E7",
+      "timeStamp": "1617721076",
+      "allApps": "25690.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8279",
+            "activityId": "2041",
+            "name": "msedge#0452838809",
+            "cpu": "17820.0"
+          },
+          {
+            "appId": "8280",
+            "activityId": "2041",
+            "name": "msedge#0456961915",
+            "cpu": "4360.0"
+          },
+          {
+            "appId": "8281",
+            "activityId": "2041",
+            "name": "msedge#983697659",
+            "cpu": "1750.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2042",
+      "hostId": "284",
+      "power": "5.768517000000002",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "11.793402907584852",
+      "stat2": "318823.0",
+      "stat3": "1.2775424E7",
+      "timeStamp": "1617721136",
+      "allApps": "11120.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8282",
+            "activityId": "2042",
+            "name": "msedge#0452838809",
+            "cpu": "7170.0"
+          },
+          {
+            "appId": "8283",
+            "activityId": "2042",
+            "name": "msedge#983697659",
+            "cpu": "1680.0"
+          },
+          {
+            "appId": "8284",
+            "activityId": "2042",
+            "name": "msedge#0456961915",
+            "cpu": "1180.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2043",
+      "hostId": "284",
+      "power": "8.796298",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "30.134166620057268",
+      "stat2": "4749566.0",
+      "stat3": "2.7435008E7",
+      "timeStamp": "1617721196",
+      "allApps": "19860.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8285",
+            "activityId": "2043",
+            "name": "msedge#0452838809",
+            "cpu": "12780.0"
+          },
+          {
+            "appId": "8286",
+            "activityId": "2043",
+            "name": "msedge#983697659",
+            "cpu": "3050.0"
+          },
+          {
+            "appId": "8287",
+            "activityId": "2043",
+            "name": "msedge#0456961915",
+            "cpu": "1910.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2044",
+      "hostId": "284",
+      "power": "8.16138285714286",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "28.829292159321533",
+      "stat2": "9261348.0",
+      "stat3": "1.744896E7",
+      "timeStamp": "1617721256",
+      "allApps": "21580.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8288",
+            "activityId": "2044",
+            "name": "msedge#0452838809",
+            "cpu": "13630.0"
+          },
+          {
+            "appId": "8289",
+            "activityId": "2044",
+            "name": "msedge#983697659",
+            "cpu": "3810.0"
+          },
+          {
+            "appId": "8290",
+            "activityId": "2044",
+            "name": "msedge#0456961915",
+            "cpu": "2330.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2045",
+      "hostId": "284",
+      "power": "8.227524285714285",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "12.01239179373493",
+      "stat2": "6809685.0",
+      "stat3": "2.4915968E7",
+      "timeStamp": "1617721316",
+      "allApps": "11890.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "8291",
+            "activityId": "2045",
+            "name": "msedge#0452838809",
+            "cpu": "7590.0"
+          },
+          {
+            "appId": "8292",
+            "activityId": "2045",
+            "name": "msedge#983697659",
+            "cpu": "1540.0"
+          },
+          {
+            "appId": "8293",
+            "activityId": "2045",
+            "name": "msedge#0456961915",
+            "cpu": "1370.0"
+          }
+        ]
+      }
+    }
+  ]
+}

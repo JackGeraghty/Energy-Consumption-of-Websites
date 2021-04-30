@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vimeo",
+      "url": "http://vimeo.com",
+      "originalURL": "vimeo.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2100,
+    "speedIndex": 2909.342487937546,
+    "largestContentfulPaint": 6190,
+    "timeToInteractive": 6589,
+    "totalBlockingTime": 498,
+    "cumulativeLayoutShift": 0.059873775793129615
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vimeo",
+      "url": "http://vimeo.com",
+      "originalURL": "vimeo.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2100,
+    "speedIndex": 3207.500314344542,
+    "largestContentfulPaint": 6355,
+    "timeToInteractive": 2999,
+    "totalBlockingTime": 579,
+    "cumulativeLayoutShift": 0.059873775793129615
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vimeo",
+      "url": "http://vimeo.com",
+      "originalURL": "vimeo.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2100,
+    "speedIndex": 3173.5698965776646,
+    "largestContentfulPaint": 6250,
+    "timeToInteractive": 2927.5,
+    "totalBlockingTime": 452.5,
+    "cumulativeLayoutShift": 0.04471636284038175
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vimeo",
+      "url": "http://vimeo.com",
+      "originalURL": "vimeo.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2100,
+    "speedIndex": 2861.160917391484,
+    "largestContentfulPaint": 6275,
+    "timeToInteractive": 6550.5,
+    "totalBlockingTime": 508,
+    "cumulativeLayoutShift": 0.059873775793129615
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vimeo",
+      "url": "http://vimeo.com",
+      "originalURL": "vimeo.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2100,
+    "speedIndex": 2874.749299294989,
+    "largestContentfulPaint": 6235,
+    "timeToInteractive": 6604.5,
+    "totalBlockingTime": 517,
+    "cumulativeLayoutShift": 0.059873775793129615
+  }
+]

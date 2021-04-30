@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": null,
+    "seo": 0.92,
+    "accessibility": null,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 3930,
+    "speedIndex": 3930,
+    "largestContentfulPaint": 4905,
+    "timeToInteractive": 13329,
+    "totalBlockingTime": 2384,
+    "cumulativeLayoutShift": 0.037353515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": null,
+    "seo": 0.92,
+    "accessibility": null,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4080,
+    "speedIndex": 4080,
+    "largestContentfulPaint": 4995,
+    "timeToInteractive": 13393,
+    "totalBlockingTime": 2289,
+    "cumulativeLayoutShift": 0.037353515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": null,
+    "seo": 0.92,
+    "accessibility": null,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4320,
+    "speedIndex": 4320,
+    "largestContentfulPaint": 5490,
+    "timeToInteractive": 12461,
+    "totalBlockingTime": 1471.5,
+    "cumulativeLayoutShift": 0.037353515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": null,
+    "seo": 0.92,
+    "accessibility": null,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4170,
+    "speedIndex": 4170,
+    "largestContentfulPaint": 5640,
+    "timeToInteractive": 13969,
+    "totalBlockingTime": 2651,
+    "cumulativeLayoutShift": 0.037353515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitch",
+      "url": "http://twitch.tv"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": null,
+    "seo": 0.92,
+    "accessibility": null,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4425,
+    "speedIndex": 6272.965553358021,
+    "largestContentfulPaint": 5325,
+    "timeToInteractive": 12375.5,
+    "totalBlockingTime": 1662.5,
+    "cumulativeLayoutShift": 0.037353515625
+  }
+]

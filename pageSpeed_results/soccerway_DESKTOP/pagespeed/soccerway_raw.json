@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerway",
+      "url": "http://soccerway.com",
+      "originalURL": "soccerway.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.78,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3366,
+    "speedIndex": 3791.136376333532,
+    "largestContentfulPaint": 3873,
+    "timeToInteractive": 8007,
+    "totalBlockingTime": 468,
+    "cumulativeLayoutShift": 0.7134673502028427
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerway",
+      "url": "http://soccerway.com",
+      "originalURL": "soccerway.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.78,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3254,
+    "speedIndex": 4405.379933299081,
+    "largestContentfulPaint": 4087,
+    "timeToInteractive": 8587.5,
+    "totalBlockingTime": 520.5,
+    "cumulativeLayoutShift": 0.7048450987946181
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerway",
+      "url": "http://soccerway.com",
+      "originalURL": "soccerway.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.78,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3385,
+    "speedIndex": 4079.6216991829374,
+    "largestContentfulPaint": 4067.5,
+    "timeToInteractive": 8617.5,
+    "totalBlockingTime": 882,
+    "cumulativeLayoutShift": 0.6331631748533404
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerway",
+      "url": "http://soccerway.com",
+      "originalURL": "soccerway.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.78,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3259,
+    "speedIndex": 3515.6178763599905,
+    "largestContentfulPaint": 3944.5,
+    "timeToInteractive": 8025,
+    "totalBlockingTime": 609,
+    "cumulativeLayoutShift": 0.7048450987946181
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "soccerway",
+      "url": "http://soccerway.com",
+      "originalURL": "soccerway.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.78,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1695,
+    "speedIndex": 8369.210207431897,
+    "largestContentfulPaint": 2625,
+    "timeToInteractive": 7529,
+    "totalBlockingTime": 576.5,
+    "cumulativeLayoutShift": 0.39068020313457663
+  }
+]

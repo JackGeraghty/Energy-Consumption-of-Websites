@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ultimate-guitar",
+      "url": "http://ultimate-guitar.com",
+      "originalURL": "ultimate-guitar.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.58,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 5026.073808867679,
+    "largestContentfulPaint": 2640,
+    "timeToInteractive": 8266,
+    "totalBlockingTime": 1198,
+    "cumulativeLayoutShift": 0.004694091796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ultimate-guitar",
+      "url": "http://ultimate-guitar.com",
+      "originalURL": "ultimate-guitar.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.58,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 4512.893393335989,
+    "largestContentfulPaint": 2550,
+    "timeToInteractive": 8138,
+    "totalBlockingTime": 1224,
+    "cumulativeLayoutShift": 0.004694091796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ultimate-guitar",
+      "url": "http://ultimate-guitar.com",
+      "originalURL": "ultimate-guitar.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.58,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 4539.603912721825,
+    "largestContentfulPaint": 2550,
+    "timeToInteractive": 8209.5,
+    "totalBlockingTime": 1285.5,
+    "cumulativeLayoutShift": 0.004694091796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ultimate-guitar",
+      "url": "http://ultimate-guitar.com",
+      "originalURL": "ultimate-guitar.com"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.58,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1920,
+    "speedIndex": 4604.609508904231,
+    "largestContentfulPaint": 2550,
+    "timeToInteractive": 7967.5,
+    "totalBlockingTime": 1097.5,
+    "cumulativeLayoutShift": 0.004694091796875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ultimate-guitar",
+      "url": "http://ultimate-guitar.com",
+      "originalURL": "ultimate-guitar.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.58,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2070,
+    "speedIndex": 4783.42693705655,
+    "largestContentfulPaint": 2640,
+    "timeToInteractive": 8042.5,
+    "totalBlockingTime": 1262.5,
+    "cumulativeLayoutShift": 0.004694091796875
+  }
+]

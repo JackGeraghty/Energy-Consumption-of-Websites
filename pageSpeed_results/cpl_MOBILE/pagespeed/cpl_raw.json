@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cpl",
+      "url": "http://cpl.com",
+      "originalURL": "cpl.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.92,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 6010.335440426766,
+    "largestContentfulPaint": 6850,
+    "timeToInteractive": 10001,
+    "totalBlockingTime": 835,
+    "cumulativeLayoutShift": 0.00024096679687499997
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cpl",
+      "url": "http://cpl.com",
+      "originalURL": "cpl.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.92,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 4093.1888139252196,
+    "largestContentfulPaint": 5565.5,
+    "timeToInteractive": 10114.5,
+    "totalBlockingTime": 998.5,
+    "cumulativeLayoutShift": 0.00024096679687499997
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cpl",
+      "url": "http://cpl.com",
+      "originalURL": "cpl.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.21,
+    "seo": 0.79,
+    "accessibility": 0.92,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 4221.46132955888,
+    "largestContentfulPaint": 6210,
+    "timeToInteractive": 10043.5,
+    "totalBlockingTime": 961.5,
+    "cumulativeLayoutShift": 0.00024096679687499997
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cpl",
+      "url": "http://cpl.com",
+      "originalURL": "cpl.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.92,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 3900,
+    "largestContentfulPaint": 6729,
+    "timeToInteractive": 9927.5,
+    "totalBlockingTime": 699.5,
+    "cumulativeLayoutShift": 0.00024096679687499997
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cpl",
+      "url": "http://cpl.com",
+      "originalURL": "cpl.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.46,
+    "seo": 0.79,
+    "accessibility": 0.92,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 5826.995614717216,
+    "largestContentfulPaint": 6861,
+    "timeToInteractive": 9938.5,
+    "totalBlockingTime": 824.5,
+    "cumulativeLayoutShift": 0.00024096679687499997
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "qq",
+      "url": "http://qq.com",
+      "originalURL": "qq.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 840,
+    "speedIndex": 3410.2541635130788,
+    "largestContentfulPaint": 1225,
+    "timeToInteractive": 2608,
+    "totalBlockingTime": 61.5,
+    "cumulativeLayoutShift": 0.05055886057846656
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "qq",
+      "url": "http://qq.com",
+      "originalURL": "qq.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 840,
+    "speedIndex": 1898.674136029505,
+    "largestContentfulPaint": 1448,
+    "timeToInteractive": 2712.5,
+    "totalBlockingTime": 351,
+    "cumulativeLayoutShift": 0.05059090680909435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "qq",
+      "url": "http://qq.com",
+      "originalURL": "qq.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 840,
+    "speedIndex": 2016.5023943684282,
+    "largestContentfulPaint": 1365.5,
+    "timeToInteractive": 2629.5,
+    "totalBlockingTime": 89.5,
+    "cumulativeLayoutShift": 0.05059090680909435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "qq",
+      "url": "http://qq.com",
+      "originalURL": "qq.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 840,
+    "speedIndex": 1522.1662855504655,
+    "largestContentfulPaint": 1155,
+    "timeToInteractive": 2672.5,
+    "totalBlockingTime": 10,
+    "cumulativeLayoutShift": 0.05059090680909436
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "qq",
+      "url": "http://qq.com",
+      "originalURL": "qq.com"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 840,
+    "speedIndex": 1425.347328442645,
+    "largestContentfulPaint": 1378,
+    "timeToInteractive": 2651.0002479553223,
+    "totalBlockingTime": 73.5,
+    "cumulativeLayoutShift": 0.05055886057846656
+  }
+]

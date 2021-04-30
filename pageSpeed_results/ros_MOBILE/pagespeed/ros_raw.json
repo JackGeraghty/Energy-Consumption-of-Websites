@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.43,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9317,
+    "speedIndex": 9317,
+    "largestContentfulPaint": 9863.5,
+    "timeToInteractive": 9362,
+    "totalBlockingTime": 321.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.43,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9335,
+    "speedIndex": 9335,
+    "largestContentfulPaint": 9925,
+    "timeToInteractive": 9380,
+    "totalBlockingTime": 280.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.43,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9272,
+    "speedIndex": 9272,
+    "largestContentfulPaint": 9856,
+    "timeToInteractive": 9317,
+    "totalBlockingTime": 287,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.43,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9369,
+    "speedIndex": 9369,
+    "largestContentfulPaint": 10167,
+    "timeToInteractive": 9609,
+    "totalBlockingTime": 742.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.43,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 9322,
+    "speedIndex": 9322,
+    "largestContentfulPaint": 9941,
+    "timeToInteractive": 9367,
+    "totalBlockingTime": 337.5,
+    "cumulativeLayoutShift": 0
+  }
+]

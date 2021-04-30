@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icy-veins",
+      "url": "http://icy-veins.com",
+      "originalURL": "icy-veins.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.95,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 3179.1335225519088,
+    "largestContentfulPaint": 2363.5,
+    "timeToInteractive": 7488,
+    "totalBlockingTime": 96.5,
+    "cumulativeLayoutShift": 0.2864054093336836
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icy-veins",
+      "url": "http://icy-veins.com",
+      "originalURL": "icy-veins.com"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.95,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2419.119848669786,
+    "largestContentfulPaint": 2363.5,
+    "timeToInteractive": 4920.5,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.2945668756384438
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icy-veins",
+      "url": "http://icy-veins.com",
+      "originalURL": "icy-veins.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.95,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1365,
+    "speedIndex": 2689.189024832236,
+    "largestContentfulPaint": 2759,
+    "timeToInteractive": 4343.5,
+    "totalBlockingTime": 259.5,
+    "cumulativeLayoutShift": 0.2945668756384438
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icy-veins",
+      "url": "http://icy-veins.com",
+      "originalURL": "icy-veins.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.95,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 3025.5344138911255,
+    "largestContentfulPaint": 2311,
+    "timeToInteractive": 6900,
+    "totalBlockingTime": 116.5,
+    "cumulativeLayoutShift": 0.2864313445991303
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "icy-veins",
+      "url": "http://icy-veins.com",
+      "originalURL": "icy-veins.com"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 2616.7293490532584,
+    "largestContentfulPaint": 2359,
+    "timeToInteractive": 4638,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.28541452237107084
+  }
+]

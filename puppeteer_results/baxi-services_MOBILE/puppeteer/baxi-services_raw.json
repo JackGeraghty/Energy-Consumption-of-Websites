@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "baxi-services",
+      "url": "http://baxi-services.com",
+      "originalURL": "baxi-services.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 752,
+    "decodedBodySize": 752,
+    "transferSize": 931,
+    "resourcesList": [
+      [
+        "http://baxi-services.com/",
+        931,
+        752,
+        752,
+        0.045563
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxi-services",
+      "url": "http://baxi-services.com",
+      "originalURL": "baxi-services.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 776,
+    "decodedBodySize": 776,
+    "transferSize": 955,
+    "resourcesList": [
+      [
+        "http://baxi-services.com/",
+        955,
+        776,
+        776,
+        0.045974
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxi-services",
+      "url": "http://baxi-services.com",
+      "originalURL": "baxi-services.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 752,
+    "decodedBodySize": 752,
+    "transferSize": 931,
+    "resourcesList": [
+      [
+        "http://baxi-services.com/",
+        931,
+        752,
+        752,
+        0.04605
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxi-services",
+      "url": "http://baxi-services.com",
+      "originalURL": "baxi-services.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 752,
+    "decodedBodySize": 752,
+    "transferSize": 931,
+    "resourcesList": [
+      [
+        "http://baxi-services.com/",
+        931,
+        752,
+        752,
+        0.0454
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxi-services",
+      "url": "http://baxi-services.com",
+      "originalURL": "baxi-services.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 752,
+    "decodedBodySize": 752,
+    "transferSize": 931,
+    "resourcesList": [
+      [
+        "http://baxi-services.com/",
+        931,
+        752,
+        752,
+        0.04499
+      ]
+    ]
+  }
+]

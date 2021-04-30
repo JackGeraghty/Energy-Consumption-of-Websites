@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jysk",
+      "url": "http://jysk.ie",
+      "originalURL": "jysk.ie"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 790,
+    "speedIndex": 2210.704929491627,
+    "largestContentfulPaint": 3480,
+    "timeToInteractive": 3839,
+    "totalBlockingTime": 88,
+    "cumulativeLayoutShift": 0.5302503808773312
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jysk",
+      "url": "http://jysk.ie",
+      "originalURL": "jysk.ie"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 850,
+    "speedIndex": 2183.7081588202914,
+    "largestContentfulPaint": 3375,
+    "timeToInteractive": 3834,
+    "totalBlockingTime": 124,
+    "cumulativeLayoutShift": 0.5294428999211979
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jysk",
+      "url": "http://jysk.ie",
+      "originalURL": "jysk.ie"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 790,
+    "speedIndex": 2124.8052138141456,
+    "largestContentfulPaint": 3665,
+    "timeToInteractive": 3914,
+    "totalBlockingTime": 67,
+    "cumulativeLayoutShift": 0.4510048402066369
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jysk",
+      "url": "http://jysk.ie",
+      "originalURL": "jysk.ie"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 2198.1303359712083,
+    "largestContentfulPaint": 3856,
+    "timeToInteractive": 3912,
+    "totalBlockingTime": 78.5,
+    "cumulativeLayoutShift": 0.46302155094416714
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "jysk",
+      "url": "http://jysk.ie",
+      "originalURL": "jysk.ie"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 960,
+    "speedIndex": 2262.711603142151,
+    "largestContentfulPaint": 3560,
+    "timeToInteractive": 3918,
+    "totalBlockingTime": 89.5,
+    "cumulativeLayoutShift": 0.39049934564982636
+  }
+]

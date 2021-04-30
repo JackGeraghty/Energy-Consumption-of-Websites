@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ruck",
+      "url": "http://ruck.co.uk",
+      "originalURL": "ruck.co.uk"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6204.5,
+    "speedIndex": 24341.32475604374,
+    "largestContentfulPaint": 46860.5,
+    "timeToInteractive": 77569.5,
+    "totalBlockingTime": 4233.5,
+    "cumulativeLayoutShift": 0.1759325900607639
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ruck",
+      "url": "http://ruck.co.uk",
+      "originalURL": "ruck.co.uk"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6252,
+    "speedIndex": 27260.042740997153,
+    "largestContentfulPaint": 46656,
+    "timeToInteractive": 77300,
+    "totalBlockingTime": 4163,
+    "cumulativeLayoutShift": 0.1759325900607639
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ruck",
+      "url": "http://ruck.co.uk",
+      "originalURL": "ruck.co.uk"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6150.5,
+    "speedIndex": 25596.762600973514,
+    "largestContentfulPaint": 45297.5,
+    "timeToInteractive": 78243,
+    "totalBlockingTime": 4735,
+    "cumulativeLayoutShift": 0.1759325900607639
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ruck",
+      "url": "http://ruck.co.uk",
+      "originalURL": "ruck.co.uk"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6241.5,
+    "speedIndex": 26913.938625828523,
+    "largestContentfulPaint": 46053,
+    "timeToInteractive": 77344,
+    "totalBlockingTime": 4958.5,
+    "cumulativeLayoutShift": 0.1745263400607639
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ruck",
+      "url": "http://ruck.co.uk",
+      "originalURL": "ruck.co.uk"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.25,
+    "seo": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 6276.5,
+    "speedIndex": 19730.58430059158,
+    "largestContentfulPaint": 10146.5,
+    "timeToInteractive": 77547.5,
+    "totalBlockingTime": 4953.5,
+    "cumulativeLayoutShift": 0.1745263400607639
+  }
+]

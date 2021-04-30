@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "liveonscore",
+      "url": "http://liveonscore.tv",
+      "originalURL": "liveonscore.tv"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.15,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 840,
+    "speedIndex": 1886.6149687635748,
+    "largestContentfulPaint": 2310,
+    "timeToInteractive": 3708.082130432129,
+    "totalBlockingTime": 165,
+    "cumulativeLayoutShift": 0.0003717730496453901
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "liveonscore",
+      "url": "http://liveonscore.tv",
+      "originalURL": "liveonscore.tv"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.15,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 842.5,
+    "speedIndex": 2721.455836640186,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 4853,
+    "totalBlockingTime": 257.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "liveonscore",
+      "url": "http://liveonscore.tv",
+      "originalURL": "liveonscore.tv"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.15,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 849.5,
+    "speedIndex": 1134.0906419076582,
+    "largestContentfulPaint": 2110,
+    "timeToInteractive": 3322.5,
+    "totalBlockingTime": 161.5,
+    "cumulativeLayoutShift": 0.018600082888246796
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "liveonscore",
+      "url": "http://liveonscore.tv",
+      "originalURL": "liveonscore.tv"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.15,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 839,
+    "speedIndex": 1430.3695285275828,
+    "largestContentfulPaint": 3440,
+    "timeToInteractive": 3868,
+    "totalBlockingTime": 177.5,
+    "cumulativeLayoutShift": 0.000031773049645390076
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "liveonscore",
+      "url": "http://liveonscore.tv",
+      "originalURL": "liveonscore.tv"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.15,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 881,
+    "speedIndex": 1861.925233339624,
+    "largestContentfulPaint": 2070,
+    "timeToInteractive": 3188.5,
+    "totalBlockingTime": 84.5,
+    "cumulativeLayoutShift": 0
+  }
+]

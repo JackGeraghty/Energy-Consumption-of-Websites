@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rockpapershotgun",
+      "url": "http://rockpapershotgun.com",
+      "originalURL": "rockpapershotgun.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 1775.951843726986,
+    "largestContentfulPaint": 1488,
+    "timeToInteractive": 1578.5,
+    "totalBlockingTime": 35,
+    "cumulativeLayoutShift": 0.0016474541050112367
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rockpapershotgun",
+      "url": "http://rockpapershotgun.com",
+      "originalURL": "rockpapershotgun.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 1014.8044012717482,
+    "largestContentfulPaint": 1118,
+    "timeToInteractive": 1270,
+    "totalBlockingTime": 56.5,
+    "cumulativeLayoutShift": 0.0056163558357411785
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rockpapershotgun",
+      "url": "http://rockpapershotgun.com",
+      "originalURL": "rockpapershotgun.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 1076.6600571414258,
+    "largestContentfulPaint": 1150,
+    "timeToInteractive": 1289,
+    "totalBlockingTime": 78.5,
+    "cumulativeLayoutShift": 0.005606719785191022
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rockpapershotgun",
+      "url": "http://rockpapershotgun.com",
+      "originalURL": "rockpapershotgun.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 780,
+    "speedIndex": 1153.011602547783,
+    "largestContentfulPaint": 1246,
+    "timeToInteractive": 1371,
+    "totalBlockingTime": 135,
+    "cumulativeLayoutShift": 0.005606719785191022
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rockpapershotgun",
+      "url": "http://rockpapershotgun.com",
+      "originalURL": "rockpapershotgun.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 730,
+    "speedIndex": 1035.6056359249114,
+    "largestContentfulPaint": 1138,
+    "timeToInteractive": 1269,
+    "totalBlockingTime": 74,
+    "cumulativeLayoutShift": 0.0022281458132679564
+  }
+]

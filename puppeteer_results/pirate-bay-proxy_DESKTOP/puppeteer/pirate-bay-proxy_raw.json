@@ -1,0 +1,172 @@
+[
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106436,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.065383
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69219,
+        69020,
+        69020,
+        0.065383
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.065383
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106413,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.063928
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.063928
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.063928
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106422,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35185,
+        35108,
+        117434,
+        0.063426
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.063426
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.063426
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106413,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.065922
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.065922
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.065922
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "numTransferred": 5,
+    "encodedBodySize": 106023,
+    "decodedBodySize": 191559,
+    "transferSize": 106413,
+    "resourcesList": [
+      [
+        "https://pirate-bay-proxy.org/eng/",
+        35176,
+        35108,
+        117434,
+        0.064377
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/themes/info/assets/img/tpb.jpg",
+        69196,
+        69020,
+        69020,
+        0.064377
+      ],
+      [
+        "https://pirate-bay-proxy.org/wp-content/cache/autoptimize/js/autoptimize_e06161bfc0ead4a6c1e8005e9a94dfe9.js",
+        2041,
+        1895,
+        5105,
+        0.064377
+      ]
+    ]
+  }
+]

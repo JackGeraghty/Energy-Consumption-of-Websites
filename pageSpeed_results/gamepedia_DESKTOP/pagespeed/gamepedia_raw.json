@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepedia",
+      "url": "http://gamepedia.com",
+      "originalURL": "gamepedia.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1961.5,
+    "speedIndex": 2765.4700746921644,
+    "largestContentfulPaint": 3495,
+    "timeToInteractive": 3400,
+    "totalBlockingTime": 18.5,
+    "cumulativeLayoutShift": 0.051968280652599015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepedia",
+      "url": "http://gamepedia.com",
+      "originalURL": "gamepedia.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1962,
+    "speedIndex": 2341.9099144038137,
+    "largestContentfulPaint": 3665,
+    "timeToInteractive": 3140.5,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0.051968280652599015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepedia",
+      "url": "http://gamepedia.com",
+      "originalURL": "gamepedia.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1956,
+    "speedIndex": 2317.3630199901895,
+    "largestContentfulPaint": 3710,
+    "timeToInteractive": 3132,
+    "totalBlockingTime": 32,
+    "cumulativeLayoutShift": 0.051968280652599015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepedia",
+      "url": "http://gamepedia.com",
+      "originalURL": "gamepedia.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1960,
+    "speedIndex": 2747.88344693257,
+    "largestContentfulPaint": 3830,
+    "timeToInteractive": 3400,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0.051968280652599015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "gamepedia",
+      "url": "http://gamepedia.com",
+      "originalURL": "gamepedia.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.67,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1962.5,
+    "speedIndex": 2148.5723266054674,
+    "largestContentfulPaint": 3770,
+    "timeToInteractive": 3147.5,
+    "totalBlockingTime": 50,
+    "cumulativeLayoutShift": 0.051968280652599015
+  }
+]

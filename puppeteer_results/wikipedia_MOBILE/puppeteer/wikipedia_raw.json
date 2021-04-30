@@ -1,0 +1,277 @@
+[
+  {
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 85446,
+    "decodedBodySize": 177989,
+    "transferSize": 86926,
+    "resourcesList": [
+      [
+        "https://www.wikipedia.org/",
+        18504,
+        17844,
+        68914,
+        0.31567
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png",
+        37653,
+        37479,
+        37479,
+        0.31567
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-46c49284.svg",
+        17374,
+        17170,
+        42750,
+        0.31567
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png",
+        3574,
+        3412,
+        3412,
+        0.31567
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-ac2f73e93a.js",
+        9086,
+        8935,
+        24828,
+        0.31567
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-eb680c4142.js",
+        735,
+        606,
+        606,
+        0.31567
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 85446,
+    "decodedBodySize": 177989,
+    "transferSize": 86927,
+    "resourcesList": [
+      [
+        "https://www.wikipedia.org/",
+        18504,
+        17844,
+        68914,
+        0.29933
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png",
+        37685,
+        37479,
+        37479,
+        0.29933
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-ac2f73e93a.js",
+        9086,
+        8935,
+        24828,
+        0.29933
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-eb680c4142.js",
+        736,
+        606,
+        606,
+        0.29933
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-46c49284.svg",
+        17350,
+        17170,
+        42750,
+        0.29933
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png",
+        3566,
+        3412,
+        3412,
+        0.29933
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 85446,
+    "decodedBodySize": 177989,
+    "transferSize": 86927,
+    "resourcesList": [
+      [
+        "https://www.wikipedia.org/",
+        18504,
+        17844,
+        68914,
+        0.310938
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png",
+        37685,
+        37479,
+        37479,
+        0.310938
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-46c49284.svg",
+        17350,
+        17170,
+        42750,
+        0.310938
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png",
+        3566,
+        3412,
+        3412,
+        0.310938
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-ac2f73e93a.js",
+        9086,
+        8935,
+        24828,
+        0.310938
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-eb680c4142.js",
+        736,
+        606,
+        606,
+        0.310938
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 85446,
+    "decodedBodySize": 177989,
+    "transferSize": 86926,
+    "resourcesList": [
+      [
+        "https://www.wikipedia.org/",
+        18504,
+        17844,
+        68914,
+        0.29987
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png",
+        37685,
+        37479,
+        37479,
+        0.29987
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-46c49284.svg",
+        17350,
+        17170,
+        42750,
+        0.29987
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png",
+        3566,
+        3412,
+        3412,
+        0.29987
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-ac2f73e93a.js",
+        9069,
+        8935,
+        24828,
+        0.29987
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-eb680c4142.js",
+        752,
+        606,
+        606,
+        0.29987
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 85446,
+    "decodedBodySize": 177989,
+    "transferSize": 86927,
+    "resourcesList": [
+      [
+        "https://www.wikipedia.org/",
+        18504,
+        17844,
+        68914,
+        0.300541
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png",
+        37685,
+        37479,
+        37479,
+        0.300541
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-46c49284.svg",
+        17350,
+        17170,
+        42750,
+        0.300541
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png",
+        3566,
+        3412,
+        3412,
+        0.300541
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-ac2f73e93a.js",
+        9086,
+        8935,
+        24828,
+        0.300541
+      ],
+      [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-eb680c4142.js",
+        736,
+        606,
+        606,
+        0.300541
+      ]
+    ]
+  }
+]

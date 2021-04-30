@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theopencollege",
+      "url": "http://theopencollege.com",
+      "originalURL": "theopencollege.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1456.5,
+    "speedIndex": 2532.909367495296,
+    "largestContentfulPaint": 2880,
+    "timeToInteractive": 1782,
+    "totalBlockingTime": 56.5,
+    "cumulativeLayoutShift": 0.10880130403058692
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theopencollege",
+      "url": "http://theopencollege.com",
+      "originalURL": "theopencollege.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1492.5,
+    "speedIndex": 3342.084497888547,
+    "largestContentfulPaint": 2960.5,
+    "timeToInteractive": 3604,
+    "totalBlockingTime": 1068.5,
+    "cumulativeLayoutShift": 0.10880130403058692
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theopencollege",
+      "url": "http://theopencollege.com",
+      "originalURL": "theopencollege.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1488,
+    "speedIndex": 3216.9170818373714,
+    "largestContentfulPaint": 2828.5,
+    "timeToInteractive": 3116.5,
+    "totalBlockingTime": 470.5,
+    "cumulativeLayoutShift": 0.10880130403058692
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theopencollege",
+      "url": "http://theopencollege.com",
+      "originalURL": "theopencollege.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1456,
+    "speedIndex": 2490.5370775164874,
+    "largestContentfulPaint": 3065,
+    "timeToInteractive": 1783,
+    "totalBlockingTime": 58,
+    "cumulativeLayoutShift": 0.10880130403058692
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theopencollege",
+      "url": "http://theopencollege.com",
+      "originalURL": "theopencollege.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.48,
+    "seo": 0.75,
+    "accessibility": 0.82,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1457,
+    "speedIndex": 2436.644050434881,
+    "largestContentfulPaint": 2950,
+    "timeToInteractive": 1758.5,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.10880130403058692
+  }
+]

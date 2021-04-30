@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1688,
+    "speedIndex": 2561.7108400046227,
+    "largestContentfulPaint": 2100,
+    "timeToInteractive": 1688,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1689,
+    "speedIndex": 2533.717203962803,
+    "largestContentfulPaint": 2100,
+    "timeToInteractive": 1689,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1702,
+    "speedIndex": 2978.185624005794,
+    "largestContentfulPaint": 2280,
+    "timeToInteractive": 1725.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1696,
+    "speedIndex": 3145.7281560581923,
+    "largestContentfulPaint": 2280,
+    "timeToInteractive": 1696,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pirate-bay-proxy",
+      "url": "http://pirate-bay-proxy.org",
+      "originalURL": "pirate-bay-proxy.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.5,
+    "seo": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1716,
+    "speedIndex": 2373.3001560014486,
+    "largestContentfulPaint": 2280,
+    "timeToInteractive": 1716,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

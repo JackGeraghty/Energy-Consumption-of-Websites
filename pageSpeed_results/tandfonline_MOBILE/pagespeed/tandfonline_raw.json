@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tandfonline",
+      "url": "http://tandfonline.com",
+      "originalURL": "tandfonline.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2574.5,
+    "speedIndex": 5649.7157048646495,
+    "largestContentfulPaint": 11998,
+    "timeToInteractive": 14134.5,
+    "totalBlockingTime": 1254.5,
+    "cumulativeLayoutShift": 1.0027324964735242
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tandfonline",
+      "url": "http://tandfonline.com",
+      "originalURL": "tandfonline.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2574.5,
+    "speedIndex": 9459.53486734936,
+    "largestContentfulPaint": 12222,
+    "timeToInteractive": 14276.5,
+    "totalBlockingTime": 1265,
+    "cumulativeLayoutShift": 1.0027324964735242
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tandfonline",
+      "url": "http://tandfonline.com",
+      "originalURL": "tandfonline.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2572.5,
+    "speedIndex": 4969.393628082231,
+    "largestContentfulPaint": 11688,
+    "timeToInteractive": 14070,
+    "totalBlockingTime": 1506.5,
+    "cumulativeLayoutShift": 1.1566344061957465
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tandfonline",
+      "url": "http://tandfonline.com",
+      "originalURL": "tandfonline.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2565.5,
+    "speedIndex": 11099.568369882705,
+    "largestContentfulPaint": 12741,
+    "timeToInteractive": 14556,
+    "totalBlockingTime": 2841,
+    "cumulativeLayoutShift": 1.1566344061957465
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tandfonline",
+      "url": "http://tandfonline.com",
+      "originalURL": "tandfonline.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2658.5,
+    "speedIndex": 5711.882794164924,
+    "largestContentfulPaint": 12533,
+    "timeToInteractive": 14098.5,
+    "totalBlockingTime": 1510.5,
+    "cumulativeLayoutShift": 1.1566344061957465
+  }
+]

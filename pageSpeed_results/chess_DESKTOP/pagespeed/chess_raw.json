@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chess",
+      "url": "http://chess.com",
+      "originalURL": "chess.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.63,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 884,
+    "speedIndex": 1803.6852752332047,
+    "largestContentfulPaint": 1697.5,
+    "timeToInteractive": 2398,
+    "totalBlockingTime": 97,
+    "cumulativeLayoutShift": 0.06328600414441234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chess",
+      "url": "http://chess.com",
+      "originalURL": "chess.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.63,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 896,
+    "speedIndex": 1875.26096471047,
+    "largestContentfulPaint": 1631,
+    "timeToInteractive": 2350,
+    "totalBlockingTime": 47,
+    "cumulativeLayoutShift": 0.06328600414441234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chess",
+      "url": "http://chess.com",
+      "originalURL": "chess.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.63,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 876.5,
+    "speedIndex": 1862.0268545244014,
+    "largestContentfulPaint": 1720,
+    "timeToInteractive": 2326,
+    "totalBlockingTime": 48,
+    "cumulativeLayoutShift": 0.06328600414441234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chess",
+      "url": "http://chess.com",
+      "originalURL": "chess.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.63,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 871,
+    "speedIndex": 1716.0792198568543,
+    "largestContentfulPaint": 1706,
+    "timeToInteractive": 2292.5,
+    "totalBlockingTime": 20,
+    "cumulativeLayoutShift": 0.06328749846773488
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "chess",
+      "url": "http://chess.com",
+      "originalURL": "chess.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.63,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 885.5,
+    "speedIndex": 1796.4891087995015,
+    "largestContentfulPaint": 1705,
+    "timeToInteractive": 2311,
+    "totalBlockingTime": 20.5,
+    "cumulativeLayoutShift": 0.06328600414441234
+  }
+]

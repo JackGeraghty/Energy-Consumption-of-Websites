@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rkingscompetitions",
+      "url": "http://rkingscompetitions.com",
+      "originalURL": "rkingscompetitions.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 595,
+    "speedIndex": 1198.273438147386,
+    "largestContentfulPaint": 3180.5,
+    "timeToInteractive": 1070,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.025495581822957705
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rkingscompetitions",
+      "url": "http://rkingscompetitions.com",
+      "originalURL": "rkingscompetitions.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 820,
+    "speedIndex": 1168.1051491832682,
+    "largestContentfulPaint": 3177.5,
+    "timeToInteractive": 1070,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.030638108747044913
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rkingscompetitions",
+      "url": "http://rkingscompetitions.com",
+      "originalURL": "rkingscompetitions.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 745,
+    "speedIndex": 938.6349321601191,
+    "largestContentfulPaint": 3195.5,
+    "timeToInteractive": 2291,
+    "totalBlockingTime": 0.5,
+    "cumulativeLayoutShift": 0.03074800630417651
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rkingscompetitions",
+      "url": "http://rkingscompetitions.com",
+      "originalURL": "rkingscompetitions.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 595,
+    "speedIndex": 879.8531845319997,
+    "largestContentfulPaint": 3196.5,
+    "timeToInteractive": 2293,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0.030733966669585264
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rkingscompetitions",
+      "url": "http://rkingscompetitions.com",
+      "originalURL": "rkingscompetitions.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 595,
+    "speedIndex": 818.7471951655398,
+    "largestContentfulPaint": 3174.5,
+    "timeToInteractive": 1010,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.030638108747044916
+  }
+]

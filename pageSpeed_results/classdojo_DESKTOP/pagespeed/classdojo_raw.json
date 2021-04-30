@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "classdojo",
+      "url": "http://classdojo.com",
+      "originalURL": "classdojo.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1140,
+    "speedIndex": 1140,
+    "largestContentfulPaint": 1965.5,
+    "timeToInteractive": 4437,
+    "totalBlockingTime": 776.5,
+    "cumulativeLayoutShift": 0.06653945188687505
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "classdojo",
+      "url": "http://classdojo.com",
+      "originalURL": "classdojo.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1195,
+    "largestContentfulPaint": 2333,
+    "timeToInteractive": 4389,
+    "totalBlockingTime": 630.5,
+    "cumulativeLayoutShift": 0.05189616904532586
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "classdojo",
+      "url": "http://classdojo.com",
+      "originalURL": "classdojo.com"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1140,
+    "speedIndex": 1140,
+    "largestContentfulPaint": 1890,
+    "timeToInteractive": 4394.5,
+    "totalBlockingTime": 500,
+    "cumulativeLayoutShift": 0.06853956863088463
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "classdojo",
+      "url": "http://classdojo.com",
+      "originalURL": "classdojo.com"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1195,
+    "largestContentfulPaint": 2321.5,
+    "timeToInteractive": 4462.5,
+    "totalBlockingTime": 745.5,
+    "cumulativeLayoutShift": 0.05189616904532586
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "classdojo",
+      "url": "http://classdojo.com",
+      "originalURL": "classdojo.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1195,
+    "largestContentfulPaint": 2005.5,
+    "timeToInteractive": 4403.5,
+    "totalBlockingTime": 763,
+    "cumulativeLayoutShift": 0.05189616904532586
+  }
+]

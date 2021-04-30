@@ -1,0 +1,312 @@
+[
+  {
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 207060,
+    "decodedBodySize": 565406,
+    "transferSize": 209708,
+    "resourcesList": [
+      [
+        "https://www.bloomberg.com/tosv2.html?vid=&uuid=76596520-7129-11eb-89de-c5186a733536&url=Lw==",
+        4812,
+        4595,
+        10940,
+        0.087204
+      ],
+      [
+        "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BW%20Haas%20Text%20Mono%20A-55%20Roman/font-face.css",
+        952,
+        326,
+        1153,
+        0.087204
+      ],
+      [
+        "https://www.bloomberg.com/8FCGYgk4/captcha/captcha.js?a=c&m=0",
+        41785,
+        41572,
+        41572,
+        0.087204
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2",
+        31700,
+        31420,
+        31420,
+        0.087204
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2",
+        33296,
+        32756,
+        32756,
+        0.087204
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-9fa796a3f4.woff2",
+        24578,
+        24320,
+        24320,
+        0.087204
+      ],
+      [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MNTH5N",
+        72585,
+        72071,
+        423245,
+        0.087204
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 207059,
+    "decodedBodySize": 565406,
+    "transferSize": 209689,
+    "resourcesList": [
+      [
+        "https://www.bloomberg.com/tosv2.html?vid=&uuid=76d5e820-7129-11eb-b356-956f3dbe0dfd&url=Lw==",
+        4812,
+        4595,
+        10940,
+        0.099402
+      ],
+      [
+        "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BW%20Haas%20Text%20Mono%20A-55%20Roman/font-face.css",
+        952,
+        326,
+        1153,
+        0.099402
+      ],
+      [
+        "https://www.bloomberg.com/8FCGYgk4/captcha/captcha.js?a=c&m=0",
+        41775,
+        41572,
+        41572,
+        0.099402
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2",
+        31960,
+        31420,
+        31420,
+        0.099402
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2",
+        33036,
+        32756,
+        32756,
+        0.099402
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-9fa796a3f4.woff2",
+        24570,
+        24320,
+        24320,
+        0.099402
+      ],
+      [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MNTH5N",
+        72584,
+        72070,
+        423245,
+        0.099402
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 207059,
+    "decodedBodySize": 565406,
+    "transferSize": 209711,
+    "resourcesList": [
+      [
+        "https://www.bloomberg.com/tosv2.html?vid=&uuid=7758acb0-7129-11eb-9658-47b83b3bd064&url=Lw==",
+        4824,
+        4595,
+        10940,
+        0.058429
+      ],
+      [
+        "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BW%20Haas%20Text%20Mono%20A-55%20Roman/font-face.css",
+        952,
+        326,
+        1153,
+        0.058429
+      ],
+      [
+        "https://www.bloomberg.com/8FCGYgk4/captcha/captcha.js?a=c&m=0",
+        41775,
+        41572,
+        41572,
+        0.058429
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2",
+        31960,
+        31420,
+        31420,
+        0.058429
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2",
+        33036,
+        32756,
+        32756,
+        0.058429
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-9fa796a3f4.woff2",
+        24571,
+        24320,
+        24320,
+        0.058429
+      ],
+      [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MNTH5N",
+        72593,
+        72070,
+        423245,
+        0.058429
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 207059,
+    "decodedBodySize": 565406,
+    "transferSize": 209710,
+    "resourcesList": [
+      [
+        "https://www.bloomberg.com/tosv2.html?vid=&uuid=77f7d2e0-7129-11eb-98a7-a90081950d00&url=Lw==",
+        4824,
+        4595,
+        10940,
+        0.072726
+      ],
+      [
+        "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BW%20Haas%20Text%20Mono%20A-55%20Roman/font-face.css",
+        952,
+        326,
+        1153,
+        0.072726
+      ],
+      [
+        "https://www.bloomberg.com/8FCGYgk4/captcha/captcha.js?a=c&m=0",
+        41776,
+        41572,
+        41572,
+        0.072726
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2",
+        31960,
+        31420,
+        31420,
+        0.072726
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2",
+        33036,
+        32756,
+        32756,
+        0.072726
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-9fa796a3f4.woff2",
+        24578,
+        24320,
+        24320,
+        0.072726
+      ],
+      [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MNTH5N",
+        72584,
+        72070,
+        423245,
+        0.072726
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "bloomberg",
+      "url": "http://bloomberg.com",
+      "originalURL": "bloomberg.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 207060,
+    "decodedBodySize": 565406,
+    "transferSize": 209708,
+    "resourcesList": [
+      [
+        "https://www.bloomberg.com/tosv2.html?vid=&uuid=78a09600-7129-11eb-9cf4-a31a283143b8&url=Lw==",
+        4823,
+        4595,
+        10940,
+        0.061809
+      ],
+      [
+        "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BW%20Haas%20Text%20Mono%20A-55%20Roman/font-face.css",
+        951,
+        326,
+        1153,
+        0.061809
+      ],
+      [
+        "https://www.bloomberg.com/8FCGYgk4/captcha/captcha.js?a=c&m=0",
+        41775,
+        41572,
+        41572,
+        0.061809
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2",
+        31960,
+        31420,
+        31420,
+        0.061809
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2",
+        33036,
+        32756,
+        32756,
+        0.061809
+      ],
+      [
+        "https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-9fa796a3f4.woff2",
+        24578,
+        24320,
+        24320,
+        0.061809
+      ],
+      [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-MNTH5N",
+        72585,
+        72071,
+        423245,
+        0.061809
+      ]
+    ]
+  }
+]

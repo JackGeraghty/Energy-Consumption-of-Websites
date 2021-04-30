@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "formstack",
+      "url": "http://formstack.com",
+      "originalURL": "formstack.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1340,
+    "speedIndex": 2732.882108074609,
+    "largestContentfulPaint": 1550,
+    "timeToInteractive": 6236,
+    "totalBlockingTime": 245.5,
+    "cumulativeLayoutShift": 0.007762726556343578
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "formstack",
+      "url": "http://formstack.com",
+      "originalURL": "formstack.com"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1125,
+    "speedIndex": 2621.0625677863327,
+    "largestContentfulPaint": 2389,
+    "timeToInteractive": 4952,
+    "totalBlockingTime": 155,
+    "cumulativeLayoutShift": 0.005544321863234393
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "formstack",
+      "url": "http://formstack.com",
+      "originalURL": "formstack.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1125,
+    "speedIndex": 2225.660439966528,
+    "largestContentfulPaint": 1365,
+    "timeToInteractive": 5129,
+    "totalBlockingTime": 131,
+    "cumulativeLayoutShift": 0.014158371421066457
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "formstack",
+      "url": "http://formstack.com",
+      "originalURL": "formstack.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1125,
+    "speedIndex": 2696.327328562139,
+    "largestContentfulPaint": 2504.5,
+    "timeToInteractive": 4963,
+    "totalBlockingTime": 207,
+    "cumulativeLayoutShift": 0.005544321863234393
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "formstack",
+      "url": "http://formstack.com",
+      "originalURL": "formstack.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 2634.750380753124,
+    "largestContentfulPaint": 2145,
+    "timeToInteractive": 6548,
+    "totalBlockingTime": 295.5,
+    "cumulativeLayoutShift": 0.005544321863234393
+  }
+]

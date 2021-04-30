@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skysports",
+      "url": "http://skysports.com",
+      "originalURL": "skysports.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4520,
+    "speedIndex": 7288.3833023083425,
+    "largestContentfulPaint": 5595.5,
+    "timeToInteractive": 14374.5,
+    "totalBlockingTime": 5332.500648498535,
+    "cumulativeLayoutShift": 0.0050396728515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skysports",
+      "url": "http://skysports.com",
+      "originalURL": "skysports.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4165,
+    "speedIndex": 5170.628324185482,
+    "largestContentfulPaint": 5273.5,
+    "timeToInteractive": 13495,
+    "totalBlockingTime": 830,
+    "cumulativeLayoutShift": 0.0050396728515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skysports",
+      "url": "http://skysports.com",
+      "originalURL": "skysports.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4169,
+    "speedIndex": 5182.703747914973,
+    "largestContentfulPaint": 5089,
+    "timeToInteractive": 13193,
+    "totalBlockingTime": 902,
+    "cumulativeLayoutShift": 0.0050396728515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skysports",
+      "url": "http://skysports.com",
+      "originalURL": "skysports.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4204,
+    "speedIndex": 5230.649379766516,
+    "largestContentfulPaint": 5107,
+    "timeToInteractive": 12645,
+    "totalBlockingTime": 849.5006484985352,
+    "cumulativeLayoutShift": 0.0050396728515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "skysports",
+      "url": "http://skysports.com",
+      "originalURL": "skysports.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4207,
+    "speedIndex": 5332.165370288286,
+    "largestContentfulPaint": 5199,
+    "timeToInteractive": 12477,
+    "totalBlockingTime": 888.5006484985352,
+    "cumulativeLayoutShift": 0.0050396728515625
+  }
+]

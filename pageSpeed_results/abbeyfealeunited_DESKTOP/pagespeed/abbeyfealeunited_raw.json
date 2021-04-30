@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abbeyfealeunited",
+      "url": "http://abbeyfealeunited.com",
+      "originalURL": "abbeyfealeunited.com"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.3,
+    "seo": 0.6,
+    "accessibility": 0.43,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 420,
+    "speedIndex": 1199.5631381427743,
+    "largestContentfulPaint": 525,
+    "timeToInteractive": 420,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abbeyfealeunited",
+      "url": "http://abbeyfealeunited.com",
+      "originalURL": "abbeyfealeunited.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.3,
+    "seo": 0.6,
+    "accessibility": 0.43,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 420,
+    "speedIndex": 420,
+    "largestContentfulPaint": 1340,
+    "timeToInteractive": 420,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abbeyfealeunited",
+      "url": "http://abbeyfealeunited.com",
+      "originalURL": "abbeyfealeunited.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.3,
+    "seo": 0.6,
+    "accessibility": 0.43,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 420,
+    "speedIndex": 420,
+    "largestContentfulPaint": 1340,
+    "timeToInteractive": 420,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abbeyfealeunited",
+      "url": "http://abbeyfealeunited.com",
+      "originalURL": "abbeyfealeunited.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.3,
+    "seo": 0.6,
+    "accessibility": 0.43,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 420,
+    "speedIndex": 420,
+    "largestContentfulPaint": 1340,
+    "timeToInteractive": 420,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "abbeyfealeunited",
+      "url": "http://abbeyfealeunited.com",
+      "originalURL": "abbeyfealeunited.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.3,
+    "seo": 0.6,
+    "accessibility": 0.43,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 420,
+    "speedIndex": 420,
+    "largestContentfulPaint": 1400,
+    "timeToInteractive": 420,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

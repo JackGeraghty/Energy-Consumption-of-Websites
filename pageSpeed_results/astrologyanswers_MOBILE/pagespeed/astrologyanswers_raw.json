@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "astrologyanswers",
+      "url": "http://astrologyanswers.com",
+      "originalURL": "astrologyanswers.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 6004.699769720985,
+    "largestContentfulPaint": 3420,
+    "timeToInteractive": 10831.5,
+    "totalBlockingTime": 1270.5,
+    "cumulativeLayoutShift": 0.010122721354166668
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "astrologyanswers",
+      "url": "http://astrologyanswers.com",
+      "originalURL": "astrologyanswers.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 5922.601763609797,
+    "largestContentfulPaint": 3895,
+    "timeToInteractive": 10789,
+    "totalBlockingTime": 1118,
+    "cumulativeLayoutShift": 0.010122721354166668
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "astrologyanswers",
+      "url": "http://astrologyanswers.com",
+      "originalURL": "astrologyanswers.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 5454.065486152203,
+    "largestContentfulPaint": 3892,
+    "timeToInteractive": 10987,
+    "totalBlockingTime": 1291.5,
+    "cumulativeLayoutShift": 0.010122721354166668
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "astrologyanswers",
+      "url": "http://astrologyanswers.com",
+      "originalURL": "astrologyanswers.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 5263.668524864175,
+    "largestContentfulPaint": 3857,
+    "timeToInteractive": 10706,
+    "totalBlockingTime": 1034,
+    "cumulativeLayoutShift": 0.010122721354166668
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "astrologyanswers",
+      "url": "http://astrologyanswers.com",
+      "originalURL": "astrologyanswers.com"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.21,
+    "seo": 0.89,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 5296.1088163312415,
+    "largestContentfulPaint": 3854,
+    "timeToInteractive": 10770.5,
+    "totalBlockingTime": 903.5,
+    "cumulativeLayoutShift": 0.010122721354166668
+  }
+]

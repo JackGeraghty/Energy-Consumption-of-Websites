@@ -1,0 +1,137 @@
+[
+  {
+    "urlData": {
+      "webpageName": "t",
+      "url": "http://t.co",
+      "originalURL": "t.co"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 1904,
+    "decodedBodySize": 3886,
+    "transferSize": 2175,
+    "resourcesList": [
+      [
+        "https://t.co/",
+        1588,
+        1385,
+        3367,
+        0.040051
+      ],
+      [
+        "https://t.co/static/images/bird.png",
+        587,
+        519,
+        519,
+        0.040051
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "t",
+      "url": "http://t.co",
+      "originalURL": "t.co"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 1904,
+    "decodedBodySize": 3886,
+    "transferSize": 2175,
+    "resourcesList": [
+      [
+        "https://t.co/",
+        1588,
+        1385,
+        3367,
+        0.039706
+      ],
+      [
+        "https://t.co/static/images/bird.png",
+        587,
+        519,
+        519,
+        0.039706
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "t",
+      "url": "http://t.co",
+      "originalURL": "t.co"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 1904,
+    "decodedBodySize": 3886,
+    "transferSize": 2175,
+    "resourcesList": [
+      [
+        "https://t.co/",
+        1588,
+        1385,
+        3367,
+        0.047339
+      ],
+      [
+        "https://t.co/static/images/bird.png",
+        587,
+        519,
+        519,
+        0.047339
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "t",
+      "url": "http://t.co",
+      "originalURL": "t.co"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 1904,
+    "decodedBodySize": 3886,
+    "transferSize": 2175,
+    "resourcesList": [
+      [
+        "https://t.co/",
+        1588,
+        1385,
+        3367,
+        0.050803
+      ],
+      [
+        "https://t.co/static/images/bird.png",
+        587,
+        519,
+        519,
+        0.050803
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "t",
+      "url": "http://t.co",
+      "originalURL": "t.co"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 1904,
+    "decodedBodySize": 3886,
+    "transferSize": 2175,
+    "resourcesList": [
+      [
+        "https://t.co/",
+        1588,
+        1385,
+        3367,
+        0.040106
+      ],
+      [
+        "https://t.co/static/images/bird.png",
+        587,
+        519,
+        519,
+        0.040106
+      ]
+    ]
+  }
+]

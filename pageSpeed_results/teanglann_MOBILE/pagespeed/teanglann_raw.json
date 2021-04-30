@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teanglann",
+      "url": "http://teanglann.ie",
+      "originalURL": "teanglann.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2754,
+    "speedIndex": 2754,
+    "largestContentfulPaint": 2801,
+    "timeToInteractive": 2923,
+    "totalBlockingTime": 39,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teanglann",
+      "url": "http://teanglann.ie",
+      "originalURL": "teanglann.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2766,
+    "speedIndex": 2766,
+    "largestContentfulPaint": 2897.5,
+    "timeToInteractive": 2946,
+    "totalBlockingTime": 52.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teanglann",
+      "url": "http://teanglann.ie",
+      "originalURL": "teanglann.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2775,
+    "speedIndex": 2775,
+    "largestContentfulPaint": 2822,
+    "timeToInteractive": 2944,
+    "totalBlockingTime": 49.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teanglann",
+      "url": "http://teanglann.ie",
+      "originalURL": "teanglann.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2759,
+    "speedIndex": 2759,
+    "largestContentfulPaint": 2800,
+    "timeToInteractive": 2916,
+    "totalBlockingTime": 35.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teanglann",
+      "url": "http://teanglann.ie",
+      "originalURL": "teanglann.ie"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 0.89,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2770,
+    "speedIndex": 2770,
+    "largestContentfulPaint": 2894,
+    "timeToInteractive": 2943,
+    "totalBlockingTime": 49,
+    "cumulativeLayoutShift": 0
+  }
+]

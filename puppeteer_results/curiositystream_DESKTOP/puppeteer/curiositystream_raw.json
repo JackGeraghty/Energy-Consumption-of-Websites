@@ -1,0 +1,312 @@
+[
+  {
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "numTransferred": 23,
+    "encodedBodySize": 765958,
+    "decodedBodySize": 3482001,
+    "transferSize": 773466,
+    "resourcesList": [
+      [
+        "https://curiositystream.com/",
+        2525,
+        2236,
+        7100,
+        0.092139
+      ],
+      [
+        "https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i",
+        1228,
+        740,
+        8042,
+        0.092139
+      ],
+      [
+        "https://assets.myadmessenger.com/onepixel.gif?source=A4&campaign=Curiosity_Stream_Sep_19",
+        384,
+        43,
+        43,
+        0.092139
+      ],
+      [
+        "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+        4610,
+        3875,
+        12310,
+        0.092139
+      ],
+      [
+        "https://curiositystream.com/static/js/vendors~main.27ad5b9c.chunk.js",
+        279956,
+        279606,
+        1302644,
+        0.092139
+      ],
+      [
+        "https://curiositystream.com/static/js/main.ac983442.js",
+        278455,
+        278114,
+        1504420,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/react-lifecycles-compat@3.0.4/react-lifecycles-compat.min.js",
+        1061,
+        901,
+        2596,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/react-side-effect@1.2.0/lib/index.umd.min.js",
+        1069,
+        930,
+        2220,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/axios@0.19.2/dist/axios.min.js",
+        4717,
+        4576,
+        13993,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/lodash@4.17.19/lodash.min.js",
+        25268,
+        25108,
+        72805,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/react-router@5.1.2/umd/react-router.min.js",
+        7669,
+        7528,
+        22022,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/prop-types@15.7.2/prop-types.min.js",
+        945,
+        784,
+        1763,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/history@4.10.1/umd/history.min.js",
+        3522,
+        3382,
+        10111,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/react-redux@7.2.0/dist/react-redux.min.js",
+        4893,
+        4758,
+        13901,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/redux@4.0.5/dist/redux.min.js",
+        2824,
+        2373,
+        6701,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/react-dom@16.13.1/umd/react-dom.production.min.js",
+        36497,
+        36323,
+        118656,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/react@16.13.1/umd/react.production.min.js",
+        4855,
+        4714,
+        12463,
+        0.092139
+      ],
+      [
+        "https://unpkg.com/@umds/object-assign@4.1.1-beta.24/object-assign.min.js",
+        753,
+        590,
+        1213,
+        0.092139
+      ],
+      [
+        "https://player.vimeo.com/api/player.js",
+        6821,
+        5898,
+        19461,
+        0.092139
+      ],
+      [
+        "https://js.stripe.com/v3/",
+        55196,
+        54467,
+        209776,
+        0.092139
+      ],
+      [
+        "https://recirculation.spot.im/spot/sp_0cA1kmrk",
+        0,
+        0,
+        0,
+        0.092139
+      ],
+      [
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        49240,
+        48460,
+        138909,
+        0.092139
+      ],
+      [
+        "https://www.google.com/recaptcha/api.js?render=explicit",
+        978,
+        552,
+        852,
+        0.092139
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 6158,
+    "decodedBodySize": 19453,
+    "transferSize": 7514,
+    "resourcesList": [
+      [
+        "https://curiositystream.com/",
+        2520,
+        2240,
+        7100,
+        0.034123
+      ],
+      [
+        "https://assets.myadmessenger.com/onepixel.gif?source=A4&campaign=Curiosity_Stream_Sep_19",
+        382,
+        43,
+        43,
+        0.034123
+      ],
+      [
+        "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+        4612,
+        3875,
+        12310,
+        0.034123
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 6155,
+    "decodedBodySize": 19453,
+    "transferSize": 7520,
+    "resourcesList": [
+      [
+        "https://curiositystream.com/",
+        2526,
+        2237,
+        7100,
+        0.030817
+      ],
+      [
+        "https://assets.myadmessenger.com/onepixel.gif?source=A4&campaign=Curiosity_Stream_Sep_19",
+        382,
+        43,
+        43,
+        0.030817
+      ],
+      [
+        "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+        4612,
+        3875,
+        12310,
+        0.030817
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 6110,
+    "decodedBodySize": 19453,
+    "transferSize": 7466,
+    "resourcesList": [
+      [
+        "https://curiositystream.com/",
+        2472,
+        2192,
+        7100,
+        0.033236
+      ],
+      [
+        "https://assets.myadmessenger.com/onepixel.gif?source=A4&campaign=Curiosity_Stream_Sep_19",
+        382,
+        43,
+        43,
+        0.033236
+      ],
+      [
+        "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+        4612,
+        3875,
+        12310,
+        0.033236
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "curiositystream",
+      "url": "http://curiositystream.com",
+      "originalURL": "curiositystream.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 6154,
+    "decodedBodySize": 19453,
+    "transferSize": 7513,
+    "resourcesList": [
+      [
+        "https://curiositystream.com/",
+        2516,
+        2236,
+        7100,
+        0.03241
+      ],
+      [
+        "https://assets.myadmessenger.com/onepixel.gif?source=A4&campaign=Curiosity_Stream_Sep_19",
+        382,
+        43,
+        43,
+        0.03241
+      ],
+      [
+        "https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js",
+        4615,
+        3875,
+        12310,
+        0.03241
+      ]
+    ]
+  }
+]

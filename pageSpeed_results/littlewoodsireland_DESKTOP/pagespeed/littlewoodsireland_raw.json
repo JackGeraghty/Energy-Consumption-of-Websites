@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "littlewoodsireland",
+      "url": "http://littlewoodsireland.ie",
+      "originalURL": "littlewoodsireland.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1134.5,
+    "speedIndex": 2416.007034993642,
+    "largestContentfulPaint": 2344,
+    "timeToInteractive": 3362,
+    "totalBlockingTime": 152,
+    "cumulativeLayoutShift": 0.04998900621661851
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "littlewoodsireland",
+      "url": "http://littlewoodsireland.ie",
+      "originalURL": "littlewoodsireland.ie"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 2078.8354195821053,
+    "largestContentfulPaint": 2450,
+    "timeToInteractive": 3261,
+    "totalBlockingTime": 262.5,
+    "cumulativeLayoutShift": 0.049855789043574704
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "littlewoodsireland",
+      "url": "http://littlewoodsireland.ie",
+      "originalURL": "littlewoodsireland.ie"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1081.5,
+    "speedIndex": 2331.278940214718,
+    "largestContentfulPaint": 2806,
+    "timeToInteractive": 3469,
+    "totalBlockingTime": 187,
+    "cumulativeLayoutShift": 0.05003286635729504
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "littlewoodsireland",
+      "url": "http://littlewoodsireland.ie",
+      "originalURL": "littlewoodsireland.ie"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1138.5,
+    "speedIndex": 2475.8030033664927,
+    "largestContentfulPaint": 2812,
+    "timeToInteractive": 3424.5,
+    "totalBlockingTime": 243.5,
+    "cumulativeLayoutShift": 0.04998900621661851
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "littlewoodsireland",
+      "url": "http://littlewoodsireland.ie",
+      "originalURL": "littlewoodsireland.ie"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1134.5,
+    "speedIndex": 2325.461654160269,
+    "largestContentfulPaint": 2794,
+    "timeToInteractive": 3426.5,
+    "totalBlockingTime": 183,
+    "cumulativeLayoutShift": 0.05009580305285585
+  }
+]

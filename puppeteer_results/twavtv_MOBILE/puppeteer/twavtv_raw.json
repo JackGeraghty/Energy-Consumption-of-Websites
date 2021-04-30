@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30030,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2744,
+        1969,
+        4383,
+        0.106294
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2994,
+        2022,
+        5789,
+        0.106294
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5269,
+        4560,
+        4560,
+        0.106294
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19023,
+        18980,
+        47332,
+        0.106294
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30034,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2738,
+        1969,
+        4383,
+        0.107912
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        3000,
+        2022,
+        5789,
+        0.107912
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5269,
+        4560,
+        4560,
+        0.107912
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19027,
+        18980,
+        47332,
+        0.107912
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30028,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2738,
+        1969,
+        4383,
+        0.109945
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2998,
+        2022,
+        5789,
+        0.109945
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5269,
+        4560,
+        4560,
+        0.109945
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19023,
+        18980,
+        47332,
+        0.109945
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30038,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2738,
+        1969,
+        4383,
+        0.106704
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2998,
+        2022,
+        5789,
+        0.106704
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5275,
+        4560,
+        4560,
+        0.106704
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19027,
+        18980,
+        47332,
+        0.106704
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30035,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2742,
+        1969,
+        4383,
+        0.126197
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2994,
+        2022,
+        5789,
+        0.126197
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5272,
+        4560,
+        4560,
+        0.126197
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19027,
+        18980,
+        47332,
+        0.126197
+      ]
+    ]
+  }
+]

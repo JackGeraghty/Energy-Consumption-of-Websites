@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "arcot",
+      "url": "http://arcot.com",
+      "originalURL": "arcot.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://arcot.com/",
+        1113,
+        934,
+        934,
+        0.03941
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcot",
+      "url": "http://arcot.com",
+      "originalURL": "arcot.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://arcot.com/",
+        1113,
+        934,
+        934,
+        0.039538
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcot",
+      "url": "http://arcot.com",
+      "originalURL": "arcot.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://arcot.com/",
+        1113,
+        934,
+        934,
+        0.039931
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcot",
+      "url": "http://arcot.com",
+      "originalURL": "arcot.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://arcot.com/",
+        1113,
+        934,
+        934,
+        0.040422
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcot",
+      "url": "http://arcot.com",
+      "originalURL": "arcot.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://arcot.com/",
+        1113,
+        934,
+        934,
+        0.039784
+      ]
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 690,
+    "decodedBodySize": 1041,
+    "transferSize": 2760,
+    "resourcesList": [
+      [
+        "https://myvmware.workspaceair.com/federation/auth/login",
+        2760,
+        690,
+        1041,
+        0.017764
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 693,
+    "decodedBodySize": 1042,
+    "transferSize": 2763,
+    "resourcesList": [
+      [
+        "https://myvmware.workspaceair.com/federation/auth/login",
+        2763,
+        693,
+        1042,
+        0.01732
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 691,
+    "decodedBodySize": 1041,
+    "transferSize": 2761,
+    "resourcesList": [
+      [
+        "https://myvmware.workspaceair.com/federation/auth/login",
+        2761,
+        691,
+        1041,
+        0.017229
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 688,
+    "decodedBodySize": 1042,
+    "transferSize": 2758,
+    "resourcesList": [
+      [
+        "https://myvmware.workspaceair.com/federation/auth/login",
+        2758,
+        688,
+        1042,
+        0.017476
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 684,
+    "decodedBodySize": 1042,
+    "transferSize": 2754,
+    "resourcesList": [
+      [
+        "https://myvmware.workspaceair.com/federation/auth/login",
+        2754,
+        684,
+        1042,
+        0.017367
+      ]
+    ]
+  }
+]

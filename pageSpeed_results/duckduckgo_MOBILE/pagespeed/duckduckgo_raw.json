@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "duckduckgo",
+      "url": "http://duckduckgo.com",
+      "originalURL": "duckduckgo.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.57,
+    "seo": 0.86,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3659,
+    "speedIndex": 3659,
+    "largestContentfulPaint": 4605,
+    "timeToInteractive": 4229,
+    "totalBlockingTime": 184.5,
+    "cumulativeLayoutShift": 0.023149339463975693
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "duckduckgo",
+      "url": "http://duckduckgo.com",
+      "originalURL": "duckduckgo.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.57,
+    "seo": 0.86,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3711,
+    "speedIndex": 3711,
+    "largestContentfulPaint": 4680,
+    "timeToInteractive": 4206,
+    "totalBlockingTime": 113,
+    "cumulativeLayoutShift": 0.023149339463975693
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "duckduckgo",
+      "url": "http://duckduckgo.com",
+      "originalURL": "duckduckgo.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.57,
+    "seo": 0.86,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3624,
+    "speedIndex": 3624,
+    "largestContentfulPaint": 4605,
+    "timeToInteractive": 4119,
+    "totalBlockingTime": 107,
+    "cumulativeLayoutShift": 0.023521728515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "duckduckgo",
+      "url": "http://duckduckgo.com",
+      "originalURL": "duckduckgo.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.57,
+    "seo": 0.86,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3751,
+    "speedIndex": 3751,
+    "largestContentfulPaint": 4680,
+    "timeToInteractive": 4246,
+    "totalBlockingTime": 133,
+    "cumulativeLayoutShift": 0.023149339463975693
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "duckduckgo",
+      "url": "http://duckduckgo.com",
+      "originalURL": "duckduckgo.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.57,
+    "seo": 0.86,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3675,
+    "speedIndex": 3675,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 4170,
+    "totalBlockingTime": 132.5,
+    "cumulativeLayoutShift": 0.023521728515625
+  }
+]

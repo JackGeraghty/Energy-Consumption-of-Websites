@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyla",
+      "url": "http://tyla.com",
+      "originalURL": "tyla.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.8,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 8340,
+    "speedIndex": 8340,
+    "largestContentfulPaint": 16145,
+    "timeToInteractive": 23469,
+    "totalBlockingTime": 3747.5,
+    "cumulativeLayoutShift": 0.2909836697048611
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyla",
+      "url": "http://tyla.com",
+      "originalURL": "tyla.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8340,
+    "speedIndex": 8340,
+    "largestContentfulPaint": 14923.5,
+    "timeToInteractive": 22975,
+    "totalBlockingTime": 2863,
+    "cumulativeLayoutShift": 0.2760651584201389
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyla",
+      "url": "http://tyla.com",
+      "originalURL": "tyla.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7680,
+    "speedIndex": 7680,
+    "largestContentfulPaint": 16147.5,
+    "timeToInteractive": 23300,
+    "totalBlockingTime": 3620,
+    "cumulativeLayoutShift": 0.2760651584201389
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyla",
+      "url": "http://tyla.com",
+      "originalURL": "tyla.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8055,
+    "speedIndex": 8055,
+    "largestContentfulPaint": 16008.5,
+    "timeToInteractive": 23329,
+    "totalBlockingTime": 3377,
+    "cumulativeLayoutShift": 0.2760651584201389
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tyla",
+      "url": "http://tyla.com",
+      "originalURL": "tyla.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 8055,
+    "speedIndex": 8055,
+    "largestContentfulPaint": 16792,
+    "timeToInteractive": 23782,
+    "totalBlockingTime": 4615,
+    "cumulativeLayoutShift": 0.27710327148437497
+  }
+]

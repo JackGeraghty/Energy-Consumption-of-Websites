@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "footybite",
+      "url": "http://footybite.com",
+      "originalURL": "footybite.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2591,
+    "speedIndex": 2591,
+    "largestContentfulPaint": 3345,
+    "timeToInteractive": 4353,
+    "totalBlockingTime": 316.5,
+    "cumulativeLayoutShift": 0.002138427734375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "footybite",
+      "url": "http://footybite.com",
+      "originalURL": "footybite.com"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2553,
+    "speedIndex": 2553,
+    "largestContentfulPaint": 2904,
+    "timeToInteractive": 5018,
+    "totalBlockingTime": 136,
+    "cumulativeLayoutShift": 0.0051220703125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "footybite",
+      "url": "http://footybite.com",
+      "originalURL": "footybite.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2657,
+    "speedIndex": 2930.663259735199,
+    "largestContentfulPaint": 3106,
+    "timeToInteractive": 4171,
+    "totalBlockingTime": 241.5,
+    "cumulativeLayoutShift": 0.002138427734375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "footybite",
+      "url": "http://footybite.com",
+      "originalURL": "footybite.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2617,
+    "speedIndex": 2617,
+    "largestContentfulPaint": 3086,
+    "timeToInteractive": 5021,
+    "totalBlockingTime": 170.5,
+    "cumulativeLayoutShift": 0.002138427734375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "footybite",
+      "url": "http://footybite.com",
+      "originalURL": "footybite.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2587,
+    "speedIndex": 2587,
+    "largestContentfulPaint": 3071,
+    "timeToInteractive": 5044,
+    "totalBlockingTime": 174.5,
+    "cumulativeLayoutShift": 0.002138427734375
+  }
+]

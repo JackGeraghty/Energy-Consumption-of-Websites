@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "clenlidirect",
+      "url": "http://clenlidirect.com",
+      "originalURL": "clenlidirect.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.74,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 14725.068328683308,
+    "largestContentfulPaint": 13606,
+    "timeToInteractive": 36855.5,
+    "totalBlockingTime": 6302.5,
+    "cumulativeLayoutShift": 0.026699951171875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "clenlidirect",
+      "url": "http://clenlidirect.com",
+      "originalURL": "clenlidirect.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.74,
+    "accessibility": 0.67,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 17554.535600543724,
+    "largestContentfulPaint": 14166.5,
+    "timeToInteractive": 36343.5,
+    "totalBlockingTime": 4756,
+    "cumulativeLayoutShift": 0.026699951171875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "clenlidirect",
+      "url": "http://clenlidirect.com",
+      "originalURL": "clenlidirect.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.74,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4605,
+    "speedIndex": 16303.379969398604,
+    "largestContentfulPaint": 15735.5,
+    "timeToInteractive": 36368.5,
+    "totalBlockingTime": 5015.5,
+    "cumulativeLayoutShift": 0.026699951171875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "clenlidirect",
+      "url": "http://clenlidirect.com",
+      "originalURL": "clenlidirect.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.74,
+    "accessibility": 0.69,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 15777.963254324302,
+    "largestContentfulPaint": 14548,
+    "timeToInteractive": 37025.5,
+    "totalBlockingTime": 7239,
+    "cumulativeLayoutShift": 0.026699951171875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "clenlidirect",
+      "url": "http://clenlidirect.com",
+      "originalURL": "clenlidirect.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.74,
+    "accessibility": 0.67,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4605,
+    "speedIndex": 16771.87502296842,
+    "largestContentfulPaint": 14340,
+    "timeToInteractive": 36665.5,
+    "totalBlockingTime": 5361,
+    "cumulativeLayoutShift": 0.026699951171875
+  }
+]

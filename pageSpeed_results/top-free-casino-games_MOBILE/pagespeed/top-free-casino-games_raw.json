@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "top-free-casino-games",
+      "url": "http://top-free-casino-games.com",
+      "originalURL": "top-free-casino-games.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.39,
+    "seo": 0.71,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2340,
+    "speedIndex": 2392.5577760312553,
+    "largestContentfulPaint": 4860,
+    "timeToInteractive": 4316.5,
+    "totalBlockingTime": 61.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "top-free-casino-games",
+      "url": "http://top-free-casino-games.com",
+      "originalURL": "top-free-casino-games.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.39,
+    "seo": 0.71,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2397,
+    "speedIndex": 2693.646571996688,
+    "largestContentfulPaint": 5235,
+    "timeToInteractive": 4407.5,
+    "totalBlockingTime": 149.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "top-free-casino-games",
+      "url": "http://top-free-casino-games.com",
+      "originalURL": "top-free-casino-games.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.39,
+    "seo": 0.71,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2355,
+    "speedIndex": 2504.049052059173,
+    "largestContentfulPaint": 5160,
+    "timeToInteractive": 4481,
+    "totalBlockingTime": 91,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "top-free-casino-games",
+      "url": "http://top-free-casino-games.com",
+      "originalURL": "top-free-casino-games.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.39,
+    "seo": 0.71,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2355,
+    "speedIndex": 2588.2071400265686,
+    "largestContentfulPaint": 5160,
+    "timeToInteractive": 4473,
+    "totalBlockingTime": 83,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "top-free-casino-games",
+      "url": "http://top-free-casino-games.com",
+      "originalURL": "top-free-casino-games.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.39,
+    "seo": 0.71,
+    "accessibility": 0.99,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2355,
+    "speedIndex": 2443.8961759898657,
+    "largestContentfulPaint": 5160,
+    "timeToInteractive": 4470,
+    "totalBlockingTime": 80,
+    "cumulativeLayoutShift": 0
+  }
+]

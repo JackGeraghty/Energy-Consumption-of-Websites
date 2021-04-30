@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 734,
+    "speedIndex": 1876.9745333821343,
+    "largestContentfulPaint": 1474,
+    "timeToInteractive": 3420,
+    "totalBlockingTime": 47.5,
+    "cumulativeLayoutShift": 0.0005690359863409508
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 734,
+    "speedIndex": 2625.968370330747,
+    "largestContentfulPaint": 1702,
+    "timeToInteractive": 4996,
+    "totalBlockingTime": 93.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 733,
+    "speedIndex": 2698.489213810143,
+    "largestContentfulPaint": 1993.5,
+    "timeToInteractive": 4561,
+    "totalBlockingTime": 60,
+    "cumulativeLayoutShift": 0.0005690359863409508
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 734,
+    "speedIndex": 2627.5357364357533,
+    "largestContentfulPaint": 2620.5,
+    "timeToInteractive": 5045.5,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.0004026057262936695
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yahoo",
+      "url": "http://yahoo.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.37,
+    "seo": 0.75,
+    "accessibility": 0.73,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 736,
+    "speedIndex": 2451.715275706582,
+    "largestContentfulPaint": 1372,
+    "timeToInteractive": 5128.5,
+    "totalBlockingTime": 80,
+    "cumulativeLayoutShift": 0.0004026057262936695
+  }
+]

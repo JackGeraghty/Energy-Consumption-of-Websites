@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.co.uk",
+      "originalURL": "bbc.co.uk"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 6889,
+    "speedIndex": 9695.527905041352,
+    "largestContentfulPaint": 22085,
+    "timeToInteractive": 30444,
+    "totalBlockingTime": 5654.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.co.uk",
+      "originalURL": "bbc.co.uk"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7297,
+    "speedIndex": 10327.782022979562,
+    "largestContentfulPaint": 22100,
+    "timeToInteractive": 31008.5,
+    "totalBlockingTime": 7983.5,
+    "cumulativeLayoutShift": 0.06573876953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.co.uk",
+      "originalURL": "bbc.co.uk"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7419,
+    "speedIndex": 12264.603079562461,
+    "largestContentfulPaint": 21840.5,
+    "timeToInteractive": 30296.5,
+    "totalBlockingTime": 6997,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.co.uk",
+      "originalURL": "bbc.co.uk"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7327,
+    "speedIndex": 11168.24462737057,
+    "largestContentfulPaint": 20648,
+    "timeToInteractive": 30356.5,
+    "totalBlockingTime": 6741,
+    "cumulativeLayoutShift": 0.05502609592013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bbc",
+      "url": "http://bbc.co.uk",
+      "originalURL": "bbc.co.uk"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 7347,
+    "speedIndex": 10298.82920081824,
+    "largestContentfulPaint": 22553,
+    "timeToInteractive": 30214.5,
+    "totalBlockingTime": 6139.5,
+    "cumulativeLayoutShift": 0.05502609592013889
+  }
+]

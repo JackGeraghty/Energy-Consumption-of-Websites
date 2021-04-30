@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com",
+      "originalURL": "pornhub.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 890,
+    "speedIndex": 1194.929239053507,
+    "largestContentfulPaint": 1252,
+    "timeToInteractive": 1468,
+    "totalBlockingTime": 10.5,
+    "cumulativeLayoutShift": 0.030282381577795288
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com",
+      "originalURL": "pornhub.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 890,
+    "speedIndex": 1136.615096862998,
+    "largestContentfulPaint": 1282.5,
+    "timeToInteractive": 1363.5,
+    "totalBlockingTime": 20.5,
+    "cumulativeLayoutShift": 0.13415690394886612
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com",
+      "originalURL": "pornhub.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 890,
+    "speedIndex": 1268.7612212462288,
+    "largestContentfulPaint": 1132,
+    "timeToInteractive": 1522,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0.1369375804804016
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com",
+      "originalURL": "pornhub.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 890,
+    "speedIndex": 1197.4721845039007,
+    "largestContentfulPaint": 1229,
+    "timeToInteractive": 1462.5,
+    "totalBlockingTime": 13,
+    "cumulativeLayoutShift": 0.0354917549543239
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pornhub",
+      "url": "http://pornhub.com",
+      "originalURL": "pornhub.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.37,
+    "seo": 0.67,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 890,
+    "speedIndex": 1041.3646948942237,
+    "largestContentfulPaint": 1304,
+    "timeToInteractive": 1452,
+    "totalBlockingTime": 8.5,
+    "cumulativeLayoutShift": 0.02319095233925809
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thejournal",
+      "url": "http://thejournal.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.25,
+    "seo": 0.64,
+    "accessibility": 0.56,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5196,
+    "speedIndex": 6112.557621166043,
+    "largestContentfulPaint": 11138,
+    "timeToInteractive": 11258,
+    "totalBlockingTime": 381.5,
+    "cumulativeLayoutShift": 0.0006446940104166667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thejournal",
+      "url": "http://thejournal.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.25,
+    "seo": 0.64,
+    "accessibility": 0.56,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5158,
+    "speedIndex": 6493.400097660776,
+    "largestContentfulPaint": 11250,
+    "timeToInteractive": 11175,
+    "totalBlockingTime": 327.5,
+    "cumulativeLayoutShift": 0.0006446940104166667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thejournal",
+      "url": "http://thejournal.ie"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.25,
+    "seo": 0.64,
+    "accessibility": 0.56,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5199,
+    "speedIndex": 6288.0165016027,
+    "largestContentfulPaint": 11245,
+    "timeToInteractive": 11230,
+    "totalBlockingTime": 409,
+    "cumulativeLayoutShift": 0.0006446940104166667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thejournal",
+      "url": "http://thejournal.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.25,
+    "seo": 0.64,
+    "accessibility": 0.56,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5211,
+    "speedIndex": 6592.460668145852,
+    "largestContentfulPaint": 11403,
+    "timeToInteractive": 11361,
+    "totalBlockingTime": 406,
+    "cumulativeLayoutShift": 0.1375390896267361
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thejournal",
+      "url": "http://thejournal.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.25,
+    "seo": 0.64,
+    "accessibility": 0.56,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 5165,
+    "speedIndex": 6660.445894366232,
+    "largestContentfulPaint": 11476,
+    "timeToInteractive": 11237,
+    "totalBlockingTime": 314,
+    "cumulativeLayoutShift": 0.1375390896267361
+  }
+]

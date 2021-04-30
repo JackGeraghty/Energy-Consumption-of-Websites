@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "betvisor",
+      "url": "http://betvisor.com",
+      "originalURL": "betvisor.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1930.5,
+    "speedIndex": 2485.3682897510835,
+    "largestContentfulPaint": 1956,
+    "timeToInteractive": 1953.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00003176243323701953
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "betvisor",
+      "url": "http://betvisor.com",
+      "originalURL": "betvisor.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1915.5,
+    "speedIndex": 2099.606097158395,
+    "largestContentfulPaint": 1954.5,
+    "timeToInteractive": 2024.5,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.00003176243323701953
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "betvisor",
+      "url": "http://betvisor.com",
+      "originalURL": "betvisor.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 2010,
+    "speedIndex": 2015.1209906848662,
+    "largestContentfulPaint": 2030,
+    "timeToInteractive": 2010,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00003176243323701953
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "betvisor",
+      "url": "http://betvisor.com",
+      "originalURL": "betvisor.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1910.5,
+    "speedIndex": 2230.529970678372,
+    "largestContentfulPaint": 2025,
+    "timeToInteractive": 1990,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00003176243323701953
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "betvisor",
+      "url": "http://betvisor.com",
+      "originalURL": "betvisor.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 1927.5,
+    "speedIndex": 2499.215417845263,
+    "largestContentfulPaint": 1952.5,
+    "timeToInteractive": 1944.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00003176243323701953
+  }
+]

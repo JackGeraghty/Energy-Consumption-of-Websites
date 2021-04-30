@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apple",
+      "url": "http://apple.com",
+      "originalURL": "apple.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8820,
+    "speedIndex": 8820,
+    "largestContentfulPaint": 11820,
+    "timeToInteractive": 8895,
+    "totalBlockingTime": 110.5,
+    "cumulativeLayoutShift": 0.22287049452463786
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apple",
+      "url": "http://apple.com",
+      "originalURL": "apple.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": null,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8820,
+    "speedIndex": 8820,
+    "largestContentfulPaint": 11820,
+    "timeToInteractive": 8895,
+    "totalBlockingTime": 101,
+    "cumulativeLayoutShift": 0.22287049452463786
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apple",
+      "url": "http://apple.com",
+      "originalURL": "apple.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": null,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8085,
+    "speedIndex": 8085,
+    "largestContentfulPaint": 11880,
+    "timeToInteractive": 8160,
+    "totalBlockingTime": 25,
+    "cumulativeLayoutShift": 0.21191593647003173
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apple",
+      "url": "http://apple.com",
+      "originalURL": "apple.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8820,
+    "speedIndex": 8820,
+    "largestContentfulPaint": 10815,
+    "timeToInteractive": 8895,
+    "totalBlockingTime": 82.5,
+    "cumulativeLayoutShift": 0.22573815133836533
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apple",
+      "url": "http://apple.com",
+      "originalURL": "apple.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.9,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8910,
+    "speedIndex": 8910,
+    "largestContentfulPaint": 11955,
+    "timeToInteractive": 8985,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.21191593647003173
+  }
+]

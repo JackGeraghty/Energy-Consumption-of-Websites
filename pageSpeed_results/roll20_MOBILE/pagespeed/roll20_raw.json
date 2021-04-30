@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roll20",
+      "url": "http://roll20.net",
+      "originalURL": "roll20.net"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.18,
+    "seo": 0.85,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 9352.822331034486,
+    "largestContentfulPaint": 9582.5,
+    "timeToInteractive": 16678,
+    "totalBlockingTime": 1374.5,
+    "cumulativeLayoutShift": 0.3740104166666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roll20",
+      "url": "http://roll20.net",
+      "originalURL": "roll20.net"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.18,
+    "seo": 0.85,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 9115.838926383363,
+    "largestContentfulPaint": 10573.5,
+    "timeToInteractive": 16679,
+    "totalBlockingTime": 1477,
+    "cumulativeLayoutShift": 0.3740104166666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roll20",
+      "url": "http://roll20.net",
+      "originalURL": "roll20.net"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.18,
+    "seo": 0.85,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 9141.318488567005,
+    "largestContentfulPaint": 10725,
+    "timeToInteractive": 16945,
+    "totalBlockingTime": 1786.5,
+    "cumulativeLayoutShift": 0.3740104166666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roll20",
+      "url": "http://roll20.net",
+      "originalURL": "roll20.net"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.18,
+    "seo": 0.85,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5670,
+    "speedIndex": 9162.8653979715,
+    "largestContentfulPaint": 10112.5,
+    "timeToInteractive": 16658,
+    "totalBlockingTime": 1267.5,
+    "cumulativeLayoutShift": 0.3740104166666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "roll20",
+      "url": "http://roll20.net",
+      "originalURL": "roll20.net"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.18,
+    "seo": 0.85,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5745,
+    "speedIndex": 8945.38284935229,
+    "largestContentfulPaint": 9593.5,
+    "timeToInteractive": 16540,
+    "totalBlockingTime": 1397.5,
+    "cumulativeLayoutShift": 0.3740104166666667
+  }
+]

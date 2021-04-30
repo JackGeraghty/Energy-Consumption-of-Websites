@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "partycasino",
+      "url": "http://partycasino.com",
+      "originalURL": "partycasino.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4591.333385467529,
+    "speedIndex": 6472.823611818314,
+    "largestContentfulPaint": 7215,
+    "timeToInteractive": 6013,
+    "totalBlockingTime": 86.5,
+    "cumulativeLayoutShift": 0.03536180284288194
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "partycasino",
+      "url": "http://partycasino.com",
+      "originalURL": "partycasino.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4741.333385467529,
+    "speedIndex": 4805.138424044848,
+    "largestContentfulPaint": 7215,
+    "timeToInteractive": 6009,
+    "totalBlockingTime": 84.5,
+    "cumulativeLayoutShift": 0.03536180284288194
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "partycasino",
+      "url": "http://partycasino.com",
+      "originalURL": "partycasino.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4591.333385467529,
+    "speedIndex": 6138.866128023923,
+    "largestContentfulPaint": 7215,
+    "timeToInteractive": 5949,
+    "totalBlockingTime": 54.5,
+    "cumulativeLayoutShift": 0.03536180284288194
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "partycasino",
+      "url": "http://partycasino.com",
+      "originalURL": "partycasino.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4591.333385467529,
+    "speedIndex": 4655.519031981468,
+    "largestContentfulPaint": 7140,
+    "timeToInteractive": 5891,
+    "totalBlockingTime": 63,
+    "cumulativeLayoutShift": 0.03536180284288194
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "partycasino",
+      "url": "http://partycasino.com",
+      "originalURL": "partycasino.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.5,
+    "seo": 0.79,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4591.333385467529,
+    "speedIndex": 6594.399332001745,
+    "largestContentfulPaint": 7215,
+    "timeToInteractive": 5984,
+    "totalBlockingTime": 72,
+    "cumulativeLayoutShift": 0.0179991455078125
+  }
+]

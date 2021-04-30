@@ -1,0 +1,71 @@
+{
+  "numSamples": 5,
+  "transferSizeStats": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1639720.6
+      ],
+      [
+        "variance",
+        1382230.2400000002
+      ],
+      [
+        "stddev",
+        1175.682882413451
+      ]
+    ]
+  },
+  "decodedSizeStats": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        2665223.2
+      ],
+      [
+        "variance",
+        1181521.3599999999
+      ],
+      [
+        "stddev",
+        1086.9780862556522
+      ]
+    ]
+  },
+  "encodedSizeStats": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1621017
+      ],
+      [
+        "variance",
+        1181296.4
+      ],
+      [
+        "stddev",
+        1086.8746017825606
+      ]
+    ]
+  },
+  "transferredResourcesStats": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        63.2
+      ],
+      [
+        "variance",
+        0.16
+      ],
+      [
+        "stddev",
+        0.4
+      ]
+    ]
+  }
+}

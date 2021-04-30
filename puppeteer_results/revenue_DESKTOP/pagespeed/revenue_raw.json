@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1320,
+    "speedIndex": 1412.4058082146125,
+    "largestContentfulPaint": 2468.5,
+    "timeToInteractive": 2153.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.06097554796719494
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1731,
+    "speedIndex": 1731,
+    "largestContentfulPaint": 2399.5,
+    "timeToInteractive": 2054.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1916.5,
+    "speedIndex": 1916.5,
+    "largestContentfulPaint": 2403,
+    "timeToInteractive": 2128,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1737.5,
+    "speedIndex": 1737.5,
+    "largestContentfulPaint": 2398.5,
+    "timeToInteractive": 2088.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "revenue",
+      "url": "http://revenue.ie"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1741,
+    "speedIndex": 1741,
+    "largestContentfulPaint": 2401,
+    "timeToInteractive": 2056,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.012827399819046787
+  }
+]

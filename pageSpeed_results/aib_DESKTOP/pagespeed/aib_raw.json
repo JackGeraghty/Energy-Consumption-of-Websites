@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aib",
+      "url": "http://aib.ie",
+      "originalURL": "aib.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 770,
+    "speedIndex": 2971.105364276755,
+    "largestContentfulPaint": 7185,
+    "timeToInteractive": 5317,
+    "totalBlockingTime": 19,
+    "cumulativeLayoutShift": 0.00016803549017891018
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aib",
+      "url": "http://aib.ie",
+      "originalURL": "aib.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 770,
+    "speedIndex": 2893.3464761818236,
+    "largestContentfulPaint": 7325,
+    "timeToInteractive": 5318,
+    "totalBlockingTime": 89,
+    "cumulativeLayoutShift": 0.00016803549017891018
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aib",
+      "url": "http://aib.ie",
+      "originalURL": "aib.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 770,
+    "speedIndex": 3032.3831473420787,
+    "largestContentfulPaint": 7290,
+    "timeToInteractive": 5443,
+    "totalBlockingTime": 49.5,
+    "cumulativeLayoutShift": 0.00016803549017891018
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aib",
+      "url": "http://aib.ie",
+      "originalURL": "aib.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 760,
+    "speedIndex": 3085.508279276288,
+    "largestContentfulPaint": 7260,
+    "timeToInteractive": 5358,
+    "totalBlockingTime": 31,
+    "cumulativeLayoutShift": 0.00016803549017891018
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "aib",
+      "url": "http://aib.ie",
+      "originalURL": "aib.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.74,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 770,
+    "speedIndex": 2816.1712084938245,
+    "largestContentfulPaint": 7325,
+    "timeToInteractive": 5305,
+    "totalBlockingTime": 39,
+    "cumulativeLayoutShift": 0.00016803549017891018
+  }
+]

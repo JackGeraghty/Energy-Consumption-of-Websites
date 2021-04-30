@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "streamable",
+      "url": "http://streamable.com",
+      "originalURL": "streamable.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 2802,
+    "speedIndex": 3838.5534866698927,
+    "largestContentfulPaint": 3577,
+    "timeToInteractive": 6179,
+    "totalBlockingTime": 2511,
+    "cumulativeLayoutShift": 0.006926903073286052
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "streamable",
+      "url": "http://streamable.com",
+      "originalURL": "streamable.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1869,
+    "speedIndex": 1869,
+    "largestContentfulPaint": 2460,
+    "timeToInteractive": 2693,
+    "totalBlockingTime": 322,
+    "cumulativeLayoutShift": 0.006926903073286052
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "streamable",
+      "url": "http://streamable.com",
+      "originalURL": "streamable.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1794,
+    "speedIndex": 1794,
+    "largestContentfulPaint": 2480,
+    "timeToInteractive": 2662.5,
+    "totalBlockingTime": 310.5,
+    "cumulativeLayoutShift": 0.007206130811662726
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "streamable",
+      "url": "http://streamable.com",
+      "originalURL": "streamable.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1871,
+    "speedIndex": 1871,
+    "largestContentfulPaint": 2460,
+    "timeToInteractive": 2676,
+    "totalBlockingTime": 309,
+    "cumulativeLayoutShift": 0.00691960598896769
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "streamable",
+      "url": "http://streamable.com",
+      "originalURL": "streamable.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.15,
+    "seo": 0.91,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1696,
+    "speedIndex": 1696,
+    "largestContentfulPaint": 2460,
+    "timeToInteractive": 2629,
+    "totalBlockingTime": 224.5,
+    "cumulativeLayoutShift": 0.006926903073286052
+  }
+]

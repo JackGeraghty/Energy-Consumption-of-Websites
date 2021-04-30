@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.32,
+    "seo": 0.99,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4839,
+    "speedIndex": 9545.353537373907,
+    "largestContentfulPaint": 12300,
+    "timeToInteractive": 16723,
+    "totalBlockingTime": 664.5,
+    "cumulativeLayoutShift": 0.000037977430555555556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.32,
+    "seo": 0.99,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4566,
+    "speedIndex": 8906.086085507164,
+    "largestContentfulPaint": 12270,
+    "timeToInteractive": 16158.5,
+    "totalBlockingTime": 513.5,
+    "cumulativeLayoutShift": 0.000037977430555555556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.32,
+    "seo": 0.99,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4471.5,
+    "speedIndex": 8716.483135432174,
+    "largestContentfulPaint": 12720,
+    "timeToInteractive": 16368,
+    "totalBlockingTime": 600,
+    "cumulativeLayoutShift": 0.19085367838541667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.32,
+    "seo": 0.99,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4393,
+    "speedIndex": 9827.231855087131,
+    "largestContentfulPaint": 12900,
+    "timeToInteractive": 16437,
+    "totalBlockingTime": 713,
+    "cumulativeLayoutShift": 0.2677838812934028
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rte",
+      "url": "http://rte.ie"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.32,
+    "seo": 0.99,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4443,
+    "speedIndex": 9873.444824636503,
+    "largestContentfulPaint": 11970,
+    "timeToInteractive": 17603,
+    "totalBlockingTime": 1304,
+    "cumulativeLayoutShift": 0.001958584255642361
+  }
+]

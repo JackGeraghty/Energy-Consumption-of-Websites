@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "met",
+      "url": "http://met.ie",
+      "originalURL": "met.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.18,
+    "seo": 0.75,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3368.5,
+    "speedIndex": 7880.299552813583,
+    "largestContentfulPaint": 20934,
+    "timeToInteractive": 20567,
+    "totalBlockingTime": 1091.5,
+    "cumulativeLayoutShift": 0.3753489176432292
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "met",
+      "url": "http://met.ie",
+      "originalURL": "met.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.18,
+    "seo": 0.75,
+    "accessibility": 0.71,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 3374.5,
+    "speedIndex": 6464.136961607937,
+    "largestContentfulPaint": 19950,
+    "timeToInteractive": 19639,
+    "totalBlockingTime": 1692,
+    "cumulativeLayoutShift": 0.38449891493055555
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "met",
+      "url": "http://met.ie",
+      "originalURL": "met.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.18,
+    "seo": 0.75,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3385,
+    "speedIndex": 7236.848300883587,
+    "largestContentfulPaint": 20324,
+    "timeToInteractive": 21088,
+    "totalBlockingTime": 1925,
+    "cumulativeLayoutShift": 0.13134909396701389
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "met",
+      "url": "http://met.ie",
+      "originalURL": "met.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.18,
+    "seo": 0.75,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3391,
+    "speedIndex": 8041.112197561241,
+    "largestContentfulPaint": 20575,
+    "timeToInteractive": 21042,
+    "totalBlockingTime": 1667.5,
+    "cumulativeLayoutShift": 0.13134909396701389
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "met",
+      "url": "http://met.ie",
+      "originalURL": "met.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.18,
+    "seo": 0.75,
+    "accessibility": 0.71,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3384.5,
+    "speedIndex": 7693.0979865341815,
+    "largestContentfulPaint": 20933,
+    "timeToInteractive": 20972,
+    "totalBlockingTime": 1635,
+    "cumulativeLayoutShift": 0.1532078179253472
+  }
+]

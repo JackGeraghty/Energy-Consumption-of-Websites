@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "baxiservices",
+      "url": "http://baxiservices.com",
+      "originalURL": "baxiservices.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 751,
+    "decodedBodySize": 751,
+    "transferSize": 930,
+    "resourcesList": [
+      [
+        "http://baxiservices.com/",
+        930,
+        751,
+        751,
+        0.045062
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxiservices",
+      "url": "http://baxiservices.com",
+      "originalURL": "baxiservices.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 775,
+    "decodedBodySize": 775,
+    "transferSize": 954,
+    "resourcesList": [
+      [
+        "http://baxiservices.com/",
+        954,
+        775,
+        775,
+        0.045048
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxiservices",
+      "url": "http://baxiservices.com",
+      "originalURL": "baxiservices.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 751,
+    "decodedBodySize": 751,
+    "transferSize": 930,
+    "resourcesList": [
+      [
+        "http://baxiservices.com/",
+        930,
+        751,
+        751,
+        0.045028
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxiservices",
+      "url": "http://baxiservices.com",
+      "originalURL": "baxiservices.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 751,
+    "decodedBodySize": 751,
+    "transferSize": 930,
+    "resourcesList": [
+      [
+        "http://baxiservices.com/",
+        930,
+        751,
+        751,
+        0.045801
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "baxiservices",
+      "url": "http://baxiservices.com",
+      "originalURL": "baxiservices.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 751,
+    "decodedBodySize": 751,
+    "transferSize": 930,
+    "resourcesList": [
+      [
+        "http://baxiservices.com/",
+        930,
+        751,
+        751,
+        0.044655
+      ]
+    ]
+  }
+]

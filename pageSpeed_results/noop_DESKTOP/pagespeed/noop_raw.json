@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.3,
+    "seo": 0.8,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 194,
+    "speedIndex": 194,
+    "largestContentfulPaint": 194,
+    "timeToInteractive": 194,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.3,
+    "seo": 0.8,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 196,
+    "speedIndex": 196,
+    "largestContentfulPaint": 196,
+    "timeToInteractive": 196,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.3,
+    "seo": 0.8,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 198,
+    "speedIndex": 198,
+    "largestContentfulPaint": 198,
+    "timeToInteractive": 198,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.3,
+    "seo": 0.8,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 193,
+    "speedIndex": 193,
+    "largestContentfulPaint": 193,
+    "timeToInteractive": 193,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.3,
+    "seo": 0.8,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 197,
+    "speedIndex": 197,
+    "largestContentfulPaint": 197,
+    "timeToInteractive": 197,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logme",
+      "url": "http://logme.in",
+      "originalURL": "logme.in"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4275,
+    "speedIndex": 5890.9024231313815,
+    "largestContentfulPaint": 7815,
+    "timeToInteractive": 13226.5,
+    "totalBlockingTime": 1309.5,
+    "cumulativeLayoutShift": 0.004809319390190973
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logme",
+      "url": "http://logme.in",
+      "originalURL": "logme.in"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4589,
+    "speedIndex": 8265.781174012718,
+    "largestContentfulPaint": 8265,
+    "timeToInteractive": 16785.5,
+    "totalBlockingTime": 8526.5,
+    "cumulativeLayoutShift": 0.004809319390190973
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logme",
+      "url": "http://logme.in",
+      "originalURL": "logme.in"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4275,
+    "speedIndex": 6410.846067134989,
+    "largestContentfulPaint": 8040,
+    "timeToInteractive": 13258.5,
+    "totalBlockingTime": 1202.5,
+    "cumulativeLayoutShift": 0.004809319390190973
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logme",
+      "url": "http://logme.in",
+      "originalURL": "logme.in"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4381,
+    "speedIndex": 6050.167142296215,
+    "largestContentfulPaint": 8790,
+    "timeToInteractive": 13882,
+    "totalBlockingTime": 1819.5,
+    "cumulativeLayoutShift": 0.004809319390190973
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logme",
+      "url": "http://logme.in",
+      "originalURL": "logme.in"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4275,
+    "speedIndex": 5951.938415525692,
+    "largestContentfulPaint": 7890,
+    "timeToInteractive": 13661,
+    "totalBlockingTime": 1442,
+    "cumulativeLayoutShift": 0.004809319390190973
+  }
+]

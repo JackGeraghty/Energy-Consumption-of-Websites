@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "doodle",
+      "url": "http://doodle.com",
+      "originalURL": "doodle.com"
+    },
+    "performance": 0.62,
+    "progressiveWebApp": 0.64,
+    "seo": 1,
+    "accessibility": 0.97,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1794.5,
+    "speedIndex": 1794.5,
+    "largestContentfulPaint": 3018.5,
+    "timeToInteractive": 3254,
+    "totalBlockingTime": 129.5,
+    "cumulativeLayoutShift": 0.28739007092198576
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "doodle",
+      "url": "http://doodle.com",
+      "originalURL": "doodle.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.64,
+    "seo": 1,
+    "accessibility": 0.97,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2082,
+    "speedIndex": 2813.577466661731,
+    "largestContentfulPaint": 3414,
+    "timeToInteractive": 3799,
+    "totalBlockingTime": 515.5,
+    "cumulativeLayoutShift": 0.26383818404693105
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "doodle",
+      "url": "http://doodle.com",
+      "originalURL": "doodle.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.64,
+    "seo": 1,
+    "accessibility": 0.97,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1856,
+    "speedIndex": 1856,
+    "largestContentfulPaint": 3200,
+    "timeToInteractive": 3408,
+    "totalBlockingTime": 196.5,
+    "cumulativeLayoutShift": 0.28739007092198576
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "doodle",
+      "url": "http://doodle.com",
+      "originalURL": "doodle.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.64,
+    "seo": 1,
+    "accessibility": 0.97,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1874.5,
+    "speedIndex": 2087.70234166036,
+    "largestContentfulPaint": 3540,
+    "timeToInteractive": 3361,
+    "totalBlockingTime": 202,
+    "cumulativeLayoutShift": 0.28739007092198576
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "doodle",
+      "url": "http://doodle.com",
+      "originalURL": "doodle.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.64,
+    "seo": 1,
+    "accessibility": 0.97,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1839.5,
+    "speedIndex": 1839.5,
+    "largestContentfulPaint": 3180,
+    "timeToInteractive": 3397.5,
+    "totalBlockingTime": 170.5,
+    "cumulativeLayoutShift": 0.28739007092198576
+  }
+]

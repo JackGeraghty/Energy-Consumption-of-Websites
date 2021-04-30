@@ -1,0 +1,334 @@
+{
+  "activity": [
+    {
+      "id": "858",
+      "hostId": "284",
+      "power": "10.83333",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "32.19995166032303",
+      "stat2": "30144.0",
+      "stat3": "1.50646784E8",
+      "timeStamp": "1616938787",
+      "allApps": "840.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3258",
+            "activityId": "858",
+            "name": "nodejs#1418594656",
+            "cpu": "550.0"
+          },
+          {
+            "appId": "3259",
+            "activityId": "858",
+            "name": "java#1988125398",
+            "cpu": "160.0"
+          },
+          {
+            "appId": "3260",
+            "activityId": "858",
+            "name": "java#0132605578",
+            "cpu": "90.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "859",
+      "hostId": "284",
+      "power": "2.842601",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "1.4714981010380523",
+      "stat2": "24678.0",
+      "stat3": "3948544.0",
+      "timeStamp": "1616938847",
+      "allApps": "260.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3261",
+            "activityId": "859",
+            "name": "java#1988125398",
+            "cpu": "130.0"
+          },
+          {
+            "appId": "3262",
+            "activityId": "859",
+            "name": "java#0132605578",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "3263",
+            "activityId": "859",
+            "name": "xscreensaver#806218583",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "860",
+      "hostId": "284",
+      "power": "8.344895000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "1.153801068449979",
+      "stat2": "89017.0",
+      "stat3": "1.7874944E7",
+      "timeStamp": "1616938907",
+      "allApps": "540.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3264",
+            "activityId": "860",
+            "name": "chrome#2147046244",
+            "cpu": "290.0"
+          },
+          {
+            "appId": "3265",
+            "activityId": "860",
+            "name": "java#1988125398",
+            "cpu": "140.0"
+          },
+          {
+            "appId": "3266",
+            "activityId": "860",
+            "name": "java#0132605578",
+            "cpu": "90.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "861",
+      "hostId": "284",
+      "power": "2.175933000000003",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "0.4766624836518249",
+      "stat2": "26402.0",
+      "stat3": "593920.0",
+      "timeStamp": "1616938967",
+      "allApps": "240.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3267",
+            "activityId": "861",
+            "name": "java#1988125398",
+            "cpu": "120.0"
+          },
+          {
+            "appId": "3268",
+            "activityId": "861",
+            "name": "java#0132605578",
+            "cpu": "90.0"
+          },
+          {
+            "appId": "3269",
+            "activityId": "861",
+            "name": "Thunar#1442570050",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "862",
+      "hostId": "284",
+      "power": "2.0833330000000023",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "0.35884605409693515",
+      "stat2": "26166.0",
+      "stat3": "499712.0",
+      "timeStamp": "1616939027",
+      "allApps": "220.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3270",
+            "activityId": "862",
+            "name": "java#1988125398",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "3271",
+            "activityId": "862",
+            "name": "java#0132605578",
+            "cpu": "70.0"
+          },
+          {
+            "appId": "3272",
+            "activityId": "862",
+            "name": "chrome#2147046244",
+            "cpu": "20.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "863",
+      "hostId": "284",
+      "power": "2.0833330000000023",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "0.4418933418765606",
+      "stat2": "24670.0",
+      "stat3": "516096.0",
+      "timeStamp": "1616939088",
+      "allApps": "220.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3273",
+            "activityId": "863",
+            "name": "java#1988125398",
+            "cpu": "120.0"
+          },
+          {
+            "appId": "3274",
+            "activityId": "863",
+            "name": "java#0132605578",
+            "cpu": "90.0"
+          },
+          {
+            "appId": "3275",
+            "activityId": "863",
+            "name": "xfce4-terminal#144876485",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "864",
+      "hostId": "284",
+      "power": "2.175933000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "1.5523969207712882",
+      "stat2": "79224.0",
+      "stat3": "1163264.0",
+      "timeStamp": "1616939148",
+      "allApps": "240.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3276",
+            "activityId": "864",
+            "name": "java#0132605578",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "3277",
+            "activityId": "864",
+            "name": "java#1988125398",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "3278",
+            "activityId": "864",
+            "name": "mintUpdate#1499240336",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "865",
+      "hostId": "284",
+      "power": "2.175933000000001",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "0.6706895558727161",
+      "stat2": "26443.0",
+      "stat3": "913408.0",
+      "timeStamp": "1616939208",
+      "allApps": "220.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3279",
+            "activityId": "865",
+            "name": "java#1988125398",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "3280",
+            "activityId": "865",
+            "name": "java#0132605578",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "3281",
+            "activityId": "865",
+            "name": "xfce4-terminal#144876485",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "866",
+      "hostId": "284",
+      "power": "2.1759330000000023",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "0.6656394453004623",
+      "stat2": "25236.0",
+      "stat3": "634880.0",
+      "timeStamp": "1616939268",
+      "allApps": "260.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3282",
+            "activityId": "866",
+            "name": "java#1988125398",
+            "cpu": "110.0"
+          },
+          {
+            "appId": "3283",
+            "activityId": "866",
+            "name": "java#0132605578",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "3284",
+            "activityId": "866",
+            "name": "chrome#2147046244",
+            "cpu": "30.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "867",
+      "hostId": "284",
+      "power": "2.175933000000003",
+      "powerMode": "AC_DEFAULT",
+      "stat1": "1.911191097357194",
+      "stat2": "24460.0",
+      "stat3": "569344.0",
+      "timeStamp": "1616939328",
+      "allApps": "190.0",
+      "apps": {
+        "app": [
+          {
+            "appId": "3285",
+            "activityId": "867",
+            "name": "java#1988125398",
+            "cpu": "100.0"
+          },
+          {
+            "appId": "3286",
+            "activityId": "867",
+            "name": "java#0132605578",
+            "cpu": "80.0"
+          },
+          {
+            "appId": "3287",
+            "activityId": "867",
+            "name": "panel-1-whisker#01847459683",
+            "cpu": "10.0"
+          }
+        ]
+      }
+    }
+  ]
+}

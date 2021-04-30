@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onet",
+      "url": "http://onet.pl",
+      "originalURL": "onet.pl"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 599,
+    "speedIndex": 1391.6913287299717,
+    "largestContentfulPaint": 1130,
+    "timeToInteractive": 1661,
+    "totalBlockingTime": 20.5,
+    "cumulativeLayoutShift": 0.09443955170300324
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onet",
+      "url": "http://onet.pl",
+      "originalURL": "onet.pl"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 586,
+    "speedIndex": 1354.0878356839362,
+    "largestContentfulPaint": 1445,
+    "timeToInteractive": 1862,
+    "totalBlockingTime": 14.5,
+    "cumulativeLayoutShift": 0.19512892099349155
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onet",
+      "url": "http://onet.pl",
+      "originalURL": "onet.pl"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 586,
+    "speedIndex": 1355.9851084788297,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1818,
+    "totalBlockingTime": 14,
+    "cumulativeLayoutShift": 0.19512892099349155
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onet",
+      "url": "http://onet.pl",
+      "originalURL": "onet.pl"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 585,
+    "speedIndex": 1247.001622730745,
+    "largestContentfulPaint": 1460,
+    "timeToInteractive": 1802,
+    "totalBlockingTime": 14,
+    "cumulativeLayoutShift": 0.1895798097072644
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onet",
+      "url": "http://onet.pl",
+      "originalURL": "onet.pl"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.65,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 587,
+    "speedIndex": 1296.7886925034268,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1817.5,
+    "totalBlockingTime": 24,
+    "cumulativeLayoutShift": 0.11712336047631557
+  }
+]

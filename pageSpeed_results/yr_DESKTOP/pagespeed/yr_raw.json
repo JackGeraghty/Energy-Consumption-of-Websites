@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yr",
+      "url": "http://yr.no",
+      "originalURL": "yr.no"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.59,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1591.6548674218463,
+    "largestContentfulPaint": 2480,
+    "timeToInteractive": 1629.5,
+    "totalBlockingTime": 17.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yr",
+      "url": "http://yr.no",
+      "originalURL": "yr.no"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.59,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1316.249502860549,
+    "largestContentfulPaint": 1535,
+    "timeToInteractive": 1543.5,
+    "totalBlockingTime": 40.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yr",
+      "url": "http://yr.no",
+      "originalURL": "yr.no"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.59,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1195,
+    "largestContentfulPaint": 1395,
+    "timeToInteractive": 1499,
+    "totalBlockingTime": 4.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yr",
+      "url": "http://yr.no",
+      "originalURL": "yr.no"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.59,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1195,
+    "largestContentfulPaint": 1310,
+    "timeToInteractive": 1599,
+    "totalBlockingTime": 25.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "yr",
+      "url": "http://yr.no",
+      "originalURL": "yr.no"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.59,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1195,
+    "speedIndex": 1198.3400928950819,
+    "largestContentfulPaint": 1560,
+    "timeToInteractive": 1504,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0
+  }
+]

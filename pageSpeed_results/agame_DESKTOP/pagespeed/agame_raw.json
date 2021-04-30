@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agame",
+      "url": "http://agame.com",
+      "originalURL": "agame.com"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1130.721751338306,
+    "largestContentfulPaint": 1202,
+    "timeToInteractive": 2387,
+    "totalBlockingTime": 85,
+    "cumulativeLayoutShift": 0.011107102632577416
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agame",
+      "url": "http://agame.com",
+      "originalURL": "agame.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1019.9534536563287,
+    "largestContentfulPaint": 1201,
+    "timeToInteractive": 2431,
+    "totalBlockingTime": 52.5,
+    "cumulativeLayoutShift": 0.011107102632577416
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agame",
+      "url": "http://agame.com",
+      "originalURL": "agame.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1014.6778430667923,
+    "largestContentfulPaint": 1125,
+    "timeToInteractive": 2503.5,
+    "totalBlockingTime": 75,
+    "cumulativeLayoutShift": 0.011107102632577416
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agame",
+      "url": "http://agame.com",
+      "originalURL": "agame.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 960,
+    "speedIndex": 960,
+    "largestContentfulPaint": 1231,
+    "timeToInteractive": 2339.5,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 0.011107102632577416
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agame",
+      "url": "http://agame.com",
+      "originalURL": "agame.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1041.1875897756258,
+    "largestContentfulPaint": 1175,
+    "timeToInteractive": 2305.5,
+    "totalBlockingTime": 46.5,
+    "cumulativeLayoutShift": 0.011107102632577416
+  }
+]

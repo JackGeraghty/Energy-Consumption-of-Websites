@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "obsidianportal",
+      "url": "http://obsidianportal.com",
+      "originalURL": "obsidianportal.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3810,
+    "speedIndex": 6273.561101994797,
+    "largestContentfulPaint": 10721.5,
+    "timeToInteractive": 9070.5,
+    "totalBlockingTime": 702,
+    "cumulativeLayoutShift": 0.17097136094835072
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "obsidianportal",
+      "url": "http://obsidianportal.com",
+      "originalURL": "obsidianportal.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3810,
+    "speedIndex": 5848.4514125730075,
+    "largestContentfulPaint": 9721.5,
+    "timeToInteractive": 8853,
+    "totalBlockingTime": 602.5,
+    "cumulativeLayoutShift": 0.17097136094835072
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "obsidianportal",
+      "url": "http://obsidianportal.com",
+      "originalURL": "obsidianportal.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3810,
+    "speedIndex": 6365.726363728358,
+    "largestContentfulPaint": 10644.5,
+    "timeToInteractive": 8909.5,
+    "totalBlockingTime": 587.5,
+    "cumulativeLayoutShift": 0.17097136094835072
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "obsidianportal",
+      "url": "http://obsidianportal.com",
+      "originalURL": "obsidianportal.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3810,
+    "speedIndex": 5855.479523557307,
+    "largestContentfulPaint": 6510,
+    "timeToInteractive": 8900,
+    "totalBlockingTime": 908.5,
+    "cumulativeLayoutShift": 0.40044417995876735
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "obsidianportal",
+      "url": "http://obsidianportal.com",
+      "originalURL": "obsidianportal.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.5,
+    "seo": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3810,
+    "speedIndex": 5712.1760769996035,
+    "largestContentfulPaint": 9144,
+    "timeToInteractive": 8996,
+    "totalBlockingTime": 673,
+    "cumulativeLayoutShift": 0.1697231174045139
+  }
+]

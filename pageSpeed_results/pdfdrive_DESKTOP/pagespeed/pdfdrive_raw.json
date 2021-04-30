@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pdfdrive",
+      "url": "http://pdfdrive.com",
+      "originalURL": "pdfdrive.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1326,
+    "speedIndex": 1725.2511628067853,
+    "largestContentfulPaint": 1665,
+    "timeToInteractive": 3422,
+    "totalBlockingTime": 360,
+    "cumulativeLayoutShift": 0.000457097743922015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pdfdrive",
+      "url": "http://pdfdrive.com",
+      "originalURL": "pdfdrive.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1320,
+    "speedIndex": 1584.3309433839936,
+    "largestContentfulPaint": 1555,
+    "timeToInteractive": 3267,
+    "totalBlockingTime": 180.5,
+    "cumulativeLayoutShift": 0.000457097743922015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pdfdrive",
+      "url": "http://pdfdrive.com",
+      "originalURL": "pdfdrive.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1320,
+    "speedIndex": 1679.202010742514,
+    "largestContentfulPaint": 1635,
+    "timeToInteractive": 3303,
+    "totalBlockingTime": 259.5,
+    "cumulativeLayoutShift": 0.000457097743922015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pdfdrive",
+      "url": "http://pdfdrive.com",
+      "originalURL": "pdfdrive.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1320,
+    "speedIndex": 1592.3143182255,
+    "largestContentfulPaint": 1595,
+    "timeToInteractive": 3468.5,
+    "totalBlockingTime": 280,
+    "cumulativeLayoutShift": 0.000457097743922015
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "pdfdrive",
+      "url": "http://pdfdrive.com",
+      "originalURL": "pdfdrive.com"
+    },
+    "performance": 0.64,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.6,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1320,
+    "speedIndex": 1806.9689683408908,
+    "largestContentfulPaint": 1640,
+    "timeToInteractive": 4092,
+    "totalBlockingTime": 401,
+    "cumulativeLayoutShift": 0.000457097743922015
+  }
+]

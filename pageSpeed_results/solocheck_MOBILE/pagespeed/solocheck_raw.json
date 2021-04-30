@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.5,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3669.5,
+    "speedIndex": 3681.755598883438,
+    "largestContentfulPaint": 3750,
+    "timeToInteractive": 5364,
+    "totalBlockingTime": 410.5,
+    "cumulativeLayoutShift": 0.07151508246527778
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.5,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3662,
+    "speedIndex": 3662,
+    "largestContentfulPaint": 3675,
+    "timeToInteractive": 5291.5,
+    "totalBlockingTime": 286,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.5,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3649,
+    "speedIndex": 3649,
+    "largestContentfulPaint": 3765,
+    "timeToInteractive": 5263,
+    "totalBlockingTime": 227.5,
+    "cumulativeLayoutShift": 0.10730506727430555
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.5,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3665,
+    "speedIndex": 3665,
+    "largestContentfulPaint": 3765,
+    "timeToInteractive": 5295.5,
+    "totalBlockingTime": 335,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.5,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3659,
+    "speedIndex": 3659,
+    "largestContentfulPaint": 3675,
+    "timeToInteractive": 5284.5,
+    "totalBlockingTime": 344.5,
+    "cumulativeLayoutShift": 0.08765766059027777
+  }
+]

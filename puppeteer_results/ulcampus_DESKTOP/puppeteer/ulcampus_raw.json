@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 51093,
+    "decodedBodySize": 142952,
+    "transferSize": 51947,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=266C76DAFCCFCE53DF1CE243288113EA516C0FEE647FC11E-8626D23CA8FD9D5CF4944F8D9A141440C85565721B959BDE8C31FB309916EC7E&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=6f2fac9f-405c-2000-a0c6-870f8bd9395b",
+        51947,
+        51093,
+        142952,
+        0.030594
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 51085,
+    "decodedBodySize": 142848,
+    "transferSize": 51939,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=91A85A66B28F3CE58CF6052DD176735E560331A1C5FC7359-F747B76D955C3E0DDFF1154D8A0A62D0BD9E2F850F679845840629D376D3A933&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=6f2fac9f-60ac-2000-a0c6-83697efdc421",
+        51939,
+        51085,
+        142848,
+        0.028315
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 51080,
+    "decodedBodySize": 142848,
+    "transferSize": 51934,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=ED7AE483B4405901643AE1A10A608F05734F6BC8D0AF9AC0-6CA8EB87FB7E76EB856FC162B4AB0916A1FAA083DAD20E5D9F6BC16C739CDEFB&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=6f2fac9f-40dd-2000-a0c6-85c10ff7aaf8",
+        51934,
+        51080,
+        142848,
+        0.029207
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 51080,
+    "decodedBodySize": 142848,
+    "transferSize": 51934,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=7AA7E88A35E7EEAD2BDB8E5DBEE0EC365F0F23308392EA20-1E6289E26198E3C835CF35FE6C650E4927C927207D5138FFC9AF3D600C9DD098&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=702fac9f-f011-2000-acbe-2e18d5ffcd66",
+        51934,
+        51080,
+        142848,
+        0.03074
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 51080,
+    "decodedBodySize": 142848,
+    "transferSize": 51934,
+    "resourcesList": [
+      [
+        "https://login.microsoftonline.com/0084b924-3ab4-4116-9251-9939f695e54c/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=F6CF1D23E4259E943B3059A809B090C92A9C344442A5C3E0-1001D97F97F2F4C8B5EDB2B88CC055F9BABD9289CAEA7730BC814A6219A452C1&redirect_uri=https%3A%2F%2Fulcampus.sharepoint.com%2F_forms%2Fdefault.aspx&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=702fac9f-c049-2000-a0c6-88f6237d7d98",
+        51934,
+        51080,
+        142848,
+        0.030333
+      ]
+    ]
+  }
+]

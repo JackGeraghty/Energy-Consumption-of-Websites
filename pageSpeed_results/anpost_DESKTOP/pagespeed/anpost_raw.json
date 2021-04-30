@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "anpost",
+      "url": "http://anpost.com",
+      "originalURL": "anpost.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.45,
+    "seo": 0.91,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3010,
+    "speedIndex": 3010,
+    "largestContentfulPaint": 4600,
+    "timeToInteractive": 4514,
+    "totalBlockingTime": 26,
+    "cumulativeLayoutShift": 0.1618876627666871
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "anpost",
+      "url": "http://anpost.com",
+      "originalURL": "anpost.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.45,
+    "seo": 0.91,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3010,
+    "speedIndex": 3010,
+    "largestContentfulPaint": 4809,
+    "timeToInteractive": 4455,
+    "totalBlockingTime": 11.5,
+    "cumulativeLayoutShift": 0.18075231702200625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "anpost",
+      "url": "http://anpost.com",
+      "originalURL": "anpost.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.45,
+    "seo": 0.91,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2990,
+    "speedIndex": 3323.2347065044487,
+    "largestContentfulPaint": 4525,
+    "timeToInteractive": 4498,
+    "totalBlockingTime": 24.5,
+    "cumulativeLayoutShift": 0.17451160533957916
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "anpost",
+      "url": "http://anpost.com",
+      "originalURL": "anpost.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.45,
+    "seo": 0.91,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3010,
+    "speedIndex": 3010,
+    "largestContentfulPaint": 5038,
+    "timeToInteractive": 4656,
+    "totalBlockingTime": 67.5,
+    "cumulativeLayoutShift": 0.22400510169497712
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "anpost",
+      "url": "http://anpost.com",
+      "originalURL": "anpost.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.45,
+    "seo": 0.91,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3010,
+    "speedIndex": 3010,
+    "largestContentfulPaint": 4994.5,
+    "timeToInteractive": 4592,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0.20754343650585177
+  }
+]

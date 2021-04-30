@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishrail",
+      "url": "http://irishrail.ie",
+      "originalURL": "irishrail.ie"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3795,
+    "speedIndex": 3795,
+    "largestContentfulPaint": 5855,
+    "timeToInteractive": 10779.5,
+    "totalBlockingTime": 343,
+    "cumulativeLayoutShift": 0.025960673014322914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishrail",
+      "url": "http://irishrail.ie",
+      "originalURL": "irishrail.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3795,
+    "speedIndex": 3795,
+    "largestContentfulPaint": 6279,
+    "timeToInteractive": 11192.5,
+    "totalBlockingTime": 413.5,
+    "cumulativeLayoutShift": 0.016853101942274306
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishrail",
+      "url": "http://irishrail.ie",
+      "originalURL": "irishrail.ie"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3795,
+    "speedIndex": 3795,
+    "largestContentfulPaint": 5895,
+    "timeToInteractive": 10867,
+    "totalBlockingTime": 428.5,
+    "cumulativeLayoutShift": 0.027481486002604166
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishrail",
+      "url": "http://irishrail.ie",
+      "originalURL": "irishrail.ie"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3795,
+    "speedIndex": 3795,
+    "largestContentfulPaint": 5863,
+    "timeToInteractive": 14724.5,
+    "totalBlockingTime": 468,
+    "cumulativeLayoutShift": 0.025960673014322914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishrail",
+      "url": "http://irishrail.ie",
+      "originalURL": "irishrail.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.9,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3795,
+    "speedIndex": 3795,
+    "largestContentfulPaint": 5856,
+    "timeToInteractive": 11108,
+    "totalBlockingTime": 310.5,
+    "cumulativeLayoutShift": 0.025960673014322914
+  }
+]

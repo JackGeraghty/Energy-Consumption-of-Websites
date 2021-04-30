@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishjobs",
+      "url": "http://irishjobs.ie",
+      "originalURL": "irishjobs.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.55,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1648,
+    "speedIndex": 1947.3400014242125,
+    "largestContentfulPaint": 2742.5,
+    "timeToInteractive": 1981,
+    "totalBlockingTime": 38,
+    "cumulativeLayoutShift": 0.002565086536497096
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishjobs",
+      "url": "http://irishjobs.ie",
+      "originalURL": "irishjobs.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.55,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1629,
+    "speedIndex": 1868.6631274818117,
+    "largestContentfulPaint": 2743,
+    "timeToInteractive": 1943,
+    "totalBlockingTime": 19,
+    "cumulativeLayoutShift": 0.0013689274144120481
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishjobs",
+      "url": "http://irishjobs.ie",
+      "originalURL": "irishjobs.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.55,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1649.5,
+    "speedIndex": 1819.003204195335,
+    "largestContentfulPaint": 2725,
+    "timeToInteractive": 1984,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 0.002565086536497096
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishjobs",
+      "url": "http://irishjobs.ie",
+      "originalURL": "irishjobs.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.55,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1643.5,
+    "speedIndex": 1697.4427520533877,
+    "largestContentfulPaint": 2678.5,
+    "timeToInteractive": 1972,
+    "totalBlockingTime": 33.5,
+    "cumulativeLayoutShift": 0.0013689274144120481
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishjobs",
+      "url": "http://irishjobs.ie",
+      "originalURL": "irishjobs.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.55,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1651.5,
+    "speedIndex": 1842.8075744696546,
+    "largestContentfulPaint": 2713,
+    "timeToInteractive": 1988,
+    "totalBlockingTime": 41.5,
+    "cumulativeLayoutShift": 0.002565086536497096
+  }
+]

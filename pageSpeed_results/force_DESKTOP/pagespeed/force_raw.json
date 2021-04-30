@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "force",
+      "url": "http://force.com",
+      "originalURL": "force.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2712,
+    "speedIndex": 4827.3091992176805,
+    "largestContentfulPaint": 7230,
+    "timeToInteractive": 4689.5,
+    "totalBlockingTime": 266,
+    "cumulativeLayoutShift": 0.002308200099232408
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "force",
+      "url": "http://force.com",
+      "originalURL": "force.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2577.5,
+    "speedIndex": 3859.2816127721917,
+    "largestContentfulPaint": 6996,
+    "timeToInteractive": 4091,
+    "totalBlockingTime": 179,
+    "cumulativeLayoutShift": 0.0025269421825292594
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "force",
+      "url": "http://force.com",
+      "originalURL": "force.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2612,
+    "speedIndex": 3758.7060018418674,
+    "largestContentfulPaint": 7060,
+    "timeToInteractive": 4178.5,
+    "totalBlockingTime": 178.5,
+    "cumulativeLayoutShift": 0.0025269421825292594
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "force",
+      "url": "http://force.com",
+      "originalURL": "force.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2557.5,
+    "speedIndex": 3536.2139217136782,
+    "largestContentfulPaint": 6950,
+    "timeToInteractive": 4834.5,
+    "totalBlockingTime": 159.5,
+    "cumulativeLayoutShift": 0.0025269421825292594
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "force",
+      "url": "http://force.com",
+      "originalURL": "force.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.98,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2702.5,
+    "speedIndex": 4402.001937342748,
+    "largestContentfulPaint": 7200,
+    "timeToInteractive": 4696,
+    "totalBlockingTime": 320.5,
+    "cumulativeLayoutShift": 0.0025269421825292594
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": null,
+    "firstContentfulPaint": 1165,
+    "speedIndex": 2037.3741489529061,
+    "largestContentfulPaint": 2670,
+    "timeToInteractive": 5155,
+    "totalBlockingTime": 397.5,
+    "cumulativeLayoutShift": 0.10919319697057277
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": null,
+    "firstContentfulPaint": 1165,
+    "speedIndex": 2042.448802917007,
+    "largestContentfulPaint": 2630,
+    "timeToInteractive": 5166,
+    "totalBlockingTime": 685,
+    "cumulativeLayoutShift": 0.10921833225025904
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": null,
+    "firstContentfulPaint": 1105,
+    "speedIndex": 2906.919915333947,
+    "largestContentfulPaint": 2865,
+    "timeToInteractive": 9881.5,
+    "totalBlockingTime": 4303,
+    "cumulativeLayoutShift": 0.10918419798176515
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": null,
+    "firstContentfulPaint": 1080,
+    "speedIndex": 2106.1978896543715,
+    "largestContentfulPaint": 2630,
+    "timeToInteractive": 5624.018815994263,
+    "totalBlockingTime": 722,
+    "cumulativeLayoutShift": 0.10936370909898138
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asos",
+      "url": "http://asos.com",
+      "originalURL": "asos.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": null,
+    "firstContentfulPaint": 985,
+    "speedIndex": 2118.5100445807316,
+    "largestContentfulPaint": 2671.5,
+    "timeToInteractive": 6177.5,
+    "totalBlockingTime": 1360,
+    "cumulativeLayoutShift": 0.10941385973505809
+  }
+]

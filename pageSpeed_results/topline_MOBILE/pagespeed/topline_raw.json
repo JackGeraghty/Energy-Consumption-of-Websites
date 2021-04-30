@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topline",
+      "url": "http://topline.ie",
+      "originalURL": "topline.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.5,
+    "seo": 0.8,
+    "accessibility": 0.94,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5329,
+    "speedIndex": 11513.029701199655,
+    "largestContentfulPaint": 6900,
+    "timeToInteractive": 9001,
+    "totalBlockingTime": 313,
+    "cumulativeLayoutShift": 0.3082804247538249
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topline",
+      "url": "http://topline.ie",
+      "originalURL": "topline.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.5,
+    "seo": 0.8,
+    "accessibility": 0.94,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5332,
+    "speedIndex": 11453.439392412367,
+    "largestContentfulPaint": 6825,
+    "timeToInteractive": 8885.5,
+    "totalBlockingTime": 194,
+    "cumulativeLayoutShift": 0.30844546381632487
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topline",
+      "url": "http://topline.ie",
+      "originalURL": "topline.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.5,
+    "seo": 0.8,
+    "accessibility": 0.94,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5344.5,
+    "speedIndex": 8214.756373994216,
+    "largestContentfulPaint": 7050,
+    "timeToInteractive": 8947.5,
+    "totalBlockingTime": 237.5,
+    "cumulativeLayoutShift": 0.31401346842447914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topline",
+      "url": "http://topline.ie",
+      "originalURL": "topline.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.5,
+    "seo": 0.8,
+    "accessibility": 0.94,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5414.5,
+    "speedIndex": 11093.648301054785,
+    "largestContentfulPaint": 7050,
+    "timeToInteractive": 9075,
+    "totalBlockingTime": 302,
+    "cumulativeLayoutShift": 0.3092145881652832
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topline",
+      "url": "http://topline.ie",
+      "originalURL": "topline.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.5,
+    "seo": 0.8,
+    "accessibility": 0.94,
+    "bestPractices": 0.6,
+    "firstContentfulPaint": 5382,
+    "speedIndex": 9528.504549483638,
+    "largestContentfulPaint": 6795,
+    "timeToInteractive": 8887.5,
+    "totalBlockingTime": 227,
+    "cumulativeLayoutShift": 0.3092145881652832
+  }
+]

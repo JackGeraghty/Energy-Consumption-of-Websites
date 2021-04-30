@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cloud10beauty",
+      "url": "http://cloud10beauty.com",
+      "originalURL": "cloud10beauty.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1777,
+    "speedIndex": 4450.423759554378,
+    "largestContentfulPaint": 3885,
+    "timeToInteractive": 7002,
+    "totalBlockingTime": 1039.5,
+    "cumulativeLayoutShift": 0.7151138207395733
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cloud10beauty",
+      "url": "http://cloud10beauty.com",
+      "originalURL": "cloud10beauty.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1783.5,
+    "speedIndex": 4369.969900549933,
+    "largestContentfulPaint": 3864.5,
+    "timeToInteractive": 6879,
+    "totalBlockingTime": 939.5,
+    "cumulativeLayoutShift": 0.7151138207395733
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cloud10beauty",
+      "url": "http://cloud10beauty.com",
+      "originalURL": "cloud10beauty.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1770.5,
+    "speedIndex": 4473.2932235087565,
+    "largestContentfulPaint": 3897.5,
+    "timeToInteractive": 7013.5,
+    "totalBlockingTime": 1045,
+    "cumulativeLayoutShift": 0.7151138207395733
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cloud10beauty",
+      "url": "http://cloud10beauty.com",
+      "originalURL": "cloud10beauty.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1795,
+    "speedIndex": 5083.073208418773,
+    "largestContentfulPaint": 3915.5,
+    "timeToInteractive": 7205.5,
+    "totalBlockingTime": 1629,
+    "cumulativeLayoutShift": 0.715182793100429
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cloud10beauty",
+      "url": "http://cloud10beauty.com",
+      "originalURL": "cloud10beauty.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1773.5,
+    "speedIndex": 4157.009074730566,
+    "largestContentfulPaint": 3830,
+    "timeToInteractive": 6816.5,
+    "totalBlockingTime": 649.5,
+    "cumulativeLayoutShift": 0.715182793100429
+  }
+]

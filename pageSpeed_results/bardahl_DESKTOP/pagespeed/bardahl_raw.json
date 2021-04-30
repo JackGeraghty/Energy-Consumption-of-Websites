@@ -1,0 +1,94 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2354.1549896321876,
+    "largestContentfulPaint": 4155,
+    "timeToInteractive": 935,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2494.2793136040227,
+    "timeToInteractive": 935,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2406.331376916497,
+    "timeToInteractive": 935,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": null,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2321.217111282671,
+    "timeToInteractive": 935,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bardahl",
+      "url": "http://bardahl.ie",
+      "originalURL": "bardahl.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.86,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 935,
+    "speedIndex": 2637.6497439417626,
+    "largestContentfulPaint": 4189,
+    "timeToInteractive": 935,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

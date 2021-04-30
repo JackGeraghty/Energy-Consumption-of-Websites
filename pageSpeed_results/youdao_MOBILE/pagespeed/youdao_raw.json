@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youdao",
+      "url": "http://youdao.com",
+      "originalURL": "youdao.com"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.47,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1762,
+    "speedIndex": 4534.646927763855,
+    "largestContentfulPaint": 3541,
+    "timeToInteractive": 1817,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0.1557861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youdao",
+      "url": "http://youdao.com",
+      "originalURL": "youdao.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.47,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1737,
+    "speedIndex": 2735.046621935328,
+    "largestContentfulPaint": 2570,
+    "timeToInteractive": 1737,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.1557861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youdao",
+      "url": "http://youdao.com",
+      "originalURL": "youdao.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.47,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1741,
+    "speedIndex": 4255.254559258074,
+    "largestContentfulPaint": 2686,
+    "timeToInteractive": 1741,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.1557861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youdao",
+      "url": "http://youdao.com",
+      "originalURL": "youdao.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.47,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1729,
+    "speedIndex": 2484.8198403476213,
+    "largestContentfulPaint": 2682,
+    "timeToInteractive": 1729,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.1557861328125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youdao",
+      "url": "http://youdao.com",
+      "originalURL": "youdao.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.47,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1704,
+    "speedIndex": 3260.367588711476,
+    "largestContentfulPaint": 2520,
+    "timeToInteractive": 1704,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.1557861328125
+  }
+]

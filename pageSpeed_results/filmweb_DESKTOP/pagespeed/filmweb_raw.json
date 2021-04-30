@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmweb",
+      "url": "http://filmweb.pl",
+      "originalURL": "filmweb.pl"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.39,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 920,
+    "speedIndex": 1589.7187093417706,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 3229,
+    "totalBlockingTime": 143,
+    "cumulativeLayoutShift": 0.08882049441088055
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmweb",
+      "url": "http://filmweb.pl",
+      "originalURL": "filmweb.pl"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.39,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1561.1406623718392,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 3187,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.08948508186673673
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmweb",
+      "url": "http://filmweb.pl",
+      "originalURL": "filmweb.pl"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.39,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1483.0447749905666,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 3167,
+    "totalBlockingTime": 126,
+    "cumulativeLayoutShift": 0.08999152671978519
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmweb",
+      "url": "http://filmweb.pl",
+      "originalURL": "filmweb.pl"
+    },
+    "performance": 0.91,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.39,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 810,
+    "speedIndex": 1525.8492212472281,
+    "largestContentfulPaint": 1430,
+    "timeToInteractive": 2424,
+    "totalBlockingTime": 79.5,
+    "cumulativeLayoutShift": 0.08882695268949012
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "filmweb",
+      "url": "http://filmweb.pl",
+      "originalURL": "filmweb.pl"
+    },
+    "performance": 0.89,
+    "progressiveWebApp": 0.41,
+    "seo": 0.82,
+    "accessibility": 0.39,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1505.6638075164171,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 2578.5,
+    "totalBlockingTime": 95,
+    "cumulativeLayoutShift": 0.09046155561392756
+  }
+]

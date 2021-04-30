@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crosshavenboatyard",
+      "url": "http://crosshavenboatyard.com",
+      "originalURL": "crosshavenboatyard.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.36,
+    "seo": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2625,
+    "speedIndex": 2725.7630717363445,
+    "largestContentfulPaint": 6915,
+    "timeToInteractive": 2625,
+    "totalBlockingTime": 31,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crosshavenboatyard",
+      "url": "http://crosshavenboatyard.com",
+      "originalURL": "crosshavenboatyard.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.36,
+    "seo": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2724.5,
+    "speedIndex": 5435.097434724659,
+    "largestContentfulPaint": 5992,
+    "timeToInteractive": 2724.5,
+    "totalBlockingTime": 30.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crosshavenboatyard",
+      "url": "http://crosshavenboatyard.com",
+      "originalURL": "crosshavenboatyard.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.36,
+    "seo": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2562,
+    "speedIndex": 2562,
+    "largestContentfulPaint": 6300,
+    "timeToInteractive": 2562,
+    "totalBlockingTime": 2,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crosshavenboatyard",
+      "url": "http://crosshavenboatyard.com",
+      "originalURL": "crosshavenboatyard.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.36,
+    "seo": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2487,
+    "speedIndex": 2692.620170787901,
+    "largestContentfulPaint": 6300,
+    "timeToInteractive": 2487,
+    "totalBlockingTime": 17,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "crosshavenboatyard",
+      "url": "http://crosshavenboatyard.com",
+      "originalURL": "crosshavenboatyard.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.36,
+    "seo": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2604,
+    "speedIndex": 2604,
+    "largestContentfulPaint": 6300,
+    "timeToInteractive": 2604,
+    "totalBlockingTime": 16,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accesscu",
+      "url": "http://accesscu.ie",
+      "originalURL": "accesscu.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.65,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7699,
+    "speedIndex": 7925.37565069605,
+    "largestContentfulPaint": 10391.5,
+    "timeToInteractive": 11551,
+    "totalBlockingTime": 395.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accesscu",
+      "url": "http://accesscu.ie",
+      "originalURL": "accesscu.ie"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.65,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7618,
+    "speedIndex": 8153.244890988901,
+    "largestContentfulPaint": 10344,
+    "timeToInteractive": 11494.5,
+    "totalBlockingTime": 328.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accesscu",
+      "url": "http://accesscu.ie",
+      "originalURL": "accesscu.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.65,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7602,
+    "speedIndex": 7967.845548455598,
+    "largestContentfulPaint": 10336.5,
+    "timeToInteractive": 11579,
+    "totalBlockingTime": 391,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accesscu",
+      "url": "http://accesscu.ie",
+      "originalURL": "accesscu.ie"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.65,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7698,
+    "speedIndex": 8533.088058093283,
+    "largestContentfulPaint": 10366.5,
+    "timeToInteractive": 11743,
+    "totalBlockingTime": 428.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "accesscu",
+      "url": "http://accesscu.ie",
+      "originalURL": "accesscu.ie"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.65,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7655,
+    "speedIndex": 8061.271091156163,
+    "largestContentfulPaint": 10369.5,
+    "timeToInteractive": 11730.5,
+    "totalBlockingTime": 443.5,
+    "cumulativeLayoutShift": 0
+  }
+]

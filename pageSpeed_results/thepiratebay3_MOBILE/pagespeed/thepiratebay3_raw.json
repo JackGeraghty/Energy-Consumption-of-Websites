@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thepiratebay3",
+      "url": "http://thepiratebay3.to",
+      "originalURL": "thepiratebay3.to"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3690,
+    "speedIndex": 4094.80385144087,
+    "largestContentfulPaint": 4501,
+    "timeToInteractive": 5557,
+    "totalBlockingTime": 86,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thepiratebay3",
+      "url": "http://thepiratebay3.to",
+      "originalURL": "thepiratebay3.to"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2676,
+    "speedIndex": 3780.0958393911633,
+    "largestContentfulPaint": 3738,
+    "timeToInteractive": 5892,
+    "totalBlockingTime": 371,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thepiratebay3",
+      "url": "http://thepiratebay3.to",
+      "originalURL": "thepiratebay3.to"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 2677,
+    "speedIndex": 3390.242549157572,
+    "largestContentfulPaint": 4716,
+    "timeToInteractive": 6061,
+    "totalBlockingTime": 430.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thepiratebay3",
+      "url": "http://thepiratebay3.to",
+      "originalURL": "thepiratebay3.to"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3711,
+    "speedIndex": 3711,
+    "largestContentfulPaint": 4524,
+    "timeToInteractive": 5583,
+    "totalBlockingTime": 62,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thepiratebay3",
+      "url": "http://thepiratebay3.to",
+      "originalURL": "thepiratebay3.to"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.33,
+    "seo": 0.8,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3797,
+    "speedIndex": 4044.0973509315977,
+    "largestContentfulPaint": 4640,
+    "timeToInteractive": 6018,
+    "totalBlockingTime": 284.5,
+    "cumulativeLayoutShift": 0
+  }
+]

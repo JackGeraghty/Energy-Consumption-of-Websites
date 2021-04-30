@@ -1,0 +1,228 @@
+[
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 27533,
+    "decodedBodySize": 62066,
+    "transferSize": 30081,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2740,
+        1969,
+        4383,
+        0.113084
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2992,
+        2022,
+        5789,
+        0.113084
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5262,
+        4560,
+        4560,
+        0.113084
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19027,
+        18980,
+        47332,
+        0.113084
+      ],
+      [
+        "https://www.google-analytics.com/j/collect?v=1&_v=j88&a=630554704&t=pageview&_s=1&dl=http%3A%2F%2Fwww.twavtv.com%2Fvalidate_age.php&ul=en-gb&de=UTF-8&dt=%E6%AD%A3%E5%A6%B9%E8%AB%96%E5%A3%87%EF%BC%8D%E6%88%90%E5%B9%B4%E4%BA%BA%E7%A2%BA%E8%AA%8D&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=AACAAEABAAAAAC~&jid=&gjid=&cid=1536152335.1613580550&tid=UA-9416685-1&_gid=2105845435.1613580550&_slc=1&z=1555467732",
+        60,
+        2,
+        2,
+        0.113084
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30038,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2742,
+        1969,
+        4383,
+        0.100843
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2998,
+        2022,
+        5789,
+        0.100843
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5271,
+        4560,
+        4560,
+        0.100843
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19027,
+        18980,
+        47332,
+        0.100843
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 27533,
+    "decodedBodySize": 62066,
+    "transferSize": 30069,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2742,
+        1969,
+        4383,
+        0.100409
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2992,
+        2022,
+        5789,
+        0.100409
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5275,
+        4560,
+        4560,
+        0.100409
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19023,
+        18980,
+        47332,
+        0.100409
+      ],
+      [
+        "https://www.google-analytics.com/j/collect?v=1&_v=j88&a=1596414139&t=pageview&_s=1&dl=http%3A%2F%2Fwww.twavtv.com%2Fvalidate_age.php&ul=en-gb&de=UTF-8&dt=%E6%AD%A3%E5%A6%B9%E8%AB%96%E5%A3%87%EF%BC%8D%E6%88%90%E5%B9%B4%E4%BA%BA%E7%A2%BA%E8%AA%8D&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=AACAAEABAAAAAC~&jid=&gjid=&cid=1330924805.1613580554&tid=UA-9416685-1&_gid=113842707.1613580554&_slc=1&z=1035973844",
+        37,
+        2,
+        2,
+        0.100409
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 27533,
+    "decodedBodySize": 62066,
+    "transferSize": 30079,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2748,
+        1969,
+        4383,
+        0.102057
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        3000,
+        2022,
+        5789,
+        0.102057
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5271,
+        4560,
+        4560,
+        0.102057
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19023,
+        18980,
+        47332,
+        0.102057
+      ],
+      [
+        "https://www.google-analytics.com/j/collect?v=1&_v=j88&a=1079361601&t=pageview&_s=1&dl=http%3A%2F%2Fwww.twavtv.com%2Fvalidate_age.php&ul=en-gb&de=UTF-8&dt=%E6%AD%A3%E5%A6%B9%E8%AB%96%E5%A3%87%EF%BC%8D%E6%88%90%E5%B9%B4%E4%BA%BA%E7%A2%BA%E8%AA%8D&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=AACAAEABAAAAAC~&jid=&gjid=&cid=318403771.1613580556&tid=UA-9416685-1&_gid=234153305.1613580556&_slc=1&z=590014984",
+        37,
+        2,
+        2,
+        0.102057
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 27531,
+    "decodedBodySize": 62064,
+    "transferSize": 30037,
+    "resourcesList": [
+      [
+        "http://www.twavtv.com/validate_age.php",
+        2751,
+        1969,
+        4383,
+        0.100635
+      ],
+      [
+        "http://www.twavtv.com/cdn-cgi/apps/head/fMtoIjH_OY2FFpJsK-TmtzSCEE0.js",
+        2996,
+        2022,
+        5789,
+        0.100635
+      ],
+      [
+        "http://www.twavtv.com/images/ticrf_r_red_n.gif",
+        5267,
+        4560,
+        4560,
+        0.100635
+      ],
+      [
+        "http://www.google-analytics.com/analytics.js",
+        19023,
+        18980,
+        47332,
+        0.100635
+      ]
+    ]
+  }
+]

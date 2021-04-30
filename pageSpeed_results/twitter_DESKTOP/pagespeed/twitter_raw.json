@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.93,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 810,
+    "speedIndex": 940.6667291975118,
+    "largestContentfulPaint": 2020,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.93,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1090,
+    "speedIndex": 1119.2598416644732,
+    "largestContentfulPaint": 2180,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.93,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1050,
+    "speedIndex": 1142.1092871503035,
+    "largestContentfulPaint": 2000,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.93,
+    "seo": 1,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 690,
+    "speedIndex": 1004.1233256489434,
+    "largestContentfulPaint": 2000,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.93,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 810,
+    "speedIndex": 1071.1120571505228,
+    "largestContentfulPaint": 2200,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "numSamples": 5,
+  "performance": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.30400000000000005
+      ],
+      [
+        "variance",
+        0.0006639999999999999
+      ],
+      [
+        "stddev",
+        0.02576819745345025
+      ]
+    ]
+  },
+  "progressiveWebApp": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.52
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "seo": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.82
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "accessibility": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.85
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "bestPractices": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.71
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "firstContentfulPaint": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1028.1920087929007
+      ],
+      [
+        "variance",
+        22904.93208734268
+      ],
+      [
+        "stddev",
+        151.34375470214383
+      ]
+    ]
+  },
+  "speedIndex": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        3344.820787397769
+      ],
+      [
+        "variance",
+        58577.51519589026
+      ],
+      [
+        "stddev",
+        242.02792234758834
+      ]
+    ]
+  },
+  "largestContentfulPaint": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        2651.1223506706015
+      ],
+      [
+        "variance",
+        25046.97758202623
+      ],
+      [
+        "stddev",
+        158.2623694439908
+      ]
+    ]
+  },
+  "timeToInteractive": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        8374.47582985232
+      ],
+      [
+        "variance",
+        153521.19794221487
+      ],
+      [
+        "stddev",
+        391.81781218088446
+      ]
+    ]
+  },
+  "totalBlockingTime": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1286.3318605976879
+      ],
+      [
+        "variance",
+        62053.63111781884
+      ],
+      [
+        "stddev",
+        249.10566255671276
+      ]
+    ]
+  },
+  "cumulativeLayoutShift": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.3551838573388203
+      ],
+      [
+        "variance",
+        0.017721931058373695
+      ],
+      [
+        "stddev",
+        0.13312374340580155
+      ]
+    ]
+  }
+}

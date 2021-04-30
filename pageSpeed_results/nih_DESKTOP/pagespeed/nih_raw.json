@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nih",
+      "url": "http://nih.gov",
+      "originalURL": "nih.gov"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1345,
+    "speedIndex": 2245.95025928206,
+    "largestContentfulPaint": 2415.5,
+    "timeToInteractive": 2189,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0.2356973084668593
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nih",
+      "url": "http://nih.gov",
+      "originalURL": "nih.gov"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.97,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1341,
+    "speedIndex": 1527.176211401848,
+    "largestContentfulPaint": 2573,
+    "timeToInteractive": 1341,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.23210333946239384
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nih",
+      "url": "http://nih.gov",
+      "originalURL": "nih.gov"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1334,
+    "speedIndex": 1434.613844974182,
+    "largestContentfulPaint": 2405,
+    "timeToInteractive": 1383,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.23210333946239384
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nih",
+      "url": "http://nih.gov",
+      "originalURL": "nih.gov"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1335.5,
+    "speedIndex": 1471.4209605408123,
+    "largestContentfulPaint": 2412,
+    "timeToInteractive": 1384,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.23210333946239384
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nih",
+      "url": "http://nih.gov",
+      "originalURL": "nih.gov"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.48,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1331.5,
+    "speedIndex": 1428.5449330050333,
+    "largestContentfulPaint": 2424.5,
+    "timeToInteractive": 1412,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.23007959723316695
+  }
+]

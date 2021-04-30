@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "inosmi",
+      "url": "http://inosmi.ru",
+      "originalURL": "inosmi.ru"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.47,
+    "firstContentfulPaint": 7170,
+    "speedIndex": 15745.325394293737,
+    "largestContentfulPaint": 11922,
+    "timeToInteractive": 33191,
+    "totalBlockingTime": 1912,
+    "cumulativeLayoutShift": 0.1391592339409722
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "inosmi",
+      "url": "http://inosmi.ru",
+      "originalURL": "inosmi.ru"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.47,
+    "firstContentfulPaint": 7320,
+    "speedIndex": 10478.693719771229,
+    "largestContentfulPaint": 11628,
+    "timeToInteractive": 30273.5,
+    "totalBlockingTime": 1820.5,
+    "cumulativeLayoutShift": 0.009756537543402777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "inosmi",
+      "url": "http://inosmi.ru",
+      "originalURL": "inosmi.ru"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.47,
+    "firstContentfulPaint": 7978,
+    "speedIndex": 10553.29094515459,
+    "largestContentfulPaint": 11605,
+    "timeToInteractive": 31151,
+    "totalBlockingTime": 1759,
+    "cumulativeLayoutShift": 0.009756537543402777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "inosmi",
+      "url": "http://inosmi.ru",
+      "originalURL": "inosmi.ru"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.85,
+    "bestPractices": 0.47,
+    "firstContentfulPaint": 6849,
+    "speedIndex": 13082.827502995964,
+    "largestContentfulPaint": 11070,
+    "timeToInteractive": 28893,
+    "totalBlockingTime": 1351,
+    "cumulativeLayoutShift": 0.009764702690972222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "inosmi",
+      "url": "http://inosmi.ru",
+      "originalURL": "inosmi.ru"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.67,
+    "seo": 0.92,
+    "accessibility": 0.83,
+    "bestPractices": 0.47,
+    "firstContentfulPaint": 6870,
+    "speedIndex": 9462.248882736385,
+    "largestContentfulPaint": 11425.5,
+    "timeToInteractive": 29441,
+    "totalBlockingTime": 1398,
+    "cumulativeLayoutShift": 0.009756537543402777
+  }
+]

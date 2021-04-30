@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "microsoft",
+      "url": "http://microsoft.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 891,
+    "speedIndex": 1156.0573759457714,
+    "largestContentfulPaint": 1348,
+    "timeToInteractive": 1260.5,
+    "totalBlockingTime": 0.5,
+    "cumulativeLayoutShift": 0.053100077051046315
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "microsoft",
+      "url": "http://microsoft.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 878,
+    "speedIndex": 1097.790105311728,
+    "largestContentfulPaint": 1360,
+    "timeToInteractive": 1172.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.053100077051046315
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "microsoft",
+      "url": "http://microsoft.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 887,
+    "speedIndex": 1128.1563142726602,
+    "largestContentfulPaint": 1427.5,
+    "timeToInteractive": 1173.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.053100077051046315
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "microsoft",
+      "url": "http://microsoft.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 889,
+    "speedIndex": 1004.6216340037399,
+    "largestContentfulPaint": 1368,
+    "timeToInteractive": 1173,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.053100077051046315
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "microsoft",
+      "url": "http://microsoft.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 888,
+    "speedIndex": 1171.6776659657376,
+    "largestContentfulPaint": 1258,
+    "timeToInteractive": 1083,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.053100077051046315
+  }
+]

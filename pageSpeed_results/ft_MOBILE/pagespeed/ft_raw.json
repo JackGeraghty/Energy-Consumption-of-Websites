@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ft",
+      "url": "http://ft.com",
+      "originalURL": "ft.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7440,
+    "speedIndex": 8475.808108859248,
+    "largestContentfulPaint": 8910,
+    "timeToInteractive": 12047,
+    "totalBlockingTime": 448,
+    "cumulativeLayoutShift": 0.25420849609374996
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ft",
+      "url": "http://ft.com",
+      "originalURL": "ft.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7440,
+    "speedIndex": 8619.801519025692,
+    "largestContentfulPaint": 9075,
+    "timeToInteractive": 12007,
+    "totalBlockingTime": 335.5,
+    "cumulativeLayoutShift": 0.2554248046875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ft",
+      "url": "http://ft.com",
+      "originalURL": "ft.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7440,
+    "speedIndex": 8445.838566886747,
+    "largestContentfulPaint": 9300,
+    "timeToInteractive": 12091,
+    "totalBlockingTime": 415.5,
+    "cumulativeLayoutShift": 0.25420849609374996
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ft",
+      "url": "http://ft.com",
+      "originalURL": "ft.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7440,
+    "speedIndex": 8657.177577721624,
+    "largestContentfulPaint": 8910,
+    "timeToInteractive": 11993,
+    "totalBlockingTime": 472.5,
+    "cumulativeLayoutShift": 0.25420849609374996
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ft",
+      "url": "http://ft.com",
+      "originalURL": "ft.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.25,
+    "seo": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 7440,
+    "speedIndex": 8342.846019870907,
+    "largestContentfulPaint": 8985,
+    "timeToInteractive": 12027,
+    "totalBlockingTime": 373.5,
+    "cumulativeLayoutShift": 0.25664111328125
+  }
+]

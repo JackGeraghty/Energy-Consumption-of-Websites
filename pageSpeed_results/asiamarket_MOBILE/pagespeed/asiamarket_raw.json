@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asiamarket",
+      "url": "http://asiamarket.ie",
+      "originalURL": "asiamarket.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5890,
+    "speedIndex": 14895.352514393733,
+    "largestContentfulPaint": 7215,
+    "timeToInteractive": 42537.5,
+    "totalBlockingTime": 1678.5,
+    "cumulativeLayoutShift": 0.009420410156250001
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asiamarket",
+      "url": "http://asiamarket.ie",
+      "originalURL": "asiamarket.ie"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5915,
+    "speedIndex": 16668.463671675825,
+    "largestContentfulPaint": 14175,
+    "timeToInteractive": 43005.5,
+    "totalBlockingTime": 2311,
+    "cumulativeLayoutShift": 0.00862646484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asiamarket",
+      "url": "http://asiamarket.ie",
+      "originalURL": "asiamarket.ie"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5985,
+    "speedIndex": 17923.90887668659,
+    "largestContentfulPaint": 14340,
+    "timeToInteractive": 42860.5,
+    "totalBlockingTime": 2000,
+    "cumulativeLayoutShift": 0.008759765625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asiamarket",
+      "url": "http://asiamarket.ie",
+      "originalURL": "asiamarket.ie"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5900,
+    "speedIndex": 18425.43591214429,
+    "largestContentfulPaint": 14250,
+    "timeToInteractive": 42690,
+    "totalBlockingTime": 1854.5,
+    "cumulativeLayoutShift": 0.00862646484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "asiamarket",
+      "url": "http://asiamarket.ie",
+      "originalURL": "asiamarket.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.88,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 5911,
+    "speedIndex": 18288.293848517384,
+    "largestContentfulPaint": 14250,
+    "timeToInteractive": 42884,
+    "totalBlockingTime": 2288,
+    "cumulativeLayoutShift": 0.11996679687499999
+  }
+]

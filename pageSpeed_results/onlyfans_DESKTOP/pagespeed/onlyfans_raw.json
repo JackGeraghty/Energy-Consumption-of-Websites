@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onlyfans",
+      "url": "http://onlyfans.com",
+      "originalURL": "onlyfans.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.33,
+    "seo": 1,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 2765.5997114848215,
+    "largestContentfulPaint": 3359,
+    "timeToInteractive": 4212,
+    "totalBlockingTime": 864,
+    "cumulativeLayoutShift": 0.0002766903073286052
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onlyfans",
+      "url": "http://onlyfans.com",
+      "originalURL": "onlyfans.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.33,
+    "seo": 1,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 2821.3902435682194,
+    "largestContentfulPaint": 3319,
+    "timeToInteractive": 4082.5,
+    "totalBlockingTime": 727.5,
+    "cumulativeLayoutShift": 0.0002766903073286052
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onlyfans",
+      "url": "http://onlyfans.com",
+      "originalURL": "onlyfans.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.33,
+    "seo": 1,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 2537.2783562424565,
+    "largestContentfulPaint": 3344,
+    "timeToInteractive": 4087,
+    "totalBlockingTime": 784,
+    "cumulativeLayoutShift": 0.0002766903073286052
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onlyfans",
+      "url": "http://onlyfans.com",
+      "originalURL": "onlyfans.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.33,
+    "seo": 1,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 2732.3532070243136,
+    "largestContentfulPaint": 3572,
+    "timeToInteractive": 4333,
+    "totalBlockingTime": 1100,
+    "cumulativeLayoutShift": 0.0002766903073286052
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "onlyfans",
+      "url": "http://onlyfans.com",
+      "originalURL": "onlyfans.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.33,
+    "seo": 1,
+    "accessibility": 0.75,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 730,
+    "speedIndex": 2521.1888124039806,
+    "largestContentfulPaint": 3321,
+    "timeToInteractive": 4077.5,
+    "totalBlockingTime": 704.5,
+    "cumulativeLayoutShift": 0.0002766903073286052
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2033,
+    "speedIndex": 3227.234547767389,
+    "largestContentfulPaint": 2641,
+    "timeToInteractive": 2152,
+    "totalBlockingTime": 150,
+    "cumulativeLayoutShift": 0.0007829460350815749
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1526,
+    "speedIndex": 2183.4833402636427,
+    "largestContentfulPaint": 2865,
+    "timeToInteractive": 2158.5,
+    "totalBlockingTime": 92,
+    "cumulativeLayoutShift": 0.0007829460350815749
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1560.5,
+    "speedIndex": 2302.5537848823924,
+    "largestContentfulPaint": 2900,
+    "timeToInteractive": 2043,
+    "totalBlockingTime": 121,
+    "cumulativeLayoutShift": 0.0006965087703937192
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1525,
+    "speedIndex": 2078.460246053548,
+    "largestContentfulPaint": 2865,
+    "timeToInteractive": 2155.5,
+    "totalBlockingTime": 89.5,
+    "cumulativeLayoutShift": 0.0006965087703937192
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.44,
+    "seo": 0.83,
+    "accessibility": 0.75,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1560.5,
+    "speedIndex": 2018.5675714114427,
+    "largestContentfulPaint": 2775,
+    "timeToInteractive": 2026.5,
+    "totalBlockingTime": 121.5,
+    "cumulativeLayoutShift": 0.0007829460350815749
+  }
+]

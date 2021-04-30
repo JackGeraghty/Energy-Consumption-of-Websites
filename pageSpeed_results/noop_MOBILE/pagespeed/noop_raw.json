@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.29,
+    "seo": 0.67,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 654,
+    "speedIndex": 654,
+    "largestContentfulPaint": 654,
+    "timeToInteractive": 654,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.29,
+    "seo": 0.67,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 663,
+    "speedIndex": 663,
+    "largestContentfulPaint": 663,
+    "timeToInteractive": 663,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.29,
+    "seo": 0.67,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 668,
+    "speedIndex": 668,
+    "largestContentfulPaint": 668,
+    "timeToInteractive": 668,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.29,
+    "seo": 0.67,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 700,
+    "speedIndex": 700,
+    "largestContentfulPaint": 700,
+    "timeToInteractive": 700,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.29,
+    "seo": 0.67,
+    "accessibility": 0.9,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 658,
+    "speedIndex": 658,
+    "largestContentfulPaint": 658,
+    "timeToInteractive": 658,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hse",
+      "url": "http://hse.ie",
+      "originalURL": "hse.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1380,
+    "speedIndex": 1426.6666177177062,
+    "largestContentfulPaint": 2355,
+    "timeToInteractive": 1628.5,
+    "totalBlockingTime": 26.5,
+    "cumulativeLayoutShift": 0.04026538831976184
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hse",
+      "url": "http://hse.ie",
+      "originalURL": "hse.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1388,
+    "speedIndex": 1388,
+    "largestContentfulPaint": 2330,
+    "timeToInteractive": 1445.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.04026538831976184
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hse",
+      "url": "http://hse.ie",
+      "originalURL": "hse.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1446,
+    "speedIndex": 2048.0326805995364,
+    "largestContentfulPaint": 2773,
+    "timeToInteractive": 2416.5,
+    "totalBlockingTime": 461.5,
+    "cumulativeLayoutShift": 0.04198116452149549
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hse",
+      "url": "http://hse.ie",
+      "originalURL": "hse.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1404,
+    "speedIndex": 1404,
+    "largestContentfulPaint": 2375,
+    "timeToInteractive": 1517,
+    "totalBlockingTime": 7,
+    "cumulativeLayoutShift": 0.04026538831976184
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hse",
+      "url": "http://hse.ie",
+      "originalURL": "hse.ie"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.78,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1397,
+    "speedIndex": 1397,
+    "largestContentfulPaint": 3290,
+    "timeToInteractive": 1660.5,
+    "totalBlockingTime": 7,
+    "cumulativeLayoutShift": 0.23551361527011644
+  }
+]

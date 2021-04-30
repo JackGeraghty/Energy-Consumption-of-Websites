@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1356,
+    "speedIndex": 3500.088155064698,
+    "largestContentfulPaint": 2035,
+    "timeToInteractive": 3225,
+    "totalBlockingTime": 114.5,
+    "cumulativeLayoutShift": 0.021249304497562967
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 0.67,
+    "accessibility": 0.76,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1282.5,
+    "speedIndex": 3189.495972322903,
+    "largestContentfulPaint": 4987.5,
+    "timeToInteractive": 3884.5,
+    "totalBlockingTime": 103,
+    "cumulativeLayoutShift": 0.014078393602428275
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1314,
+    "speedIndex": 2142.992513275322,
+    "largestContentfulPaint": 2415,
+    "timeToInteractive": 3263,
+    "totalBlockingTime": 57,
+    "cumulativeLayoutShift": 0.021249304497562967
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1321.5,
+    "speedIndex": 2161.1232571806004,
+    "largestContentfulPaint": 2380,
+    "timeToInteractive": 3261.5,
+    "totalBlockingTime": 87,
+    "cumulativeLayoutShift": 0.021249304497562967
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "logmein",
+      "url": "http://logmein.com",
+      "originalURL": "logmein.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1315.5,
+    "speedIndex": 2039.5557317267185,
+    "largestContentfulPaint": 2475,
+    "timeToInteractive": 3357.5,
+    "totalBlockingTime": 206.5,
+    "cumulativeLayoutShift": 0.021249304497562967
+  }
+]

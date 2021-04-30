@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ikea",
+      "url": "http://ikea.com",
+      "originalURL": "ikea.com"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2729,
+    "speedIndex": 4009.9804109309134,
+    "largestContentfulPaint": 19560,
+    "timeToInteractive": 5293.5,
+    "totalBlockingTime": 981.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ikea",
+      "url": "http://ikea.com",
+      "originalURL": "ikea.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2725,
+    "speedIndex": 3502.2138310900946,
+    "largestContentfulPaint": 21750,
+    "timeToInteractive": 5252.5,
+    "totalBlockingTime": 1048,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ikea",
+      "url": "http://ikea.com",
+      "originalURL": "ikea.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2733,
+    "speedIndex": 3586.8122257544956,
+    "largestContentfulPaint": 21825,
+    "timeToInteractive": 5078,
+    "totalBlockingTime": 717,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ikea",
+      "url": "http://ikea.com",
+      "originalURL": "ikea.com"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2732,
+    "speedIndex": 3443.9315733540243,
+    "largestContentfulPaint": 21360,
+    "timeToInteractive": 4892.5,
+    "totalBlockingTime": 192.5,
+    "cumulativeLayoutShift": 0.0007463243272569444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ikea",
+      "url": "http://ikea.com",
+      "originalURL": "ikea.com"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.54,
+    "seo": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 2723.5,
+    "speedIndex": 3850.521535497787,
+    "largestContentfulPaint": 22050,
+    "timeToInteractive": 5129,
+    "totalBlockingTime": 889,
+    "cumulativeLayoutShift": 0.0011125352647569444
+  }
+]

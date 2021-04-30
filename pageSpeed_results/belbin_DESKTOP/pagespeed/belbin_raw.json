@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "belbin",
+      "url": "http://belbin.com",
+      "originalURL": "belbin.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 868.5,
+    "speedIndex": 2424.6865172685684,
+    "largestContentfulPaint": 2073,
+    "timeToInteractive": 4711.5,
+    "totalBlockingTime": 855,
+    "cumulativeLayoutShift": 0.001648053001780346
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "belbin",
+      "url": "http://belbin.com",
+      "originalURL": "belbin.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 854.5,
+    "speedIndex": 2284.2698098143956,
+    "largestContentfulPaint": 2066.5,
+    "timeToInteractive": 4506.5,
+    "totalBlockingTime": 603,
+    "cumulativeLayoutShift": 0.0016706768233954992
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "belbin",
+      "url": "http://belbin.com",
+      "originalURL": "belbin.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 852,
+    "speedIndex": 2437.1115577348514,
+    "largestContentfulPaint": 2030,
+    "timeToInteractive": 4468.5,
+    "totalBlockingTime": 565,
+    "cumulativeLayoutShift": 0.0016706768233954992
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "belbin",
+      "url": "http://belbin.com",
+      "originalURL": "belbin.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 851.5,
+    "speedIndex": 2184.8515154869,
+    "largestContentfulPaint": 2165.5,
+    "timeToInteractive": 4218,
+    "totalBlockingTime": 424,
+    "cumulativeLayoutShift": 0.0016706768233954992
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "belbin",
+      "url": "http://belbin.com",
+      "originalURL": "belbin.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 852.5,
+    "speedIndex": 2221.199641678952,
+    "largestContentfulPaint": 2070.5,
+    "timeToInteractive": 4258,
+    "totalBlockingTime": 480.5,
+    "cumulativeLayoutShift": 0.0016706768233954992
+  }
+]

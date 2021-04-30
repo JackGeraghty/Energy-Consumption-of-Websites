@@ -1,0 +1,382 @@
+[
+  {
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "numTransferred": 11,
+    "encodedBodySize": 155979,
+    "decodedBodySize": 487672,
+    "transferSize": 161469,
+    "resourcesList": [
+      [
+        "http://blastcahs.com/",
+        8901,
+        8532,
+        14097,
+        0.08666
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=AW-934979653",
+        39620,
+        39124,
+        99314,
+        0.08666
+      ],
+      [
+        "https://connect.facebook.net/en_US/fbevents.js",
+        24596,
+        23762,
+        93376,
+        0.08666
+      ],
+      [
+        "https://connect.facebook.net/signals/config/1236088583213902?v=2.9.33&r=stable",
+        71835,
+        71051,
+        247038,
+        0.08666
+      ],
+      [
+        "https://www.googleadservices.com/pagead/conversion_async.js",
+        13111,
+        12360,
+        31535,
+        0.08666
+      ],
+      [
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934979653/?random=1613577933219&cv=9&fst=1613577933219&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4",
+        1892,
+        1022,
+        2184,
+        0.08666
+      ],
+      [
+        "https://www.google.com/pagead/1p-user-list/934979653/?random=1613577933219&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=3428039114&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+        544,
+        42,
+        42,
+        0.08666
+      ],
+      [
+        "https://www.google.ie/pagead/1p-user-list/934979653/?random=1613577933219&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=3428039114&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+        544,
+        42,
+        42,
+        0.08666
+      ],
+      [
+        "https://www.facebook.com/tr/?id=1236088583213902&ev=PageView&dl=http%3A%2F%2Fblastcahs.com%2F&rl=&if=false&ts=1613577933301&sw=800&sh=600&v=2.9.33&r=stable&ec=0&o=158&fbp=fb.1.1613577933299.1456134988&it=1613577933155&coo=false&rqm=GET",
+        426,
+        44,
+        44,
+        0.08666
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "numTransferred": 11,
+    "encodedBodySize": 155980,
+    "decodedBodySize": 487672,
+    "transferSize": 161457,
+    "resourcesList": [
+      [
+        "http://blastcahs.com/",
+        8901,
+        8532,
+        14097,
+        0.086372
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=AW-934979653",
+        39619,
+        39123,
+        99314,
+        0.086372
+      ],
+      [
+        "https://connect.facebook.net/en_US/fbevents.js",
+        24596,
+        23762,
+        93376,
+        0.086372
+      ],
+      [
+        "https://connect.facebook.net/signals/config/1236088583213902?v=2.9.33&r=stable",
+        71823,
+        71051,
+        247038,
+        0.086372
+      ],
+      [
+        "https://www.googleadservices.com/pagead/conversion_async.js",
+        13111,
+        12360,
+        31535,
+        0.086372
+      ],
+      [
+        "https://www.facebook.com/tr/?id=1236088583213902&ev=PageView&dl=http%3A%2F%2Fblastcahs.com%2F&rl=&if=false&ts=1613577933830&sw=800&sh=600&v=2.9.33&r=stable&ec=0&o=158&fbp=fb.1.1613577933828.1115538716&it=1613577933782&coo=false&rqm=GET",
+        425,
+        44,
+        44,
+        0.086372
+      ],
+      [
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934979653/?random=1613577933850&cv=9&fst=1613577933850&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4",
+        1894,
+        1024,
+        2184,
+        0.086372
+      ],
+      [
+        "https://www.google.com/pagead/1p-user-list/934979653/?random=1613577933850&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=4222346089&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+        544,
+        42,
+        42,
+        0.086372
+      ],
+      [
+        "https://www.google.ie/pagead/1p-user-list/934979653/?random=1613577933850&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=4222346089&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+        544,
+        42,
+        42,
+        0.086372
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "numTransferred": 11,
+    "encodedBodySize": 155975,
+    "decodedBodySize": 487672,
+    "transferSize": 161453,
+    "resourcesList": [
+      [
+        "http://blastcahs.com/",
+        8901,
+        8532,
+        14097,
+        0.086569
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=AW-934979653",
+        39620,
+        39124,
+        99314,
+        0.086569
+      ],
+      [
+        "https://connect.facebook.net/en_US/fbevents.js",
+        24596,
+        23762,
+        93376,
+        0.086569
+      ],
+      [
+        "https://connect.facebook.net/signals/config/1236088583213902?v=2.9.33&r=stable",
+        71823,
+        71051,
+        247038,
+        0.086569
+      ],
+      [
+        "https://www.googleadservices.com/pagead/conversion_async.js",
+        13111,
+        12360,
+        31535,
+        0.086569
+      ],
+      [
+        "https://www.facebook.com/tr/?id=1236088583213902&ev=PageView&dl=http%3A%2F%2Fblastcahs.com%2F&rl=&if=false&ts=1613577934406&sw=800&sh=600&v=2.9.33&r=stable&ec=0&o=158&fbp=fb.1.1613577934404.542779972&it=1613577934355&coo=false&rqm=GET",
+        426,
+        44,
+        44,
+        0.086569
+      ],
+      [
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934979653/?random=1613577934418&cv=9&fst=1613577934418&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4",
+        1888,
+        1018,
+        2184,
+        0.086569
+      ],
+      [
+        "https://www.google.com/pagead/1p-user-list/934979653/?random=1613577934418&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=3495471637&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+        544,
+        42,
+        42,
+        0.086569
+      ],
+      [
+        "https://www.google.ie/pagead/1p-user-list/934979653/?random=1613577934418&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=3495471637&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+        544,
+        42,
+        42,
+        0.086569
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "numTransferred": 11,
+    "encodedBodySize": 155980,
+    "decodedBodySize": 487672,
+    "transferSize": 161458,
+    "resourcesList": [
+      [
+        "http://blastcahs.com/",
+        8901,
+        8532,
+        14097,
+        0.139464
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=AW-934979653",
+        39619,
+        39123,
+        99314,
+        0.139464
+      ],
+      [
+        "https://connect.facebook.net/en_US/fbevents.js",
+        24596,
+        23762,
+        93376,
+        0.139464
+      ],
+      [
+        "https://connect.facebook.net/signals/config/1236088583213902?v=2.9.33&r=stable",
+        71823,
+        71051,
+        247038,
+        0.139464
+      ],
+      [
+        "https://www.googleadservices.com/pagead/conversion_async.js",
+        13111,
+        12360,
+        31535,
+        0.139464
+      ],
+      [
+        "https://www.facebook.com/tr/?id=1236088583213902&ev=PageView&dl=http%3A%2F%2Fblastcahs.com%2F&rl=&if=false&ts=1613577935029&sw=800&sh=600&v=2.9.33&r=stable&ec=0&o=158&fbp=fb.1.1613577935028.1866467109&it=1613577934936&coo=false&rqm=GET",
+        426,
+        44,
+        44,
+        0.139464
+      ],
+      [
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934979653/?random=1613577935041&cv=9&fst=1613577935041&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4",
+        1894,
+        1024,
+        2184,
+        0.139464
+      ],
+      [
+        "https://www.google.com/pagead/1p-user-list/934979653/?random=1613577935041&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=4121255195&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+        544,
+        42,
+        42,
+        0.139464
+      ],
+      [
+        "https://www.google.ie/pagead/1p-user-list/934979653/?random=1613577935041&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=4121255195&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+        544,
+        42,
+        42,
+        0.139464
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "blastcahs",
+      "url": "http://blastcahs.com",
+      "originalURL": "blastcahs.com"
+    },
+    "numTransferred": 11,
+    "encodedBodySize": 155978,
+    "decodedBodySize": 487672,
+    "transferSize": 161455,
+    "resourcesList": [
+      [
+        "http://blastcahs.com/",
+        8901,
+        8532,
+        14097,
+        0.086438
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=AW-934979653",
+        39619,
+        39123,
+        99314,
+        0.086438
+      ],
+      [
+        "https://connect.facebook.net/en_US/fbevents.js",
+        24596,
+        23762,
+        93376,
+        0.086438
+      ],
+      [
+        "https://connect.facebook.net/signals/config/1236088583213902?v=2.9.33&r=stable",
+        71823,
+        71051,
+        247038,
+        0.086438
+      ],
+      [
+        "https://www.googleadservices.com/pagead/conversion_async.js",
+        13111,
+        12360,
+        31535,
+        0.086438
+      ],
+      [
+        "https://www.facebook.com/tr/?id=1236088583213902&ev=PageView&dl=http%3A%2F%2Fblastcahs.com%2F&rl=&if=false&ts=1613577935602&sw=800&sh=600&v=2.9.33&r=stable&ec=0&o=158&fbp=fb.1.1613577935599.354400812&it=1613577935557&coo=false&rqm=GET",
+        425,
+        44,
+        44,
+        0.086438
+      ],
+      [
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934979653/?random=1613577935614&cv=9&fst=1613577935614&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4",
+        1892,
+        1022,
+        2184,
+        0.086438
+      ],
+      [
+        "https://www.google.com/pagead/1p-user-list/934979653/?random=1613577935614&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=2905504594&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+        544,
+        42,
+        42,
+        0.086438
+      ],
+      [
+        "https://www.google.ie/pagead/1p-user-list/934979653/?random=1613577935614&cv=9&fst=1613577600000&num=1&bg=ffffff&guid=ON&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa230&sendb=1&data=event%3Dgtag.config&frm=0&url=http%3A%2F%2Fblastcahs.com%2F&tiba=Operated%20by%20Clickadu&async=1&fmt=3&is_vtc=1&random=2905504594&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+        544,
+        42,
+        42,
+        0.086438
+      ]
+    ]
+  }
+]

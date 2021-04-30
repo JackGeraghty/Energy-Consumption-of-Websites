@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 15096.5,
+    "speedIndex": 17818.08762912715,
+    "largestContentfulPaint": 17370,
+    "timeToInteractive": 23481,
+    "totalBlockingTime": 2476,
+    "cumulativeLayoutShift": 0.06490743001302084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "performance": 0.06,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 14265,
+    "speedIndex": 16618.420447180084,
+    "largestContentfulPaint": 17670,
+    "timeToInteractive": 22844,
+    "totalBlockingTime": 1853.5,
+    "cumulativeLayoutShift": 0.062691650390625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 11968,
+    "speedIndex": 16461.44971309667,
+    "largestContentfulPaint": 16245,
+    "timeToInteractive": 24570,
+    "totalBlockingTime": 3364.5,
+    "cumulativeLayoutShift": 0.06373870849609375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 12926,
+    "speedIndex": 18792.136124357738,
+    "largestContentfulPaint": 16830.5,
+    "timeToInteractive": 28943.5,
+    "totalBlockingTime": 8395.5,
+    "cumulativeLayoutShift": 0.07052218967013889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tommy",
+      "url": "http://tommy.com",
+      "originalURL": "tommy.com"
+    },
+    "performance": 0.05,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 10922,
+    "speedIndex": 16300.229170656832,
+    "largestContentfulPaint": 16740,
+    "timeToInteractive": 22795.5,
+    "totalBlockingTime": 2796,
+    "cumulativeLayoutShift": 0.062691650390625
+  }
+]

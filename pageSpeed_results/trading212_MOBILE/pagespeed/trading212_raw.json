@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trading212",
+      "url": "http://trading212.com",
+      "originalURL": "trading212.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5719.570332835023,
+    "largestContentfulPaint": 5550,
+    "timeToInteractive": 15686,
+    "totalBlockingTime": 961.5,
+    "cumulativeLayoutShift": 0.15924351671006945
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trading212",
+      "url": "http://trading212.com",
+      "originalURL": "trading212.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5629.964976444114,
+    "largestContentfulPaint": 5550,
+    "timeToInteractive": 15551,
+    "totalBlockingTime": 924.5,
+    "cumulativeLayoutShift": 0.15980504014756947
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trading212",
+      "url": "http://trading212.com",
+      "originalURL": "trading212.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5429.082412079093,
+    "largestContentfulPaint": 5925,
+    "timeToInteractive": 15646,
+    "totalBlockingTime": 1000,
+    "cumulativeLayoutShift": 0.15926793077256945
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trading212",
+      "url": "http://trading212.com",
+      "originalURL": "trading212.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5108.870336978724,
+    "largestContentfulPaint": 5925,
+    "timeToInteractive": 15686,
+    "totalBlockingTime": 1061,
+    "cumulativeLayoutShift": 0.16330574544270834
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trading212",
+      "url": "http://trading212.com",
+      "originalURL": "trading212.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.21,
+    "seo": 0.85,
+    "accessibility": 0.85,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5506.723507392524,
+    "largestContentfulPaint": 5775,
+    "timeToInteractive": 15647,
+    "totalBlockingTime": 888.5,
+    "cumulativeLayoutShift": 0.15880406358506946
+  }
+]

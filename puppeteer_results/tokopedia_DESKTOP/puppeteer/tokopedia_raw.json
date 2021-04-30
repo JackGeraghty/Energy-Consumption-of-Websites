@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "tokopedia",
+      "url": "http://tokopedia.com",
+      "originalURL": "tokopedia.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 266,
+    "decodedBodySize": 266,
+    "transferSize": 1036,
+    "resourcesList": [
+      [
+        "https://www.tokopedia.com/",
+        1036,
+        266,
+        266,
+        0.025429
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tokopedia",
+      "url": "http://tokopedia.com",
+      "originalURL": "tokopedia.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 266,
+    "decodedBodySize": 266,
+    "transferSize": 1042,
+    "resourcesList": [
+      [
+        "https://www.tokopedia.com/",
+        1042,
+        266,
+        266,
+        0.0248
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tokopedia",
+      "url": "http://tokopedia.com",
+      "originalURL": "tokopedia.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 266,
+    "decodedBodySize": 266,
+    "transferSize": 1040,
+    "resourcesList": [
+      [
+        "https://www.tokopedia.com/",
+        1040,
+        266,
+        266,
+        0.025296
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tokopedia",
+      "url": "http://tokopedia.com",
+      "originalURL": "tokopedia.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 266,
+    "decodedBodySize": 266,
+    "transferSize": 1043,
+    "resourcesList": [
+      [
+        "https://www.tokopedia.com/",
+        1043,
+        266,
+        266,
+        0.025154
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "tokopedia",
+      "url": "http://tokopedia.com",
+      "originalURL": "tokopedia.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 266,
+    "decodedBodySize": 266,
+    "transferSize": 1041,
+    "resourcesList": [
+      [
+        "https://www.tokopedia.com/",
+        1041,
+        266,
+        266,
+        0.024964
+      ]
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 707,
+    "decodedBodySize": 1350,
+    "transferSize": 1576,
+    "resourcesList": [
+      [
+        "http://noop.style/",
+        1576,
+        707,
+        1350,
+        0.030307
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 707,
+    "decodedBodySize": 1350,
+    "transferSize": 1577,
+    "resourcesList": [
+      [
+        "http://noop.style/",
+        1577,
+        707,
+        1350,
+        0.02987
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 707,
+    "decodedBodySize": 1350,
+    "transferSize": 1575,
+    "resourcesList": [
+      [
+        "http://noop.style/",
+        1575,
+        707,
+        1350,
+        0.030134
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 707,
+    "decodedBodySize": 1350,
+    "transferSize": 1584,
+    "resourcesList": [
+      [
+        "http://noop.style/",
+        1584,
+        707,
+        1350,
+        0.030306
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "noop",
+      "url": "http://noop.style",
+      "originalURL": "noop.style"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 707,
+    "decodedBodySize": 1350,
+    "transferSize": 1580,
+    "resourcesList": [
+      [
+        "http://noop.style/",
+        1580,
+        707,
+        1350,
+        0.029743
+      ]
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tg4",
+      "url": "http://tg4.ie",
+      "originalURL": "tg4.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4905,
+    "speedIndex": 9202.514454443128,
+    "largestContentfulPaint": 17782,
+    "timeToInteractive": 16381.5,
+    "totalBlockingTime": 1280,
+    "cumulativeLayoutShift": 1.70292724609375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tg4",
+      "url": "http://tg4.ie",
+      "originalURL": "tg4.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4948,
+    "speedIndex": 9494.190818699339,
+    "largestContentfulPaint": 17873.5,
+    "timeToInteractive": 16285.5,
+    "totalBlockingTime": 1237,
+    "cumulativeLayoutShift": 2.3116151665581595
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tg4",
+      "url": "http://tg4.ie",
+      "originalURL": "tg4.ie"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4984,
+    "speedIndex": 10126.394325717261,
+    "largestContentfulPaint": 18064.5,
+    "timeToInteractive": 16616,
+    "totalBlockingTime": 1531,
+    "cumulativeLayoutShift": 2.11547607421875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tg4",
+      "url": "http://tg4.ie",
+      "originalURL": "tg4.ie"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5100.5,
+    "speedIndex": 9880.132390627423,
+    "largestContentfulPaint": 17903,
+    "timeToInteractive": 16496,
+    "totalBlockingTime": 1492,
+    "cumulativeLayoutShift": 2.022681803385417
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tg4",
+      "url": "http://tg4.ie",
+      "originalURL": "tg4.ie"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.9,
+    "accessibility": 0.88,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4932,
+    "speedIndex": 9639.568944562045,
+    "largestContentfulPaint": 17737,
+    "timeToInteractive": 16186.5,
+    "totalBlockingTime": 1137,
+    "cumulativeLayoutShift": 2.05963623046875
+  }
+]

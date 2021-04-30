@@ -1,0 +1,242 @@
+[
+  {
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 643308,
+    "decodedBodySize": 2336255,
+    "transferSize": 646772,
+    "resourcesList": [
+      [
+        "https://mobile.twitter.com/",
+        17230,
+        14877,
+        45919,
+        0.252034
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.e0f21315.js",
+        17014,
+        16637,
+        47894,
+        0.252034
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.dab44ba5.js",
+        154900,
+        154672,
+        465364,
+        0.252034
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en-GB.8f742ab5.js",
+        53313,
+        53162,
+        168625,
+        0.252034
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/main.8eda3e85.js",
+        404315,
+        403960,
+        1608453,
+        0.252034
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 643306,
+    "decodedBodySize": 2336255,
+    "transferSize": 646797,
+    "resourcesList": [
+      [
+        "https://mobile.twitter.com/",
+        17255,
+        14875,
+        45919,
+        0.253101
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.e0f21315.js",
+        17014,
+        16637,
+        47894,
+        0.253101
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.dab44ba5.js",
+        154900,
+        154672,
+        465364,
+        0.253101
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en-GB.8f742ab5.js",
+        53313,
+        53162,
+        168625,
+        0.253101
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/main.8eda3e85.js",
+        404315,
+        403960,
+        1608453,
+        0.253101
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 643352,
+    "decodedBodySize": 2336444,
+    "transferSize": 646851,
+    "resourcesList": [
+      [
+        "https://mobile.twitter.com/",
+        17309,
+        14921,
+        46108,
+        0.248461
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.e0f21315.js",
+        16768,
+        16637,
+        47894,
+        0.248461
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.dab44ba5.js",
+        155123,
+        154672,
+        465364,
+        0.248461
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en-GB.8f742ab5.js",
+        53336,
+        53162,
+        168625,
+        0.248461
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/main.8eda3e85.js",
+        404315,
+        403960,
+        1608453,
+        0.248461
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 643303,
+    "decodedBodySize": 2336255,
+    "transferSize": 646793,
+    "resourcesList": [
+      [
+        "https://mobile.twitter.com/",
+        17251,
+        14872,
+        45919,
+        0.24774
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.e0f21315.js",
+        16768,
+        16637,
+        47894,
+        0.24774
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.dab44ba5.js",
+        155123,
+        154672,
+        465364,
+        0.24774
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en-GB.8f742ab5.js",
+        53336,
+        53162,
+        168625,
+        0.24774
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/main.8eda3e85.js",
+        404315,
+        403960,
+        1608453,
+        0.24774
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "twitter",
+      "url": "http://twitter.com",
+      "originalURL": "twitter.com"
+    },
+    "numTransferred": 7,
+    "encodedBodySize": 643302,
+    "decodedBodySize": 2336255,
+    "transferSize": 646756,
+    "resourcesList": [
+      [
+        "https://mobile.twitter.com/",
+        17214,
+        14871,
+        45919,
+        0.248738
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.e0f21315.js",
+        17014,
+        16637,
+        47894,
+        0.248738
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.dab44ba5.js",
+        154900,
+        154672,
+        465364,
+        0.248738
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en-GB.8f742ab5.js",
+        53313,
+        53162,
+        168625,
+        0.248738
+      ],
+      [
+        "https://abs.twimg.com/responsive-web/client-web-legacy/main.8eda3e85.js",
+        404315,
+        403960,
+        1608453,
+        0.248738
+      ]
+    ]
+  }
+]

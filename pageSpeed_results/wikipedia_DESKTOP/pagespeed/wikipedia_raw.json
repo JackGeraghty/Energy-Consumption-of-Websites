@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 826,
+    "speedIndex": 826,
+    "largestContentfulPaint": 913,
+    "timeToInteractive": 831.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 835,
+    "speedIndex": 984.0085659930293,
+    "largestContentfulPaint": 838.5,
+    "timeToInteractive": 838.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 920,
+    "speedIndex": 1088.4932432250207,
+    "largestContentfulPaint": 933.5,
+    "timeToInteractive": 1009.5,
+    "totalBlockingTime": 6,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1811,
+    "speedIndex": 2583.249312465259,
+    "largestContentfulPaint": 2005,
+    "timeToInteractive": 2043.5,
+    "totalBlockingTime": 121.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wikipedia",
+      "url": "http://wikipedia.org",
+      "originalURL": "wikipedia.org"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 844,
+    "speedIndex": 844,
+    "largestContentfulPaint": 881,
+    "timeToInteractive": 847,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

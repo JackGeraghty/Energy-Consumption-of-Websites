@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twinkl",
+      "url": "http://twinkl.ie",
+      "originalURL": "twinkl.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 1876.0575750126666,
+    "largestContentfulPaint": 2540,
+    "timeToInteractive": 2816,
+    "totalBlockingTime": 210,
+    "cumulativeLayoutShift": 0.26134816215742934
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twinkl",
+      "url": "http://twinkl.ie",
+      "originalURL": "twinkl.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 1725.5673817679826,
+    "largestContentfulPaint": 2540,
+    "timeToInteractive": 2802,
+    "totalBlockingTime": 155,
+    "cumulativeLayoutShift": 0.20632151300236407
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twinkl",
+      "url": "http://twinkl.ie",
+      "originalURL": "twinkl.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 1842.117648032696,
+    "largestContentfulPaint": 2710,
+    "timeToInteractive": 2820,
+    "totalBlockingTime": 191,
+    "cumulativeLayoutShift": 0.26134816215742934
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twinkl",
+      "url": "http://twinkl.ie",
+      "originalURL": "twinkl.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 1886.2064311897925,
+    "largestContentfulPaint": 2540,
+    "timeToInteractive": 2799,
+    "totalBlockingTime": 232.5,
+    "cumulativeLayoutShift": 0.26134816215742934
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twinkl",
+      "url": "http://twinkl.ie",
+      "originalURL": "twinkl.ie"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.26,
+    "seo": 0.75,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1280,
+    "speedIndex": 2092.0139459482643,
+    "largestContentfulPaint": 2560,
+    "timeToInteractive": 2905,
+    "totalBlockingTime": 350,
+    "cumulativeLayoutShift": 0.26134816215742934
+  }
+]

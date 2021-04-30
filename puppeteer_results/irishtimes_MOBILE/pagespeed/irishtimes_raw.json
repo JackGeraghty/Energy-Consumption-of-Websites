@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishtimes",
+      "url": "http://irishtimes.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5632.445313146978,
+    "largestContentfulPaint": 11250,
+    "timeToInteractive": 10908.5,
+    "totalBlockingTime": 1221.5,
+    "cumulativeLayoutShift": 1.3429636908637153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishtimes",
+      "url": "http://irishtimes.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 6104.2277501343415,
+    "largestContentfulPaint": 11250,
+    "timeToInteractive": 11148,
+    "totalBlockingTime": 1373,
+    "cumulativeLayoutShift": 1.3429636908637153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishtimes",
+      "url": "http://irishtimes.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 6390.6538874020425,
+    "largestContentfulPaint": 11366.5,
+    "timeToInteractive": 11636,
+    "totalBlockingTime": 1932,
+    "cumulativeLayoutShift": 1.2288659261067707
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishtimes",
+      "url": "http://irishtimes.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5658.844234972804,
+    "largestContentfulPaint": 10950,
+    "timeToInteractive": 10781.5,
+    "totalBlockingTime": 1219.5,
+    "cumulativeLayoutShift": 1.3429636908637153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "irishtimes",
+      "url": "http://irishtimes.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.21,
+    "seo": 0.77,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3600,
+    "speedIndex": 5837.3214179544175,
+    "largestContentfulPaint": 11010,
+    "timeToInteractive": 11094.5,
+    "totalBlockingTime": 1610.5,
+    "cumulativeLayoutShift": 1.3429636908637153
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fmovies",
+      "url": "http://fmovies.to",
+      "originalURL": "fmovies.to"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.36,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4470,
+    "speedIndex": 5206.911588897625,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 11888,
+    "totalBlockingTime": 1272,
+    "cumulativeLayoutShift": 0.07558092583550348
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fmovies",
+      "url": "http://fmovies.to",
+      "originalURL": "fmovies.to"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.36,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4470,
+    "speedIndex": 5605.088547386411,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 12372,
+    "totalBlockingTime": 2853,
+    "cumulativeLayoutShift": 0.07579696316189237
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fmovies",
+      "url": "http://fmovies.to",
+      "originalURL": "fmovies.to"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.36,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4470,
+    "speedIndex": 5345.595146834389,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 11939.5,
+    "totalBlockingTime": 1330,
+    "cumulativeLayoutShift": 0.07579696316189237
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fmovies",
+      "url": "http://fmovies.to",
+      "originalURL": "fmovies.to"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.36,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4470,
+    "speedIndex": 5005.506838503295,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 11850.5,
+    "totalBlockingTime": 1225,
+    "cumulativeLayoutShift": 0.0751078626844618
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fmovies",
+      "url": "http://fmovies.to",
+      "originalURL": "fmovies.to"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.36,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4470,
+    "speedIndex": 4839.880421696872,
+    "largestContentfulPaint": 4620,
+    "timeToInteractive": 11922.5,
+    "totalBlockingTime": 1289,
+    "cumulativeLayoutShift": 0.07579696316189237
+  }
+]

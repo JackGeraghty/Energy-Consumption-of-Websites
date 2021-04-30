@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weebly",
+      "url": "http://weebly.com",
+      "originalURL": "weebly.com"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1880.0270139880517,
+    "largestContentfulPaint": 3027,
+    "timeToInteractive": 4566,
+    "totalBlockingTime": 413.5,
+    "cumulativeLayoutShift": 0.0011901584799929954
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weebly",
+      "url": "http://weebly.com",
+      "originalURL": "weebly.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 690,
+    "speedIndex": 1477.498903492344,
+    "largestContentfulPaint": 2412,
+    "timeToInteractive": 4582,
+    "totalBlockingTime": 468.5,
+    "cumulativeLayoutShift": 0.0011901584799929954
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weebly",
+      "url": "http://weebly.com",
+      "originalURL": "weebly.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1541.8808411323917,
+    "largestContentfulPaint": 2991,
+    "timeToInteractive": 4576,
+    "totalBlockingTime": 456,
+    "cumulativeLayoutShift": 0.0011901584799929954
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weebly",
+      "url": "http://weebly.com",
+      "originalURL": "weebly.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 990,
+    "speedIndex": 2869.3170509488127,
+    "largestContentfulPaint": 2322,
+    "timeToInteractive": 6356,
+    "totalBlockingTime": 2994,
+    "cumulativeLayoutShift": 0.0011901584799929954
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "weebly",
+      "url": "http://weebly.com",
+      "originalURL": "weebly.com"
+    },
+    "performance": 0.57,
+    "progressiveWebApp": 0.19,
+    "seo": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 800,
+    "speedIndex": 1747.448970817691,
+    "largestContentfulPaint": 2887,
+    "timeToInteractive": 4468,
+    "totalBlockingTime": 427.5,
+    "cumulativeLayoutShift": 0.00376114292385372
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ul",
+      "url": "http://ul.ie",
+      "originalURL": "ul.ie"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1375,
+    "speedIndex": 2033.481903344109,
+    "largestContentfulPaint": 3523,
+    "timeToInteractive": 3201,
+    "totalBlockingTime": 48.5,
+    "cumulativeLayoutShift": 0.14752950471353937
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ul",
+      "url": "http://ul.ie",
+      "originalURL": "ul.ie"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1391.5,
+    "speedIndex": 1801.3468377329727,
+    "largestContentfulPaint": 3435.5,
+    "timeToInteractive": 3135,
+    "totalBlockingTime": 16,
+    "cumulativeLayoutShift": 0.14751509441671773
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ul",
+      "url": "http://ul.ie",
+      "originalURL": "ul.ie"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1268,
+    "speedIndex": 1861.6978931210797,
+    "largestContentfulPaint": 3469.5,
+    "timeToInteractive": 2831,
+    "totalBlockingTime": 14.5,
+    "cumulativeLayoutShift": 0.14752950471353937
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ul",
+      "url": "http://ul.ie",
+      "originalURL": "ul.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1445,
+    "speedIndex": 2721.8477823413186,
+    "largestContentfulPaint": 3621.5,
+    "timeToInteractive": 3767.5,
+    "totalBlockingTime": 582,
+    "cumulativeLayoutShift": 0.14751509441671773
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ul",
+      "url": "http://ul.ie",
+      "originalURL": "ul.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.86,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1266,
+    "speedIndex": 1825.6600318900853,
+    "largestContentfulPaint": 3398.5,
+    "timeToInteractive": 3149,
+    "totalBlockingTime": 51,
+    "cumulativeLayoutShift": 0.14752950471353937
+  }
+]

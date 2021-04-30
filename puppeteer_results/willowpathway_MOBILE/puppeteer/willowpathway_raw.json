@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "willowpathway",
+      "url": "http://willowpathway.com",
+      "originalURL": "willowpathway.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 516,
+    "resourcesList": [
+      [
+        "https://willowpathway.com/",
+        516,
+        315,
+        315,
+        0.03013
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "willowpathway",
+      "url": "http://willowpathway.com",
+      "originalURL": "willowpathway.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 516,
+    "resourcesList": [
+      [
+        "https://willowpathway.com/",
+        516,
+        315,
+        315,
+        0.029655
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "willowpathway",
+      "url": "http://willowpathway.com",
+      "originalURL": "willowpathway.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 516,
+    "resourcesList": [
+      [
+        "https://willowpathway.com/",
+        516,
+        315,
+        315,
+        0.028457
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "willowpathway",
+      "url": "http://willowpathway.com",
+      "originalURL": "willowpathway.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 516,
+    "resourcesList": [
+      [
+        "https://willowpathway.com/",
+        516,
+        315,
+        315,
+        0.028714
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "willowpathway",
+      "url": "http://willowpathway.com",
+      "originalURL": "willowpathway.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 315,
+    "decodedBodySize": 315,
+    "transferSize": 516,
+    "resourcesList": [
+      [
+        "https://willowpathway.com/",
+        516,
+        315,
+        315,
+        0.028525
+      ]
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agriculture",
+      "url": "http://agriculture.gov.ie",
+      "originalURL": "agriculture.gov.ie"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 1178.8198878851003,
+    "largestContentfulPaint": 2035,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07641397892770627
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agriculture",
+      "url": "http://agriculture.gov.ie",
+      "originalURL": "agriculture.gov.ie"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 1150,
+    "largestContentfulPaint": 1839.5,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07628480518343402
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agriculture",
+      "url": "http://agriculture.gov.ie",
+      "originalURL": "agriculture.gov.ie"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 1150,
+    "largestContentfulPaint": 1786.5,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07628480518343402
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agriculture",
+      "url": "http://agriculture.gov.ie",
+      "originalURL": "agriculture.gov.ie"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 1150,
+    "largestContentfulPaint": 2035,
+    "timeToInteractive": 1150,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.07621486034497854
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "agriculture",
+      "url": "http://agriculture.gov.ie",
+      "originalURL": "agriculture.gov.ie"
+    },
+    "performance": 0.9,
+    "progressiveWebApp": 0.44,
+    "seo": 0.82,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1150,
+    "speedIndex": 1196.9327005197833,
+    "largestContentfulPaint": 1530,
+    "timeToInteractive": 1756.5,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0.07615530689081516
+  }
+]

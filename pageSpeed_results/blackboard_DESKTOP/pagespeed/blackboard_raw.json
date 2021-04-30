@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackboard",
+      "url": "http://blackboard.com",
+      "originalURL": "blackboard.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1766.796658451099,
+    "largestContentfulPaint": 2260.5,
+    "timeToInteractive": 2729,
+    "totalBlockingTime": 58.5,
+    "cumulativeLayoutShift": 0.002705989551411143
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackboard",
+      "url": "http://blackboard.com",
+      "originalURL": "blackboard.com"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1565.0113999530083,
+    "largestContentfulPaint": 2257,
+    "timeToInteractive": 2814,
+    "totalBlockingTime": 75.5,
+    "cumulativeLayoutShift": 0.002705989551411143
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackboard",
+      "url": "http://blackboard.com",
+      "originalURL": "blackboard.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 2058.3940431832707,
+    "largestContentfulPaint": 2120.5,
+    "timeToInteractive": 2693,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.008626619969062837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackboard",
+      "url": "http://blackboard.com",
+      "originalURL": "blackboard.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1532.894494329361,
+    "largestContentfulPaint": 2147,
+    "timeToInteractive": 2810,
+    "totalBlockingTime": 77,
+    "cumulativeLayoutShift": 0.008626619969062837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "blackboard",
+      "url": "http://blackboard.com",
+      "originalURL": "blackboard.com"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1180,
+    "speedIndex": 1574.0122767706116,
+    "largestContentfulPaint": 2261,
+    "timeToInteractive": 2813.5,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.008626619969062837
+  }
+]

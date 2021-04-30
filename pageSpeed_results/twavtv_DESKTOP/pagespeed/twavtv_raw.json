@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.26,
+    "seo": 0.73,
+    "accessibility": 0.7,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 555,
+    "speedIndex": 565.044841680924,
+    "largestContentfulPaint": 1055,
+    "timeToInteractive": 555,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.018115574234597087
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.26,
+    "seo": 0.73,
+    "accessibility": 0.7,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 555,
+    "speedIndex": 583.9945416639248,
+    "largestContentfulPaint": 1055,
+    "timeToInteractive": 555,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.018115574234597087
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.26,
+    "seo": 0.73,
+    "accessibility": 0.7,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 555,
+    "speedIndex": 562.4188166628282,
+    "largestContentfulPaint": 1055,
+    "timeToInteractive": 555,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.018115574234597087
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.26,
+    "seo": 0.73,
+    "accessibility": 0.7,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 555,
+    "speedIndex": 671.0479391345029,
+    "largestContentfulPaint": 1055,
+    "timeToInteractive": 703.5,
+    "totalBlockingTime": 8.5,
+    "cumulativeLayoutShift": 0.018115574234597087
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "twavtv",
+      "url": "http://twavtv.com",
+      "originalURL": "twavtv.com"
+    },
+    "performance": 0.98,
+    "progressiveWebApp": 0.26,
+    "seo": 0.73,
+    "accessibility": 0.7,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 555,
+    "speedIndex": 555,
+    "largestContentfulPaint": 1055,
+    "timeToInteractive": 555,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.018115574234597087
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cv-library",
+      "url": "http://cv-library.ie",
+      "originalURL": "cv-library.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2271,
+    "speedIndex": 5834.654694565953,
+    "largestContentfulPaint": 6906,
+    "timeToInteractive": 13958,
+    "totalBlockingTime": 933,
+    "cumulativeLayoutShift": 0.355470238049825
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cv-library",
+      "url": "http://cv-library.ie",
+      "originalURL": "cv-library.ie"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2276,
+    "speedIndex": 6123.909481695215,
+    "largestContentfulPaint": 6907.5,
+    "timeToInteractive": 14648.5,
+    "totalBlockingTime": 1391.5,
+    "cumulativeLayoutShift": 0.35532086086273196
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cv-library",
+      "url": "http://cv-library.ie",
+      "originalURL": "cv-library.ie"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2268.5,
+    "speedIndex": 5812.720271753878,
+    "largestContentfulPaint": 7072,
+    "timeToInteractive": 14044.5,
+    "totalBlockingTime": 853,
+    "cumulativeLayoutShift": 0.355470238049825
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cv-library",
+      "url": "http://cv-library.ie",
+      "originalURL": "cv-library.ie"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2268,
+    "speedIndex": 4937.855724226433,
+    "largestContentfulPaint": 6725.5,
+    "timeToInteractive": 14150,
+    "totalBlockingTime": 843,
+    "cumulativeLayoutShift": 0.35689320278167724
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "cv-library",
+      "url": "http://cv-library.ie",
+      "originalURL": "cv-library.ie"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.75,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2273,
+    "speedIndex": 5957.830860225862,
+    "largestContentfulPaint": 6951.5,
+    "timeToInteractive": 14279,
+    "totalBlockingTime": 786.5,
+    "cumulativeLayoutShift": 0.35689320278167724
+  }
+]

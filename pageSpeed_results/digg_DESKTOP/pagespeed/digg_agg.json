@@ -1,0 +1,190 @@
+{
+  "numSamples": 5,
+  "performance": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.79
+      ],
+      [
+        "variance",
+        0.00932
+      ],
+      [
+        "stddev",
+        0.09654014708917737
+      ]
+    ]
+  },
+  "progressiveWebApp": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.37
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "seo": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "accessibility": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.89
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "bestPractices": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.71
+      ],
+      [
+        "variance",
+        0
+      ],
+      [
+        "stddev",
+        0
+      ]
+    ]
+  },
+  "firstContentfulPaint": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        946
+      ],
+      [
+        "variance",
+        252975.1
+      ],
+      [
+        "stddev",
+        502.96630105803314
+      ]
+    ]
+  },
+  "speedIndex": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1540.4961059325258
+      ],
+      [
+        "variance",
+        46362.168300787685
+      ],
+      [
+        "stddev",
+        215.31875975118305
+      ]
+    ]
+  },
+  "largestContentfulPaint": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        1998.3
+      ],
+      [
+        "variance",
+        327675.96
+      ],
+      [
+        "stddev",
+        572.4298734342924
+      ]
+    ]
+  },
+  "timeToInteractive": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        3062.9
+      ],
+      [
+        "variance",
+        4720.639999999999
+      ],
+      [
+        "stddev",
+        68.70691377146844
+      ]
+    ]
+  },
+  "totalBlockingTime": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        40.2
+      ],
+      [
+        "variance",
+        129.26000000000002
+      ],
+      [
+        "stddev",
+        11.369256791892775
+      ]
+    ]
+  },
+  "cumulativeLayoutShift": {
+    "dataType": "Map",
+    "value": [
+      [
+        "mean",
+        0.4576219401686951
+      ],
+      [
+        "variance",
+        0.0000024818138339941526
+      ],
+      [
+        "stddev",
+        0.001575377362410084
+      ]
+    ]
+  }
+}

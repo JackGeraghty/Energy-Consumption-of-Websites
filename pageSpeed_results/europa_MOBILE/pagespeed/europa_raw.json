@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "europa",
+      "url": "http://europa.eu",
+      "originalURL": "europa.eu"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3209,
+    "speedIndex": 3209,
+    "largestContentfulPaint": 3562,
+    "timeToInteractive": 3359,
+    "totalBlockingTime": 57,
+    "cumulativeLayoutShift": 0.5834592013888888
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "europa",
+      "url": "http://europa.eu",
+      "originalURL": "europa.eu"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3121,
+    "speedIndex": 3121,
+    "largestContentfulPaint": 3204,
+    "timeToInteractive": 3858,
+    "totalBlockingTime": 38,
+    "cumulativeLayoutShift": 0.5834592013888888
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "europa",
+      "url": "http://europa.eu",
+      "originalURL": "europa.eu"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3163,
+    "speedIndex": 3163,
+    "largestContentfulPaint": 3194,
+    "timeToInteractive": 3823.5,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.5834592013888888
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "europa",
+      "url": "http://europa.eu",
+      "originalURL": "europa.eu"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3170,
+    "speedIndex": 3170,
+    "largestContentfulPaint": 3197.5,
+    "timeToInteractive": 3829.5,
+    "totalBlockingTime": 44.5,
+    "cumulativeLayoutShift": 0.5834592013888888
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "europa",
+      "url": "http://europa.eu",
+      "originalURL": "europa.eu"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 1,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3195,
+    "speedIndex": 3195,
+    "largestContentfulPaint": 3210,
+    "timeToInteractive": 3875,
+    "totalBlockingTime": 65,
+    "cumulativeLayoutShift": 0.5834592013888888
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nowtv",
+      "url": "http://nowtv.com",
+      "originalURL": "nowtv.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 4103,
+    "speedIndex": 9456.449274203882,
+    "largestContentfulPaint": 12873,
+    "timeToInteractive": 13783,
+    "totalBlockingTime": 2794,
+    "cumulativeLayoutShift": 0.36730461968315964
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nowtv",
+      "url": "http://nowtv.com",
+      "originalURL": "nowtv.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 4169,
+    "speedIndex": 8125.812662624165,
+    "largestContentfulPaint": 12281.5,
+    "timeToInteractive": 12542.5,
+    "totalBlockingTime": 1684.5,
+    "cumulativeLayoutShift": 0.09967766655815972
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nowtv",
+      "url": "http://nowtv.com",
+      "originalURL": "nowtv.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 4097,
+    "speedIndex": 7843.33326799174,
+    "largestContentfulPaint": 12013.5,
+    "timeToInteractive": 12388.5,
+    "totalBlockingTime": 1319.5,
+    "cumulativeLayoutShift": 0.09967766655815972
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nowtv",
+      "url": "http://nowtv.com",
+      "originalURL": "nowtv.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 4107,
+    "speedIndex": 7921.7693326961125,
+    "largestContentfulPaint": 12216,
+    "timeToInteractive": 12422,
+    "totalBlockingTime": 1338,
+    "cumulativeLayoutShift": 0.09967766655815972
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nowtv",
+      "url": "http://nowtv.com",
+      "originalURL": "nowtv.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 4647,
+    "speedIndex": 11007.002158552588,
+    "largestContentfulPaint": 13921,
+    "timeToInteractive": 15112,
+    "totalBlockingTime": 5254.5,
+    "cumulativeLayoutShift": 0.36450195312499994
+  }
+]

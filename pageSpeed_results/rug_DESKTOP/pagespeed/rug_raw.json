@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rug",
+      "url": "http://rug.nl",
+      "originalURL": "rug.nl"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1637,
+    "speedIndex": 1637,
+    "largestContentfulPaint": 3450,
+    "timeToInteractive": 1793.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.3315110218019438
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rug",
+      "url": "http://rug.nl",
+      "originalURL": "rug.nl"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1643,
+    "speedIndex": 1643,
+    "largestContentfulPaint": 3470,
+    "timeToInteractive": 1806.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.4461973306482211
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rug",
+      "url": "http://rug.nl",
+      "originalURL": "rug.nl"
+    },
+    "performance": 0.66,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1641,
+    "speedIndex": 1641,
+    "largestContentfulPaint": 3450,
+    "timeToInteractive": 1795.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.5091107410326008
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rug",
+      "url": "http://rug.nl",
+      "originalURL": "rug.nl"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1647,
+    "speedIndex": 1647,
+    "largestContentfulPaint": 3450,
+    "timeToInteractive": 1798.5,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.582559707556256
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "rug",
+      "url": "http://rug.nl",
+      "originalURL": "rug.nl"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1658,
+    "speedIndex": 1658,
+    "largestContentfulPaint": 3440,
+    "timeToInteractive": 1794,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.5665624621311619
+  }
+]

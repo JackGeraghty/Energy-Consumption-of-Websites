@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eevblog",
+      "url": "http://eevblog.com",
+      "originalURL": "eevblog.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 6426,
+    "speedIndex": 17613.075391323364,
+    "largestContentfulPaint": 17614.5,
+    "timeToInteractive": 23032,
+    "totalBlockingTime": 2329,
+    "cumulativeLayoutShift": 0.01409989293416341
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eevblog",
+      "url": "http://eevblog.com",
+      "originalURL": "eevblog.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 6015,
+    "speedIndex": 20334.30315433057,
+    "largestContentfulPaint": 10908.5,
+    "timeToInteractive": 23755,
+    "totalBlockingTime": 3114.5,
+    "cumulativeLayoutShift": 0.013590207629733616
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eevblog",
+      "url": "http://eevblog.com",
+      "originalURL": "eevblog.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 6089,
+    "speedIndex": 17962.795451869162,
+    "largestContentfulPaint": 10964.5,
+    "timeToInteractive": 22946.5,
+    "totalBlockingTime": 1951,
+    "cumulativeLayoutShift": 0.013590207629733616
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eevblog",
+      "url": "http://eevblog.com",
+      "originalURL": "eevblog.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 6050,
+    "speedIndex": 15641.720785253761,
+    "largestContentfulPaint": 16556,
+    "timeToInteractive": 21662.5,
+    "totalBlockingTime": 1455.5,
+    "cumulativeLayoutShift": 0.013353272332085503
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eevblog",
+      "url": "http://eevblog.com",
+      "originalURL": "eevblog.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.42,
+    "seo": 0.75,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 6528.5,
+    "speedIndex": 20273.190101034244,
+    "largestContentfulPaint": 12870,
+    "timeToInteractive": 22913.5,
+    "totalBlockingTime": 1620,
+    "cumulativeLayoutShift": 0.013590207629733616
+  }
+]

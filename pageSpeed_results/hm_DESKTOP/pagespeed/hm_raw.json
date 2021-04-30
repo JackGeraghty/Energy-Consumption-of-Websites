@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 780,
+    "speedIndex": 780,
+    "largestContentfulPaint": 1135,
+    "timeToInteractive": 780,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00000889122376908035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 868,
+    "speedIndex": 868,
+    "largestContentfulPaint": 1210,
+    "timeToInteractive": 868,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00000889122376908035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.97,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 780,
+    "speedIndex": 780,
+    "largestContentfulPaint": 1135,
+    "timeToInteractive": 780,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00000889122376908035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 877,
+    "speedIndex": 877,
+    "largestContentfulPaint": 1210,
+    "timeToInteractive": 877,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00000889122376908035
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hm",
+      "url": "http://hm.com",
+      "originalURL": "hm.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 865,
+    "speedIndex": 865,
+    "largestContentfulPaint": 1210,
+    "timeToInteractive": 865,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.00000889122376908035
+  }
+]

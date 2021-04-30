@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unilad",
+      "url": "http://unilad.co.uk",
+      "originalURL": "unilad.co.uk"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2954.0097116829256,
+    "largestContentfulPaint": 4478.5,
+    "timeToInteractive": 5217,
+    "totalBlockingTime": 307,
+    "cumulativeLayoutShift": 0.06573845372559321
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unilad",
+      "url": "http://unilad.co.uk",
+      "originalURL": "unilad.co.uk"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2845,
+    "speedIndex": 3023.670538605492,
+    "largestContentfulPaint": 4469,
+    "timeToInteractive": 5302,
+    "totalBlockingTime": 349.5,
+    "cumulativeLayoutShift": 0.06573845372559321
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unilad",
+      "url": "http://unilad.co.uk",
+      "originalURL": "unilad.co.uk"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2907.307189624653,
+    "largestContentfulPaint": 4408,
+    "timeToInteractive": 5336.5,
+    "totalBlockingTime": 328.5,
+    "cumulativeLayoutShift": 0.06573845372559321
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unilad",
+      "url": "http://unilad.co.uk",
+      "originalURL": "unilad.co.uk"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2800,
+    "speedIndex": 2970.8415831778148,
+    "largestContentfulPaint": 4404.5,
+    "timeToInteractive": 5272.5,
+    "totalBlockingTime": 367.5,
+    "cumulativeLayoutShift": 0.06573845372559321
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unilad",
+      "url": "http://unilad.co.uk",
+      "originalURL": "unilad.co.uk"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.44,
+    "seo": 0.92,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 2760,
+    "speedIndex": 3011.05601366965,
+    "largestContentfulPaint": 4622,
+    "timeToInteractive": 5441.5,
+    "totalBlockingTime": 394,
+    "cumulativeLayoutShift": 0.06573845372559321
+  }
+]

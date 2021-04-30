@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lu",
+      "url": "http://lu.se",
+      "originalURL": "lu.se"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.21,
+    "seo": 0.78,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8925,
+    "speedIndex": 8925,
+    "largestContentfulPaint": 15731,
+    "timeToInteractive": 15656,
+    "totalBlockingTime": 112.5,
+    "cumulativeLayoutShift": 0.001760796440972222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lu",
+      "url": "http://lu.se",
+      "originalURL": "lu.se"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.21,
+    "seo": 0.78,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 11184.5,
+    "speedIndex": 11184.5,
+    "largestContentfulPaint": 16045.5,
+    "timeToInteractive": 15956,
+    "totalBlockingTime": 219,
+    "cumulativeLayoutShift": 0.002800048828125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lu",
+      "url": "http://lu.se",
+      "originalURL": "lu.se"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.78,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8925,
+    "speedIndex": 9135.302087631862,
+    "largestContentfulPaint": 15892,
+    "timeToInteractive": 15858.5,
+    "totalBlockingTime": 144,
+    "cumulativeLayoutShift": 0.001760796440972222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lu",
+      "url": "http://lu.se",
+      "originalURL": "lu.se"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.21,
+    "seo": 0.78,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8925,
+    "speedIndex": 8925,
+    "largestContentfulPaint": 15899,
+    "timeToInteractive": 15786,
+    "totalBlockingTime": 151,
+    "cumulativeLayoutShift": 0.001760796440972222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lu",
+      "url": "http://lu.se",
+      "originalURL": "lu.se"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 0.78,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "firstContentfulPaint": 8460,
+    "speedIndex": 8589.22059314978,
+    "largestContentfulPaint": 15837,
+    "timeToInteractive": 15882,
+    "totalBlockingTime": 199.5,
+    "cumulativeLayoutShift": 0.001760796440972222
+  }
+]

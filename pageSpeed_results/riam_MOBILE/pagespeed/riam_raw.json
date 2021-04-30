@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "riam",
+      "url": "http://riam.ie",
+      "originalURL": "riam.ie"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.5,
+    "seo": 0.86,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4741,
+    "speedIndex": 4741,
+    "largestContentfulPaint": 11253,
+    "timeToInteractive": 8520,
+    "totalBlockingTime": 527.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "riam",
+      "url": "http://riam.ie",
+      "originalURL": "riam.ie"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.5,
+    "seo": 0.86,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4748,
+    "speedIndex": 4748,
+    "largestContentfulPaint": 10899.5,
+    "timeToInteractive": 8529,
+    "totalBlockingTime": 536,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "riam",
+      "url": "http://riam.ie",
+      "originalURL": "riam.ie"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.5,
+    "seo": 0.86,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4805,
+    "speedIndex": 4805,
+    "largestContentfulPaint": 10904,
+    "timeToInteractive": 8559,
+    "totalBlockingTime": 531.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "riam",
+      "url": "http://riam.ie",
+      "originalURL": "riam.ie"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.5,
+    "seo": 0.86,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4734,
+    "speedIndex": 4734,
+    "largestContentfulPaint": 10913,
+    "timeToInteractive": 8550,
+    "totalBlockingTime": 585,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "riam",
+      "url": "http://riam.ie",
+      "originalURL": "riam.ie"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.5,
+    "seo": 0.86,
+    "accessibility": 0.85,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4707,
+    "speedIndex": 4707,
+    "largestContentfulPaint": 10868,
+    "timeToInteractive": 8509,
+    "totalBlockingTime": 365,
+    "cumulativeLayoutShift": 0
+  }
+]

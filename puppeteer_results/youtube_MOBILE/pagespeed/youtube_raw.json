@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.18,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 4610,
+    "speedIndex": 6018.059139868958,
+    "largestContentfulPaint": 8266,
+    "timeToInteractive": 10281.5,
+    "totalBlockingTime": 467.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.18,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 4714,
+    "speedIndex": 6482.269028743574,
+    "largestContentfulPaint": 7925,
+    "timeToInteractive": 10302.5,
+    "totalBlockingTime": 681,
+    "cumulativeLayoutShift": 0.0168505859375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.18,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 4634,
+    "speedIndex": 6001.893246208905,
+    "largestContentfulPaint": 8220.5,
+    "timeToInteractive": 10149,
+    "totalBlockingTime": 501,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.18,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 4598,
+    "speedIndex": 6047.706722560961,
+    "largestContentfulPaint": 7428,
+    "timeToInteractive": 10030.5,
+    "totalBlockingTime": 410.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "youtube",
+      "url": "http://youtube.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.18,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 4610,
+    "speedIndex": 6269.515968310131,
+    "largestContentfulPaint": 7517,
+    "timeToInteractive": 10111.5,
+    "totalBlockingTime": 445.5,
+    "cumulativeLayoutShift": 0
+  }
+]

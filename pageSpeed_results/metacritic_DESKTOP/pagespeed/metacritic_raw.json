@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "metacritic",
+      "url": "http://metacritic.com",
+      "originalURL": "metacritic.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.78,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 1558,
+    "speedIndex": 4250.639149955346,
+    "largestContentfulPaint": 3080.5,
+    "timeToInteractive": 9208.5,
+    "totalBlockingTime": 1102.5,
+    "cumulativeLayoutShift": 0.4722192852530425
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "metacritic",
+      "url": "http://metacritic.com",
+      "originalURL": "metacritic.com"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.78,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 1516,
+    "speedIndex": 3657.10023165565,
+    "largestContentfulPaint": 2378,
+    "timeToInteractive": 7920.5,
+    "totalBlockingTime": 716,
+    "cumulativeLayoutShift": 0.4568890847634474
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "metacritic",
+      "url": "http://metacritic.com",
+      "originalURL": "metacritic.com"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.78,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 1571,
+    "speedIndex": 4206.750520491423,
+    "largestContentfulPaint": 2591,
+    "timeToInteractive": 9185.5,
+    "totalBlockingTime": 943.5,
+    "cumulativeLayoutShift": 0.5529842376798588
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "metacritic",
+      "url": "http://metacritic.com",
+      "originalURL": "metacritic.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.78,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 1510,
+    "speedIndex": 4383.1952164442,
+    "largestContentfulPaint": 2333,
+    "timeToInteractive": 9074,
+    "totalBlockingTime": 878.5,
+    "cumulativeLayoutShift": 0.4366517218008492
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "metacritic",
+      "url": "http://metacritic.com",
+      "originalURL": "metacritic.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.36,
+    "seo": 0.75,
+    "accessibility": 0.78,
+    "bestPractices": 0.53,
+    "firstContentfulPaint": 1517,
+    "speedIndex": 4270.393162856773,
+    "largestContentfulPaint": 2402,
+    "timeToInteractive": 9086,
+    "totalBlockingTime": 1178,
+    "cumulativeLayoutShift": 0.45352073468464515
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4084,
+    "speedIndex": 6406.355951963293,
+    "largestContentfulPaint": 6135,
+    "timeToInteractive": 15376,
+    "totalBlockingTime": 4173.5,
+    "cumulativeLayoutShift": 0.09407931857638889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3708.5,
+    "speedIndex": 6025.850106190436,
+    "largestContentfulPaint": 4230,
+    "timeToInteractive": 16099,
+    "totalBlockingTime": 3383,
+    "cumulativeLayoutShift": 0.09407931857638889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3643.5,
+    "speedIndex": 8940.820096770978,
+    "largestContentfulPaint": 4155,
+    "timeToInteractive": 16461.5,
+    "totalBlockingTime": 4242.5,
+    "cumulativeLayoutShift": 0.1305539279513889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3760.5,
+    "speedIndex": 7001.613919147873,
+    "largestContentfulPaint": 5130,
+    "timeToInteractive": 16635,
+    "totalBlockingTime": 3980,
+    "cumulativeLayoutShift": 1.6028659396701388
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "adobe",
+      "url": "http://adobe.com",
+      "originalURL": "adobe.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.86,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3716,
+    "speedIndex": 6359.440961706815,
+    "largestContentfulPaint": 7624,
+    "timeToInteractive": 15773.5,
+    "totalBlockingTime": 3841,
+    "cumulativeLayoutShift": 0.5096638997395833
+  }
+]

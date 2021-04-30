@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eventhubs",
+      "url": "http://eventhubs.com",
+      "originalURL": "eventhubs.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 2897.5047280240055,
+    "largestContentfulPaint": 3270,
+    "timeToInteractive": 6758,
+    "totalBlockingTime": 279.5,
+    "cumulativeLayoutShift": 0.401435546875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eventhubs",
+      "url": "http://eventhubs.com",
+      "originalURL": "eventhubs.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 3122.5496039931777,
+    "largestContentfulPaint": 3870,
+    "timeToInteractive": 7627,
+    "totalBlockingTime": 186.5,
+    "cumulativeLayoutShift": 0.33846085611979165
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eventhubs",
+      "url": "http://eventhubs.com",
+      "originalURL": "eventhubs.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1936,
+    "speedIndex": 3806.036683434528,
+    "largestContentfulPaint": 1936,
+    "timeToInteractive": 8071,
+    "totalBlockingTime": 190.5,
+    "cumulativeLayoutShift": 0.3859071655273437
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eventhubs",
+      "url": "http://eventhubs.com",
+      "originalURL": "eventhubs.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 3831.1818359239105,
+    "largestContentfulPaint": 3105,
+    "timeToInteractive": 6753,
+    "totalBlockingTime": 408,
+    "cumulativeLayoutShift": 0.09727084689670139
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eventhubs",
+      "url": "http://eventhubs.com",
+      "originalURL": "eventhubs.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.46,
+    "seo": 1,
+    "accessibility": 0.79,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 2790,
+    "speedIndex": 3031.3979280867575,
+    "largestContentfulPaint": 3150,
+    "timeToInteractive": 6709,
+    "totalBlockingTime": 385,
+    "cumulativeLayoutShift": 0.401435546875
+  }
+]

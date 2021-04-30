@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hobbygames",
+      "url": "http://hobbygames.ru",
+      "originalURL": "hobbygames.ru"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 723.5,
+    "speedIndex": 2205.2790930617207,
+    "largestContentfulPaint": 2469,
+    "timeToInteractive": 7004.5,
+    "totalBlockingTime": 174,
+    "cumulativeLayoutShift": 0.27043282079064884
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hobbygames",
+      "url": "http://hobbygames.ru",
+      "originalURL": "hobbygames.ru"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 724.5,
+    "speedIndex": 2212.358535466382,
+    "largestContentfulPaint": 1351.5,
+    "timeToInteractive": 6978.5,
+    "totalBlockingTime": 249.5,
+    "cumulativeLayoutShift": 0.02925670154393953
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hobbygames",
+      "url": "http://hobbygames.ru",
+      "originalURL": "hobbygames.ru"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 725.5,
+    "speedIndex": 2207.308711900629,
+    "largestContentfulPaint": 1015,
+    "timeToInteractive": 6851.5,
+    "totalBlockingTime": 293,
+    "cumulativeLayoutShift": 0.00872525012404051
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hobbygames",
+      "url": "http://hobbygames.ru",
+      "originalURL": "hobbygames.ru"
+    },
+    "performance": 0.67,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.73,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 729,
+    "speedIndex": 1975.5775385775316,
+    "largestContentfulPaint": 1380,
+    "timeToInteractive": 6850,
+    "totalBlockingTime": 312.5,
+    "cumulativeLayoutShift": 0.07109607912507662
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "hobbygames",
+      "url": "http://hobbygames.ru",
+      "originalURL": "hobbygames.ru"
+    },
+    "performance": 0.65,
+    "progressiveWebApp": 0.45,
+    "seo": 0.83,
+    "accessibility": 0.71,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 729.5,
+    "speedIndex": 2503.72775301482,
+    "largestContentfulPaint": 1821.5,
+    "timeToInteractive": 6908.5,
+    "totalBlockingTime": 215,
+    "cumulativeLayoutShift": 0.05446633992936987
+  }
+]

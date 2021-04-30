@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.74,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6340,
+    "speedIndex": 6911.689883914471,
+    "largestContentfulPaint": 10882,
+    "timeToInteractive": 10026,
+    "totalBlockingTime": 1138,
+    "cumulativeLayoutShift": 0.117787353515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.46,
+    "seo": 0.74,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5142,
+    "speedIndex": 5142,
+    "largestContentfulPaint": 8917,
+    "timeToInteractive": 8294,
+    "totalBlockingTime": 222,
+    "cumulativeLayoutShift": 0.117787353515625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.46,
+    "seo": 0.74,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5185,
+    "speedIndex": 5185,
+    "largestContentfulPaint": 8954.5,
+    "timeToInteractive": 8369,
+    "totalBlockingTime": 299,
+    "cumulativeLayoutShift": 0.11175146484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.46,
+    "seo": 0.74,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5086,
+    "speedIndex": 5086,
+    "largestContentfulPaint": 8963.5,
+    "timeToInteractive": 8237,
+    "totalBlockingTime": 166.5,
+    "cumulativeLayoutShift": 0.11815413411458334
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "vision-net",
+      "url": "http://vision-net.ie",
+      "originalURL": "vision-net.ie"
+    },
+    "performance": 0.49,
+    "progressiveWebApp": 0.46,
+    "seo": 0.74,
+    "accessibility": 0.8,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5130,
+    "speedIndex": 5130,
+    "largestContentfulPaint": 8838,
+    "timeToInteractive": 8286,
+    "totalBlockingTime": 205.5,
+    "cumulativeLayoutShift": 0.11175146484375
+  }
+]

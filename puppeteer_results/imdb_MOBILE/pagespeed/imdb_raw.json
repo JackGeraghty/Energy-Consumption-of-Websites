@@ -1,0 +1,92 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5055,
+    "speedIndex": 8541.538647491467,
+    "largestContentfulPaint": 7860,
+    "timeToInteractive": 14719,
+    "totalBlockingTime": 1058,
+    "cumulativeLayoutShift": 0.012885416666666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5065,
+    "speedIndex": 8431.548937509277,
+    "largestContentfulPaint": 7815,
+    "timeToInteractive": 14761,
+    "totalBlockingTime": 1142.5,
+    "cumulativeLayoutShift": 0.012885416666666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5073,
+    "speedIndex": 9476.022731573034,
+    "largestContentfulPaint": 7860,
+    "timeToInteractive": 14833,
+    "totalBlockingTime": 1121,
+    "cumulativeLayoutShift": 0.012885416666666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5056,
+    "speedIndex": 8772.091116455289,
+    "largestContentfulPaint": 7860,
+    "timeToInteractive": 14826,
+    "totalBlockingTime": 1068.5,
+    "cumulativeLayoutShift": 0.012885416666666665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "imdb",
+      "url": "http://imdb.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 5114,
+    "speedIndex": 8952.108685529449,
+    "largestContentfulPaint": 7882,
+    "timeToInteractive": 15682,
+    "totalBlockingTime": 1931.5,
+    "cumulativeLayoutShift": 0.012885416666666665
+  }
+]

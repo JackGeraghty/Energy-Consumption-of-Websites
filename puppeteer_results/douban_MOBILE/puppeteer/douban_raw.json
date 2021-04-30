@@ -1,0 +1,312 @@
+[
+  {
+    "urlData": {
+      "webpageName": "douban",
+      "url": "http://douban.com",
+      "originalURL": "douban.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 85363,
+    "decodedBodySize": 158638,
+    "transferSize": 87835,
+    "resourcesList": [
+      [
+        "https://m.douban.com/",
+        2359,
+        1749,
+        5082,
+        0.087004
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/20f294507038a0d03718cd15b4defe16ea78d05a/css/card/base.css",
+        16134,
+        16012,
+        41048,
+        0.087004
+      ],
+      [
+        "https://img9.doubanio.com/misc/mixed_static/4f3062503e5a7c84.css",
+        3005,
+        2640,
+        4794,
+        0.087004
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/706ae8511b66f390ae0427daf85df7ddd93ab1b9/pics/card/splash/splash_bg.jpg",
+        41027,
+        40893,
+        40893,
+        0.087004
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/ee8e0c54293aefb5709ececbdf082f8091ad5e49/js/card/zepto.min.js",
+        9501,
+        9387,
+        25139,
+        0.087004
+      ],
+      [
+        "https://hm.baidu.com/hm.js?6d4a8cfea88fa457c3127e14fb5fabc2",
+        15262,
+        14639,
+        41639,
+        0.087004
+      ],
+      [
+        "https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=375x812&vl=812&et=0&ja=0&ln=en-gb&lo=0&rnd=951436361&si=6d4a8cfea88fa457c3127e14fb5fabc2&v=1.2.80&lv=1&sn=32514&r=0&ww=375&ct=!!&u=https%3A%2F%2Fm.douban.com%2F&tt=%E8%B1%86%E7%93%A3(%E6%89%8B%E6%9C%BA%E7%89%88)",
+        547,
+        43,
+        43,
+        0.087004
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "douban",
+      "url": "http://douban.com",
+      "originalURL": "douban.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 85383,
+    "decodedBodySize": 158638,
+    "transferSize": 87808,
+    "resourcesList": [
+      [
+        "https://m.douban.com/",
+        2359,
+        1749,
+        5082,
+        0.091486
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/20f294507038a0d03718cd15b4defe16ea78d05a/css/card/base.css",
+        16137,
+        16012,
+        41048,
+        0.091486
+      ],
+      [
+        "https://img9.doubanio.com/misc/mixed_static/4f3062503e5a7c84.css",
+        2984,
+        2660,
+        4794,
+        0.091486
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/706ae8511b66f390ae0427daf85df7ddd93ab1b9/pics/card/splash/splash_bg.jpg",
+        41026,
+        40893,
+        40893,
+        0.091486
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/ee8e0c54293aefb5709ececbdf082f8091ad5e49/js/card/zepto.min.js",
+        9493,
+        9387,
+        25139,
+        0.091486
+      ],
+      [
+        "https://hm.baidu.com/hm.js?6d4a8cfea88fa457c3127e14fb5fabc2",
+        15262,
+        14639,
+        41639,
+        0.091486
+      ],
+      [
+        "https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=375x812&vl=812&et=0&ja=0&ln=en-gb&lo=0&rnd=252592367&si=6d4a8cfea88fa457c3127e14fb5fabc2&v=1.2.80&lv=1&sn=32519&r=0&ww=375&ct=!!&u=https%3A%2F%2Fm.douban.com%2F&tt=%E8%B1%86%E7%93%A3(%E6%89%8B%E6%9C%BA%E7%89%88)",
+        547,
+        43,
+        43,
+        0.091486
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "douban",
+      "url": "http://douban.com",
+      "originalURL": "douban.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 85363,
+    "decodedBodySize": 158638,
+    "transferSize": 87845,
+    "resourcesList": [
+      [
+        "https://m.douban.com/",
+        2359,
+        1749,
+        5082,
+        0.081902
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/20f294507038a0d03718cd15b4defe16ea78d05a/css/card/base.css",
+        16333,
+        16012,
+        41048,
+        0.081902
+      ],
+      [
+        "https://img9.doubanio.com/misc/mixed_static/4f3062503e5a7c84.css",
+        2807,
+        2640,
+        4794,
+        0.081902
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/706ae8511b66f390ae0427daf85df7ddd93ab1b9/pics/card/splash/splash_bg.jpg",
+        41036,
+        40893,
+        40893,
+        0.081902
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/ee8e0c54293aefb5709ececbdf082f8091ad5e49/js/card/zepto.min.js",
+        9501,
+        9387,
+        25139,
+        0.081902
+      ],
+      [
+        "https://hm.baidu.com/hm.js?6d4a8cfea88fa457c3127e14fb5fabc2",
+        15262,
+        14639,
+        41639,
+        0.081902
+      ],
+      [
+        "https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=375x812&vl=812&et=0&ja=0&ln=en-gb&lo=0&rnd=1675419823&si=6d4a8cfea88fa457c3127e14fb5fabc2&v=1.2.80&lv=1&sn=32524&r=0&ww=375&ct=!!&u=https%3A%2F%2Fm.douban.com%2F&tt=%E8%B1%86%E7%93%A3(%E6%89%8B%E6%9C%BA%E7%89%88)",
+        547,
+        43,
+        43,
+        0.081902
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "douban",
+      "url": "http://douban.com",
+      "originalURL": "douban.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 85383,
+    "decodedBodySize": 158638,
+    "transferSize": 87818,
+    "resourcesList": [
+      [
+        "https://m.douban.com/",
+        2359,
+        1749,
+        5082,
+        0.081359
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/20f294507038a0d03718cd15b4defe16ea78d05a/css/card/base.css",
+        16298,
+        16012,
+        41048,
+        0.081359
+      ],
+      [
+        "https://img9.doubanio.com/misc/mixed_static/4f3062503e5a7c84.css",
+        2824,
+        2660,
+        4794,
+        0.081359
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/706ae8511b66f390ae0427daf85df7ddd93ab1b9/pics/card/splash/splash_bg.jpg",
+        41035,
+        40893,
+        40893,
+        0.081359
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/ee8e0c54293aefb5709ececbdf082f8091ad5e49/js/card/zepto.min.js",
+        9493,
+        9387,
+        25139,
+        0.081359
+      ],
+      [
+        "https://hm.baidu.com/hm.js?6d4a8cfea88fa457c3127e14fb5fabc2",
+        15262,
+        14639,
+        41639,
+        0.081359
+      ],
+      [
+        "https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=375x812&vl=812&et=0&ja=0&ln=en-gb&lo=0&rnd=1754050774&si=6d4a8cfea88fa457c3127e14fb5fabc2&v=1.2.80&lv=1&sn=32529&r=0&ww=375&ct=!!&u=https%3A%2F%2Fm.douban.com%2F&tt=%E8%B1%86%E7%93%A3(%E6%89%8B%E6%9C%BA%E7%89%88)",
+        547,
+        43,
+        43,
+        0.081359
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "douban",
+      "url": "http://douban.com",
+      "originalURL": "douban.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 85383,
+    "decodedBodySize": 158638,
+    "transferSize": 87818,
+    "resourcesList": [
+      [
+        "https://m.douban.com/",
+        2359,
+        1749,
+        5082,
+        0.08185
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/20f294507038a0d03718cd15b4defe16ea78d05a/css/card/base.css",
+        16298,
+        16012,
+        41048,
+        0.08185
+      ],
+      [
+        "https://img9.doubanio.com/misc/mixed_static/4f3062503e5a7c84.css",
+        2824,
+        2660,
+        4794,
+        0.08185
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/706ae8511b66f390ae0427daf85df7ddd93ab1b9/pics/card/splash/splash_bg.jpg",
+        41035,
+        40893,
+        40893,
+        0.08185
+      ],
+      [
+        "https://img9.doubanio.com/f/talion/ee8e0c54293aefb5709ececbdf082f8091ad5e49/js/card/zepto.min.js",
+        9493,
+        9387,
+        25139,
+        0.08185
+      ],
+      [
+        "https://hm.baidu.com/hm.js?6d4a8cfea88fa457c3127e14fb5fabc2",
+        15262,
+        14639,
+        41639,
+        0.08185
+      ],
+      [
+        "https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=375x812&vl=812&et=0&ja=0&ln=en-gb&lo=0&rnd=1685780640&si=6d4a8cfea88fa457c3127e14fb5fabc2&v=1.2.80&lv=1&sn=32534&r=0&ww=375&ct=!!&u=https%3A%2F%2Fm.douban.com%2F&tt=%E8%B1%86%E7%93%A3(%E6%89%8B%E6%9C%BA%E7%89%88)",
+        547,
+        43,
+        43,
+        0.08185
+      ]
+    ]
+  }
+]

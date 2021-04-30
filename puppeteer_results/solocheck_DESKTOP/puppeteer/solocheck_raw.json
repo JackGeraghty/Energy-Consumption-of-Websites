@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1185,
+    "resourcesList": [
+      [
+        "https://solocheck.ie/",
+        1185,
+        623,
+        623,
+        0.017994
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1184,
+    "resourcesList": [
+      [
+        "https://solocheck.ie/",
+        1184,
+        623,
+        623,
+        0.017585
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1179,
+    "resourcesList": [
+      [
+        "https://solocheck.ie/",
+        1179,
+        623,
+        623,
+        0.015876
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1186,
+    "resourcesList": [
+      [
+        "https://solocheck.ie/",
+        1186,
+        623,
+        623,
+        0.017125
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "solocheck",
+      "url": "http://solocheck.ie",
+      "originalURL": "solocheck.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 623,
+    "decodedBodySize": 623,
+    "transferSize": 1188,
+    "resourcesList": [
+      [
+        "https://solocheck.ie/",
+        1188,
+        623,
+        623,
+        0.01768
+      ]
+    ]
+  }
+]

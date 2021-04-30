@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next",
+      "url": "http://next.ie",
+      "originalURL": "next.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 8076,
+    "speedIndex": 12538.684463174493,
+    "largestContentfulPaint": 13168.5,
+    "timeToInteractive": 21084,
+    "totalBlockingTime": 2941,
+    "cumulativeLayoutShift": 0.013580403645833334
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next",
+      "url": "http://next.ie",
+      "originalURL": "next.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7994,
+    "speedIndex": 12449.240457546346,
+    "largestContentfulPaint": 12821.5,
+    "timeToInteractive": 20241,
+    "totalBlockingTime": 2642.5,
+    "cumulativeLayoutShift": 0.013580403645833334
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next",
+      "url": "http://next.ie",
+      "originalURL": "next.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 8364,
+    "speedIndex": 12709.010000534478,
+    "largestContentfulPaint": 13626.5,
+    "timeToInteractive": 20810.5,
+    "totalBlockingTime": 2592,
+    "cumulativeLayoutShift": 0.013580403645833334
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next",
+      "url": "http://next.ie",
+      "originalURL": "next.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7956,
+    "speedIndex": 11296.25794627376,
+    "largestContentfulPaint": 13016,
+    "timeToInteractive": 20594.5,
+    "totalBlockingTime": 2041,
+    "cumulativeLayoutShift": 0.013580403645833334
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "next",
+      "url": "http://next.ie",
+      "originalURL": "next.ie"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.25,
+    "seo": 0.79,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 7980,
+    "speedIndex": 12396.866767317224,
+    "largestContentfulPaint": 13107.5,
+    "timeToInteractive": 19571,
+    "totalBlockingTime": 2177.5,
+    "cumulativeLayoutShift": 0.013580403645833334
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eatthis",
+      "url": "http://eatthis.com",
+      "originalURL": "eatthis.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3028,
+    "speedIndex": 9872.793349651782,
+    "largestContentfulPaint": 3253,
+    "timeToInteractive": 19328.5,
+    "totalBlockingTime": 1673,
+    "cumulativeLayoutShift": 0.5887531784784598
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eatthis",
+      "url": "http://eatthis.com",
+      "originalURL": "eatthis.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3180,
+    "speedIndex": 11127.907704007446,
+    "largestContentfulPaint": 3330,
+    "timeToInteractive": 20023,
+    "totalBlockingTime": 3276,
+    "cumulativeLayoutShift": 0.6271772336493171
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eatthis",
+      "url": "http://eatthis.com",
+      "originalURL": "eatthis.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3185,
+    "speedIndex": 12036.403397560727,
+    "largestContentfulPaint": 3335,
+    "timeToInteractive": 19591.5,
+    "totalBlockingTime": 2383.5,
+    "cumulativeLayoutShift": 0.59129619333788
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eatthis",
+      "url": "http://eatthis.com",
+      "originalURL": "eatthis.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3175,
+    "speedIndex": 10985.216728572825,
+    "largestContentfulPaint": 3325,
+    "timeToInteractive": 19729.5,
+    "totalBlockingTime": 1959,
+    "cumulativeLayoutShift": 0.5901259874482537
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "eatthis",
+      "url": "http://eatthis.com",
+      "originalURL": "eatthis.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.21,
+    "seo": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3017,
+    "speedIndex": 10824.268824859011,
+    "largestContentfulPaint": 3092,
+    "timeToInteractive": 18494.5,
+    "totalBlockingTime": 1363,
+    "cumulativeLayoutShift": 0.627177233649317
+  }
+]

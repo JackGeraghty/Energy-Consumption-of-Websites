@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thesun",
+      "url": "http://thesun.ie",
+      "originalURL": "thesun.ie"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1068.5,
+    "speedIndex": 3697.6420443227216,
+    "largestContentfulPaint": 1608.5,
+    "timeToInteractive": 6249,
+    "totalBlockingTime": 252.5,
+    "cumulativeLayoutShift": 0.016551615445232468
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thesun",
+      "url": "http://thesun.ie",
+      "originalURL": "thesun.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1063.5,
+    "speedIndex": 3875.10234181986,
+    "largestContentfulPaint": 1638.5,
+    "timeToInteractive": 6301,
+    "totalBlockingTime": 246,
+    "cumulativeLayoutShift": 0.017100078802206462
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thesun",
+      "url": "http://thesun.ie",
+      "originalURL": "thesun.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 3923.28594685833,
+    "largestContentfulPaint": 1650.5,
+    "timeToInteractive": 6324,
+    "totalBlockingTime": 255,
+    "cumulativeLayoutShift": 0.016594168636721827
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thesun",
+      "url": "http://thesun.ie",
+      "originalURL": "thesun.ie"
+    },
+    "performance": 0.52,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1070,
+    "speedIndex": 3991.535590364724,
+    "largestContentfulPaint": 1649.5,
+    "timeToInteractive": 6358,
+    "totalBlockingTime": 408,
+    "cumulativeLayoutShift": 0.017100078802206462
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "thesun",
+      "url": "http://thesun.ie",
+      "originalURL": "thesun.ie"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.22,
+    "seo": 1,
+    "accessibility": 0.82,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1067.5,
+    "speedIndex": 4278.966075023876,
+    "largestContentfulPaint": 1642.5,
+    "timeToInteractive": 6297,
+    "totalBlockingTime": 264,
+    "cumulativeLayoutShift": 0.01663672182821119
+  }
+]

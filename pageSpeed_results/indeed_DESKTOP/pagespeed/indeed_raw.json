@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeed",
+      "url": "http://indeed.com",
+      "originalURL": "indeed.com"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1228.132736809935,
+    "largestContentfulPaint": 2164,
+    "timeToInteractive": 2025,
+    "totalBlockingTime": 203,
+    "cumulativeLayoutShift": 0.00024130986778740914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeed",
+      "url": "http://indeed.com",
+      "originalURL": "indeed.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1317.1053467753532,
+    "largestContentfulPaint": 2202,
+    "timeToInteractive": 2065,
+    "totalBlockingTime": 239,
+    "cumulativeLayoutShift": 0.00024130986778740914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeed",
+      "url": "http://indeed.com",
+      "originalURL": "indeed.com"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1186.3269703723001,
+    "largestContentfulPaint": 2123,
+    "timeToInteractive": 1977,
+    "totalBlockingTime": 117,
+    "cumulativeLayoutShift": 0.00024130986778740914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeed",
+      "url": "http://indeed.com",
+      "originalURL": "indeed.com"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1597.0275514098157,
+    "largestContentfulPaint": 3041,
+    "timeToInteractive": 3304.5,
+    "totalBlockingTime": 1290.5,
+    "cumulativeLayoutShift": 0.00024130986778740914
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeed",
+      "url": "http://indeed.com",
+      "originalURL": "indeed.com"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.19,
+    "seo": 0.91,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1097.8871538508643,
+    "largestContentfulPaint": 2280,
+    "timeToInteractive": 1946,
+    "totalBlockingTime": 154,
+    "cumulativeLayoutShift": 0.00024130986778740914
+  }
+]

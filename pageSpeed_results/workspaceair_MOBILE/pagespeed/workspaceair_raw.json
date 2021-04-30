@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 4121.5,
+    "speedIndex": 21467.672593661417,
+    "largestContentfulPaint": 18885.5,
+    "timeToInteractive": 20090.5,
+    "totalBlockingTime": 26,
+    "cumulativeLayoutShift": 0.5206218626234266
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 4148.5,
+    "speedIndex": 14540.28422931552,
+    "largestContentfulPaint": 18984,
+    "timeToInteractive": 13625,
+    "totalBlockingTime": 60.5,
+    "cumulativeLayoutShift": 0.5641643939548069
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 4109,
+    "speedIndex": 10704.14487722843,
+    "largestContentfulPaint": 18708,
+    "timeToInteractive": 17137.5,
+    "totalBlockingTime": 74,
+    "cumulativeLayoutShift": 0.5206088383992513
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 4099.5,
+    "speedIndex": 19389.296454672185,
+    "largestContentfulPaint": 18689.5,
+    "timeToInteractive": 19682.5,
+    "totalBlockingTime": 50.5,
+    "cumulativeLayoutShift": 0.5206218626234266
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "workspaceair",
+      "url": "http://workspaceair.com",
+      "originalURL": "workspaceair.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.42,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 4099.5,
+    "speedIndex": 17220.00284277865,
+    "largestContentfulPaint": 18941,
+    "timeToInteractive": 20180,
+    "totalBlockingTime": 480.5,
+    "cumulativeLayoutShift": 0.5206218626234266
+  }
+]

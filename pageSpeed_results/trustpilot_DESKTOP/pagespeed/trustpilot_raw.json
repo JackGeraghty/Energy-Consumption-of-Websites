@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trustpilot",
+      "url": "http://trustpilot.com",
+      "originalURL": "trustpilot.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1162,
+    "speedIndex": 1218.946276817345,
+    "largestContentfulPaint": 2245,
+    "timeToInteractive": 2816,
+    "totalBlockingTime": 302,
+    "cumulativeLayoutShift": 0.0016852231269882964
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trustpilot",
+      "url": "http://trustpilot.com",
+      "originalURL": "trustpilot.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1194,
+    "speedIndex": 1194,
+    "largestContentfulPaint": 2230,
+    "timeToInteractive": 2699,
+    "totalBlockingTime": 200.5,
+    "cumulativeLayoutShift": 0.001651063829787234
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trustpilot",
+      "url": "http://trustpilot.com",
+      "originalURL": "trustpilot.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1125,
+    "speedIndex": 1171.0830595705188,
+    "largestContentfulPaint": 2255,
+    "timeToInteractive": 2694,
+    "totalBlockingTime": 172.5,
+    "cumulativeLayoutShift": 0.0015244666258062633
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trustpilot",
+      "url": "http://trustpilot.com",
+      "originalURL": "trustpilot.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1444,
+    "speedIndex": 1444,
+    "largestContentfulPaint": 2177.5,
+    "timeToInteractive": 2669,
+    "totalBlockingTime": 184.5,
+    "cumulativeLayoutShift": 0.001490307328605201
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trustpilot",
+      "url": "http://trustpilot.com",
+      "originalURL": "trustpilot.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.37,
+    "seo": 0.83,
+    "accessibility": 0.85,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1120,
+    "speedIndex": 1120,
+    "largestContentfulPaint": 2195,
+    "timeToInteractive": 2648,
+    "totalBlockingTime": 219,
+    "cumulativeLayoutShift": 0.0016852231269882964
+  }
+]

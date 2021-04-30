@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ucc",
+      "url": "http://ucc.ie",
+      "originalURL": "ucc.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucc.ie/",
+        920,
+        741,
+        741,
+        0.045247
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucc",
+      "url": "http://ucc.ie",
+      "originalURL": "ucc.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 765,
+    "decodedBodySize": 765,
+    "transferSize": 944,
+    "resourcesList": [
+      [
+        "http://ucc.ie/",
+        944,
+        765,
+        765,
+        0.045879
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucc",
+      "url": "http://ucc.ie",
+      "originalURL": "ucc.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucc.ie/",
+        920,
+        741,
+        741,
+        0.045206
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucc",
+      "url": "http://ucc.ie",
+      "originalURL": "ucc.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucc.ie/",
+        920,
+        741,
+        741,
+        0.045183
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ucc",
+      "url": "http://ucc.ie",
+      "originalURL": "ucc.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 741,
+    "decodedBodySize": 741,
+    "transferSize": 920,
+    "resourcesList": [
+      [
+        "http://ucc.ie/",
+        920,
+        741,
+        741,
+        0.04498
+      ]
+    ]
+  }
+]

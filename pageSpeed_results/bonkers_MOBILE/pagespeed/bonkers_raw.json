@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bonkers",
+      "url": "http://bonkers.ie",
+      "originalURL": "bonkers.ie"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.89,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4489.004145903716,
+    "largestContentfulPaint": 6905,
+    "timeToInteractive": 12489,
+    "totalBlockingTime": 918.5,
+    "cumulativeLayoutShift": 0.134375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bonkers",
+      "url": "http://bonkers.ie",
+      "originalURL": "bonkers.ie"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4346.1128568905315,
+    "largestContentfulPaint": 5878,
+    "timeToInteractive": 12965,
+    "totalBlockingTime": 1241.5,
+    "cumulativeLayoutShift": 0.134375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bonkers",
+      "url": "http://bonkers.ie",
+      "originalURL": "bonkers.ie"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 3870,
+    "largestContentfulPaint": 6560,
+    "timeToInteractive": 11426.5,
+    "totalBlockingTime": 466,
+    "cumulativeLayoutShift": 0.134375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bonkers",
+      "url": "http://bonkers.ie",
+      "originalURL": "bonkers.ie"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.75,
+    "seo": 0.91,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4876.554051651625,
+    "largestContentfulPaint": 6834,
+    "timeToInteractive": 12488,
+    "totalBlockingTime": 617.5,
+    "cumulativeLayoutShift": 0.134375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bonkers",
+      "url": "http://bonkers.ie",
+      "originalURL": "bonkers.ie"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": null,
+    "seo": 0.91,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 3870,
+    "speedIndex": 4899.0462861644955,
+    "largestContentfulPaint": 4095,
+    "timeToInteractive": 12033,
+    "totalBlockingTime": 674,
+    "cumulativeLayoutShift": 0.134375
+  }
+]

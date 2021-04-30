@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powercity",
+      "url": "http://powercity.ie",
+      "originalURL": "powercity.ie"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 707,
+    "speedIndex": 2999.8377238765033,
+    "largestContentfulPaint": 2805,
+    "timeToInteractive": 707,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 1.1748686565683097
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powercity",
+      "url": "http://powercity.ie",
+      "originalURL": "powercity.ie"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 712,
+    "speedIndex": 2094.1977154097003,
+    "largestContentfulPaint": 1920,
+    "timeToInteractive": 712,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 1.602549540320462
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powercity",
+      "url": "http://powercity.ie",
+      "originalURL": "powercity.ie"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 707,
+    "speedIndex": 2055.334531825525,
+    "largestContentfulPaint": 1590.5,
+    "timeToInteractive": 707,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 1.064460987070601
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powercity",
+      "url": "http://powercity.ie",
+      "originalURL": "powercity.ie"
+    },
+    "performance": 0.81,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 720,
+    "speedIndex": 2137.645113012175,
+    "largestContentfulPaint": 1771,
+    "timeToInteractive": 1380,
+    "totalBlockingTime": 2.5,
+    "cumulativeLayoutShift": 1.5651814517117588
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "powercity",
+      "url": "http://powercity.ie",
+      "originalURL": "powercity.ie"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 720,
+    "speedIndex": 2362.996031704531,
+    "largestContentfulPaint": 1960.5,
+    "timeToInteractive": 1380,
+    "totalBlockingTime": 2.5,
+    "cumulativeLayoutShift": 1.1706722353559234
+  }
+]

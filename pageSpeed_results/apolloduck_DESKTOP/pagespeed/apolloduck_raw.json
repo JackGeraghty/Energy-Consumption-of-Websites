@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apolloduck",
+      "url": "http://apolloduck.ie",
+      "originalURL": "apolloduck.ie"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 937,
+    "speedIndex": 2494.5802827774155,
+    "largestContentfulPaint": 1110,
+    "timeToInteractive": 1437,
+    "totalBlockingTime": 3.5,
+    "cumulativeLayoutShift": 0.0015927221784432185
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apolloduck",
+      "url": "http://apolloduck.ie",
+      "originalURL": "apolloduck.ie"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 936,
+    "speedIndex": 1830.8939912685873,
+    "largestContentfulPaint": 1113,
+    "timeToInteractive": 1440,
+    "totalBlockingTime": 5,
+    "cumulativeLayoutShift": 0.000012818492251116364
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apolloduck",
+      "url": "http://apolloduck.ie",
+      "originalURL": "apolloduck.ie"
+    },
+    "performance": 0.93,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 945,
+    "speedIndex": 1679.676907565147,
+    "largestContentfulPaint": 1110,
+    "timeToInteractive": 1433,
+    "totalBlockingTime": 1.5,
+    "cumulativeLayoutShift": 0.000012818492251116364
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apolloduck",
+      "url": "http://apolloduck.ie",
+      "originalURL": "apolloduck.ie"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.48,
+    "seo": 0.91,
+    "accessibility": 0.98,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 936,
+    "speedIndex": 1065.1721765071788,
+    "largestContentfulPaint": 1135,
+    "timeToInteractive": 1442,
+    "totalBlockingTime": 6,
+    "cumulativeLayoutShift": 0.000012818492251116364
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "apolloduck",
+      "url": "http://apolloduck.ie",
+      "originalURL": "apolloduck.ie"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.48,
+    "seo": 0.82,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 961,
+    "speedIndex": 1186.0374578529618,
+    "largestContentfulPaint": 1155,
+    "timeToInteractive": 1418,
+    "totalBlockingTime": 4,
+    "cumulativeLayoutShift": 0.000012818492251116364
+  }
+]

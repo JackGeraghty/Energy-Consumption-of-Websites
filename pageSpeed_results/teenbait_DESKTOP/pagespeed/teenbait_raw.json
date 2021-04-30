@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teenbait",
+      "url": "http://teenbait.net",
+      "originalURL": "teenbait.net"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.37,
+    "seo": 0.7,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 718,
+    "speedIndex": 1083.400464270362,
+    "largestContentfulPaint": 718,
+    "timeToInteractive": 718,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.004871111111111112
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teenbait",
+      "url": "http://teenbait.net",
+      "originalURL": "teenbait.net"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.37,
+    "seo": 0.7,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 715,
+    "speedIndex": 978.5760093167739,
+    "largestContentfulPaint": 715,
+    "timeToInteractive": 715,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0036922301024428688
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teenbait",
+      "url": "http://teenbait.net",
+      "originalURL": "teenbait.net"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.37,
+    "seo": 0.7,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 720,
+    "speedIndex": 980.6193252672007,
+    "largestContentfulPaint": 720,
+    "timeToInteractive": 720,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.004871111111111112
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teenbait",
+      "url": "http://teenbait.net",
+      "originalURL": "teenbait.net"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.37,
+    "seo": 0.7,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 719,
+    "speedIndex": 891.9716097228577,
+    "largestContentfulPaint": 719,
+    "timeToInteractive": 719,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0036922301024428688
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "teenbait",
+      "url": "http://teenbait.net",
+      "originalURL": "teenbait.net"
+    },
+    "performance": 0.99,
+    "progressiveWebApp": 0.37,
+    "seo": 0.7,
+    "accessibility": 0.74,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 716,
+    "speedIndex": 1010.1223143859536,
+    "largestContentfulPaint": 716,
+    "timeToInteractive": 716,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0.0036922301024428688
+  }
+]

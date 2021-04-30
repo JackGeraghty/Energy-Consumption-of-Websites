@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topsec",
+      "url": "http://topsec.com",
+      "originalURL": "topsec.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3081.5,
+    "speedIndex": 3495.6061914699994,
+    "largestContentfulPaint": 3955,
+    "timeToInteractive": 5129,
+    "totalBlockingTime": 82,
+    "cumulativeLayoutShift": 0.06926619385342789
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topsec",
+      "url": "http://topsec.com",
+      "originalURL": "topsec.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3138,
+    "speedIndex": 3604.8993043523596,
+    "largestContentfulPaint": 3718.5,
+    "timeToInteractive": 5159.5,
+    "totalBlockingTime": 70.5,
+    "cumulativeLayoutShift": 0.06926619385342789
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topsec",
+      "url": "http://topsec.com",
+      "originalURL": "topsec.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3126.5,
+    "speedIndex": 3469.3637246443222,
+    "largestContentfulPaint": 4704.5,
+    "timeToInteractive": 5093.5,
+    "totalBlockingTime": 58,
+    "cumulativeLayoutShift": 0.06926619385342789
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topsec",
+      "url": "http://topsec.com",
+      "originalURL": "topsec.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3114.5,
+    "speedIndex": 3439.9539324591196,
+    "largestContentfulPaint": 4514,
+    "timeToInteractive": 5087,
+    "totalBlockingTime": 54,
+    "cumulativeLayoutShift": 0.06926619385342789
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "topsec",
+      "url": "http://topsec.com",
+      "originalURL": "topsec.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.86,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3151,
+    "speedIndex": 3438.1654137680553,
+    "largestContentfulPaint": 3671,
+    "timeToInteractive": 5146,
+    "totalBlockingTime": 88,
+    "cumulativeLayoutShift": 0.06926619385342789
+  }
+]

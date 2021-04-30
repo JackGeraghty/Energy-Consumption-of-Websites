@@ -1,0 +1,207 @@
+[
+  {
+    "urlData": {
+      "webpageName": "iptorrents",
+      "url": "http://iptorrents.com",
+      "originalURL": "iptorrents.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23375,
+    "decodedBodySize": 50439,
+    "transferSize": 23911,
+    "resourcesList": [
+      [
+        "https://iptorrents.com/login.php",
+        9471,
+        9259,
+        9259,
+        0.047421
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14135,
+        14032,
+        41096,
+        0.047421
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230490d08c134ef",
+        93,
+        42,
+        42,
+        0.047421
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6230490d08c134ef",
+        212,
+        42,
+        42,
+        0.047421
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "iptorrents",
+      "url": "http://iptorrents.com",
+      "originalURL": "iptorrents.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23375,
+    "decodedBodySize": 50439,
+    "transferSize": 23902,
+    "resourcesList": [
+      [
+        "https://iptorrents.com/login.php",
+        9471,
+        9259,
+        9259,
+        0.046523
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14126,
+        14032,
+        41096,
+        0.046523
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230491059ba3502",
+        212,
+        42,
+        42,
+        0.046523
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6230491059ba3502",
+        93,
+        42,
+        42,
+        0.046523
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "iptorrents",
+      "url": "http://iptorrents.com",
+      "originalURL": "iptorrents.com"
+    },
+    "numTransferred": 4,
+    "encodedBodySize": 23355,
+    "decodedBodySize": 50419,
+    "transferSize": 23882,
+    "resourcesList": [
+      [
+        "https://iptorrents.com/login.php",
+        9451,
+        9239,
+        9239,
+        0.04813
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14126,
+        14032,
+        41096,
+        0.04813
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=623049139eab34f0",
+        212,
+        42,
+        42,
+        0.04813
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=623049139eab34f0",
+        93,
+        42,
+        42,
+        0.04813
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "iptorrents",
+      "url": "http://iptorrents.com",
+      "originalURL": "iptorrents.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23355,
+    "decodedBodySize": 50419,
+    "transferSize": 23880,
+    "resourcesList": [
+      [
+        "https://iptorrents.com/login.php",
+        9450,
+        9239,
+        9239,
+        0.046961
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14125,
+        14032,
+        41096,
+        0.046961
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230491718f834c0",
+        93,
+        42,
+        42,
+        0.046961
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6230491718f834c0",
+        212,
+        42,
+        42,
+        0.046961
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "iptorrents",
+      "url": "http://iptorrents.com",
+      "originalURL": "iptorrents.com"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 23375,
+    "decodedBodySize": 50439,
+    "transferSize": 23893,
+    "resourcesList": [
+      [
+        "https://iptorrents.com/login.php",
+        9471,
+        9259,
+        9259,
+        0.04911
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1",
+        14117,
+        14032,
+        41096,
+        0.04911
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230491a5b8834d1",
+        212,
+        42,
+        42,
+        0.04911
+      ],
+      [
+        "https://iptorrents.com/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6230491a5b8834d1",
+        93,
+        42,
+        42,
+        0.04911
+      ]
+    ]
+  }
+]

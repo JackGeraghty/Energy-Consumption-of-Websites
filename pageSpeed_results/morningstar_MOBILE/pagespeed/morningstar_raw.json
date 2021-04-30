@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morningstar",
+      "url": "http://morningstar.com",
+      "originalURL": "morningstar.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3180,
+    "speedIndex": 12635.347901237885,
+    "largestContentfulPaint": 18889,
+    "timeToInteractive": 24705,
+    "totalBlockingTime": 5130.5,
+    "cumulativeLayoutShift": 0.09818200683593749
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morningstar",
+      "url": "http://morningstar.com",
+      "originalURL": "morningstar.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3243,
+    "speedIndex": 12830.432601552511,
+    "largestContentfulPaint": 19358,
+    "timeToInteractive": 28237.5,
+    "totalBlockingTime": 4591,
+    "cumulativeLayoutShift": 0.09818200683593749
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morningstar",
+      "url": "http://morningstar.com",
+      "originalURL": "morningstar.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3245,
+    "speedIndex": 12120.440011919394,
+    "largestContentfulPaint": 20099,
+    "timeToInteractive": 26203,
+    "totalBlockingTime": 6068.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morningstar",
+      "url": "http://morningstar.com",
+      "originalURL": "morningstar.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3229,
+    "speedIndex": 10799.546182870443,
+    "largestContentfulPaint": 18877.5,
+    "timeToInteractive": 24675,
+    "totalBlockingTime": 5480.5,
+    "cumulativeLayoutShift": 0.1180892333984375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "morningstar",
+      "url": "http://morningstar.com",
+      "originalURL": "morningstar.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.82,
+    "accessibility": 0.9,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3225,
+    "speedIndex": 13682.977365931458,
+    "largestContentfulPaint": 19713,
+    "timeToInteractive": 29144,
+    "totalBlockingTime": 5096.5,
+    "cumulativeLayoutShift": 0.09818200683593749
+  }
+]

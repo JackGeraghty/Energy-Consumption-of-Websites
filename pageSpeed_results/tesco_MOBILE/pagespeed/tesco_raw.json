@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesco",
+      "url": "http://tesco.ie",
+      "originalURL": "tesco.ie"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3345,
+    "speedIndex": 4644.403838877928,
+    "largestContentfulPaint": 4770,
+    "timeToInteractive": 8974,
+    "totalBlockingTime": 1177,
+    "cumulativeLayoutShift": 0.0012194824218750002
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesco",
+      "url": "http://tesco.ie",
+      "originalURL": "tesco.ie"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3345,
+    "speedIndex": 4899.364787770271,
+    "largestContentfulPaint": 4635,
+    "timeToInteractive": 8615,
+    "totalBlockingTime": 1545,
+    "cumulativeLayoutShift": 0.0012194824218750002
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesco",
+      "url": "http://tesco.ie",
+      "originalURL": "tesco.ie"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3345,
+    "speedIndex": 4845.528735371038,
+    "largestContentfulPaint": 4395,
+    "timeToInteractive": 9104,
+    "totalBlockingTime": 1242,
+    "cumulativeLayoutShift": 0.0012194824218750002
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesco",
+      "url": "http://tesco.ie",
+      "originalURL": "tesco.ie"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3330,
+    "speedIndex": 5006.3127129204695,
+    "largestContentfulPaint": 4170,
+    "timeToInteractive": 9369,
+    "totalBlockingTime": 1478.5,
+    "cumulativeLayoutShift": 0.0012194824218750002
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tesco",
+      "url": "http://tesco.ie",
+      "originalURL": "tesco.ie"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.92,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3345,
+    "speedIndex": 4480.455199963043,
+    "largestContentfulPaint": 8288,
+    "timeToInteractive": 8438,
+    "totalBlockingTime": 1368,
+    "cumulativeLayoutShift": 0.0012194824218750002
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.74,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 830,
+    "speedIndex": 915.5377774902097,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 1173,
+    "totalBlockingTime": 52,
+    "cumulativeLayoutShift": 0.004160675364095379
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "performance": 0.94,
+    "progressiveWebApp": 0.74,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1059.3192306898036,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 970,
+    "totalBlockingTime": 96,
+    "cumulativeLayoutShift": 0.0042686046172255784
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "performance": 0.92,
+    "progressiveWebApp": 0.74,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 570,
+    "speedIndex": 1316.7065862656323,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 1287,
+    "totalBlockingTime": 124,
+    "cumulativeLayoutShift": 0.0042686046172255784
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.74,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 570,
+    "speedIndex": 841.9509447410762,
+    "largestContentfulPaint": 1450,
+    "timeToInteractive": 1112,
+    "totalBlockingTime": 28.5,
+    "cumulativeLayoutShift": 0.004178090651723433
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "padlet",
+      "url": "http://padlet.com",
+      "originalURL": "padlet.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.74,
+    "seo": 1,
+    "accessibility": 0.84,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 830,
+    "speedIndex": 834.6366421528528,
+    "largestContentfulPaint": 1390,
+    "timeToInteractive": 1167,
+    "totalBlockingTime": 46,
+    "cumulativeLayoutShift": 0.004178090651723433
+  }
+]

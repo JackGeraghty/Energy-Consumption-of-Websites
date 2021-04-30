@@ -1,0 +1,277 @@
+[
+  {
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 64235,
+    "decodedBodySize": 140509,
+    "transferSize": 67503,
+    "resourcesList": [
+      [
+        "https://pirateproxy.surf/",
+        2010,
+        1381,
+        4348,
+        0.057673
+      ],
+      [
+        "https://static.pirateproxy.rip/normalize.css",
+        1226,
+        640,
+        1873,
+        0.057673
+      ],
+      [
+        "https://static.pirateproxy.rip/tpb.css",
+        1601,
+        1252,
+        4816,
+        0.057673
+      ],
+      [
+        "https://static.pirateproxy.rip/main.js",
+        3525,
+        2682,
+        10973,
+        0.057673
+      ],
+      [
+        "https://static.pirateproxy.rip/images/tpb.jpg",
+        19565,
+        19176,
+        19176,
+        0.057673
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=UA-127802793-1",
+        39576,
+        39104,
+        99323,
+        0.057673
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 64235,
+    "decodedBodySize": 140509,
+    "transferSize": 67492,
+    "resourcesList": [
+      [
+        "https://pirateproxy.surf/",
+        2011,
+        1381,
+        4348,
+        0.052658
+      ],
+      [
+        "https://static.pirateproxy.rip/normalize.css",
+        986,
+        640,
+        1873,
+        0.052658
+      ],
+      [
+        "https://static.pirateproxy.rip/tpb.css",
+        1832,
+        1252,
+        4816,
+        0.052658
+      ],
+      [
+        "https://static.pirateproxy.rip/main.js",
+        3528,
+        2682,
+        10973,
+        0.052658
+      ],
+      [
+        "https://static.pirateproxy.rip/images/tpb.jpg",
+        19559,
+        19176,
+        19176,
+        0.052658
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=UA-127802793-1",
+        39576,
+        39104,
+        99323,
+        0.052658
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "numTransferred": 8,
+    "encodedBodySize": 64231,
+    "decodedBodySize": 140509,
+    "transferSize": 67482,
+    "resourcesList": [
+      [
+        "https://pirateproxy.surf/",
+        2010,
+        1381,
+        4348,
+        0.059089
+      ],
+      [
+        "https://static.pirateproxy.rip/normalize.css",
+        990,
+        640,
+        1873,
+        0.059089
+      ],
+      [
+        "https://static.pirateproxy.rip/tpb.css",
+        1832,
+        1252,
+        4816,
+        0.059089
+      ],
+      [
+        "https://static.pirateproxy.rip/main.js",
+        3523,
+        2682,
+        10973,
+        0.059089
+      ],
+      [
+        "https://static.pirateproxy.rip/images/tpb.jpg",
+        19555,
+        19176,
+        19176,
+        0.059089
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=UA-127802793-1",
+        39572,
+        39100,
+        99323,
+        0.059089
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 64235,
+    "decodedBodySize": 140509,
+    "transferSize": 67500,
+    "resourcesList": [
+      [
+        "https://pirateproxy.surf/",
+        2015,
+        1381,
+        4348,
+        0.060341
+      ],
+      [
+        "https://static.pirateproxy.rip/normalize.css",
+        1214,
+        640,
+        1873,
+        0.060341
+      ],
+      [
+        "https://static.pirateproxy.rip/tpb.css",
+        1603,
+        1252,
+        4816,
+        0.060341
+      ],
+      [
+        "https://static.pirateproxy.rip/main.js",
+        3528,
+        2682,
+        10973,
+        0.060341
+      ],
+      [
+        "https://static.pirateproxy.rip/images/tpb.jpg",
+        19564,
+        19176,
+        19176,
+        0.060341
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=UA-127802793-1",
+        39576,
+        39104,
+        99323,
+        0.060341
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "pirateproxy",
+      "url": "http://pirateproxy.surf",
+      "originalURL": "pirateproxy.surf"
+    },
+    "numTransferred": 6,
+    "encodedBodySize": 64235,
+    "decodedBodySize": 140509,
+    "transferSize": 67531,
+    "resourcesList": [
+      [
+        "https://pirateproxy.surf/",
+        2012,
+        1381,
+        4348,
+        0.05674
+      ],
+      [
+        "https://static.pirateproxy.rip/normalize.css",
+        1698,
+        640,
+        1873,
+        0.05674
+      ],
+      [
+        "https://static.pirateproxy.rip/tpb.css",
+        1648,
+        1252,
+        4816,
+        0.05674
+      ],
+      [
+        "https://static.pirateproxy.rip/main.js",
+        3043,
+        2682,
+        10973,
+        0.05674
+      ],
+      [
+        "https://static.pirateproxy.rip/images/tpb.jpg",
+        19554,
+        19176,
+        19176,
+        0.05674
+      ],
+      [
+        "https://www.googletagmanager.com/gtag/js?id=UA-127802793-1",
+        39576,
+        39104,
+        99323,
+        0.05674
+      ]
+    ]
+  }
+]

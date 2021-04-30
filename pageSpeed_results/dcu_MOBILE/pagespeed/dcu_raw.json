@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dcu",
+      "url": "http://dcu.ie",
+      "originalURL": "dcu.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 8494.085931937792,
+    "largestContentfulPaint": 7530,
+    "timeToInteractive": 14058,
+    "totalBlockingTime": 1248,
+    "cumulativeLayoutShift": 0.16092097981770837
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dcu",
+      "url": "http://dcu.ie",
+      "originalURL": "dcu.ie"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 8342.97313148103,
+    "largestContentfulPaint": 8099.5,
+    "timeToInteractive": 13808,
+    "totalBlockingTime": 1377,
+    "cumulativeLayoutShift": 0.16478572591145832
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dcu",
+      "url": "http://dcu.ie",
+      "originalURL": "dcu.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 7872.9486417008775,
+    "largestContentfulPaint": 7620,
+    "timeToInteractive": 14890,
+    "totalBlockingTime": 1062.5,
+    "cumulativeLayoutShift": 0.23201133897569443
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dcu",
+      "url": "http://dcu.ie",
+      "originalURL": "dcu.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 7945.605590233634,
+    "largestContentfulPaint": 6613.5,
+    "timeToInteractive": 13776.5,
+    "totalBlockingTime": 1264,
+    "cumulativeLayoutShift": 0.2445036078559028
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dcu",
+      "url": "http://dcu.ie",
+      "originalURL": "dcu.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.21,
+    "seo": 0.84,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4530,
+    "speedIndex": 8027.3911135961325,
+    "largestContentfulPaint": 7467.5,
+    "timeToInteractive": 13774,
+    "totalBlockingTime": 1104.5,
+    "cumulativeLayoutShift": 0.1728911946614583
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "breitbart",
+      "url": "http://breitbart.com",
+      "originalURL": "breitbart.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.43,
+    "seo": 0.85,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4410,
+    "speedIndex": 20717.551138751904,
+    "largestContentfulPaint": 8040.5,
+    "timeToInteractive": 42185.5,
+    "totalBlockingTime": 6339.5,
+    "cumulativeLayoutShift": 0.5560526529947917
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "breitbart",
+      "url": "http://breitbart.com",
+      "originalURL": "breitbart.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.43,
+    "seo": 0.85,
+    "accessibility": 0.95,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4410,
+    "speedIndex": 18397.184853459497,
+    "largestContentfulPaint": 7785,
+    "timeToInteractive": 37191,
+    "totalBlockingTime": 3547.5,
+    "cumulativeLayoutShift": 0.5560526529947917
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "breitbart",
+      "url": "http://breitbart.com",
+      "originalURL": "breitbart.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.43,
+    "seo": 0.85,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4410,
+    "speedIndex": 22302.700689432357,
+    "largestContentfulPaint": 7935,
+    "timeToInteractive": 43331,
+    "totalBlockingTime": 6438.5,
+    "cumulativeLayoutShift": 0.5560526529947917
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "breitbart",
+      "url": "http://breitbart.com",
+      "originalURL": "breitbart.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.43,
+    "seo": 0.85,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4335,
+    "speedIndex": 20635.875607960224,
+    "largestContentfulPaint": 7942,
+    "timeToInteractive": 42660.5,
+    "totalBlockingTime": 5260.5,
+    "cumulativeLayoutShift": 0.5873026529947917
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "breitbart",
+      "url": "http://breitbart.com",
+      "originalURL": "breitbart.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.43,
+    "seo": 0.85,
+    "accessibility": 0.93,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3570,
+    "speedIndex": 19781.320123299392,
+    "largestContentfulPaint": 5745,
+    "timeToInteractive": 40199,
+    "totalBlockingTime": 6469.5,
+    "cumulativeLayoutShift": 0.5873026529947917
+  }
+]

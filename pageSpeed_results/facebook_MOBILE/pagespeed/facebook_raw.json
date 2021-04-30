@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com",
+      "originalURL": "facebook.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.67,
+    "seo": 0.75,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 4200,
+    "largestContentfulPaint": 4350,
+    "timeToInteractive": 4200,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com",
+      "originalURL": "facebook.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.67,
+    "seo": 0.75,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 4200,
+    "largestContentfulPaint": 4200,
+    "timeToInteractive": 4200,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com",
+      "originalURL": "facebook.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.67,
+    "seo": 0.75,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 4200,
+    "largestContentfulPaint": 4200,
+    "timeToInteractive": 4200,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com",
+      "originalURL": "facebook.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.67,
+    "seo": 0.75,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 4200,
+    "largestContentfulPaint": 4200,
+    "timeToInteractive": 4200,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "facebook",
+      "url": "http://facebook.com",
+      "originalURL": "facebook.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.67,
+    "seo": 0.75,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4200,
+    "speedIndex": 4200,
+    "largestContentfulPaint": 4200,
+    "timeToInteractive": 4200,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

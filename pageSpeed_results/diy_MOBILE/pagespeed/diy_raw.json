@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diy",
+      "url": "http://diy.com",
+      "originalURL": "diy.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4080,
+    "speedIndex": 13116.52014411522,
+    "largestContentfulPaint": 26986,
+    "timeToInteractive": 26567,
+    "totalBlockingTime": 2965.5,
+    "cumulativeLayoutShift": 0.5131944444444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diy",
+      "url": "http://diy.com",
+      "originalURL": "diy.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.96,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3891,
+    "speedIndex": 13223.397093028429,
+    "largestContentfulPaint": 27529.5,
+    "timeToInteractive": 27343.5,
+    "totalBlockingTime": 3440,
+    "cumulativeLayoutShift": 0.4911187065972222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diy",
+      "url": "http://diy.com",
+      "originalURL": "diy.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4104,
+    "speedIndex": 12969.038379654468,
+    "largestContentfulPaint": 27681.5,
+    "timeToInteractive": 24649,
+    "totalBlockingTime": 3313,
+    "cumulativeLayoutShift": 0.4911187065972222
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diy",
+      "url": "http://diy.com",
+      "originalURL": "diy.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4080,
+    "speedIndex": 10941.143781647044,
+    "largestContentfulPaint": 26298,
+    "timeToInteractive": 23394.5,
+    "totalBlockingTime": 2547.5,
+    "cumulativeLayoutShift": 0.5131944444444444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "diy",
+      "url": "http://diy.com",
+      "originalURL": "diy.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.21,
+    "seo": 0.91,
+    "accessibility": 0.98,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4080,
+    "speedIndex": 10685.502858647287,
+    "largestContentfulPaint": 26826.5,
+    "timeToInteractive": 23774,
+    "totalBlockingTime": 2732,
+    "cumulativeLayoutShift": 0.5131944444444444
+  }
+]

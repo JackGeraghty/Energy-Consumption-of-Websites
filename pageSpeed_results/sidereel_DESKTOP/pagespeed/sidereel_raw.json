@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sidereel",
+      "url": "http://sidereel.com",
+      "originalURL": "sidereel.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 804,
+    "speedIndex": 1133.7621280879175,
+    "largestContentfulPaint": 2630,
+    "timeToInteractive": 4552,
+    "totalBlockingTime": 58,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sidereel",
+      "url": "http://sidereel.com",
+      "originalURL": "sidereel.com"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 806,
+    "speedIndex": 875.9941967401343,
+    "largestContentfulPaint": 2380,
+    "timeToInteractive": 3230,
+    "totalBlockingTime": 134,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sidereel",
+      "url": "http://sidereel.com",
+      "originalURL": "sidereel.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 805,
+    "speedIndex": 877.7565747988976,
+    "largestContentfulPaint": 2320,
+    "timeToInteractive": 5864,
+    "totalBlockingTime": 139,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sidereel",
+      "url": "http://sidereel.com",
+      "originalURL": "sidereel.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 807,
+    "speedIndex": 2250.9420293665244,
+    "largestContentfulPaint": 2400,
+    "timeToInteractive": 5497.5,
+    "totalBlockingTime": 102.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sidereel",
+      "url": "http://sidereel.com",
+      "originalURL": "sidereel.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.26,
+    "seo": 0.92,
+    "accessibility": 0.6,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 806,
+    "speedIndex": 882.6335219154662,
+    "largestContentfulPaint": 1900,
+    "timeToInteractive": 3178.5,
+    "totalBlockingTime": 95.5,
+    "cumulativeLayoutShift": 0
+  }
+]

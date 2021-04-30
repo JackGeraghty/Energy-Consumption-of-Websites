@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.63,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1753.367018427077,
+    "largestContentfulPaint": 2960,
+    "timeToInteractive": 2054.5,
+    "totalBlockingTime": 67,
+    "cumulativeLayoutShift": 0.00008842716633102764
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.79,
+    "progressiveWebApp": 0.85,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1674.7012840625966,
+    "largestContentfulPaint": 2660,
+    "timeToInteractive": 2093.5,
+    "totalBlockingTime": 101,
+    "cumulativeLayoutShift": 0.00008932376032454834
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.59,
+    "seo": 0.91,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 1230,
+    "speedIndex": 1816.2459083795675,
+    "largestContentfulPaint": 2790,
+    "timeToInteractive": 2229,
+    "totalBlockingTime": 77,
+    "cumulativeLayoutShift": 0.35237997840235824
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.85,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1699.9915457458526,
+    "largestContentfulPaint": 2800,
+    "timeToInteractive": 2091,
+    "totalBlockingTime": 97,
+    "cumulativeLayoutShift": 0.00008932376032454834
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "tumblr",
+      "url": "http://tumblr.com",
+      "originalURL": "tumblr.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.85,
+    "seo": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 990,
+    "speedIndex": 1669.8951569502772,
+    "largestContentfulPaint": 2820,
+    "timeToInteractive": 2117.5,
+    "totalBlockingTime": 123,
+    "cumulativeLayoutShift": 0.00008932376032454834
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fandom",
+      "url": "http://fandom.com",
+      "originalURL": "fandom.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1660.4242345080675,
+    "largestContentfulPaint": 2267,
+    "timeToInteractive": 3914,
+    "totalBlockingTime": 159,
+    "cumulativeLayoutShift": 0.07175402445786999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fandom",
+      "url": "http://fandom.com",
+      "originalURL": "fandom.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1577.566560246817,
+    "largestContentfulPaint": 2264,
+    "timeToInteractive": 4180,
+    "totalBlockingTime": 270,
+    "cumulativeLayoutShift": 0.07175402445786999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fandom",
+      "url": "http://fandom.com",
+      "originalURL": "fandom.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1526.1408145073374,
+    "largestContentfulPaint": 2250,
+    "timeToInteractive": 3925,
+    "totalBlockingTime": 299.5,
+    "cumulativeLayoutShift": 0.07175402445786999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fandom",
+      "url": "http://fandom.com",
+      "originalURL": "fandom.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1391.7622386250825,
+    "largestContentfulPaint": 2198,
+    "timeToInteractive": 3749.5,
+    "totalBlockingTime": 125,
+    "cumulativeLayoutShift": 0.07175402445786999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "fandom",
+      "url": "http://fandom.com",
+      "originalURL": "fandom.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.26,
+    "seo": 0.83,
+    "accessibility": 0.61,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 960,
+    "speedIndex": 1455.9963996061085,
+    "largestContentfulPaint": 2236,
+    "timeToInteractive": 3827.5,
+    "totalBlockingTime": 227,
+    "cumulativeLayoutShift": 0.07175402445786999
+  }
+]

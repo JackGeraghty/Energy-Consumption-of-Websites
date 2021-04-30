@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "readingeggs",
+      "url": "http://readingeggs.com",
+      "originalURL": "readingeggs.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3690,
+    "speedIndex": 6787.257259304645,
+    "largestContentfulPaint": 14025,
+    "timeToInteractive": 11669.5,
+    "totalBlockingTime": 512,
+    "cumulativeLayoutShift": 0.010270846896701387
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "readingeggs",
+      "url": "http://readingeggs.com",
+      "originalURL": "readingeggs.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3540,
+    "speedIndex": 6018.173588826401,
+    "largestContentfulPaint": 11775,
+    "timeToInteractive": 11719.5,
+    "totalBlockingTime": 507,
+    "cumulativeLayoutShift": 0.01342251247829861
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "readingeggs",
+      "url": "http://readingeggs.com",
+      "originalURL": "readingeggs.com"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3540,
+    "speedIndex": 6181.917368342819,
+    "largestContentfulPaint": 14175,
+    "timeToInteractive": 10724,
+    "totalBlockingTime": 446,
+    "cumulativeLayoutShift": 0.009183851453993055
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "readingeggs",
+      "url": "http://readingeggs.com",
+      "originalURL": "readingeggs.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3540,
+    "speedIndex": 6793.228866226744,
+    "largestContentfulPaint": 11475,
+    "timeToInteractive": 10667,
+    "totalBlockingTime": 486.5,
+    "cumulativeLayoutShift": 0.01342251247829861
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "readingeggs",
+      "url": "http://readingeggs.com",
+      "originalURL": "readingeggs.com"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3540,
+    "speedIndex": 6403.6166392821115,
+    "largestContentfulPaint": 14325,
+    "timeToInteractive": 10749,
+    "totalBlockingTime": 702.5,
+    "cumulativeLayoutShift": 0.009183851453993055
+  }
+]

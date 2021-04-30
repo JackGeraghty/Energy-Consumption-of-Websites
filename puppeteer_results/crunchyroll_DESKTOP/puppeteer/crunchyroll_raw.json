@@ -1,0 +1,326 @@
+[
+  {
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 29115,
+    "decodedBodySize": 83310,
+    "transferSize": 33073,
+    "resourcesList": [
+      [
+        "http://www.crunchyroll.com/",
+        6522,
+        5555,
+        11612,
+        0.06501
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/styles/cf.errors.css",
+        4923,
+        4427,
+        23688,
+        0.06501
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        16372,
+        15742,
+        44619,
+        0.06501
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=62306568dcf106f5",
+        507,
+        42,
+        42,
+        0.06501
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=62306568dcf106f5",
+        507,
+        42,
+        42,
+        0.06501
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/browser-bar.png?1376755637",
+        1182,
+        715,
+        715,
+        0.06501
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+        3060,
+        2592,
+        2592,
+        0.06501
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 29116,
+    "decodedBodySize": 83311,
+    "transferSize": 33069,
+    "resourcesList": [
+      [
+        "http://www.crunchyroll.com/",
+        6523,
+        5556,
+        11613,
+        0.06351
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/styles/cf.errors.css",
+        4923,
+        4427,
+        23688,
+        0.06351
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        16367,
+        15742,
+        44619,
+        0.06351
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230656c5f1640a2",
+        507,
+        42,
+        42,
+        0.06351
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=6230656c5f1640a2",
+        507,
+        42,
+        42,
+        0.06351
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/browser-bar.png?1376755637",
+        1182,
+        715,
+        715,
+        0.06351
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+        3060,
+        2592,
+        2592,
+        0.06351
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 29104,
+    "decodedBodySize": 83311,
+    "transferSize": 33057,
+    "resourcesList": [
+      [
+        "http://www.crunchyroll.com/",
+        6511,
+        5544,
+        11613,
+        0.063484
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/styles/cf.errors.css",
+        4923,
+        4427,
+        23688,
+        0.063484
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        16367,
+        15742,
+        44619,
+        0.063484
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230656fedce0706",
+        507,
+        42,
+        42,
+        0.063484
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=6230656fedce0706",
+        507,
+        42,
+        42,
+        0.063484
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/browser-bar.png?1376755637",
+        1182,
+        715,
+        715,
+        0.063484
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+        3060,
+        2592,
+        2592,
+        0.063484
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "numTransferred": 12,
+    "encodedBodySize": 56686,
+    "decodedBodySize": 185483,
+    "transferSize": 62110,
+    "resourcesList": [
+      [
+        "http://www.crunchyroll.com/",
+        6520,
+        5553,
+        11613,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/styles/cf.errors.css",
+        4923,
+        4427,
+        23688,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        16372,
+        15742,
+        44619,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=623065733d75dc3f",
+        507,
+        42,
+        42,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=623065733d75dc3f",
+        507,
+        42,
+        42,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/browser-bar.png?1376755637",
+        1182,
+        715,
+        715,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+        3060,
+        2592,
+        2592,
+        0.582521
+      ],
+      [
+        "https://hcaptcha.com/1/api.js?render=explicit&recaptchacompat=off&onload=_cf_chl_hload",
+        22160,
+        21411,
+        68315,
+        0.582521
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/challenge-platform/h/g/generate/ov1/0.6753703697772951:1613570610:056497142589c8bcc709504a1721017f9e90fe1708b9d103b98a03ac7d990d73/623065733d75dc3f/d9af031e916dc2d",
+        6879,
+        6162,
+        33857,
+        0.582521
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "crunchyroll",
+      "url": "http://crunchyroll.com",
+      "originalURL": "crunchyroll.com"
+    },
+    "numTransferred": 9,
+    "encodedBodySize": 29108,
+    "decodedBodySize": 83311,
+    "transferSize": 33061,
+    "resourcesList": [
+      [
+        "http://www.crunchyroll.com/",
+        6515,
+        5548,
+        11613,
+        0.06568
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/styles/cf.errors.css",
+        4923,
+        4427,
+        23688,
+        0.06568
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1",
+        16367,
+        15742,
+        44619,
+        0.06568
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6230657b8d58dc13",
+        507,
+        42,
+        42,
+        0.06568
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=6230657b8d58dc13",
+        507,
+        42,
+        42,
+        0.06568
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/browser-bar.png?1376755637",
+        1182,
+        715,
+        715,
+        0.06568
+      ],
+      [
+        "http://www.crunchyroll.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+        3060,
+        2592,
+        2592,
+        0.06568
+      ]
+    ]
+  }
+]

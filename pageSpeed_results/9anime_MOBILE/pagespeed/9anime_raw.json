@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9anime",
+      "url": "http://9anime.to",
+      "originalURL": "9anime.to"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.75,
+    "seo": 0.88,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 4808.66990393758,
+    "largestContentfulPaint": 4800,
+    "timeToInteractive": 12182.5,
+    "totalBlockingTime": 684.5,
+    "cumulativeLayoutShift": 0.028727166917588975
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9anime",
+      "url": "http://9anime.to",
+      "originalURL": "9anime.to"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.75,
+    "seo": 0.88,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5045,
+    "speedIndex": 5182.438879050922,
+    "largestContentfulPaint": 5195,
+    "timeToInteractive": 12220.5,
+    "totalBlockingTime": 712,
+    "cumulativeLayoutShift": 0.028727166917588975
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9anime",
+      "url": "http://9anime.to",
+      "originalURL": "9anime.to"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.75,
+    "seo": 0.88,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5057,
+    "speedIndex": 5089.90101553838,
+    "largestContentfulPaint": 5207,
+    "timeToInteractive": 12290,
+    "totalBlockingTime": 878,
+    "cumulativeLayoutShift": 0.028727166917588975
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9anime",
+      "url": "http://9anime.to",
+      "originalURL": "9anime.to"
+    },
+    "performance": 0.34,
+    "progressiveWebApp": 0.75,
+    "seo": 0.88,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5070,
+    "speedIndex": 5070,
+    "largestContentfulPaint": 5220,
+    "timeToInteractive": 12294,
+    "totalBlockingTime": 844,
+    "cumulativeLayoutShift": 0.028727166917588975
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "9anime",
+      "url": "http://9anime.to",
+      "originalURL": "9anime.to"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.75,
+    "seo": 0.88,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5095,
+    "speedIndex": 5095,
+    "largestContentfulPaint": 5245,
+    "timeToInteractive": 12324.5,
+    "totalBlockingTime": 1047,
+    "cumulativeLayoutShift": 0.028727166917588975
+  }
+]

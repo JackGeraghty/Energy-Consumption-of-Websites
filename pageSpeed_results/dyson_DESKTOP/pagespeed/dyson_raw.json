@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dyson",
+      "url": "http://dyson.ie",
+      "originalURL": "dyson.ie"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.91,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1824,
+    "speedIndex": 3567.8246425139505,
+    "largestContentfulPaint": 4694.5,
+    "timeToInteractive": 5015,
+    "totalBlockingTime": 749.5,
+    "cumulativeLayoutShift": 0.2819770072673146
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dyson",
+      "url": "http://dyson.ie",
+      "originalURL": "dyson.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.91,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1945,
+    "speedIndex": 3958.2970184098317,
+    "largestContentfulPaint": 4872,
+    "timeToInteractive": 5282,
+    "totalBlockingTime": 942,
+    "cumulativeLayoutShift": 0.2819770072673146
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dyson",
+      "url": "http://dyson.ie",
+      "originalURL": "dyson.ie"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.22,
+    "seo": 0.75,
+    "accessibility": 0.91,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1770.5,
+    "speedIndex": 3455.990394241794,
+    "largestContentfulPaint": 4734,
+    "timeToInteractive": 5084,
+    "totalBlockingTime": 715.5,
+    "cumulativeLayoutShift": 0.1441490622537431
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dyson",
+      "url": "http://dyson.ie",
+      "originalURL": "dyson.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1922,
+    "speedIndex": 3555.945313188502,
+    "largestContentfulPaint": 4766.5,
+    "timeToInteractive": 5337.5,
+    "totalBlockingTime": 1135,
+    "cumulativeLayoutShift": 0.20671568280652602
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dyson",
+      "url": "http://dyson.ie",
+      "originalURL": "dyson.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.22,
+    "seo": 0.83,
+    "accessibility": 0.97,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1834.5,
+    "speedIndex": 3379.0919659167826,
+    "largestContentfulPaint": 4697.5,
+    "timeToInteractive": 5112,
+    "totalBlockingTime": 884,
+    "cumulativeLayoutShift": 0.2819770072673146
+  }
+]

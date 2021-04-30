@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unitedhealthgroup",
+      "url": "http://unitedhealthgroup.com",
+      "originalURL": "unitedhealthgroup.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": null,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1356,
+    "speedIndex": 5220.2219916501945,
+    "largestContentfulPaint": 7900,
+    "timeToInteractive": 6374.5,
+    "totalBlockingTime": 164.5,
+    "cumulativeLayoutShift": 0.023072917140939203
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unitedhealthgroup",
+      "url": "http://unitedhealthgroup.com",
+      "originalURL": "unitedhealthgroup.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1388,
+    "speedIndex": 6058.802609168866,
+    "largestContentfulPaint": 7620,
+    "timeToInteractive": 5644,
+    "totalBlockingTime": 259,
+    "cumulativeLayoutShift": 0.011503818112833084
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unitedhealthgroup",
+      "url": "http://unitedhealthgroup.com",
+      "originalURL": "unitedhealthgroup.com"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1374,
+    "speedIndex": 5690.77065759065,
+    "largestContentfulPaint": 7620,
+    "timeToInteractive": 6603,
+    "totalBlockingTime": 258.5,
+    "cumulativeLayoutShift": 0.00966927939760091
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unitedhealthgroup",
+      "url": "http://unitedhealthgroup.com",
+      "originalURL": "unitedhealthgroup.com"
+    },
+    "performance": 0.32,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1332,
+    "speedIndex": 5529.114429345407,
+    "largestContentfulPaint": 7815,
+    "timeToInteractive": 6785.5,
+    "totalBlockingTime": 331.5,
+    "cumulativeLayoutShift": 0.014686335697399527
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "unitedhealthgroup",
+      "url": "http://unitedhealthgroup.com",
+      "originalURL": "unitedhealthgroup.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.19,
+    "seo": 0.82,
+    "accessibility": 0.88,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1388,
+    "speedIndex": 5012.795958633585,
+    "largestContentfulPaint": 7660,
+    "timeToInteractive": 6477.5,
+    "totalBlockingTime": 317,
+    "cumulativeLayoutShift": 0.011504686688264307
+  }
+]

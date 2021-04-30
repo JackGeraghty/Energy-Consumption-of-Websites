@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "the42",
+      "url": "http://the42.ie",
+      "originalURL": "the42.ie"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1425,
+    "speedIndex": 2227.159685533702,
+    "largestContentfulPaint": 2101,
+    "timeToInteractive": 3537,
+    "totalBlockingTime": 29.5,
+    "cumulativeLayoutShift": 0.26985229022560786
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "the42",
+      "url": "http://the42.ie",
+      "originalURL": "the42.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1425,
+    "speedIndex": 2213.1965847013325,
+    "largestContentfulPaint": 2148,
+    "timeToInteractive": 3536,
+    "totalBlockingTime": 27.5,
+    "cumulativeLayoutShift": 0.16286039517847242
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "the42",
+      "url": "http://the42.ie",
+      "originalURL": "the42.ie"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1425,
+    "speedIndex": 2269.014269388842,
+    "largestContentfulPaint": 2140,
+    "timeToInteractive": 3542,
+    "totalBlockingTime": 57.5,
+    "cumulativeLayoutShift": 0.24679961883080875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "the42",
+      "url": "http://the42.ie",
+      "originalURL": "the42.ie"
+    },
+    "performance": 0.71,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1405,
+    "speedIndex": 2142.3521027479164,
+    "largestContentfulPaint": 1988,
+    "timeToInteractive": 3520.5,
+    "totalBlockingTime": 34.5,
+    "cumulativeLayoutShift": 0.27796787846948606
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "the42",
+      "url": "http://the42.ie",
+      "originalURL": "the42.ie"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.65,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1425,
+    "speedIndex": 2196.007516372395,
+    "largestContentfulPaint": 1963,
+    "timeToInteractive": 3516,
+    "totalBlockingTime": 26,
+    "cumulativeLayoutShift": 0.08832870093103347
+  }
+]

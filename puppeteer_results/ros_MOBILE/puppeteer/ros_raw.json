@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 98,
+    "decodedBodySize": 94,
+    "transferSize": 417,
+    "resourcesList": [
+      [
+        "https://www.ros.ie/",
+        417,
+        98,
+        94,
+        0.020749
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 98,
+    "decodedBodySize": 94,
+    "transferSize": 417,
+    "resourcesList": [
+      [
+        "https://www.ros.ie/",
+        417,
+        98,
+        94,
+        0.021153
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 98,
+    "decodedBodySize": 94,
+    "transferSize": 417,
+    "resourcesList": [
+      [
+        "https://www.ros.ie/",
+        417,
+        98,
+        94,
+        0.020692
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 98,
+    "decodedBodySize": 94,
+    "transferSize": 417,
+    "resourcesList": [
+      [
+        "https://www.ros.ie/",
+        417,
+        98,
+        94,
+        0.020785
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "ros",
+      "url": "http://ros.ie",
+      "originalURL": "ros.ie"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 98,
+    "decodedBodySize": 94,
+    "transferSize": 417,
+    "resourcesList": [
+      [
+        "https://www.ros.ie/",
+        417,
+        98,
+        94,
+        0.022154
+      ]
+    ]
+  }
+]

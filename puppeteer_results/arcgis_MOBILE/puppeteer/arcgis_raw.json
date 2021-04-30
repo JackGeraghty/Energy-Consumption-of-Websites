@@ -1,0 +1,487 @@
+[
+  {
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 980392,
+    "decodedBodySize": 4897997,
+    "transferSize": 983449,
+    "resourcesList": [
+      [
+        "https://www.arcgis.com/home/index.html",
+        911,
+        686,
+        2397,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/calcite-web/dist/css/calcite-web-no-fonts.min.css",
+        16714,
+        16355,
+        170298,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgis-components/dist/ItemBrowser/index.css",
+        14190,
+        13996,
+        128319,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/css/app.css",
+        99282,
+        99037,
+        766826,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/pages/home-mobile/widgets/css/home-mobile.css",
+        533,
+        340,
+        1041,
+        0.314544
+      ],
+      [
+        "https://www.arcgis.com/home/js/arcgisonline/config.js",
+        6223,
+        6054,
+        35692,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/dojo.js",
+        141474,
+        141174,
+        557849,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/nls/dojo_en-gb.js",
+        2933,
+        2766,
+        13928,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/main.js",
+        496744,
+        496244,
+        2270677,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/nls/main_en-gb.js",
+        203407,
+        203097,
+        949618,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/moment/locale/en-gb.js",
+        786,
+        595,
+        1309,
+        0.314544
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/resources/blank.gif",
+        252,
+        48,
+        43,
+        0.314544
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 980392,
+    "decodedBodySize": 4897997,
+    "transferSize": 983419,
+    "resourcesList": [
+      [
+        "https://www.arcgis.com/home/index.html",
+        888,
+        686,
+        2397,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/calcite-web/dist/css/calcite-web-no-fonts.min.css",
+        16546,
+        16355,
+        170298,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgis-components/dist/ItemBrowser/index.css",
+        14358,
+        13996,
+        128319,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/css/app.css",
+        99284,
+        99037,
+        766826,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/pages/home-mobile/widgets/css/home-mobile.css",
+        532,
+        340,
+        1041,
+        0.317609
+      ],
+      [
+        "https://www.arcgis.com/home/js/arcgisonline/config.js",
+        6223,
+        6054,
+        35692,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/dojo.js",
+        141465,
+        141174,
+        557849,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/nls/dojo_en-gb.js",
+        2934,
+        2766,
+        13928,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/main.js",
+        496743,
+        496244,
+        2270677,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/nls/main_en-gb.js",
+        203407,
+        203097,
+        949618,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/moment/locale/en-gb.js",
+        787,
+        595,
+        1309,
+        0.317609
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/resources/blank.gif",
+        252,
+        48,
+        43,
+        0.317609
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 980392,
+    "decodedBodySize": 4897997,
+    "transferSize": 983396,
+    "resourcesList": [
+      [
+        "https://www.arcgis.com/home/index.html",
+        888,
+        686,
+        2397,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/calcite-web/dist/css/calcite-web-no-fonts.min.css",
+        16546,
+        16355,
+        170298,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgis-components/dist/ItemBrowser/index.css",
+        14358,
+        13996,
+        128319,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/css/app.css",
+        99292,
+        99037,
+        766826,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/pages/home-mobile/widgets/css/home-mobile.css",
+        532,
+        340,
+        1041,
+        0.316262
+      ],
+      [
+        "https://www.arcgis.com/home/js/arcgisonline/config.js",
+        6223,
+        6054,
+        35692,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/dojo.js",
+        141465,
+        141174,
+        557849,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/nls/dojo_en-gb.js",
+        2932,
+        2766,
+        13928,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/main.js",
+        496724,
+        496244,
+        2270677,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/nls/main_en-gb.js",
+        203398,
+        203097,
+        949618,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/moment/locale/en-gb.js",
+        786,
+        595,
+        1309,
+        0.316262
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/resources/blank.gif",
+        252,
+        48,
+        43,
+        0.316262
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 980392,
+    "decodedBodySize": 4897997,
+    "transferSize": 983388,
+    "resourcesList": [
+      [
+        "https://www.arcgis.com/home/index.html",
+        888,
+        686,
+        2397,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/calcite-web/dist/css/calcite-web-no-fonts.min.css",
+        16714,
+        16355,
+        170298,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgis-components/dist/ItemBrowser/index.css",
+        14189,
+        13996,
+        128319,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/css/app.css",
+        99292,
+        99037,
+        766826,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/pages/home-mobile/widgets/css/home-mobile.css",
+        532,
+        340,
+        1041,
+        0.322357
+      ],
+      [
+        "https://www.arcgis.com/home/js/arcgisonline/config.js",
+        6223,
+        6054,
+        35692,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/dojo.js",
+        141475,
+        141174,
+        557849,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/nls/dojo_en-gb.js",
+        2932,
+        2766,
+        13928,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/main.js",
+        496706,
+        496244,
+        2270677,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/nls/main_en-gb.js",
+        203399,
+        203097,
+        949618,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/moment/locale/en-gb.js",
+        786,
+        595,
+        1309,
+        0.322357
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/resources/blank.gif",
+        252,
+        48,
+        43,
+        0.322357
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "arcgis",
+      "url": "http://arcgis.com",
+      "originalURL": "arcgis.com"
+    },
+    "numTransferred": 13,
+    "encodedBodySize": 980392,
+    "decodedBodySize": 4897997,
+    "transferSize": 983441,
+    "resourcesList": [
+      [
+        "https://www.arcgis.com/home/index.html",
+        911,
+        686,
+        2397,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/calcite-web/dist/css/calcite-web-no-fonts.min.css",
+        16715,
+        16355,
+        170298,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgis-components/dist/ItemBrowser/index.css",
+        14189,
+        13996,
+        128319,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/css/app.css",
+        99292,
+        99037,
+        766826,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/pages/home-mobile/widgets/css/home-mobile.css",
+        532,
+        340,
+        1041,
+        0.315816
+      ],
+      [
+        "https://www.arcgis.com/home/js/arcgisonline/config.js",
+        6223,
+        6054,
+        35692,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/dojo.js",
+        141467,
+        141174,
+        557849,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/nls/dojo_en-gb.js",
+        2934,
+        2766,
+        13928,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/main.js",
+        496743,
+        496244,
+        2270677,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/arcgisonline/nls/main_en-gb.js",
+        203398,
+        203097,
+        949618,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/moment/locale/en-gb.js",
+        785,
+        595,
+        1309,
+        0.315816
+      ],
+      [
+        "https://cdn-a.arcgis.com/cdn/199C3DC/js/jsapi/dojo/resources/blank.gif",
+        252,
+        48,
+        43,
+        0.315816
+      ]
+    ]
+  }
+]

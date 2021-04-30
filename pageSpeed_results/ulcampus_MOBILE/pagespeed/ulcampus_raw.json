@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4978,
+    "speedIndex": 4978,
+    "largestContentfulPaint": 5504,
+    "timeToInteractive": 5154,
+    "totalBlockingTime": 101,
+    "cumulativeLayoutShift": 0.06769712999131945
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4990,
+    "speedIndex": 5334.812099716088,
+    "largestContentfulPaint": 5685,
+    "timeToInteractive": 5174,
+    "totalBlockingTime": 109,
+    "cumulativeLayoutShift": 0.07226744249131944
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4952,
+    "speedIndex": 4952,
+    "largestContentfulPaint": 5416,
+    "timeToInteractive": 5122,
+    "totalBlockingTime": 95,
+    "cumulativeLayoutShift": 0.07226744249131944
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4990,
+    "speedIndex": 5608.340146665214,
+    "largestContentfulPaint": 5510,
+    "timeToInteractive": 5168,
+    "totalBlockingTime": 103,
+    "cumulativeLayoutShift": 0.07226744249131944
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ulcampus",
+      "url": "http://ulcampus.sharepoint.com",
+      "originalURL": "ulcampus.sharepoint.com"
+    },
+    "performance": 0.58,
+    "progressiveWebApp": 0.46,
+    "seo": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 4982,
+    "speedIndex": 5542.973896947744,
+    "largestContentfulPaint": 5685,
+    "timeToInteractive": 5166,
+    "totalBlockingTime": 109,
+    "cumulativeLayoutShift": 0.07226744249131944
+  }
+]

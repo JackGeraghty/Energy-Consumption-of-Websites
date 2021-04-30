@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enduringword",
+      "url": "http://enduringword.com",
+      "originalURL": "enduringword.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3005,
+    "speedIndex": 3360.5709620737152,
+    "largestContentfulPaint": 3770,
+    "timeToInteractive": 6526,
+    "totalBlockingTime": 344.5,
+    "cumulativeLayoutShift": 0.011587928669410153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enduringword",
+      "url": "http://enduringword.com",
+      "originalURL": "enduringword.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3128,
+    "speedIndex": 4561.16045576477,
+    "largestContentfulPaint": 4028,
+    "timeToInteractive": 6932.5,
+    "totalBlockingTime": 728.5,
+    "cumulativeLayoutShift": 0.010699039780521263
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enduringword",
+      "url": "http://enduringword.com",
+      "originalURL": "enduringword.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2998.5,
+    "speedIndex": 4509.229319457243,
+    "largestContentfulPaint": 3455,
+    "timeToInteractive": 7364.5,
+    "totalBlockingTime": 1221,
+    "cumulativeLayoutShift": 0.011587928669410153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enduringword",
+      "url": "http://enduringword.com",
+      "originalURL": "enduringword.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3007,
+    "speedIndex": 3355.574317795802,
+    "largestContentfulPaint": 3610,
+    "timeToInteractive": 6522.5,
+    "totalBlockingTime": 350,
+    "cumulativeLayoutShift": 0.011587928669410153
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enduringword",
+      "url": "http://enduringword.com",
+      "originalURL": "enduringword.com"
+    },
+    "performance": 0.16,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.82,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3005.5,
+    "speedIndex": 4318.2831636704095,
+    "largestContentfulPaint": 3409,
+    "timeToInteractive": 7878,
+    "totalBlockingTime": 1616,
+    "cumulativeLayoutShift": 0.011587928669410153
+  }
+]

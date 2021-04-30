@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "highlandradio",
+      "url": "http://highlandradio.com",
+      "originalURL": "highlandradio.com"
+    },
+    "performance": 0.72,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1635,
+    "speedIndex": 1970.7873791201678,
+    "largestContentfulPaint": 1995,
+    "timeToInteractive": 3654.5,
+    "totalBlockingTime": 81.5,
+    "cumulativeLayoutShift": 0.0018938213232933484
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "highlandradio",
+      "url": "http://highlandradio.com",
+      "originalURL": "highlandradio.com"
+    },
+    "performance": 0.76,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1655,
+    "speedIndex": 1860.7639302376365,
+    "largestContentfulPaint": 1820,
+    "timeToInteractive": 3267,
+    "totalBlockingTime": 80,
+    "cumulativeLayoutShift": 0.0023547167498467734
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "highlandradio",
+      "url": "http://highlandradio.com",
+      "originalURL": "highlandradio.com"
+    },
+    "performance": 0.73,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1635,
+    "speedIndex": 1974.6244132163347,
+    "largestContentfulPaint": 1940,
+    "timeToInteractive": 3501,
+    "totalBlockingTime": 79,
+    "cumulativeLayoutShift": 0.001895176721244491
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "highlandradio",
+      "url": "http://highlandradio.com",
+      "originalURL": "highlandradio.com"
+    },
+    "performance": 0.75,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1635,
+    "speedIndex": 1893.6371799146605,
+    "largestContentfulPaint": 1820,
+    "timeToInteractive": 3318.5,
+    "totalBlockingTime": 119,
+    "cumulativeLayoutShift": 0.002356072147797916
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "highlandradio",
+      "url": "http://highlandradio.com",
+      "originalURL": "highlandradio.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.19,
+    "seo": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1635,
+    "speedIndex": 1890.8224445331707,
+    "largestContentfulPaint": 1860,
+    "timeToInteractive": 3664,
+    "totalBlockingTime": 37.5,
+    "cumulativeLayoutShift": 0.0018938213232933484
+  }
+]

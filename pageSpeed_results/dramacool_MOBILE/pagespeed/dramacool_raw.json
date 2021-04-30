@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dramacool",
+      "url": "http://dramacool.so",
+      "originalURL": "dramacool.so"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.89,
+    "accessibility": 0.79,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2880,
+    "speedIndex": 7376.181153102728,
+    "largestContentfulPaint": 17428,
+    "timeToInteractive": 21606,
+    "totalBlockingTime": 3183.5,
+    "cumulativeLayoutShift": 0.1880035400390625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dramacool",
+      "url": "http://dramacool.so",
+      "originalURL": "dramacool.so"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.89,
+    "accessibility": 0.79,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2880,
+    "speedIndex": 7506.506317341709,
+    "largestContentfulPaint": 20385,
+    "timeToInteractive": 21631,
+    "totalBlockingTime": 3224.5,
+    "cumulativeLayoutShift": 0.1880035400390625
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dramacool",
+      "url": "http://dramacool.so",
+      "originalURL": "dramacool.so"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.89,
+    "accessibility": 0.79,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2880,
+    "speedIndex": 7664.592413438709,
+    "largestContentfulPaint": 20235,
+    "timeToInteractive": 21917,
+    "totalBlockingTime": 2963,
+    "cumulativeLayoutShift": 0.18864449055989582
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dramacool",
+      "url": "http://dramacool.so",
+      "originalURL": "dramacool.so"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.89,
+    "accessibility": 0.79,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3540,
+    "speedIndex": 7287.13614899518,
+    "largestContentfulPaint": 15436,
+    "timeToInteractive": 21252,
+    "totalBlockingTime": 1982,
+    "cumulativeLayoutShift": 0.1868743896484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dramacool",
+      "url": "http://dramacool.so",
+      "originalURL": "dramacool.so"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.89,
+    "accessibility": 0.79,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2880,
+    "speedIndex": 7456.617678627364,
+    "largestContentfulPaint": 18214,
+    "timeToInteractive": 22583.5,
+    "totalBlockingTime": 4664.5,
+    "cumulativeLayoutShift": 0.1880035400390625
+  }
+]

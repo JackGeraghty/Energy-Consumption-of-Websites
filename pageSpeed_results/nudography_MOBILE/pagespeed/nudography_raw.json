@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nudography",
+      "url": "http://nudography.com",
+      "originalURL": "nudography.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.36,
+    "seo": 0.62,
+    "accessibility": 0.55,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2709,
+    "speedIndex": 2709,
+    "largestContentfulPaint": 2929.5,
+    "timeToInteractive": 4211,
+    "totalBlockingTime": 72,
+    "cumulativeLayoutShift": 0.16474459175448963
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nudography",
+      "url": "http://nudography.com",
+      "originalURL": "nudography.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.36,
+    "seo": 0.62,
+    "accessibility": 0.55,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2737,
+    "speedIndex": 3023.3588352048073,
+    "largestContentfulPaint": 2943.5,
+    "timeToInteractive": 4284,
+    "totalBlockingTime": 140.5,
+    "cumulativeLayoutShift": 0.21447105226863517
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nudography",
+      "url": "http://nudography.com",
+      "originalURL": "nudography.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.36,
+    "seo": 0.62,
+    "accessibility": 0.55,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2701,
+    "speedIndex": 2701,
+    "largestContentfulPaint": 2925.5,
+    "timeToInteractive": 4286,
+    "totalBlockingTime": 131,
+    "cumulativeLayoutShift": 0.20768141173017038
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nudography",
+      "url": "http://nudography.com",
+      "originalURL": "nudography.com"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.36,
+    "seo": 0.62,
+    "accessibility": 0.55,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2731,
+    "speedIndex": 2731,
+    "largestContentfulPaint": 2940.5,
+    "timeToInteractive": 4270,
+    "totalBlockingTime": 133.5,
+    "cumulativeLayoutShift": 0.23597893102929063
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nudography",
+      "url": "http://nudography.com",
+      "originalURL": "nudography.com"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.36,
+    "seo": 0.62,
+    "accessibility": 0.55,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2713,
+    "speedIndex": 2827.251335475564,
+    "largestContentfulPaint": 2931.5,
+    "timeToInteractive": 4227,
+    "totalBlockingTime": 121.5,
+    "cumulativeLayoutShift": 0.16121159408645347
+  }
+]

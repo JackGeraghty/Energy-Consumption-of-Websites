@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "kollect",
+      "url": "http://kollect.ie",
+      "originalURL": "kollect.ie"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.25,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4350,
+    "speedIndex": 10216.705130578488,
+    "largestContentfulPaint": 10178,
+    "timeToInteractive": 23217.5,
+    "totalBlockingTime": 8536.5,
+    "cumulativeLayoutShift": 0.0176348876953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "kollect",
+      "url": "http://kollect.ie",
+      "originalURL": "kollect.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4350,
+    "speedIndex": 9090.79958365594,
+    "largestContentfulPaint": 8867,
+    "timeToInteractive": 21586,
+    "totalBlockingTime": 7291,
+    "cumulativeLayoutShift": 0.0176348876953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "kollect",
+      "url": "http://kollect.ie",
+      "originalURL": "kollect.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4350,
+    "speedIndex": 9168.842466280415,
+    "largestContentfulPaint": 9637.5,
+    "timeToInteractive": 22378,
+    "totalBlockingTime": 7950,
+    "cumulativeLayoutShift": 0.018301459418402777
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "kollect",
+      "url": "http://kollect.ie",
+      "originalURL": "kollect.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4350,
+    "speedIndex": 9261.052038987822,
+    "largestContentfulPaint": 9516.5,
+    "timeToInteractive": 21088.5,
+    "totalBlockingTime": 5966.5,
+    "cumulativeLayoutShift": 0.0176348876953125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "kollect",
+      "url": "http://kollect.ie",
+      "originalURL": "kollect.ie"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.25,
+    "seo": 0.86,
+    "accessibility": 0.91,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4350,
+    "speedIndex": 8640.993859631617,
+    "largestContentfulPaint": 11643.5,
+    "timeToInteractive": 23997.5,
+    "totalBlockingTime": 7054.5,
+    "cumulativeLayoutShift": 0.0176348876953125
+  }
+]

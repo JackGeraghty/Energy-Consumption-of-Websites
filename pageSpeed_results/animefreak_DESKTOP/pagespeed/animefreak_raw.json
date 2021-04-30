@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "animefreak",
+      "url": "http://animefreak.tv",
+      "originalURL": "animefreak.tv"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.19,
+    "seo": 0.7,
+    "accessibility": 0.79,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 1175,
+    "speedIndex": 1342.8567784421266,
+    "largestContentfulPaint": 1588,
+    "timeToInteractive": 2507,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.13252431719347402
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "animefreak",
+      "url": "http://animefreak.tv",
+      "originalURL": "animefreak.tv"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.19,
+    "seo": 0.7,
+    "accessibility": 0.79,
+    "bestPractices": 0.5,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1359.7769664150896,
+    "largestContentfulPaint": 1588.5,
+    "timeToInteractive": 2529,
+    "totalBlockingTime": 148,
+    "cumulativeLayoutShift": 0.13252431719347402
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "animefreak",
+      "url": "http://animefreak.tv",
+      "originalURL": "animefreak.tv"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1175,
+    "speedIndex": 1207.8805563586889,
+    "largestContentfulPaint": 1590.5,
+    "timeToInteractive": 2441,
+    "totalBlockingTime": 45,
+    "cumulativeLayoutShift": 0.12887013629863117
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "animefreak",
+      "url": "http://animefreak.tv",
+      "originalURL": "animefreak.tv"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1175,
+    "speedIndex": 1437.0630590697722,
+    "largestContentfulPaint": 1588.5,
+    "timeToInteractive": 2421,
+    "totalBlockingTime": 38.5,
+    "cumulativeLayoutShift": 0.12887013629863117
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "animefreak",
+      "url": "http://animefreak.tv",
+      "originalURL": "animefreak.tv"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.44,
+    "seo": 0.8,
+    "accessibility": 0.77,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1270,
+    "speedIndex": 1356.8723037791697,
+    "largestContentfulPaint": 1589,
+    "timeToInteractive": 2445,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.12887013629863117
+  }
+]

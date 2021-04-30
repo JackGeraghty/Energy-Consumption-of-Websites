@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "canva",
+      "url": "http://canva.com",
+      "originalURL": "canva.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 6037.18256496339,
+    "largestContentfulPaint": 7820,
+    "timeToInteractive": 13652,
+    "totalBlockingTime": 3867.5,
+    "cumulativeLayoutShift": 0.7637324964735244
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "canva",
+      "url": "http://canva.com",
+      "originalURL": "canva.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 6186.888755539259,
+    "largestContentfulPaint": 8063,
+    "timeToInteractive": 13591,
+    "totalBlockingTime": 4195.5,
+    "cumulativeLayoutShift": 0.7637324964735244
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "canva",
+      "url": "http://canva.com",
+      "originalURL": "canva.com"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 5657.927516475422,
+    "largestContentfulPaint": 7624,
+    "timeToInteractive": 13424,
+    "totalBlockingTime": 3413.5,
+    "cumulativeLayoutShift": 0.7637324964735244
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "canva",
+      "url": "http://canva.com",
+      "originalURL": "canva.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 5773.535658727624,
+    "largestContentfulPaint": 7639,
+    "timeToInteractive": 13547,
+    "totalBlockingTime": 3450,
+    "cumulativeLayoutShift": 0.7637324964735244
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "canva",
+      "url": "http://canva.com",
+      "originalURL": "canva.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.25,
+    "seo": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3900,
+    "speedIndex": 5272.277787271312,
+    "largestContentfulPaint": 7492,
+    "timeToInteractive": 13363,
+    "totalBlockingTime": 2816.5,
+    "cumulativeLayoutShift": 0.7637324964735244
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lowcygier",
+      "url": "http://lowcygier.pl",
+      "originalURL": "lowcygier.pl"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3789,
+    "speedIndex": 5244.124320551403,
+    "largestContentfulPaint": 13650,
+    "timeToInteractive": 16915,
+    "totalBlockingTime": 835.5,
+    "cumulativeLayoutShift": 0.18818436982896591
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lowcygier",
+      "url": "http://lowcygier.pl",
+      "originalURL": "lowcygier.pl"
+    },
+    "performance": 0.29,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3754,
+    "speedIndex": 4944.161442759873,
+    "largestContentfulPaint": 15357.5,
+    "timeToInteractive": 15846.5,
+    "totalBlockingTime": 886,
+    "cumulativeLayoutShift": 0.18679229736328123
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lowcygier",
+      "url": "http://lowcygier.pl",
+      "originalURL": "lowcygier.pl"
+    },
+    "performance": 0.35,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3745,
+    "speedIndex": 4920.155226425815,
+    "largestContentfulPaint": 15354.5,
+    "timeToInteractive": 16418,
+    "totalBlockingTime": 608,
+    "cumulativeLayoutShift": 0.18821807861328124
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lowcygier",
+      "url": "http://lowcygier.pl",
+      "originalURL": "lowcygier.pl"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3789,
+    "speedIndex": 5143.848325652476,
+    "largestContentfulPaint": 14895,
+    "timeToInteractive": 16503,
+    "totalBlockingTime": 712,
+    "cumulativeLayoutShift": 0.18813262939453124
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "lowcygier",
+      "url": "http://lowcygier.pl",
+      "originalURL": "lowcygier.pl"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3784,
+    "speedIndex": 5308.471347582806,
+    "largestContentfulPaint": 16183.5,
+    "timeToInteractive": 16841,
+    "totalBlockingTime": 714,
+    "cumulativeLayoutShift": 0.19944824218749999
+  }
+]

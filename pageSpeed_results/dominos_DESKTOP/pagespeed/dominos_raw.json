@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dominos",
+      "url": "http://dominos.ie",
+      "originalURL": "dominos.ie"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 880,
+    "speedIndex": 2115.8581718514956,
+    "largestContentfulPaint": 1325,
+    "timeToInteractive": 2686.5,
+    "totalBlockingTime": 120,
+    "cumulativeLayoutShift": 0.19816733969588185
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dominos",
+      "url": "http://dominos.ie",
+      "originalURL": "dominos.ie"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 881.5,
+    "speedIndex": 1313.7329132238308,
+    "largestContentfulPaint": 1869,
+    "timeToInteractive": 2627.5,
+    "totalBlockingTime": 142.5,
+    "cumulativeLayoutShift": 0.19717608674079912
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dominos",
+      "url": "http://dominos.ie",
+      "originalURL": "dominos.ie"
+    },
+    "performance": 0.88,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 882,
+    "speedIndex": 1383.7623601216037,
+    "largestContentfulPaint": 1529.5,
+    "timeToInteractive": 2590,
+    "totalBlockingTime": 98.5,
+    "cumulativeLayoutShift": 0.19717608674079912
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dominos",
+      "url": "http://dominos.ie",
+      "originalURL": "dominos.ie"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 880,
+    "speedIndex": 1353.197281127362,
+    "largestContentfulPaint": 1650,
+    "timeToInteractive": 2610,
+    "totalBlockingTime": 74,
+    "cumulativeLayoutShift": 0.19717608674079912
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dominos",
+      "url": "http://dominos.ie",
+      "originalURL": "dominos.ie"
+    },
+    "performance": 0.87,
+    "progressiveWebApp": 0.19,
+    "seo": 0.83,
+    "accessibility": 0.81,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 882,
+    "speedIndex": 1263.88686786469,
+    "largestContentfulPaint": 1710,
+    "timeToInteractive": 2563,
+    "totalBlockingTime": 91,
+    "cumulativeLayoutShift": 0.19721008259638675
+  }
+]

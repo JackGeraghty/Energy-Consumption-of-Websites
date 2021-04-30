@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "artstation",
+      "url": "http://artstation.com",
+      "originalURL": "artstation.com"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1963,
+    "speedIndex": 4131.21384651942,
+    "largestContentfulPaint": 8605,
+    "timeToInteractive": 6126,
+    "totalBlockingTime": 698,
+    "cumulativeLayoutShift": 1.3975565952522382
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "artstation",
+      "url": "http://artstation.com",
+      "originalURL": "artstation.com"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.84,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1803.5,
+    "speedIndex": 4196.769167161588,
+    "largestContentfulPaint": 8905,
+    "timeToInteractive": 6487,
+    "totalBlockingTime": 1124,
+    "cumulativeLayoutShift": 1.3884270130976746
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "artstation",
+      "url": "http://artstation.com",
+      "originalURL": "artstation.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1760,
+    "speedIndex": 4013.3861685258803,
+    "largestContentfulPaint": 9225,
+    "timeToInteractive": 6061,
+    "totalBlockingTime": 563.5,
+    "cumulativeLayoutShift": 1.2085805667921665
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "artstation",
+      "url": "http://artstation.com",
+      "originalURL": "artstation.com"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.22,
+    "seo": 0.82,
+    "accessibility": 0.75,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1754.5,
+    "speedIndex": 3668.396421129414,
+    "largestContentfulPaint": 8065,
+    "timeToInteractive": 5936,
+    "totalBlockingTime": 602,
+    "cumulativeLayoutShift": 1.1599106272376174
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "artstation",
+      "url": "http://artstation.com",
+      "originalURL": "artstation.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.22,
+    "seo": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 1843,
+    "speedIndex": 3471.587240634166,
+    "largestContentfulPaint": 8350,
+    "timeToInteractive": 6129,
+    "totalBlockingTime": 732.5,
+    "cumulativeLayoutShift": 1.3709709721924734
+  }
+]

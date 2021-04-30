@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.32,
+    "seo": 0.79,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2359,
+    "speedIndex": 2359,
+    "largestContentfulPaint": 6855,
+    "timeToInteractive": 3240,
+    "totalBlockingTime": 42,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "performance": 0.78,
+    "progressiveWebApp": 0.32,
+    "seo": 0.79,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2415.5,
+    "speedIndex": 2415.5,
+    "largestContentfulPaint": 5070,
+    "timeToInteractive": 3632.5,
+    "totalBlockingTime": 22,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "performance": 0.74,
+    "progressiveWebApp": 0.32,
+    "seo": 0.79,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2343,
+    "speedIndex": 2343,
+    "largestContentfulPaint": 6600,
+    "timeToInteractive": 3559,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "performance": 0.77,
+    "progressiveWebApp": 0.32,
+    "seo": 0.79,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2358,
+    "speedIndex": 2358,
+    "largestContentfulPaint": 5670,
+    "timeToInteractive": 3231,
+    "totalBlockingTime": 37,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "enigmatv",
+      "url": "http://enigmatv.com",
+      "originalURL": "enigmatv.com"
+    },
+    "performance": 0.95,
+    "progressiveWebApp": 0.32,
+    "seo": 0.79,
+    "accessibility": 0.89,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 2359,
+    "speedIndex": 2359,
+    "largestContentfulPaint": 2552,
+    "timeToInteractive": 3311,
+    "totalBlockingTime": 40,
+    "cumulativeLayoutShift": 0
+  }
+]

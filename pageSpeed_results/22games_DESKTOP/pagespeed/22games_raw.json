@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "22games",
+      "url": "http://22games.net",
+      "originalURL": "22games.net"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 4572.632554776965,
+    "largestContentfulPaint": 5955,
+    "timeToInteractive": 5754,
+    "totalBlockingTime": 246.5,
+    "cumulativeLayoutShift": 0.007365516738172373
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "22games",
+      "url": "http://22games.net",
+      "originalURL": "22games.net"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 4740.0265775987145,
+    "largestContentfulPaint": 5780,
+    "timeToInteractive": 5836.5,
+    "totalBlockingTime": 236.5,
+    "cumulativeLayoutShift": 0.014194447071184661
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "22games",
+      "url": "http://22games.net",
+      "originalURL": "22games.net"
+    },
+    "performance": 0.36,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 4908.756315166101,
+    "largestContentfulPaint": 5855,
+    "timeToInteractive": 5919.5,
+    "totalBlockingTime": 312.5,
+    "cumulativeLayoutShift": 0.007365516738172373
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "22games",
+      "url": "http://22games.net",
+      "originalURL": "22games.net"
+    },
+    "performance": 0.42,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 4869.179177070866,
+    "largestContentfulPaint": 5840,
+    "timeToInteractive": 5753.5,
+    "totalBlockingTime": 207,
+    "cumulativeLayoutShift": 0.007365516738172373
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "22games",
+      "url": "http://22games.net",
+      "originalURL": "22games.net"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.78,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1235,
+    "speedIndex": 4833.079939800608,
+    "largestContentfulPaint": 5895,
+    "timeToInteractive": 5802,
+    "totalBlockingTime": 288.5,
+    "cumulativeLayoutShift": 0.01110062574789131
+  }
+]

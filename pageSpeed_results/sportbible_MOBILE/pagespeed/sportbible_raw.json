@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportbible",
+      "url": "http://sportbible.com",
+      "originalURL": "sportbible.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7935,
+    "speedIndex": 9001.167391483938,
+    "largestContentfulPaint": 14509,
+    "timeToInteractive": 25990,
+    "totalBlockingTime": 4148.5,
+    "cumulativeLayoutShift": 0.0039332275390625004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportbible",
+      "url": "http://sportbible.com",
+      "originalURL": "sportbible.com"
+    },
+    "performance": 0.07,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7710,
+    "speedIndex": 10636.397400352533,
+    "largestContentfulPaint": 17697.5,
+    "timeToInteractive": 26155,
+    "totalBlockingTime": 4398,
+    "cumulativeLayoutShift": 0.0039332275390625004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportbible",
+      "url": "http://sportbible.com",
+      "originalURL": "sportbible.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7815,
+    "speedIndex": 8717.473102298973,
+    "largestContentfulPaint": 18394.5,
+    "timeToInteractive": 26569,
+    "totalBlockingTime": 5258,
+    "cumulativeLayoutShift": 0.0039332275390625004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportbible",
+      "url": "http://sportbible.com",
+      "originalURL": "sportbible.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7815,
+    "speedIndex": 8993.175582352365,
+    "largestContentfulPaint": 18147.5,
+    "timeToInteractive": 26424,
+    "totalBlockingTime": 4907,
+    "cumulativeLayoutShift": 0.0039332275390625004
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "sportbible",
+      "url": "http://sportbible.com",
+      "originalURL": "sportbible.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.46,
+    "seo": 0.98,
+    "accessibility": 0.91,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 7470,
+    "speedIndex": 8786.83261627792,
+    "largestContentfulPaint": 20213,
+    "timeToInteractive": 26729,
+    "totalBlockingTime": 5952,
+    "cumulativeLayoutShift": 0.0039332275390625004
+  }
+]

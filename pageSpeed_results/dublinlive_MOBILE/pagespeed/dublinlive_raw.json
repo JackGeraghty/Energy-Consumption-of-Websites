@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dublinlive",
+      "url": "http://dublinlive.ie",
+      "originalURL": "dublinlive.ie"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.54,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3688.866740759102,
+    "speedIndex": 6589.239649759382,
+    "largestContentfulPaint": 14410.804287990675,
+    "timeToInteractive": 21425.840208476202,
+    "totalBlockingTime": 3505.999999999998,
+    "cumulativeLayoutShift": 0.00205078125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dublinlive",
+      "url": "http://dublinlive.ie",
+      "originalURL": "dublinlive.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.54,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3708.6800774695903,
+    "speedIndex": 6947.944129011941,
+    "largestContentfulPaint": 14108.436045243689,
+    "timeToInteractive": 21486.960694570094,
+    "totalBlockingTime": 3882.4999999999964,
+    "cumulativeLayoutShift": 0.007421875
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dublinlive",
+      "url": "http://dublinlive.ie",
+      "originalURL": "dublinlive.ie"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.54,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3693.534134778077,
+    "speedIndex": 7610.696275099047,
+    "largestContentfulPaint": 14530.316735937322,
+    "timeToInteractive": 21555.80508403119,
+    "totalBlockingTime": 4280.499999999996,
+    "cumulativeLayoutShift": 0.15618896484375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dublinlive",
+      "url": "http://dublinlive.ie",
+      "originalURL": "dublinlive.ie"
+    },
+    "performance": 0.18,
+    "progressiveWebApp": 0.54,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3689.9881047772124,
+    "speedIndex": 7279.631452870593,
+    "largestContentfulPaint": 13835.236159084847,
+    "timeToInteractive": 20918.06776496226,
+    "totalBlockingTime": 3410.9999999999927,
+    "cumulativeLayoutShift": 0.00205078125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dublinlive",
+      "url": "http://dublinlive.ie",
+      "originalURL": "dublinlive.ie"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.54,
+    "seo": 0.92,
+    "accessibility": 0.94,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 7090.411104309514,
+    "speedIndex": 8409.474427808827,
+    "largestContentfulPaint": 15003.302025807856,
+    "timeToInteractive": 23958.87792887175,
+    "totalBlockingTime": 3352.4999999999873,
+    "cumulativeLayoutShift": 0.0410570068359375
+  }
+]

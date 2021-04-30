@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wetransfer",
+      "url": "http://wetransfer.com",
+      "originalURL": "wetransfer.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.62,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 6066,
+    "speedIndex": 6066,
+    "largestContentfulPaint": 8582,
+    "timeToInteractive": 8105.5,
+    "totalBlockingTime": 213.5,
+    "cumulativeLayoutShift": 0.11021822102864584
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wetransfer",
+      "url": "http://wetransfer.com",
+      "originalURL": "wetransfer.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.62,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 6152,
+    "speedIndex": 6152,
+    "largestContentfulPaint": 8681,
+    "timeToInteractive": 8258,
+    "totalBlockingTime": 329.5,
+    "cumulativeLayoutShift": 0.11021822102864584
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wetransfer",
+      "url": "http://wetransfer.com",
+      "originalURL": "wetransfer.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.62,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 6422,
+    "speedIndex": 6422,
+    "largestContentfulPaint": 8611,
+    "timeToInteractive": 8147,
+    "totalBlockingTime": 234,
+    "cumulativeLayoutShift": 0.11021822102864584
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wetransfer",
+      "url": "http://wetransfer.com",
+      "originalURL": "wetransfer.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.62,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 6487,
+    "speedIndex": 6487,
+    "largestContentfulPaint": 9144,
+    "timeToInteractive": 8826.5,
+    "totalBlockingTime": 764,
+    "cumulativeLayoutShift": 0.18313368055555557
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "wetransfer",
+      "url": "http://wetransfer.com",
+      "originalURL": "wetransfer.com"
+    },
+    "performance": 0.43,
+    "progressiveWebApp": 0.5,
+    "seo": 0.93,
+    "accessibility": 0.62,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 6140,
+    "speedIndex": 6140,
+    "largestContentfulPaint": 8666,
+    "timeToInteractive": 8073.5,
+    "totalBlockingTime": 223,
+    "cumulativeLayoutShift": 0.18313368055555557
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "live",
+      "url": "http://live.com",
+      "originalURL": "live.com"
+    },
+    "performance": 0.68,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3270,
+    "largestContentfulPaint": 7035,
+    "timeToInteractive": 4050,
+    "totalBlockingTime": 105,
+    "cumulativeLayoutShift": 0.0020686170789930556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "live",
+      "url": "http://live.com",
+      "originalURL": "live.com"
+    },
+    "performance": 0.7,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3120,
+    "speedIndex": 3120,
+    "largestContentfulPaint": 6630,
+    "timeToInteractive": 3869,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 0.0020686170789930556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "live",
+      "url": "http://live.com",
+      "originalURL": "live.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3270,
+    "largestContentfulPaint": 6960,
+    "timeToInteractive": 3893,
+    "totalBlockingTime": 51.5,
+    "cumulativeLayoutShift": 0.0020686170789930556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "live",
+      "url": "http://live.com",
+      "originalURL": "live.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3270,
+    "largestContentfulPaint": 7230,
+    "timeToInteractive": 3825,
+    "totalBlockingTime": 17.5,
+    "cumulativeLayoutShift": 0.0020686170789930556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "live",
+      "url": "http://live.com",
+      "originalURL": "live.com"
+    },
+    "performance": 0.69,
+    "progressiveWebApp": 0.42,
+    "seo": 0.85,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 3270,
+    "speedIndex": 3270,
+    "largestContentfulPaint": 7065,
+    "timeToInteractive": 3801,
+    "totalBlockingTime": 5.5,
+    "cumulativeLayoutShift": 0.019178436385260688
+  }
+]

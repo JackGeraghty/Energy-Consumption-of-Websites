@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "three",
+      "url": "http://three.ie",
+      "originalURL": "three.ie"
+    },
+    "performance": 0.6,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1202,
+    "speedIndex": 2548.628850389786,
+    "largestContentfulPaint": 3875,
+    "timeToInteractive": 3087,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0.4153776399468815
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "three",
+      "url": "http://three.ie",
+      "originalURL": "three.ie"
+    },
+    "performance": 0.61,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "firstContentfulPaint": 1198.5,
+    "speedIndex": 2428.827944168514,
+    "largestContentfulPaint": 3811,
+    "timeToInteractive": 3308,
+    "totalBlockingTime": 26.5,
+    "cumulativeLayoutShift": 0.3729480657159327
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "three",
+      "url": "http://three.ie",
+      "originalURL": "three.ie"
+    },
+    "performance": 0.59,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1209.5,
+    "speedIndex": 2508.2641465843603,
+    "largestContentfulPaint": 3929.5,
+    "timeToInteractive": 3371.5,
+    "totalBlockingTime": 47.5,
+    "cumulativeLayoutShift": 0.3728855041517089
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "three",
+      "url": "http://three.ie",
+      "originalURL": "three.ie"
+    },
+    "performance": 0.55,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1390,
+    "speedIndex": 2556.686708488247,
+    "largestContentfulPaint": 4217.5,
+    "timeToInteractive": 3702,
+    "totalBlockingTime": 45,
+    "cumulativeLayoutShift": 0.5201025457399382
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "three",
+      "url": "http://three.ie",
+      "originalURL": "three.ie"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.36,
+    "seo": 0.91,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 1192,
+    "speedIndex": 2259.791256983572,
+    "largestContentfulPaint": 3776,
+    "timeToInteractive": 3083,
+    "totalBlockingTime": 18.5,
+    "cumulativeLayoutShift": 0.3632612030470186
+  }
+]

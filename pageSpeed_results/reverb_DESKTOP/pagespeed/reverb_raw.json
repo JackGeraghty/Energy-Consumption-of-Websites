@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reverb",
+      "url": "http://reverb.com",
+      "originalURL": "reverb.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.64,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2419,
+    "speedIndex": 3787.6211911668706,
+    "largestContentfulPaint": 5195,
+    "timeToInteractive": 5803.5,
+    "totalBlockingTime": 591,
+    "cumulativeLayoutShift": 0.00005514286548171496
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reverb",
+      "url": "http://reverb.com",
+      "originalURL": "reverb.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.64,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2425,
+    "speedIndex": 3639.1148443873017,
+    "largestContentfulPaint": 4731,
+    "timeToInteractive": 5501,
+    "totalBlockingTime": 628,
+    "cumulativeLayoutShift": 0.00005514286548171496
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reverb",
+      "url": "http://reverb.com",
+      "originalURL": "reverb.com"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.64,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2468,
+    "speedIndex": 3575.6834591984166,
+    "largestContentfulPaint": 4479.5,
+    "timeToInteractive": 5490.5,
+    "totalBlockingTime": 708,
+    "cumulativeLayoutShift": 0.00005514286548171496
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reverb",
+      "url": "http://reverb.com",
+      "originalURL": "reverb.com"
+    },
+    "performance": 0.2,
+    "progressiveWebApp": 0.64,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2422,
+    "speedIndex": 3920.3609965724186,
+    "largestContentfulPaint": 5186,
+    "timeToInteractive": 5837.5,
+    "totalBlockingTime": 605.5,
+    "cumulativeLayoutShift": 0.00005514286548171496
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "reverb",
+      "url": "http://reverb.com",
+      "originalURL": "reverb.com"
+    },
+    "performance": 0.17,
+    "progressiveWebApp": 0.64,
+    "seo": 0.92,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 2497,
+    "speedIndex": 3955.9302105922607,
+    "largestContentfulPaint": 5302,
+    "timeToInteractive": 6114,
+    "totalBlockingTime": 751.5,
+    "cumulativeLayoutShift": 0.00005514286548171496
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theforum365",
+      "url": "http://theforum365.com",
+      "originalURL": "theforum365.com"
+    },
+    "performance": 0.53,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 4650,
+    "largestContentfulPaint": 4950,
+    "timeToInteractive": 6962,
+    "totalBlockingTime": 462,
+    "cumulativeLayoutShift": 0.015125022888183593
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theforum365",
+      "url": "http://theforum365.com",
+      "originalURL": "theforum365.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 5172,
+    "speedIndex": 5172,
+    "largestContentfulPaint": 6484,
+    "timeToInteractive": 7083,
+    "totalBlockingTime": 371,
+    "cumulativeLayoutShift": 0.011509171379937068
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theforum365",
+      "url": "http://theforum365.com",
+      "originalURL": "theforum365.com"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4725,
+    "speedIndex": 4725,
+    "largestContentfulPaint": 5100,
+    "timeToInteractive": 6878.5,
+    "totalBlockingTime": 487,
+    "cumulativeLayoutShift": 0.007783063252766927
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theforum365",
+      "url": "http://theforum365.com",
+      "originalURL": "theforum365.com"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 4650,
+    "largestContentfulPaint": 6856.5,
+    "timeToInteractive": 6868.5,
+    "totalBlockingTime": 446,
+    "cumulativeLayoutShift": 0.24879968261718752
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "theforum365",
+      "url": "http://theforum365.com",
+      "originalURL": "theforum365.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.83,
+    "seo": 0.9,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 4650,
+    "largestContentfulPaint": 7012.5,
+    "timeToInteractive": 7027.5,
+    "totalBlockingTime": 470,
+    "cumulativeLayoutShift": 0.24879968261718752
+  }
+]

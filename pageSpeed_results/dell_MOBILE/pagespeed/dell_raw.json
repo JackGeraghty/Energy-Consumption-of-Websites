@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dell",
+      "url": "http://dell.com",
+      "originalURL": "dell.com"
+    },
+    "performance": 0.38,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3169,
+    "speedIndex": 5539.404779559702,
+    "largestContentfulPaint": 8561,
+    "timeToInteractive": 10633,
+    "totalBlockingTime": 688.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dell",
+      "url": "http://dell.com",
+      "originalURL": "dell.com"
+    },
+    "performance": 0.44,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3157,
+    "speedIndex": 4142.379903823699,
+    "largestContentfulPaint": 4725,
+    "timeToInteractive": 10742,
+    "totalBlockingTime": 961,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dell",
+      "url": "http://dell.com",
+      "originalURL": "dell.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3154,
+    "speedIndex": 4036.4349459579526,
+    "largestContentfulPaint": 4275,
+    "timeToInteractive": 10533,
+    "totalBlockingTime": 887.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dell",
+      "url": "http://dell.com",
+      "originalURL": "dell.com"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3172,
+    "speedIndex": 4045.4387139048786,
+    "largestContentfulPaint": 4275,
+    "timeToInteractive": 10542,
+    "totalBlockingTime": 905.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dell",
+      "url": "http://dell.com",
+      "originalURL": "dell.com"
+    },
+    "performance": 0.39,
+    "progressiveWebApp": 0.21,
+    "seo": 0.93,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 3181,
+    "speedIndex": 4016.7264037548675,
+    "largestContentfulPaint": 8861,
+    "timeToInteractive": 11650.5,
+    "totalBlockingTime": 779,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1045,
+    "speedIndex": 3084.117139129862,
+    "largestContentfulPaint": 5380,
+    "timeToInteractive": 5181.5,
+    "totalBlockingTime": 548,
+    "cumulativeLayoutShift": 1.8054520012841841
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1100,
+    "speedIndex": 2982.1326313761447,
+    "largestContentfulPaint": 6470,
+    "timeToInteractive": 3996.5,
+    "totalBlockingTime": 932,
+    "cumulativeLayoutShift": 0.20953630271721685
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "performance": 0.27,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1100,
+    "speedIndex": 3181.911557048216,
+    "largestContentfulPaint": 6485,
+    "timeToInteractive": 4343.5,
+    "totalBlockingTime": 1035.5,
+    "cumulativeLayoutShift": 0.36358711963342377
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "performance": 0.25,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1100,
+    "speedIndex": 3454.6122907454255,
+    "largestContentfulPaint": 6680,
+    "timeToInteractive": 4881,
+    "totalBlockingTime": 1045,
+    "cumulativeLayoutShift": 0.38240101684032335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "ea",
+      "url": "http://ea.com",
+      "originalURL": "ea.com"
+    },
+    "performance": 0.33,
+    "progressiveWebApp": 0.19,
+    "seo": 0.73,
+    "accessibility": 0.8,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1100,
+    "speedIndex": 2879.754331150173,
+    "largestContentfulPaint": 4488.5,
+    "timeToInteractive": 3978.5,
+    "totalBlockingTime": 812.5,
+    "cumulativeLayoutShift": 0.26809242739981903
+  }
+]

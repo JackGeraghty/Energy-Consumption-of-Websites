@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymail",
+      "url": "http://dailymail.co.uk",
+      "originalURL": "dailymail.co.uk"
+    },
+    "performance": 0.14,
+    "progressiveWebApp": 0.67,
+    "seo": 0.79,
+    "accessibility": 0.59,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5818,
+    "speedIndex": 7700.826449066496,
+    "largestContentfulPaint": 9928,
+    "timeToInteractive": 14398,
+    "totalBlockingTime": 1524.5,
+    "cumulativeLayoutShift": 0.08626550165812175
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymail",
+      "url": "http://dailymail.co.uk",
+      "originalURL": "dailymail.co.uk"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.67,
+    "seo": 0.79,
+    "accessibility": 0.59,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 6234,
+    "speedIndex": 8150.491391153582,
+    "largestContentfulPaint": 10359,
+    "timeToInteractive": 15271,
+    "totalBlockingTime": 2658.5,
+    "cumulativeLayoutShift": 0.08626550165812175
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymail",
+      "url": "http://dailymail.co.uk",
+      "originalURL": "dailymail.co.uk"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.67,
+    "seo": 0.79,
+    "accessibility": 0.59,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 6155,
+    "speedIndex": 7542.508662282446,
+    "largestContentfulPaint": 10190,
+    "timeToInteractive": 15296.5,
+    "totalBlockingTime": 2475.5,
+    "cumulativeLayoutShift": 0.08626550165812175
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymail",
+      "url": "http://dailymail.co.uk",
+      "originalURL": "dailymail.co.uk"
+    },
+    "performance": 0.13,
+    "progressiveWebApp": 0.67,
+    "seo": 0.79,
+    "accessibility": 0.59,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5911,
+    "speedIndex": 7607.932777098403,
+    "largestContentfulPaint": 9871,
+    "timeToInteractive": 14909,
+    "totalBlockingTime": 1795,
+    "cumulativeLayoutShift": 0.08626550165812175
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "dailymail",
+      "url": "http://dailymail.co.uk",
+      "originalURL": "dailymail.co.uk"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.67,
+    "seo": 0.79,
+    "accessibility": 0.59,
+    "bestPractices": 0.73,
+    "firstContentfulPaint": 5662,
+    "speedIndex": 7789.107766057814,
+    "largestContentfulPaint": 9772,
+    "timeToInteractive": 14331.5,
+    "totalBlockingTime": 1281.5,
+    "cumulativeLayoutShift": 0.08626550165812175
+  }
+]

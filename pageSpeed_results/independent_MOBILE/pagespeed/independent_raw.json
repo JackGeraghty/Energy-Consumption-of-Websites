@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "independent",
+      "url": "http://independent.co.uk",
+      "originalURL": "independent.co.uk"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.92,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.75,
+    "firstContentfulPaint": 3756,
+    "speedIndex": 12163.131020017243,
+    "largestContentfulPaint": 9660,
+    "timeToInteractive": 35911,
+    "totalBlockingTime": 4621.5,
+    "cumulativeLayoutShift": 0.6494278428819446
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "independent",
+      "url": "http://independent.co.uk",
+      "originalURL": "independent.co.uk"
+    },
+    "performance": 0.12,
+    "progressiveWebApp": 0.92,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.75,
+    "firstContentfulPaint": 3180,
+    "speedIndex": 13101.427116540894,
+    "largestContentfulPaint": 9720,
+    "timeToInteractive": 36369,
+    "totalBlockingTime": 3602.5,
+    "cumulativeLayoutShift": 0.6492120225694445
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "independent",
+      "url": "http://independent.co.uk",
+      "originalURL": "independent.co.uk"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.92,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.75,
+    "firstContentfulPaint": 3788,
+    "speedIndex": 13072.106444257655,
+    "largestContentfulPaint": 9735,
+    "timeToInteractive": 36498,
+    "totalBlockingTime": 4914,
+    "cumulativeLayoutShift": 0.3213028428819444
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "independent",
+      "url": "http://independent.co.uk",
+      "originalURL": "independent.co.uk"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.92,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.75,
+    "firstContentfulPaint": 3510,
+    "speedIndex": 14087.350948789377,
+    "largestContentfulPaint": 10360.5,
+    "timeToInteractive": 36256.5,
+    "totalBlockingTime": 4527,
+    "cumulativeLayoutShift": 0.6494278428819446
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "independent",
+      "url": "http://independent.co.uk",
+      "originalURL": "independent.co.uk"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.92,
+    "seo": 0.81,
+    "accessibility": 0.82,
+    "bestPractices": 0.75,
+    "firstContentfulPaint": 3958,
+    "speedIndex": 11290.32533398409,
+    "largestContentfulPaint": 9660,
+    "timeToInteractive": 36118,
+    "totalBlockingTime": 6177,
+    "cumulativeLayoutShift": 0.6494278428819446
+  }
+]

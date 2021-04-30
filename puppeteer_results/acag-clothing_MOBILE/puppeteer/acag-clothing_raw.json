@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "acag-clothing",
+      "url": "http://acag-clothing.myshopify.com",
+      "originalURL": "acag-clothing.myshopify.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 48196,
+    "decodedBodySize": 48196,
+    "transferSize": 49491,
+    "resourcesList": [
+      [
+        "https://acag-clothing.myshopify.com/",
+        49491,
+        48196,
+        48196,
+        0.046701
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "acag-clothing",
+      "url": "http://acag-clothing.myshopify.com",
+      "originalURL": "acag-clothing.myshopify.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 48196,
+    "decodedBodySize": 48196,
+    "transferSize": 49475,
+    "resourcesList": [
+      [
+        "https://acag-clothing.myshopify.com/",
+        49475,
+        48196,
+        48196,
+        0.055498
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "acag-clothing",
+      "url": "http://acag-clothing.myshopify.com",
+      "originalURL": "acag-clothing.myshopify.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 48196,
+    "decodedBodySize": 48196,
+    "transferSize": 49492,
+    "resourcesList": [
+      [
+        "https://acag-clothing.myshopify.com/",
+        49492,
+        48196,
+        48196,
+        0.04731
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "acag-clothing",
+      "url": "http://acag-clothing.myshopify.com",
+      "originalURL": "acag-clothing.myshopify.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 48196,
+    "decodedBodySize": 48196,
+    "transferSize": 49490,
+    "resourcesList": [
+      [
+        "https://acag-clothing.myshopify.com/",
+        49490,
+        48196,
+        48196,
+        0.056073
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "acag-clothing",
+      "url": "http://acag-clothing.myshopify.com",
+      "originalURL": "acag-clothing.myshopify.com"
+    },
+    "numTransferred": 3,
+    "encodedBodySize": 48196,
+    "decodedBodySize": 48196,
+    "transferSize": 49481,
+    "resourcesList": [
+      [
+        "https://acag-clothing.myshopify.com/",
+        49481,
+        48196,
+        48196,
+        0.057612
+      ]
+    ]
+  }
+]

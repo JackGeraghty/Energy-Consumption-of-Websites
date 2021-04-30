@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "myoplay",
+      "url": "http://myoplay.club",
+      "originalURL": "myoplay.club"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1848,
+    "speedIndex": 3204.519200982166,
+    "largestContentfulPaint": 3806.5,
+    "timeToInteractive": 4003,
+    "totalBlockingTime": 39.5,
+    "cumulativeLayoutShift": 1.1448576861337303
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "myoplay",
+      "url": "http://myoplay.club",
+      "originalURL": "myoplay.club"
+    },
+    "performance": 0.54,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1728.5,
+    "speedIndex": 2890.6104031612463,
+    "largestContentfulPaint": 3735,
+    "timeToInteractive": 2704.5,
+    "totalBlockingTime": 19.5,
+    "cumulativeLayoutShift": 1.1382769950091938
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "myoplay",
+      "url": "http://myoplay.club",
+      "originalURL": "myoplay.club"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1717,
+    "speedIndex": 2622.081910906413,
+    "largestContentfulPaint": 3798,
+    "timeToInteractive": 4006,
+    "totalBlockingTime": 22.5,
+    "cumulativeLayoutShift": 1.143180473980679
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "myoplay",
+      "url": "http://myoplay.club",
+      "originalURL": "myoplay.club"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1722,
+    "speedIndex": 2585.910303073175,
+    "largestContentfulPaint": 3818.5,
+    "timeToInteractive": 4019.5,
+    "totalBlockingTime": 45.5,
+    "cumulativeLayoutShift": 1.1777042775005109
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "myoplay",
+      "url": "http://myoplay.club",
+      "originalURL": "myoplay.club"
+    },
+    "performance": 0.51,
+    "progressiveWebApp": 0.22,
+    "seo": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 1718.5,
+    "speedIndex": 2740.0264207136006,
+    "largestContentfulPaint": 3776.5,
+    "timeToInteractive": 3955.5,
+    "totalBlockingTime": 21,
+    "cumulativeLayoutShift": 1.1777042775005109
+  }
+]

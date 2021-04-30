@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "polygon",
+      "url": "http://polygon.com",
+      "originalURL": "polygon.com"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6905.5,
+    "speedIndex": 16569.311113684063,
+    "largestContentfulPaint": 17190,
+    "timeToInteractive": 40977.00021934509,
+    "totalBlockingTime": 5590,
+    "cumulativeLayoutShift": 0.31388753255208335
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "polygon",
+      "url": "http://polygon.com",
+      "originalURL": "polygon.com"
+    },
+    "performance": 0.09,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3723,
+    "speedIndex": 14726.21099085256,
+    "largestContentfulPaint": 13501,
+    "timeToInteractive": 38043,
+    "totalBlockingTime": 5764,
+    "cumulativeLayoutShift": 0.6162801106770834
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "polygon",
+      "url": "http://polygon.com",
+      "originalURL": "polygon.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3717,
+    "speedIndex": 16397.28119206226,
+    "largestContentfulPaint": 14065.5,
+    "timeToInteractive": 38958.00021934509,
+    "totalBlockingTime": 5721,
+    "cumulativeLayoutShift": 0.31991509331597223
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "polygon",
+      "url": "http://polygon.com",
+      "originalURL": "polygon.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.25,
+    "seo": 0.83,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 3761,
+    "speedIndex": 16602.460496622094,
+    "largestContentfulPaint": 13541,
+    "timeToInteractive": 42965,
+    "totalBlockingTime": 7204.5,
+    "cumulativeLayoutShift": 0.313909912109375
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "polygon",
+      "url": "http://polygon.com",
+      "originalURL": "polygon.com"
+    },
+    "performance": 0.04,
+    "progressiveWebApp": 0.25,
+    "seo": 0.84,
+    "accessibility": 0.89,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6372,
+    "speedIndex": 14692.441204336837,
+    "largestContentfulPaint": 16140,
+    "timeToInteractive": 38276.00021934509,
+    "totalBlockingTime": 5093,
+    "cumulativeLayoutShift": 0.31388753255208335
+  }
+]

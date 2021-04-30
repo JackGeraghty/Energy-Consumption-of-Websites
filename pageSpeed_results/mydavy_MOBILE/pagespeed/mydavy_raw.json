@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mydavy",
+      "url": "http://mydavy.ie",
+      "originalURL": "mydavy.ie"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.54,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 3000,
+    "largestContentfulPaint": 3723.5,
+    "timeToInteractive": 3709,
+    "totalBlockingTime": 52,
+    "cumulativeLayoutShift": 0.007938517252604168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mydavy",
+      "url": "http://mydavy.ie",
+      "originalURL": "mydavy.ie"
+    },
+    "performance": 0.63,
+    "progressiveWebApp": 0.54,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 3000,
+    "largestContentfulPaint": 4230.5,
+    "timeToInteractive": 4569.5,
+    "totalBlockingTime": 728.5,
+    "cumulativeLayoutShift": 0.007938517252604168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mydavy",
+      "url": "http://mydavy.ie",
+      "originalURL": "mydavy.ie"
+    },
+    "performance": 0.82,
+    "progressiveWebApp": 0.54,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 3000,
+    "largestContentfulPaint": 3934.5,
+    "timeToInteractive": 3824.5,
+    "totalBlockingTime": 74.5,
+    "cumulativeLayoutShift": 0.007938517252604168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mydavy",
+      "url": "http://mydavy.ie",
+      "originalURL": "mydavy.ie"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.54,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 3000,
+    "largestContentfulPaint": 3516,
+    "timeToInteractive": 3681,
+    "totalBlockingTime": 38,
+    "cumulativeLayoutShift": 0.007938517252604168
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "mydavy",
+      "url": "http://mydavy.ie",
+      "originalURL": "mydavy.ie"
+    },
+    "performance": 0.83,
+    "progressiveWebApp": 0.54,
+    "seo": 0.83,
+    "accessibility": 0.84,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 3000,
+    "speedIndex": 3000,
+    "largestContentfulPaint": 3717,
+    "timeToInteractive": 3732,
+    "totalBlockingTime": 63.5,
+    "cumulativeLayoutShift": 0.007938517252604168
+  }
+]

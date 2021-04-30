@@ -1,0 +1,102 @@
+[
+  {
+    "urlData": {
+      "webpageName": "microsoftonline",
+      "url": "http://microsoftonline.com",
+      "originalURL": "microsoftonline.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://microsoftonline.com/",
+        1113,
+        934,
+        934,
+        0.049406
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "microsoftonline",
+      "url": "http://microsoftonline.com",
+      "originalURL": "microsoftonline.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://microsoftonline.com/",
+        1113,
+        934,
+        934,
+        0.049863
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "microsoftonline",
+      "url": "http://microsoftonline.com",
+      "originalURL": "microsoftonline.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://microsoftonline.com/",
+        1113,
+        934,
+        934,
+        0.049681
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "microsoftonline",
+      "url": "http://microsoftonline.com",
+      "originalURL": "microsoftonline.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://microsoftonline.com/",
+        1113,
+        934,
+        934,
+        0.053662
+      ]
+    ]
+  },
+  {
+    "urlData": {
+      "webpageName": "microsoftonline",
+      "url": "http://microsoftonline.com",
+      "originalURL": "microsoftonline.com"
+    },
+    "numTransferred": 1,
+    "encodedBodySize": 934,
+    "decodedBodySize": 934,
+    "transferSize": 1113,
+    "resourcesList": [
+      [
+        "http://microsoftonline.com/",
+        1113,
+        934,
+        934,
+        0.051308
+      ]
+    ]
+  }
+]

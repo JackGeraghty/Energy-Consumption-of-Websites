@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeedassessments",
+      "url": "http://indeedassessments.com",
+      "originalURL": "indeedassessments.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1281,
+    "speedIndex": 1600.2825024108606,
+    "largestContentfulPaint": 1885.5,
+    "timeToInteractive": 2080,
+    "totalBlockingTime": 38,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeedassessments",
+      "url": "http://indeedassessments.com",
+      "originalURL": "indeedassessments.com"
+    },
+    "performance": 0.86,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1265,
+    "speedIndex": 1265,
+    "largestContentfulPaint": 1870,
+    "timeToInteractive": 2082,
+    "totalBlockingTime": 28.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeedassessments",
+      "url": "http://indeedassessments.com",
+      "originalURL": "indeedassessments.com"
+    },
+    "performance": 0.85,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1260,
+    "speedIndex": 1323.9863250374044,
+    "largestContentfulPaint": 1890,
+    "timeToInteractive": 2189,
+    "totalBlockingTime": 50.5,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeedassessments",
+      "url": "http://indeedassessments.com",
+      "originalURL": "indeedassessments.com"
+    },
+    "performance": 0.84,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1292,
+    "speedIndex": 1309.347424965823,
+    "largestContentfulPaint": 1996,
+    "timeToInteractive": 2147,
+    "totalBlockingTime": 43,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "indeedassessments",
+      "url": "http://indeedassessments.com",
+      "originalURL": "indeedassessments.com"
+    },
+    "performance": 0.8,
+    "progressiveWebApp": 0.36,
+    "seo": 0.92,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "firstContentfulPaint": 1268,
+    "speedIndex": 1686.2220591868718,
+    "largestContentfulPaint": 2224,
+    "timeToInteractive": 2124,
+    "totalBlockingTime": 31.5,
+    "cumulativeLayoutShift": 0
+  }
+]

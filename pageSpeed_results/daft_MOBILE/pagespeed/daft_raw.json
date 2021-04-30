@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie",
+      "originalURL": "daft.ie"
+    },
+    "performance": 0.19,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 6593,
+    "speedIndex": 6693.127333132838,
+    "largestContentfulPaint": 8004,
+    "timeToInteractive": 12336,
+    "totalBlockingTime": 1079,
+    "cumulativeLayoutShift": 0.0024098307291666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie",
+      "originalURL": "daft.ie"
+    },
+    "performance": 0.24,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 5945.619109794606,
+    "largestContentfulPaint": 7809,
+    "timeToInteractive": 11979,
+    "totalBlockingTime": 1154.5,
+    "cumulativeLayoutShift": 0.0024098307291666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie",
+      "originalURL": "daft.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 5900.30683828202,
+    "largestContentfulPaint": 7605,
+    "timeToInteractive": 12980.5,
+    "totalBlockingTime": 1309.5,
+    "cumulativeLayoutShift": 0.0024098307291666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie",
+      "originalURL": "daft.ie"
+    },
+    "performance": 0.21,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 6091.692442927124,
+    "largestContentfulPaint": 6866,
+    "timeToInteractive": 12867,
+    "totalBlockingTime": 1903.5,
+    "cumulativeLayoutShift": 0.0024098307291666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "daft",
+      "url": "http://daft.ie",
+      "originalURL": "daft.ie"
+    },
+    "performance": 0.23,
+    "progressiveWebApp": 0.25,
+    "seo": 0.98,
+    "accessibility": 0.72,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 4650,
+    "speedIndex": 6026.752612016779,
+    "largestContentfulPaint": 7680,
+    "timeToInteractive": 12730,
+    "totalBlockingTime": 1292.5,
+    "cumulativeLayoutShift": 0.0024098307291666667
+  }
+]

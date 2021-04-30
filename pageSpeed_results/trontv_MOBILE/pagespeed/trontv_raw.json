@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trontv",
+      "url": "http://trontv.com",
+      "originalURL": "trontv.com"
+    },
+    "performance": 0.28,
+    "progressiveWebApp": 0.5,
+    "seo": 0.99,
+    "accessibility": null,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 2381,
+    "speedIndex": 6509.583091097831,
+    "largestContentfulPaint": 10219,
+    "timeToInteractive": 9624,
+    "totalBlockingTime": 1928,
+    "cumulativeLayoutShift": 0.19161858311564556
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trontv",
+      "url": "http://trontv.com",
+      "originalURL": "trontv.com"
+    },
+    "performance": 0.3,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": null,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1830,
+    "speedIndex": 5637.571972279731,
+    "largestContentfulPaint": 10133,
+    "timeToInteractive": 10208.5,
+    "totalBlockingTime": 3026,
+    "cumulativeLayoutShift": 0.19099498756726582
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trontv",
+      "url": "http://trontv.com",
+      "originalURL": "trontv.com"
+    },
+    "performance": 0.31,
+    "progressiveWebApp": 0.5,
+    "seo": 0.99,
+    "accessibility": null,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 1830,
+    "speedIndex": 5836.516768799538,
+    "largestContentfulPaint": 9615,
+    "timeToInteractive": 9134,
+    "totalBlockingTime": 1858.5,
+    "cumulativeLayoutShift": 0.1909751817161838
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trontv",
+      "url": "http://trontv.com",
+      "originalURL": "trontv.com"
+    },
+    "performance": 0.26,
+    "progressiveWebApp": 0.5,
+    "seo": 0.99,
+    "accessibility": null,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3507,
+    "speedIndex": 5605.197222223136,
+    "largestContentfulPaint": 10188,
+    "timeToInteractive": 9666,
+    "totalBlockingTime": 1950,
+    "cumulativeLayoutShift": 0.19098749321202435
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "trontv",
+      "url": "http://trontv.com",
+      "originalURL": "trontv.com"
+    },
+    "performance": 0.22,
+    "progressiveWebApp": 0.25,
+    "seo": 0.99,
+    "accessibility": null,
+    "bestPractices": 0.57,
+    "firstContentfulPaint": 3655,
+    "speedIndex": 6188.932881293104,
+    "largestContentfulPaint": 11133,
+    "timeToInteractive": 10758.5,
+    "totalBlockingTime": 3072.5,
+    "cumulativeLayoutShift": 0.19099498756726582
+  }
+]

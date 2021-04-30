@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.46,
+    "seo": 0.69,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1440,
+    "speedIndex": 1440,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1440,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.46,
+    "seo": 0.69,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1440,
+    "speedIndex": 1440,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1440,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.46,
+    "seo": 0.69,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1440,
+    "speedIndex": 1440,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1440,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.46,
+    "seo": 0.69,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1440,
+    "speedIndex": 1440,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1440,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "bitbuzz",
+      "url": "http://bitbuzz.net",
+      "originalURL": "bitbuzz.net"
+    },
+    "performance": 1,
+    "progressiveWebApp": 0.46,
+    "seo": 0.69,
+    "accessibility": 0.67,
+    "bestPractices": 0.86,
+    "firstContentfulPaint": 1440,
+    "speedIndex": 1440,
+    "largestContentfulPaint": 1440,
+    "timeToInteractive": 1440,
+    "totalBlockingTime": 0,
+    "cumulativeLayoutShift": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boards",
+      "url": "http://boards.ie",
+      "originalURL": "boards.ie"
+    },
+    "performance": 0.45,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5108.5,
+    "speedIndex": 5605.382543936527,
+    "largestContentfulPaint": 5774,
+    "timeToInteractive": 8832,
+    "totalBlockingTime": 412.5,
+    "cumulativeLayoutShift": 0.00025302463107638887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boards",
+      "url": "http://boards.ie",
+      "originalURL": "boards.ie"
+    },
+    "performance": 0.47,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5098.5,
+    "speedIndex": 5388.666196261848,
+    "largestContentfulPaint": 5921,
+    "timeToInteractive": 8768,
+    "totalBlockingTime": 356,
+    "cumulativeLayoutShift": 0.00025302463107638887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boards",
+      "url": "http://boards.ie",
+      "originalURL": "boards.ie"
+    },
+    "performance": 0.46,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5111,
+    "speedIndex": 5556.467920706038,
+    "largestContentfulPaint": 5921,
+    "timeToInteractive": 8789,
+    "totalBlockingTime": 380.5,
+    "cumulativeLayoutShift": 0.00025302463107638887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boards",
+      "url": "http://boards.ie",
+      "originalURL": "boards.ie"
+    },
+    "performance": 0.5,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5085.5,
+    "speedIndex": 5085.5,
+    "largestContentfulPaint": 5895,
+    "timeToInteractive": 8442.5,
+    "totalBlockingTime": 296,
+    "cumulativeLayoutShift": 0.00025302463107638887
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "boards",
+      "url": "http://boards.ie",
+      "originalURL": "boards.ie"
+    },
+    "performance": 0.48,
+    "progressiveWebApp": 0.5,
+    "seo": 0.77,
+    "accessibility": 0.94,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 5128.5,
+    "speedIndex": 5128.5,
+    "largestContentfulPaint": 5915.5,
+    "timeToInteractive": 8690.5,
+    "totalBlockingTime": 359,
+    "cumulativeLayoutShift": 0.00025302463107638887
+  }
+]

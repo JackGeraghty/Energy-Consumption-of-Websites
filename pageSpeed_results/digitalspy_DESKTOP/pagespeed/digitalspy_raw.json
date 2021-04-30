@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digitalspy",
+      "url": "http://digitalspy.com",
+      "originalURL": "digitalspy.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 829.0421643034786,
+    "speedIndex": 1184.076227623052,
+    "largestContentfulPaint": 1110,
+    "timeToInteractive": 1406.5291239759536,
+    "totalBlockingTime": 62.47087602404633,
+    "cumulativeLayoutShift": 0.012230832092928232
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digitalspy",
+      "url": "http://digitalspy.com",
+      "originalURL": "digitalspy.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 828.6911642219973,
+    "speedIndex": 1120.0225121468966,
+    "largestContentfulPaint": 1110,
+    "timeToInteractive": 1992,
+    "totalBlockingTime": 49.999999999999886,
+    "cumulativeLayoutShift": 0.012230832092928232
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digitalspy",
+      "url": "http://digitalspy.com",
+      "originalURL": "digitalspy.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 830.0201642454109,
+    "speedIndex": 1124.4347347264948,
+    "largestContentfulPaint": 1090,
+    "timeToInteractive": 1362.0000000000002,
+    "totalBlockingTime": 36.5,
+    "cumulativeLayoutShift": 0.012230832092928232
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digitalspy",
+      "url": "http://digitalspy.com",
+      "originalURL": "digitalspy.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 829.4447607611683,
+    "speedIndex": 1106.335061659806,
+    "largestContentfulPaint": 1090,
+    "timeToInteractive": 1360.0000000000002,
+    "totalBlockingTime": 35.5,
+    "cumulativeLayoutShift": 0.012230832092928232
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "digitalspy",
+      "url": "http://digitalspy.com",
+      "originalURL": "digitalspy.com"
+    },
+    "performance": 0.96,
+    "progressiveWebApp": 0.44,
+    "seo": 1,
+    "accessibility": 0.98,
+    "bestPractices": 0.79,
+    "firstContentfulPaint": 865.0757390953884,
+    "speedIndex": 1065.9483675529495,
+    "largestContentfulPaint": 1130,
+    "timeToInteractive": 1309.5,
+    "totalBlockingTime": 31,
+    "cumulativeLayoutShift": 0.012230832092928232
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "playstation",
+      "url": "http://playstation.com",
+      "originalURL": "playstation.com"
+    },
+    "performance": 0.15,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 4734,
+    "speedIndex": 7617.828891243616,
+    "largestContentfulPaint": 14760,
+    "timeToInteractive": 16314.5,
+    "totalBlockingTime": 2521.5,
+    "cumulativeLayoutShift": 0.0009062499999999999
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "playstation",
+      "url": "http://playstation.com",
+      "originalURL": "playstation.com"
+    },
+    "performance": 0.1,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5517,
+    "speedIndex": 10329.780747660312,
+    "largestContentfulPaint": 14210,
+    "timeToInteractive": 17222.5,
+    "totalBlockingTime": 3470.5,
+    "cumulativeLayoutShift": 0.0011088595920138889
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "playstation",
+      "url": "http://playstation.com",
+      "originalURL": "playstation.com"
+    },
+    "performance": 0.08,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 6327,
+    "speedIndex": 11997.208737600698,
+    "largestContentfulPaint": 13940.5,
+    "timeToInteractive": 19750,
+    "totalBlockingTime": 6783.5,
+    "cumulativeLayoutShift": 0.0011139322916666667
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "playstation",
+      "url": "http://playstation.com",
+      "originalURL": "playstation.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5539,
+    "speedIndex": 9339.518558438973,
+    "largestContentfulPaint": 16549,
+    "timeToInteractive": 18472.5,
+    "totalBlockingTime": 2731,
+    "cumulativeLayoutShift": 0.0019414198133680554
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "playstation",
+      "url": "http://playstation.com",
+      "originalURL": "playstation.com"
+    },
+    "performance": 0.11,
+    "progressiveWebApp": 0.21,
+    "seo": 0.76,
+    "accessibility": 0.77,
+    "bestPractices": 0.71,
+    "firstContentfulPaint": 5485,
+    "speedIndex": 9126.536605305888,
+    "largestContentfulPaint": 15267.5,
+    "timeToInteractive": 17835.5,
+    "totalBlockingTime": 2946.5,
+    "cumulativeLayoutShift": 0.0008459065755208334
+  }
+]

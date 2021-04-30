@@ -1,0 +1,97 @@
+[
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbahdreplay",
+      "url": "http://nbahdreplay.com",
+      "originalURL": "nbahdreplay.com"
+    },
+    "performance": 0.37,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 4029,
+    "speedIndex": 7124.171608559165,
+    "largestContentfulPaint": 13680,
+    "timeToInteractive": 17102.5,
+    "totalBlockingTime": 384.5,
+    "cumulativeLayoutShift": 0.025439453125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbahdreplay",
+      "url": "http://nbahdreplay.com",
+      "originalURL": "nbahdreplay.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3989,
+    "speedIndex": 6899.790510576855,
+    "largestContentfulPaint": 13080,
+    "timeToInteractive": 17105.5,
+    "totalBlockingTime": 319,
+    "cumulativeLayoutShift": 0.0228955078125
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbahdreplay",
+      "url": "http://nbahdreplay.com",
+      "originalURL": "nbahdreplay.com"
+    },
+    "performance": 0.4,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3991.5,
+    "speedIndex": 7135.669841205322,
+    "largestContentfulPaint": 13380,
+    "timeToInteractive": 17024.5,
+    "totalBlockingTime": 308.5,
+    "cumulativeLayoutShift": 0.024281412760416666
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbahdreplay",
+      "url": "http://nbahdreplay.com",
+      "originalURL": "nbahdreplay.com"
+    },
+    "performance": 0.41,
+    "progressiveWebApp": 0.25,
+    "seo": 1,
+    "accessibility": 0.91,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3985,
+    "speedIndex": 7107.903123353048,
+    "largestContentfulPaint": 13920,
+    "timeToInteractive": 17098,
+    "totalBlockingTime": 278.5,
+    "cumulativeLayoutShift": 0.02175142415364583
+  },
+  {
+    "isComplete": true,
+    "urlData": {
+      "webpageName": "nbahdreplay",
+      "url": "http://nbahdreplay.com",
+      "originalURL": "nbahdreplay.com"
+    },
+    "performance": 0.56,
+    "progressiveWebApp": 0.5,
+    "seo": 1,
+    "accessibility": 0.93,
+    "bestPractices": 0.64,
+    "firstContentfulPaint": 3633,
+    "speedIndex": 6267.057196108864,
+    "largestContentfulPaint": 13620,
+    "timeToInteractive": 5284,
+    "totalBlockingTime": 44,
+    "cumulativeLayoutShift": 0.024281412760416666
+  }
+]
