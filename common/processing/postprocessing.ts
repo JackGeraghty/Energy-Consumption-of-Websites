@@ -3,9 +3,12 @@ import {AggregatedPuppeteerResult} from "../model/aggregatedPuppeteerResult";
 import {AggregatedPagespeedResult} from "../model/aggregatedPagespeedResult";
 import {PageSpeedResult} from "../model/pageSpeedResult";
 import {buildMapResult} from "../stats";
-import {PapillonResult} from "../model/papillonResult";
-import {AggregatedPapillonResult} from "../model/aggregatedPapillonResult";
 
+// Postprocessing for Puppeteer results
+// Takes in an array of results, filters out 0.0 values and then calculates the mean, variance and standard deviation of
+// the results array
+
+// Returns the stats in the for of a map/JavaScript object
 export async function postprocessPuppeteer(results: Array<PuppeteerResult>): Promise<AggregatedPuppeteerResult> {
     let transferSizeStats = buildMapResult(results.map(res => res.transferSize).filter(r => r > 0.0));
     let decodedSizeStats = buildMapResult(results.map(res => res.decodedBodySize).filter(r => r > 0.0));
@@ -14,6 +17,11 @@ export async function postprocessPuppeteer(results: Array<PuppeteerResult>): Pro
     return new AggregatedPuppeteerResult(results.length, transferSizeStats, decodedSizeStats, encodedSizeStats, resourcesTransferredStats);
 }
 
+// Postprocessing for PageSpeed results
+// Takes in an array of results, filters out 0.0 values and then calculates the mean, variance and standard deviation of
+// the results array
+
+// Returns the stats in the for of a map/JavaScript object
 export async function postprocessPageSpeed(results: Array<PageSpeedResult>): Promise<AggregatedPagespeedResult> {
     let performanceStats = buildMapResult(results.map(res => res.performance));
     let pwaStats = buildMapResult(results.map(res => res.progressiveWebApp));

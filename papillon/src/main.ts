@@ -30,13 +30,15 @@ main().then(() => {
 });
 
 async function main() {
+    // Create the necessary directories
     if (!fs.existsSync("results/")) fs.mkdirSync("results/");
     if (!fs.existsSync(`results/${args.category}`)) fs.mkdirSync(`results/${args.category}`);
+    // parameters passed to the Papillon constructor are taken from the Papillon UI.
     const papillon: Papillon = new Papillon("267", "291", "294", "284", false);
 
     console.log(`Starting measurement for ${args.webpageName}`);
 
-    const sTime = Math.floor(Date.now() / 1000);
+    const sTime = Math.floor(Date.now() / 1000) - 10;
 
     console.log(`Start time: ${sTime}`)
     console.log('Allowing for 10 minute measurement period');

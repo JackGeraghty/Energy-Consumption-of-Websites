@@ -18,3 +18,4 @@ pagespeed/resources/complete.json
 pagespeed/resources/failed.json
 node_modules
 papillon/results
+.ipynb_checkpoints

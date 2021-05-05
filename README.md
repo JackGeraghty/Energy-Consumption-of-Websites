@@ -4,17 +4,13 @@ The first thing to install is NodeJS (https://nodejs.org/en/download/), installa
 
 
 
-ECOW uses the Node Package Manager(npm) system for handling packages. To install the required packages for each component, the ``npm install`` command needs to be run. This should install all the necessary packages.
-
-
+ECOW uses the Node Package Manager(npm) system for handling packages. To install the required packages for each component, the ``npm install`` command needs to be run from the root folder of each component, ``pagespeed/``, ``puppeteer/`` and ``papillon``/ . This should install all the necessary packages.
 
 ECOW is written in TypeScript. TypeScript can be installed using npm as follows: ``npm install typescript``
 
-
-
 Each of the components must first be compiled using TypeScript. Inside the root folder of each component(e.g. ecow/Energy-Consumption-of-Websites/puppeteer/) execute the following command, ``tsc`` .  This will compile the TypeScript code to JavaScript, which can then be run using Node.
 
-
+To run the PageSpeed component, an API key needs to be generated from a Google Developer account(https://console.cloud.google.com/). Once the PageSpeed API is enabled for the account, a key can be generated. This key needs to be placed in a file named ``pagespeed_api_key.txt``,  the ``resources/apis`` folder, example: ``pagespeed/resources/apis/pagespeed_api_key.txt``
 
 Each component uses the same structure for a build directory, ``build/src/<component_name>/``. From the root folder of each component, it can be executed by the following command: ``node build/src/<component_name>/main.js <args>``. The arguments for each of the components are described in the next section.
 
